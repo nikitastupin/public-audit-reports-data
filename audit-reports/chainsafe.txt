@@ -1,0 +1,17 @@
+https://raw.githubusercontent.com/ChainSafe/audits/main/1inch/1inch-11-2022.pdf
+https://raw.githubusercontent.com/ChainSafe/audits/main/Beamer/beamer-01-2023.pdf
+https://raw.githubusercontent.com/ChainSafe/audits/main/Connext/connext-12-2020.pdf
+https://raw.githubusercontent.com/ChainSafe/audits/main/EPNS/epns-protocol-03-2021.pdf
+https://raw.githubusercontent.com/ChainSafe/audits/main/EPNS/epns-protocol-10-2021.pdf
+https://raw.githubusercontent.com/ChainSafe/audits/main/EPNS/epns-protocol-11-2022.pdf
+https://raw.githubusercontent.com/ChainSafe/audits/main/Element%20Finance/element-finance-10-2021.pdf
+https://raw.githubusercontent.com/ChainSafe/audits/main/Exactly%20Finance/exactly-finance-05-2022.pdf
+https://raw.githubusercontent.com/ChainSafe/audits/main/Exactly%20Protocol/exactly-finance-05-2022.pdf
+https://raw.githubusercontent.com/ChainSafe/audits/main/Exactly%20Protocol/exactly-protocol-10-2022.pdf
+https://raw.githubusercontent.com/ChainSafe/audits/main/GSN/opengsn-03-2021.pdf
+https://raw.githubusercontent.com/ChainSafe/audits/main/NIFTYKIT/niftykit-v2-08-2022.pdf
+https://raw.githubusercontent.com/ChainSafe/audits/main/Ribbon%20Finance/RibbonV2-July-2021.pdf
+https://raw.githubusercontent.com/ChainSafe/audits/main/Ribbon%20Finance/ribbon-finance-04-2021.pdf
+https://raw.githubusercontent.com/ChainSafe/audits/main/Ribbon%20Finance/ribbon-finance-11-2021.pdf
+https://raw.githubusercontent.com/ChainSafe/audits/main/The%20Graph/thegraph-04-2021.pdf
+https://raw.githubusercontent.com/ChainSafe/audits/main/Zenon%20Network/zenon-05-2023.pdf
