@@ -1,0 +1,13 @@
+https://raw.githubusercontent.com/Decurity/audits/master/1inch/1inch-farming-audit-report-1.0.pdf
+https://raw.githubusercontent.com/Decurity/audits/master/1inch/1inch-fusion-mode-audit-report-1.1.pdf
+https://raw.githubusercontent.com/Decurity/audits/master/1inch/1inch-fusion-mode-audit-report-2.1.pdf
+https://raw.githubusercontent.com/Decurity/audits/master/EastFinance/east-finance-audit-report-1.0.pdf
+https://raw.githubusercontent.com/Decurity/audits/master/MonkeyKingdom/monkeykingdom-security-audit-report-1.0.pdf
+https://raw.githubusercontent.com/Decurity/audits/master/OracleDAO/oracle-dao-security-audit-report-1.0.pdf
+https://raw.githubusercontent.com/Decurity/audits/master/Symbiosis/symbiosis-finance-frontend-audit-report-1.1.pdf
+https://raw.githubusercontent.com/Decurity/audits/master/Symbiosis/symbiosis-finance-relayers-audit-report-1.1.pdf
+https://raw.githubusercontent.com/Decurity/audits/master/TON/ton-verification-report-1.1.pdf
+https://raw.githubusercontent.com/Decurity/audits/master/TethysFinance/tethys-finance-security-audit-report-1.0.pdf
+https://raw.githubusercontent.com/Decurity/audits/master/ThalesMarket/thales-market-liquidity-pool-audit-report-1.1.pdf
+https://raw.githubusercontent.com/Decurity/audits/master/Tokenlon/tokenlon-limit-order-audit-report-1.1.pdf
+https://raw.githubusercontent.com/Decurity/audits/master/Yearn/yearn-univ3stablesjoint-audit-report-1.0.pdf
