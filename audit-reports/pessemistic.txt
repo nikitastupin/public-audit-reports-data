@@ -67,6 +67,7 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/Sovryn%20Security%2
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Spiral%20DAO%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/StablePlaza%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/StakeWise%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Starton%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/StonkLeague%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Superdao%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Swarm%20Markets%20Nifty%20Minter%20Security%20Analysis%20by%20Pessimistic.pdf

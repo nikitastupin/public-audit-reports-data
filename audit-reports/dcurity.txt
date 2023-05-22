@@ -11,3 +11,4 @@ https://raw.githubusercontent.com/Decurity/audits/master/TethysFinance/tethys-fi
 https://raw.githubusercontent.com/Decurity/audits/master/ThalesMarket/thales-market-liquidity-pool-audit-report-1.1.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/Tokenlon/tokenlon-limit-order-audit-report-1.1.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/Yearn/yearn-univ3stablesjoint-audit-report-1.0.pdf
+https://raw.githubusercontent.com/Decurity/audits/master/zkBob/zkbob-contracts-cdp-audit-report-1.1.pdf

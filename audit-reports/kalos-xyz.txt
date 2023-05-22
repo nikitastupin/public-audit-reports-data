@@ -18,3 +18,4 @@ https://raw.githubusercontent.com/kalos-xyz/Publications/main/audit-reports-engl
 https://raw.githubusercontent.com/kalos-xyz/Publications/main/audit-reports-english/%5BHAECHI%20AUDIT%5D%20Yeti%20Finance%20Smart%20Contract%20Audit%20Report.pdf
 https://raw.githubusercontent.com/kalos-xyz/Publications/main/audit-reports-english/%5BKALOS%5D%20DFX%20Finance%20v2%20Audit%20Report.pdf
 https://raw.githubusercontent.com/kalos-xyz/Publications/main/audit-reports-english/%5BKALOS%5D%20Rodeo%20Finance%20Audit%20Report.pdf
+https://raw.githubusercontent.com/kalos-xyz/Publications/main/audit-reports-english/%5BKALOS%5D%20StableComp%20Audit%20Report%20v1.1%20(ENG).pdf
