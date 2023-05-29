@@ -31,6 +31,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/master/BrainTrust/A
 https://raw.githubusercontent.com/oak-security/audit-reports/master/BrainTrust/Audit%20Report%20-%20BrainTrust%20Application.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/C2X/2022-05-09%20Audit%20Report%20-%20C2X%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/CW20%20Blocklist/2022-05-25%20Audit%20Report%20-%20CW20%20Blocklist%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/master/Calculated%20Finance/2023-05-23%20Audit%20Report%20-%20Calculated%20Finance%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Celer/2022-05-14%20Audit%20Report%20-%20Celer%20cBridge%20Flow%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Comdex/2022-10-28%20Audit%20Report%20-%20Comdex%20Locking%20and%20Vesting%20Contracts%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Comdex/2022-11-23%20Audit%20Report%20-%20Comdex%20Lend%20and%20Liquidation%20Modules%20v1.0.pdf

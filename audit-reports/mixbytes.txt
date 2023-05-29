@@ -17,6 +17,8 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Abyss%20Finance/
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Abyss%20Finance/Abyss%20LockUp/AbyssLockup%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Akropolis/Token/Akropolis%20Token%20Smart%20Contract%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Akropolis/Vesting/Akropolis%20Vesting%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Algebra%20Finance/Farmings/Algebra%20Farmings%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Algebra%20Finance/Periphery/Algebra%20Periphery%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Aragon/Open%20Enterprise/Aragon%20Open%20Enterprise%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Aragon/Voting%20Connectors/Aragon%20Voting%20Connectors%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/B-Cube/B-Cube%20ICO%20Security%20Audit%20Report.pdf

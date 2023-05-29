@@ -64,7 +64,6 @@ https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/Axion_Network_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/BSCEX_Launchpadx_SmartContract_Report_Halborn_v1.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/BSCEX_Launchpoolx_SmartContract_Report_Halborn_v1.pdf
-https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/BWarelabs_Staking_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/Bancor_smartcontract_halborn_report_V1.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/Base_Protocol_Cascade_Halborn_Report_V1.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/Base_Protocol_halborn_report_V2.pdf
@@ -84,6 +83,7 @@ https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/Bracket_fi_BracketX_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/Bracket_fi_Channels_and_EpochChannels_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/BubbleSwap_Concentrated_Liquidity_Pool_AMM_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf
+https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/Bware_Labs_Staking_Protocol_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/CentaurSwap_Smart_Contract_Security_Audit_Halborn_v1_1.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/CentaurSwap_Timelock_Smart_Contract_Security_Audit_v1_1.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/Cere_Bridge_Smart_Contract_Security_Audit_Solidity_Report_Halborn_Final.pdf
