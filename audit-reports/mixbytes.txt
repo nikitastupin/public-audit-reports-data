@@ -39,7 +39,8 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Defi%20Starter/D
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Empower%20the%20DAO/Empower%20the%20DAO%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Enso%20Finance/Enso%20Wallet/Enso%20Wallet%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Enso%20Finance/Weiroll/Weiroll%20Security%20Audit%20Report.pdf
-https://raw.githubusercontent.com/mixbytes/audits_public/master/Fantium/Fantium%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Fantium/Fantium%20v2/Fantium%20v2%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Fantium/Fantium/Fantium%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/GearBox%20Protocol/GearBox%20Protocol%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Iron%20Bank/IronBank%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Keep3r.Network/keep3r%20Staking%20Rewards%20Security%20Audit%20Report.pdf

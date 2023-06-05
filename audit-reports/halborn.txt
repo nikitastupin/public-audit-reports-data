@@ -194,7 +194,7 @@ https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Substrate
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Substrate%20Audits/Reef_Chain_Substrate_Security_Audit_Report_Halborn_v1_1.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Tezos%20Smart%20Contact%20Audits/Tezos_Oropocket_Smart_Contract_Final_Report_v1.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Web%20Pentest/Debridge_solana_tx_parser_Whitebox_Pentest_Report_Halborn_Final.pdf
-https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Web%20Pentest/HbarSuite_Backend_Penetration_Test_Report_Halborn_Final.pdf
+https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Web%20Pentest/HBarSuite_WebApp_SmartNode_FrontEnd_BackEnd_Pentest_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Web%20Pentest/Playground_Labs_Kapital_DAO_Guild_Service_Browser_Extension_Pentest_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Web%20Pentest/Pontem_Network_Aptos_Wallet_WebApp_Pentest_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Web%20Pentest/Seascape_Minigames_Web_Pentest_Report_Halborn_Final.pdf
