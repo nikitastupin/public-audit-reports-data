@@ -91,6 +91,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/master/OnePlanet/Au
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Persistence/2022-01-20%20Audit%20Report%20-%20Persistence%20Bridge%20-%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Persistence/2023-02-17%20Audit%20Report%20-%20pSTAKE%20Native%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Phase/2023-04-13%20Audit%20Report%20-%20Phase%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/master/Polytone/2023-06-05%20Audit%20Report%20-%20Polytone%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Prism/2022-01-20%20Audit%20Report%20-%20Prism%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Prism/2022-11-04%20Audit%20Report%20-%20Prism%20Auto%20Compounding%20cAsset%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Public%20Awesome/2023-01-27%20Audit%20Report%20-%20ICS721%20v1.0.pdf
