@@ -16,6 +16,6 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/Reliquary_Audit.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/UltiBets/UltiBets_Audit_1.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/UltiBets/UltiBets_Audit_2.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/UltimateFantoms_Audit.pdf
-https://raw.githubusercontent.com/GuardianAudits/SolidityLabAudits/main/raisin/Raisin_Audit_Team1.pdf
-https://raw.githubusercontent.com/GuardianAudits/SolidityLabAudits/main/raisin/Raisin_Audit_Team2.pdf
-https://raw.githubusercontent.com/GuardianAudits/SolidityLabAudits/main/raisin/Raisin_Audit_Team3.pdf
+https://raw.githubusercontent.com/GuardianAudits/DefenderAudits/main/raisin/Raisin_Audit_Team1.pdf
+https://raw.githubusercontent.com/GuardianAudits/DefenderAudits/main/raisin/Raisin_Audit_Team2.pdf
+https://raw.githubusercontent.com/GuardianAudits/DefenderAudits/main/raisin/Raisin_Audit_Team3.pdf

@@ -12,6 +12,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/master/Aperture/202
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Apollo/2021-08-18%20Audit%20Report%20-%20Apollo.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Apollo/2022-03-17%20Audit%20Report%20-%20Apollo%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Apollo/2023-01-17%20Audit%20Report%20-%20Apollo%20DAO%203%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/master/Archway/2023-06-05%20Audit%20Report%20-%20Archway%20Rewards%20Module%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Astroport/2021-12-23%20Audit%20Report%20-%20Astroport%20Periphery%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Astroport/2022-01-20%20Audit%20Report%20-%20Astroport%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Astroport/2022-03-15%20Audit%20Report%20-%20Astroport%20Governance%20v1.0.pdf
@@ -86,6 +87,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/master/Neutron/2022
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Noble/2023-03-13%20Audit%20Report%20-%20Noble%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Nolus/2022-12-12%20Audit%20Report%20-%20Nolus%20Core%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Nolus/2023-01-27%20Audit%20Report%20-%20Nolus%20Money%20Market%20v1.1.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/master/Nym/Audit%20Report%20-%20Nym%20Wallet.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Olympus%20Pro/2022-03-21%20Audit%20Report%20-%20Olympus%20Pro%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/OnePlanet/Audit%20Report%20-%20One%20Planet.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Persistence/2022-01-20%20Audit%20Report%20-%20Persistence%20Bridge%20-%20v1.0.pdf
