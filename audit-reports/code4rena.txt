@@ -202,5 +202,6 @@ https://code4rena.com/reports/2023-03-canto-identity
 https://code4rena.com/reports/2023-03-mute
 https://code4rena.com/reports/2023-03-neotokyo
 https://code4rena.com/reports/2023-03-wenwin
+https://code4rena.com/reports/2023-03-zksync
 https://code4rena.com/reports/2023-04-caviar
 https://code4rena.com/reports/2023-04-frankencoin

@@ -2,3 +2,4 @@ https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2023-
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2023-03-13-beanstalk_wells_v0.1.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2023-04-11-cyfrin-hyperliquid-dex-report.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2023-06-01-sudoswap-report.pdf
+https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2023-06-16-cyfrin-beanstalk-wells.pdf

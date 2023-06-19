@@ -12,6 +12,7 @@ https://raw.githubusercontent.com/sigp/public-audits/master/infinigold/review-2.
 https://raw.githubusercontent.com/sigp/public-audits/master/infinigold/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/skrilla/reference-material/Token%20Sale%20Particulars.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/status/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/swell/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/synthetix/delegates/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/synthetix/ethercollateral/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/synthetix/multicurrency/review.pdf
