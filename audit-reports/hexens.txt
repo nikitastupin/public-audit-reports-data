@@ -2,6 +2,7 @@ https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/ma
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/1inch_FusionMode_Hexens.2.pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/API3_public.pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/Algebra_public_11_08.pdf
+https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/Astrolab_%20April23_Audit(Public)_upd.pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/Azuro_public.pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/Babylon-jan-2023.pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/FastToken_public.pdf

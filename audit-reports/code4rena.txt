@@ -197,6 +197,7 @@ https://code4rena.com/reports/2023-01-rabbithole
 https://code4rena.com/reports/2023-01-reserve
 https://code4rena.com/reports/2023-01-timeswap
 https://code4rena.com/reports/2023-02-ethos
+https://code4rena.com/reports/2023-02-kuma
 https://code4rena.com/reports/2023-02-malt
 https://code4rena.com/reports/2023-03-canto-identity
 https://code4rena.com/reports/2023-03-mute
@@ -205,3 +206,5 @@ https://code4rena.com/reports/2023-03-wenwin
 https://code4rena.com/reports/2023-03-zksync
 https://code4rena.com/reports/2023-04-caviar
 https://code4rena.com/reports/2023-04-frankencoin
+https://code4rena.com/reports/2023-04-party
+https://code4rena.com/reports/2023-05-party

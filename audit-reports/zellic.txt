@@ -7,6 +7,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Bond%20Protocol%20-
 https://raw.githubusercontent.com/Zellic/publications/master/BrahmaFi%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Cega%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Cega%20Vault%20Smart%20Contract%20Patch%20Review.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Cosmos%20SDK%20Sign%20Mode%20Textual%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/DFYN%20RFQ%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Drift%20Protocol%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Econia%20-%20Zellic%20Audit%20Report.pdf

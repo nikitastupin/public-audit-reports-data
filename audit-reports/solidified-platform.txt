@@ -86,6 +86,7 @@ https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Repo
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Gath3r%20%5B08.07.2021%5D.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Gnosis%20DX%20%5B03.29.18%5D.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Golem%20GNT%20Desposit%20%5B02.08.2019%5D%20(2).pdf
+https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Grease%20Monkey.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Guild%20Of%20Guardians%20%5B13.04.2021%5D.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Guild%20Of%20Guardians%20%5B20.04.2021%5D.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Guild%20Of%20Guardians%20%5B31.03.2021%5D.pdf

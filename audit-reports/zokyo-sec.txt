@@ -11,8 +11,10 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/DPEX/DPEX_Zokyo%2
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/DPNMDEFI/DPNMDEFI_Zokyoauditreport_14March_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Ethlas/Ethlas_Zokyo_audit_report_26th_April_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/FNDZ/FNDZ_Zokyo%20audit%20report.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Fluxfire/Fluxfire_Zokyo_audit_report_June5_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/FoxYieldy/FOX%20Yieldy%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Fractal/Fractal_Zokyo%20audit%20report.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/GAIN/Gain_Ai_Zokyo_audit_report_May29th_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/GAIN/Gain_Zokyo_audit_report_6thFeb_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Global%20Interlink%20(GIL)/Global%20Interlink%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Gumball/Gumball_Zokyo%20audit%20report.pdf

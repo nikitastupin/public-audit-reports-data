@@ -6,6 +6,8 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/1inch%20MerkleDrop%
 https://raw.githubusercontent.com/pessimistic-io/audits/main/A2DAO%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/ARTM%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Aquaris%20Token%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Azuro%20V1%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Azuro%20V2%20BetExpress%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Azuro%20V2%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Babylon%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Beam%20DAO%20Security%20Analysis%20by%20Pessimistic.pdf
@@ -29,6 +31,7 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/GGMT%20ERC20%20Secu
 https://raw.githubusercontent.com/pessimistic-io/audits/main/GYSR%20Security%20Audit%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Holyheld%20Security%20Audit%20Report%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/IQ%20Protocol%20V2%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/IQ%20Token%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Impossible%20Finance%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Jupiter%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/KickToken%20Security%20Analysis%20by%20Pessimistic.pdf
