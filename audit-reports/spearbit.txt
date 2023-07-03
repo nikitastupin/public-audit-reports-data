@@ -23,6 +23,7 @@ https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/OptimismDrippie
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Overlay-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Paladin-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Porter-Spearbit-Security-Review.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Primitive-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Seadrop-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Seaport-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Sense-Spearbit-Security-Review.pdf

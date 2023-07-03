@@ -207,4 +207,5 @@ https://code4rena.com/reports/2023-03-zksync
 https://code4rena.com/reports/2023-04-caviar
 https://code4rena.com/reports/2023-04-frankencoin
 https://code4rena.com/reports/2023-04-party
+https://code4rena.com/reports/2023-05-ajna
 https://code4rena.com/reports/2023-05-party

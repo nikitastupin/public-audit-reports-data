@@ -14,8 +14,7 @@ https://raw.githubusercontent.com/runtimeverification/publications/main/reports/
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Algorand_Governance_Rewards_audit_report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/AshSwap.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Bihu.pdf
-https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Blockswap-Proof-Of-Neutrality-Network/Blockswap-Proof-of-Neutrality-Report.pdf
-https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Blockswap-Proof-Of-Neutrality-Network/PoN-Off-Chain-Model.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Blockswap_Gateway.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Blockswap_Stakehouse.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Blockswap_Stakehouse_2nd_Audit.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/EXA_Finance.pdf
@@ -38,6 +37,8 @@ https://raw.githubusercontent.com/runtimeverification/publications/main/reports/
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Pact_Fi.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Pact_Fi_Router.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Pact_Fi_StableSwap.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Proof-Of-Neutrality-Network/PoN-Off-Chain-Model.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Proof-Of-Neutrality-Network/Proof-of-Neutrality-Network-Report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Quipuswap.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Skyteller_Debit_Card_V0.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/StakeWise.pdf
