@@ -88,6 +88,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/master/Nebula/Nebul
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Neptune/2023-04-09%20Audit%20Report%20-%20Neptune%20Protocol%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Neutron/2022-12-07%20Audit%20Report%20-%20Neutron%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Noble/2023-03-13%20Audit%20Report%20-%20Noble%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/master/Noble/2023-07-08%20Audit%20Report%20-%20Noble%20Tariff%20Module%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Nolus/2022-12-12%20Audit%20Report%20-%20Nolus%20Core%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Nolus/2023-01-27%20Audit%20Report%20-%20Nolus%20Money%20Market%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Nym/Audit%20Report%20-%20Nym%20Wallet.pdf

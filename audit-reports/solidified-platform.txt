@@ -62,7 +62,7 @@ https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Repo
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20DAN%20NFT%20(1).pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20DAU.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Dadi%20%5B01.28.18%5D.pdf
-https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Dfyn%20%5B26.01.2023%5D-FINAL.pdf
+https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Dfyn.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Diagonal.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Dopex%20%5B21.06.2021%5D.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Dubois%20Gold%20%5B01.06.2021%5D.pdf

@@ -51,6 +51,7 @@ https://raw.githubusercontent.com/chainsulting/Smart-Contract-Security-Audits/ma
 https://raw.githubusercontent.com/chainsulting/Smart-Contract-Security-Audits/master/Gravis%20Finance/02_Smart%20Contract%20Audit_GravisFinance_GravisChef.pdf
 https://raw.githubusercontent.com/chainsulting/Smart-Contract-Security-Audits/master/Ibiza%20Token/02_Smart%20Contract%20Audit_IBZ_Token.pdf
 https://raw.githubusercontent.com/chainsulting/Smart-Contract-Security-Audits/master/Investax/Smart_Contract_Audit_Investax_IXAPE.pdf
+https://raw.githubusercontent.com/chainsulting/Smart-Contract-Security-Audits/master/Investax/Smart_Contract_Audit_Investax_Primary_Issuer_03072023.pdf
 https://raw.githubusercontent.com/chainsulting/Smart-Contract-Security-Audits/master/LaunchX/02_Smart%20Contract%20Audit_LaunchX_Token.pdf
 https://raw.githubusercontent.com/chainsulting/Smart-Contract-Security-Audits/master/Lendefi/02_Smart%20Contract%20Audit_Lendefi_LP_Lockup.pdf
 https://raw.githubusercontent.com/chainsulting/Smart-Contract-Security-Audits/master/Lendefi/02_Smart%20Contract%20Audit_Lendefi_Token.pdf
