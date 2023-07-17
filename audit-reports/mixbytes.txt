@@ -95,5 +95,6 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Yearn%20Finance/
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Yearn%20Finance/Yearn%20Vaults%20V3/Yearn%20Vaults%20v.3%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Yearn%20Finance/Yfi%20Maker/Yfi%20Maker%20SCA.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Yearn%20Finance/Yoracle.Link/Yearn%20Finance%20Yoracle.Link%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Yearn%20Finance/yETH-bootstrap/Yearn%20Finance%20yETH-bootstrap%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Yearn%20Finance/ySwaps/Yearn%20ySwaps%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Yearn%20Finance/yveCRV/yveCRV-vault%20Security%20Audit%20Report%20(merged).pdf

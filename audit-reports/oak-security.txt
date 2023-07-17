@@ -24,6 +24,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/master/Astroport/20
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Astroport/2023-03-16%20Audit%20Report%20-%20Astroport%20Concentrated%20Liquidity%20Pool%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Astroport/2023-04-04%20Audit%20Report%20-%20Astroport%20Maker%20and%20Vesting%20Contract%20Updates%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Astroport/2023-04-27%20Audit%20Report%20-%20Astroport%20LP%20Token%20Balance%20Tracking%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/master/Astroport/2023-07-13%20Audit%20Report%20-%20Astroport%20Concentrated%20Liquidity%20Pool%20with%20Injective%20Orderbook%20Integration%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Atlo/2022-05-09%20Audit%20Report%20-%20Atlo%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Autonomy/2023-03-06%20Audit%20Report%20-%20Autonomy%20Osmosis%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Axelar/Audit%20Report%20-%20%20Axelar.pdf
@@ -44,12 +45,14 @@ https://raw.githubusercontent.com/oak-security/audit-reports/master/CronCat/2023
 https://raw.githubusercontent.com/oak-security/audit-reports/master/DAO%20DAO/2022-06-22%20Audit%20Report%20-%20DAO%20DAO%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/DAO%20DAO/2023-02-06%20Audit%20Report%20-%20DAO%20DAO%202%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/DAO%20DAO/2023-03-22%20Audit%20Report%20-%20DAO%20DAO%20Vesting%20and%20Payroll%20Factory%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/master/Dapper%20Labs/Audit%20Report%20-%20Hybrid%20Custody%20Smart%20Contracts.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Dexter/2023-03-15%20Audit%20Report%20-%20Dexter%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Dock/Audit%20Report%20-%20Dock%20Token%20Migration.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Dock/Audit%20Report%20-%20Dock%20Wallet.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Dock/Dock%20PoS%20-%20Audit%20Report%20%5B20210706%5D.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Edge/2022-04-23%20Audit%20Report%20-%20Edge%20Protocol%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Eris%20Protocol/2023-02-15%20Audit%20Report%20-%20Eris%20Protocol%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/master/Evmos/2023-07-08%20Audit%20Report%20-%20Evmos%20EVM%20Extensions%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Filecoin%20Foundation/2023-03-09%20Audit%20Report%20-%20Filecoin%20EVM%20(FEVM)%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Filecoin%20Foundation/2023-03-09%20Audit%20Report%20-%20Filecoin%20FEVM%20Solidity%20Library%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/FortyTwo/2023-06-05%20Audit%20Report%20-%20FortyTwo%20v1.1.pdf

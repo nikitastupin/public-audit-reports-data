@@ -40,6 +40,7 @@ https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Repo
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20BattleFly%20OTC.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20BattleFly.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Battlefly%20Deposit%20Locker%20%5B11.01.2023%5D-final.pdf
+https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Benji%20Token.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20BetX%20%5B21.01.2019%5D.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Blocks%20Token%20Contract%20%5B11.01.2021%5D.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Blocks%20Token%20Contract%20%5B23.07.2021%5D.pdf
