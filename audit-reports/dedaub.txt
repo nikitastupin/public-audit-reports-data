@@ -8,6 +8,8 @@ https://raw.githubusercontent.com/Dedaub/audits/main/Chainlink/Chainlink%20VRF%2
 https://raw.githubusercontent.com/Dedaub/audits/main/DeFi%20Saver/DeFi%20Saver%20V3%20audit%20report%20Mar21.pdf
 https://raw.githubusercontent.com/Dedaub/audits/main/Enzyme/Enzyme%20Audit.pdf
 https://raw.githubusercontent.com/Dedaub/audits/main/Ethereum%20Foundation/EIP-3074%20Impact%20Study.pdf
+https://raw.githubusercontent.com/Dedaub/audits/main/Ethereum%20Foundation/Receipts%20%26%20Transactions%20SSZ%20Root%20Impact%20Study.pdf
+https://raw.githubusercontent.com/Dedaub/audits/main/Ethereum%20Foundation/Selfdestruct%20Study.pdf
 https://raw.githubusercontent.com/Dedaub/audits/main/Ethereum%20Foundation/Verkle%20gas%20cost%20changes%20insights.pdf
 https://raw.githubusercontent.com/Dedaub/audits/main/Furucombo/Furucombo%20smart%20wallet%20and%20gelato%20audit%20Sep%2021.pdf
 https://raw.githubusercontent.com/Dedaub/audits/main/GYSR/GYSR%20-%20Mar%20'23.pdf

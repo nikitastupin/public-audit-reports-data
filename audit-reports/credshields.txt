@@ -14,6 +14,7 @@ https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Juno%20External
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Juno%20Mobile%20(iOS%20%26%20Android)%20Audit%20Final%20Report.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Juno%20Web%20Application%20Audit%20Final%20Report.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/JunoFinalAuditReport.pdf
+https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Juno_AWS_Audit_final.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Noft%20Game%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Obius_SmartContract_audit.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/PePay_SmartContract_Audit.pdf

@@ -210,3 +210,4 @@ https://code4rena.com/reports/2023-04-frankencoin
 https://code4rena.com/reports/2023-04-party
 https://code4rena.com/reports/2023-05-ajna
 https://code4rena.com/reports/2023-05-party
+https://code4rena.com/reports/2023-06-stader

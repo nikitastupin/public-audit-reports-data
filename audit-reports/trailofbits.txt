@@ -16,6 +16,7 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-1
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-10-fraxfinance-fraxlend-fraxferry-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-10-shimacapital-ondo-fixreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-10-shimacapital-ondo-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-11-folksfinance-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-11-optimism-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-12-curl-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-12-curl-threatmodel.pdf
@@ -26,9 +27,11 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-0
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-02-chainport-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-02-ryanshea-practicalstealthaddresses-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-02-solana-token-2022-program-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-02-succinct-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-03-atlendis-atlendissmartcontracts-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-03-eleutherai-huggingface-safetensors-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-04-ajnalabs-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-04-chainflip-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-04-mysoloans-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-04-tempus-raft-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/88mph.pdf

@@ -46,7 +46,10 @@ https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2023.04.22%20-%20Final%20-%20Teller%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2023.04.24%20-%20Final%20-%20Splits%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2023.05.10%20-%20Final%20-%20JOJO%20Exchange%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2023.05.12%20-%20Final%20-%20DODO%20Margin%20Trading%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2023.05.25%20-%20Final%20-%20Eco%20Protocol%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2023.06.04%20-%20Final%20-%20GMX%20Update%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2023.06.11%20-%20Final%20-%20Iron%20Bank%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2023.06.12%20-%20Final%20-%20Unitas%20Protocol%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2023.07.15%20-%20Final%20-%20Ajna%20Update%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2023.10.04%20-%20Final%20-%20Syndr%20Audit%20Report.pdf

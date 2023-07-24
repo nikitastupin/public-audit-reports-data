@@ -43,6 +43,7 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/KickToken%20Securit
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Krystal%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/KyberPool%20Security%20Audit%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/LiquiFi%20Security%20Audit%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Locus%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/MakersPlace%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/MakersPlace%20Security%20Audit%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Mars%20Colony%20Liquidity%20Mining%20Security%20Analysis%20by%20Pessimistic.pdf
