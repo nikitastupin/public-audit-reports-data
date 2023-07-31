@@ -199,6 +199,7 @@ https://code4rena.com/reports/2023-01-timeswap
 https://code4rena.com/reports/2023-02-ethos
 https://code4rena.com/reports/2023-02-kuma
 https://code4rena.com/reports/2023-02-malt
+https://code4rena.com/reports/2023-03-asymmetry
 https://code4rena.com/reports/2023-03-canto-identity
 https://code4rena.com/reports/2023-03-mute
 https://code4rena.com/reports/2023-03-neotokyo
@@ -209,5 +210,7 @@ https://code4rena.com/reports/2023-04-eigenlayer
 https://code4rena.com/reports/2023-04-frankencoin
 https://code4rena.com/reports/2023-04-party
 https://code4rena.com/reports/2023-05-ajna
+https://code4rena.com/reports/2023-05-juicebox
 https://code4rena.com/reports/2023-05-party
+https://code4rena.com/reports/2023-06-llama
 https://code4rena.com/reports/2023-06-stader

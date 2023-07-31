@@ -3,6 +3,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Ante%20-%20Zellic%2
 https://raw.githubusercontent.com/Zellic/publications/master/Arpeggi_Labs_-_Zellic_Audit_Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Audius%20EVM%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Audius%20Solana%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Biconomy%20Smart%20Account%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Bond%20Protocol%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/BrahmaFi%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Cega%20-%20Zellic%20Audit%20Report.pdf

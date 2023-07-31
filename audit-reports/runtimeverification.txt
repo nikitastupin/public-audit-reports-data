@@ -67,3 +67,4 @@ https://raw.githubusercontent.com/runtimeverification/publications/main/reports/
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/swaap-audit-report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/xBacked-audit-report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/yieldly-multi-pool-audit-report.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/zkvm/Zorp%20zkvm%20audit%20report.pdf

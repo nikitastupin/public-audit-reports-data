@@ -78,6 +78,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/SpiritSwap/Spiri
 https://raw.githubusercontent.com/mixbytes/audits_public/master/SushiSwap/BentoBox/Sushiswap%20Bentobox%20Smart%20Contract%20Audit%20(1).pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/TosDis/TosDis%20Smart%20Contract%20Audit.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Urbit/Urbit%20Stardust%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Vibe/Vibe%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Yearn%20Finance/Curve%20Voter%20Proxy/Curve-voter-proxy%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Yearn%20Finance/Generic%20Lender%20Aave/GenericAave%20SCA.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Yearn%20Finance/Generic%20Lender/Yearn%20Generic%20Lender%20SCA.pdf
