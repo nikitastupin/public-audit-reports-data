@@ -9,6 +9,7 @@ https://raw.githubusercontent.com/ChainSafe/audits/main/Element%20Finance/elemen
 https://raw.githubusercontent.com/ChainSafe/audits/main/Exactly%20Finance/exactly-finance-05-2022.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/Exactly%20Protocol/exactly-finance-05-2022.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/Exactly%20Protocol/exactly-protocol-10-2022.pdf
+https://raw.githubusercontent.com/ChainSafe/audits/main/Franklin/franklin-06-2023.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/GSN/opengsn-03-2021.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/Gnosis%20Chain/gnosis-05-2023.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/Gnosis%20Chain/gnosis-07-2023.pdf

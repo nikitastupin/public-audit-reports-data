@@ -82,6 +82,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/master/Mars/2022-12
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Mars/2023-01-13%20Audit%20Report%20-%20Mars%20Outposts%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Mars/2023-02-03%20Audit%20Report%20-%20Mars%20Periphery%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Mars/2023-02-03%20Audit%20Report%20-%20Mars%20Rover%20Updates%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/master/Mars/2023-08-01%20Audit%20Report%20-%20Mars%20Red%20Bank%20Updates%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Membrane/2023-06-15%20Audit%20Report%20-%20Membrane%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Mirror/2022-01-14%20Audit%20Report%20-%20Mirror%20Decentralized%20Governance%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Mirror/Mirror%20v2%20Audit%20Report.pdf
@@ -129,6 +130,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/master/Terra%20Liqu
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Terra/Terra%20Columbus-5%20-%20Audit%20Report.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/TerraSwap%20LBP/TerraSwap%20Liquidity%20Bootstrap%20Pool%20-%20Audit%20Report.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/WhiteWhale/Audit%20Report%20-%20White%20Whale.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/master/Wormhole/2023-07-06%20Audit%20Report%20-%20Wormhole%20Token%20Translator%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/XM/XM%20EBBS%20Stamp.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/pNetwork/20200915_pNetwork%20DAO%20staking%2Breward%20audit.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/pTokens/20200302_Audit_Report_pToken.pdf

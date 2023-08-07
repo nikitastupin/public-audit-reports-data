@@ -20,6 +20,7 @@ https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/MapleV2.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Morpho-Av3-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Morpho-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/MorphoV1-Spearbit-Security-Review.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Nouns-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/OptimismDrippie-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Overlay-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Paladin-Spearbit-Security-Review.pdf

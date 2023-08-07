@@ -9,6 +9,7 @@ https://raw.githubusercontent.com/Credshields/Audit-Reports/main/DeVoTokenFinalR
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/DevoWhiteListFinalReport.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Final%20Report%20pStake%20Smart%20Contract%20Audit.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/FoundersLabFinalReport.pdf
+https://raw.githubusercontent.com/Credshields/Audit-Reports/main/JayDeriv_SC_Audit_report.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/JayPeggers%20Final%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Juno%20External%20Network%20Final%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Juno%20Mobile%20(iOS%20%26%20Android)%20Audit%20Final%20Report.pdf

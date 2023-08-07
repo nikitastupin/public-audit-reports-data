@@ -28,6 +28,7 @@ https://raw.githubusercontent.com/runtimeverification/publications/main/reports/
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Gigastar_CRD.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/GnosisSafe.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Gyroscope_Protocol_Audit_Report.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Hatom-Liquid-Staking.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Hatom-audit-report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/HydraDX-Omnipool-AMM-Audit-Report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/HydraDX-Omnipool-Withdrawal-Fee.pdf
