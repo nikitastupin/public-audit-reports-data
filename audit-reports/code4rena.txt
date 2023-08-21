@@ -217,6 +217,7 @@ https://code4rena.com/reports/2023-05-juicebox
 https://code4rena.com/reports/2023-05-particle
 https://code4rena.com/reports/2023-05-party
 https://code4rena.com/reports/2023-05-venus
+https://code4rena.com/reports/2023-05-xeth
 https://code4rena.com/reports/2023-06-angle
 https://code4rena.com/reports/2023-06-llama
 https://code4rena.com/reports/2023-06-stader

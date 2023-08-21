@@ -16,6 +16,7 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/brink/ABDK_Brink_S
 https://raw.githubusercontent.com/abdk-consulting/audits/main/chainflip/ABDK_Chainflip_ChainFlip_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/chainflip/ABDK_Chainflip_Solidity_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/cmta/ABDK-CMTAT-audit-20210910.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/cmta/ABDK_CMTA_CMTATRuleEngine_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/cmta/ABDK_CMTA_DVP_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/conduit/ABDK_Framework_Conduit_Solidity.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/contango/ABDK_Contango_Core_v_1_0.pdf
@@ -86,6 +87,7 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/truefi/ABDK_TrueFi
 https://raw.githubusercontent.com/abdk-consulting/audits/main/uniswap/ABDK_UniswapV3_v_1.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/uniswap/ABDK_Uniswap_Permit2_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/uniswap/ABDK_Uniswap_UniswapX_v_1_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/uniswap/ABDK_Uniswap_UniswapXv1_1_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/uniswap/ABDK_Uniswap_UniversalRouter_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/usm/ABDK_USM__Solidity_v1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/voltz/ABDK_Voltz_Project1_v_1_0.pdf
@@ -105,7 +107,10 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/zeropool/ABDK_Zero
 https://raw.githubusercontent.com/abdk-consulting/audits/main/zeropool/ABDK_Zeropool_Libzeropool_v3_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/zeropool/ABDK_Zeropool_Solidity_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/zeropool/ABDK_Zeropool_fawkes_crypto_v3_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/zklink/ABDK_zkLink_CircuitsPhaseIIs_v_1_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/zklink/ABDK_zkLink_CircuitsSmartContracts_v_6_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/zklink/ABDK_zkLink_Circuits_v_3_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/zklink/ABDK_zkLink_Solidity_PhaseII_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/zklink/ABDK_zkLink_Solidity_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/zkswap/ABDK_ZKSwap_V3_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/zkswap/ABDK_ZkSwap_Phase2_0_9_8__Rust_v_1_0.pdf
