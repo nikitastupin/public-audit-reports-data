@@ -28,6 +28,7 @@ https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/CosmWasm%
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/CosmWasm%20Smart%20Contract%20Audits/Valkyrie_Protocol_CosmWasm_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Cosmos%20Audits/A41_SuperNova_Bot_Golang_Security_Audit_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Cosmos%20Audits/A41_SuperNova_Cosmos_Security_Audit_Report_Halborn_Final.pdf
+https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Cosmos%20Audits/BoostyLabs_Tricorn_Bridge_Server_Golang_Security_Assessment_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Cosmos%20Audits/Sifchain_Sifnode_042_Upgrade_Security_Audit_Report_Halborn_v1_1.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Cosmos%20Audits/UMEE_WASM_Integration_Cosmos_Security_Audit_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Financial%20Pentesting/APY_Financial_Pentesting_Report_Halborn_Final.pdf
@@ -192,6 +193,7 @@ https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/Thorstarter_Governance_Smart_Contract_Security_Audit_Report_Halborn_v1_1.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/Thorstarter_Smart_Contract_Security_Audit_Report_Halborn_v1_1.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/Tidal_Finance_Smart_Contracts_Security_Audit_Halborn_v1_1.pdf
+https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/Truffles_NFT_Invoice_Smart_Contract_Security_Assessment_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/Unlimited_Network_Unlimited_Leverage_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/WolfyStreetBets_Smart_Contract_Security_Audit_Report_Halborn_v1_1.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/Woonkly_NFT_protocol_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf
@@ -212,5 +214,6 @@ https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Web%20Pen
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Web%20Pentest/Pontem_Network_Aptos_Wallet_WebApp_Pentest_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Web%20Pentest/Seascape_Minigames_Web_Pentest_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Web%20Pentest/Seascape_NFT_Marketplace_WebApp_Pentest_Report_Halborn_Final.pdf
+https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Web%20Pentest/Truffles_Backend_Frontend_Whitebox_Executive_Summary.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Web%20Pentest/dTrade_Frontend_Pentest_Executive_Summary_Report_Halborn_v1_1.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/ZK%20Audits/MatterLabs_zkSync_Era_Circuits_Zero_Knowledge_Security_Audit_Report_Halborn_Final..pdf

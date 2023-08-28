@@ -23,6 +23,7 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-1
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-12-curl-threatmodel.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-12-driftlabs-driftprotocol-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-12-openarchivesaveandroid-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-12-paxos-paypal-pyusd-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-01-keda-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-01-ryanshea-noblecurveslibrary-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-02-chainport-fixreview.pdf

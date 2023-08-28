@@ -126,6 +126,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/master/Stargaze/202
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Stargaze/2023-06-20%20Audit%20Report%20-%20Stargaze%20Reserve%20Auctions%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Streamswap/2023-03-16%20Audit%20Report%20-%20Streamswap%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Stride/2022-09-26%20Audit%20Report%20-%20Stride%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/master/Stride/2023-08-20%20Audit%20Report%20-%20Stride%20ICA%20Oracle%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Suberra/2022-03-17%20Audit%20Report%20-%20Suberra%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/TeFi/2022-01-14%20Audit%20Report%20-%20TeFi%20Oracle%20Contracts%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Terra%20Liquidity%20Bootstrapping%20Pool/2021-12-23%20Audit%20Report%20-%20Terra%20Liquidity%20Bootstrapping%20Pool%20v1.0.pdf

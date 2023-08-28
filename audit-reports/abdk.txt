@@ -15,6 +15,7 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/blockswap/ABDK_Blo
 https://raw.githubusercontent.com/abdk-consulting/audits/main/brink/ABDK_Brink_Solidity_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/chainflip/ABDK_Chainflip_ChainFlip_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/chainflip/ABDK_Chainflip_Solidity_v_1_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/chronicle/ABDK_Chronicle_ChronicleProtocol_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/cmta/ABDK-CMTAT-audit-20210910.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/cmta/ABDK_CMTA_CMTATRuleEngine_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/cmta/ABDK_CMTA_DVP_v_1_0.pdf
@@ -41,6 +42,7 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/harbor/Harbor%20Sm
 https://raw.githubusercontent.com/abdk-consulting/audits/main/harbor/Harbor%20Smart%20Contracts.%20Review%20March%202019.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/hive/Hive%20Contracts_%20Review%20Report.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/hunch_finance/ABDK_Hunch_finance_Hunch_finance_v_3_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/indexcoop/ABDK_IndexCoop_IndexProtocol_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/livetree/LiveTree%20Contract_%20Review.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/lossless/ABDK_Lossless_Solidity_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/makerdao/ABDK_MakerDAO_Crop_Solidity.pdf
@@ -54,6 +56,7 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/morphose/ABDK_Morp
 https://raw.githubusercontent.com/abdk-consulting/audits/main/muffin/ABDK_Muffin_Core_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/muffin/ABDK_Muffin_Core_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/muffin/ABDK_Muffin_Periphery_v_1_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/mystiko/ABDK_Mystiko_Solidity_ZoKrates_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/notional/ABDK_NotionalV2_Solidity_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/pandifi/ABDK_PandiFi_Soliditi_v_4_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/paragoncoin/ParagonCoin%20Token%20Contract_%20Review.pdf

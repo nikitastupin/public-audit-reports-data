@@ -12,6 +12,7 @@ https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/LIFI-retainer1-
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/LiquidCollective-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/LiquidCollective2-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/LiquidCollective3-Spearbit-Security-Review.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/LiquidCollectivePR-Spearbit-Security-Review-July.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/LiquidCollectivePR-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Llama-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Locke-Spearbit-Security-Review.pdf
