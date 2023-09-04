@@ -2,6 +2,7 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/1inch/ABDK_1inch_A
 https://raw.githubusercontent.com/abdk-consulting/audits/main/1inch/ABDK_1inch_LimitOrderProtocol_Solidity.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/1inch/ABDK_1inch_LimitOrderSettlement_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/1inch/ABDK_1inch_OrderMixin_v_1_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/aave/ABDK_AAVE_Gho_v_4_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/aave/ABDK_AAVE_Solidity_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/aktionariat/ABDK_Aktionariat_Solidity_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/aktionariat/ABDK_Aktionariat_Solidity_v_2_0.pdf
@@ -110,6 +111,7 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/zeropool/ABDK_Zero
 https://raw.githubusercontent.com/abdk-consulting/audits/main/zeropool/ABDK_Zeropool_Libzeropool_v3_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/zeropool/ABDK_Zeropool_Solidity_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/zeropool/ABDK_Zeropool_fawkes_crypto_v3_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/zklend/ABDK_zkLend_zkLendCore_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/zklink/ABDK_zkLink_CircuitsPhaseIIs_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/zklink/ABDK_zkLink_CircuitsSmartContracts_v_6_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/zklink/ABDK_zkLink_Circuits_v_3_0.pdf

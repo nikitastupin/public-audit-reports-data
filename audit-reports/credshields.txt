@@ -20,6 +20,7 @@ https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Juno_AWS_Audit_
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Noft%20Game%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Obius_SmartContract_audit.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/PePay_SmartContract_Audit.pdf
+https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Solace%20Final%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/TRICE_SC-Audit.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Uniscrow%20Final%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Wahed%20Token%20Final%20Report.pdf

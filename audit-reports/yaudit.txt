@@ -15,11 +15,14 @@ https://raw.githubusercontent.com/yAudit/reports/main/06-2022-LevGeist-yAudit-Re
 https://raw.githubusercontent.com/yAudit/reports/main/06-2022-Singularity-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/06-2022-Superfluid-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/06-2022-Yearn-BalancerLPFactory-yAudit-Report.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/06-2023-RAMSES-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/06-2023-VMEX-incentives-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/06-2023-VMEX-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/06-2023-Yearn-v3-yAudit-Report.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/07-2023-TempleDAO-Lending-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/08-2022-Bunni-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/08-2022-Timeless-Yield-Daddy-yAudit-Report.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/08-2023-TempleDAO-Lending-Recheck-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/09-2022-yFu-NFT-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/10-2022-NounsDAO-Token-Buyer-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/11-2022-Yearn-Stargate-Strategy-yAudit-Report.pdf

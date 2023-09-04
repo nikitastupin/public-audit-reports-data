@@ -60,6 +60,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/master/FortyTwo/202
 https://raw.githubusercontent.com/oak-security/audit-reports/master/FreshCut/Audit%20Report%20-%20FreshCut%20Audit.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Fuzion/2023-02-24%20Audit%20Report%20-%20Fuzion%20Plasma%20OTC%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Glow/2021-11-12%20Audit%20Report%20-%20Glow%20-%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/master/Hadron%20Labs/2023-07-29%20Audit%20Report%20-%20Hadron%20Labs%20Lido%20Satellite%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/IBCX/2023-04-29%20Audit%20Report%20-%20IBCX%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Illiquid%20Labs/2023-01-10%20Audit%20Report%20-%20Illiquid%20Labs%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/IncrementFi/Audit%20Report%20-%20Increment%20Finance.pdf

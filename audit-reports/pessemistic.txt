@@ -29,6 +29,7 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/DeFiPie%20Security%
 https://raw.githubusercontent.com/pessimistic-io/audits/main/DeFireX%20Security%20Audit%20by%20Pessimistic%20Public.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/DeNet%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/DexSport%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Dexdao%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Ember%20Security%20Audit%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/EthGild%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Fananees%20NFT%20Security%20Analysis%20by%20Pessimistic.pdf
@@ -89,6 +90,7 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/THX%20Security%20An
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Tornado.Cash%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Via%20Protocol%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/VirtuSwap%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/XDAO%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/YFValue%20Security%20Audit%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/xDao%202%20Security%20Recheck.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/xDao%20Security%20Analysis%20by%20Pessimistic.pdf

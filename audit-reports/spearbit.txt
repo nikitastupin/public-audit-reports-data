@@ -1,4 +1,5 @@
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/ArtGobblers-Spearbit-Security-Review.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Astaria-Spearbit-Security-Review-July.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Astaria-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Brink-Spearbit-Security-Review-Engagement-1.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Brink-Spearbit-Security-Review-Engagement-2.pdf
@@ -26,6 +27,7 @@ https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/OptimismDrippie
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Overlay-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Paladin-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Porter-Spearbit-Security-Review.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Primitive-Spearbit-Security-Review-July.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Primitive-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Seadrop-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Seaport-Spearbit-Security-Review.pdf
