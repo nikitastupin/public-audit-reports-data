@@ -71,6 +71,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Pickle%20Finance
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Pickle%20Finance/Strategy-Curve-scrv-v4_1/Pickle%20Finance%20Strategy-Curve-scrv-v4_1%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/PieDAO/ExperiPie/PieDAO%20Experipie%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/PieDAO/VestedTokenMigration%20and%20Crust/PieDAO%20Vested%20Token%20Migration%20and%20Crust%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Prisma%20Finance/Prisma%20Finance%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Reality%20Cards/RealityCards%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Roobee/Roobee%20Token%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Rubic/Rubic%20Security%20Audit%20Report.pdf

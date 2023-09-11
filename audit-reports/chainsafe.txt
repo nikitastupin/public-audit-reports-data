@@ -13,6 +13,7 @@ https://raw.githubusercontent.com/ChainSafe/audits/main/Franklin/franklin-06-202
 https://raw.githubusercontent.com/ChainSafe/audits/main/GSN/opengsn-03-2021.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/Gnosis%20Chain/gnosis-05-2023.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/Gnosis%20Chain/gnosis-07-2023.pdf
+https://raw.githubusercontent.com/ChainSafe/audits/main/Gnosis%20Chain/gnosis-08-2023.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/Hyperdrive/hyperdrive-06-2023.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/NIFTYKIT/niftykit-v2-08-2022.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/Ribbon%20Finance/RibbonV2-July-2021.pdf

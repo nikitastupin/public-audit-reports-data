@@ -1,8 +1,10 @@
 https://raw.githubusercontent.com/arbitraryexecution/publications/main/assessments/Aztec_20221014.pdf
+https://raw.githubusercontent.com/arbitraryexecution/publications/main/assessments/Decent_20230705.pdf
 https://raw.githubusercontent.com/arbitraryexecution/publications/main/assessments/Gamma_20220309.pdf
 https://raw.githubusercontent.com/arbitraryexecution/publications/main/assessments/LaserWallet_20220323.pdf
 https://raw.githubusercontent.com/arbitraryexecution/publications/main/assessments/Milkomeda_20220421.pdf
 https://raw.githubusercontent.com/arbitraryexecution/publications/main/assessments/Milkomeda_20220819.pdf
 https://raw.githubusercontent.com/arbitraryexecution/publications/main/assessments/Milkomeda_20221014.pdf
+https://raw.githubusercontent.com/arbitraryexecution/publications/main/assessments/Premia_20230817.pdf
 https://raw.githubusercontent.com/arbitraryexecution/publications/main/assessments/Sentiment_Oracle_20220727.pdf
 https://raw.githubusercontent.com/arbitraryexecution/publications/main/assessments/Sentiment_Protocol_20220727.pdf

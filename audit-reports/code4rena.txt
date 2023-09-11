@@ -193,6 +193,7 @@ https://code4rena.com/reports/2023-01-drips
 https://code4rena.com/reports/2023-01-numoen
 https://code4rena.com/reports/2023-01-ondo
 https://code4rena.com/reports/2023-01-opensea
+https://code4rena.com/reports/2023-01-popcorn
 https://code4rena.com/reports/2023-01-rabbithole
 https://code4rena.com/reports/2023-01-reserve
 https://code4rena.com/reports/2023-01-timeswap
@@ -224,3 +225,4 @@ https://code4rena.com/reports/2023-06-llama
 https://code4rena.com/reports/2023-06-lybra
 https://code4rena.com/reports/2023-06-stader
 https://code4rena.com/reports/2023-07-nounsdao
+https://code4rena.com/reports/2023-08-pooltogether
