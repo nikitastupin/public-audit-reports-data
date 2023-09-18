@@ -56,6 +56,7 @@ https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2023.06.15%20-%20Final%20-%20Perennial%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2023.06.22%20-%20Final%20-%20Ajna%20Update%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2023.06.29%20-%20Final%20-%20Arrakis%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2023.07.01%20-%20Final%20-%20DODO%20V3%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2023.07.03%20-%20Final%20-%20Dinari%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2023.07.03%20-%20Final%20-%20Hubble%20Exchange%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2023.07.05%20-%20Final%20-%20Unstoppable%20Audit%20Report.pdf

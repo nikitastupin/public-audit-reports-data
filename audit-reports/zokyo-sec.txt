@@ -26,6 +26,8 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/LYOPAY/LYOPAY_Zok
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/LayerZero/LayerZero%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/MadeForGamers/Made%20For%20Gamers_Zokyo%20audit%20report%20_compressed.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Magpie/Magpie_Zokyo%20audit%20report.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/MarsDAO/MarsDao_Zokyo_Android_Application_audit_report_Aug18ер_2023.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/MarsDAO/MarsDao_Zokyo_IOS_Application_audit_report_Aug18ер_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Metropolis/Metropolis_Zokyoaudit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Minterest/Minterest_Zokyo_audit_report_14thMarch_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Minterest/Minterest_Zokyo_audit_report_24Feb_2023.pdf
@@ -62,3 +64,4 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Unimex/Unimex_Zok
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/UnityChain/Unity_Chain_Zokyo_audit_report_23Feb_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Vaultka/Vaultka_Zokyo_audit_report_30th_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Vaultka/Vaultka_Zokyo_audit_report_July25th_2023.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Wombat/Wombat_Zokyo_audit_report_Sep6_2023.pdf

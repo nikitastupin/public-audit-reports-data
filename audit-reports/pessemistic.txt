@@ -61,6 +61,7 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/Neuron%20Option%20S
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Neuron%20Options%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Opium%20Pools%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Opium%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Paladin%20Dullahan%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Paladin%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Parsiq%20Token%20Security%20Audit%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/PlasmaFinance%20Quadrat%20Booster%20Security%20Analysis%20by%20Pessimistic.pdf

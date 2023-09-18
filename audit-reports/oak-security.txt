@@ -85,6 +85,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/master/Mars/2023-01
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Mars/2023-02-03%20Audit%20Report%20-%20Mars%20Periphery%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Mars/2023-02-03%20Audit%20Report%20-%20Mars%20Rover%20Updates%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Mars/2023-08-01%20Audit%20Report%20-%20Mars%20Red%20Bank%20Updates%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/master/Mars/2023-09-14%20Audit%20Report%20-%20Mars%20Rover%20v2%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Membrane/2023-06-15%20Audit%20Report%20-%20Membrane%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Mirror/2022-01-14%20Audit%20Report%20-%20Mirror%20Decentralized%20Governance%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Mirror/Mirror%20v2%20Audit%20Report.pdf

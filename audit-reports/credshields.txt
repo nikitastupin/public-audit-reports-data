@@ -1,6 +1,7 @@
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/AssetMantleWEB.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/BuscemiBeats-NFT.docx.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Caliburland-SmartContractAudit.pdf
+https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Capital_Rock_Final_Audit_report.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Capx%20Smart%20Contract%20Audit.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/CoinGabbarAudit.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Comdex%20Audit.docx.pdf

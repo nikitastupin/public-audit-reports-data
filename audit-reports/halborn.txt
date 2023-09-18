@@ -56,6 +56,7 @@ https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solana%20
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solana%20Program%20Audit/Phantasia_Sports_Solana_Program_Security_Audit_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solana%20Program%20Audit/deBridge_Solana_Contracts_Solana_Program_Security_Audit_Report_Halborn.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/0x_Nodes_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf
+https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/21.co_Wrapped_Assets_Smart_Contract_Security_Assessment_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/APY_Finance_governance_token_reward_halborn_report_V1.1.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/APY_Finance_smartcontract_halborn_report_V1.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/APY_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf
@@ -127,6 +128,7 @@ https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/Lyra_Finance_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/MatrixSwap_DEX_Aggregator_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/MatrixSwap_Staking_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf
+https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/MatterLabs_Verifier_Smart_Contract_Security_Assessment_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/MetaPool_ETH_Staking_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/MetaPool_Staking_Pools_Aurora_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/Mochi_Smart_Contract_Security_Audit_Halborn_v1_1.pdf
@@ -166,6 +168,7 @@ https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/PowerTrade_Fuel_smartcontract_halborn_report_V1.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/PowerTrade_vesting_smartcontract_halborn_report_V1.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/ProofOfPlay_Pirate_Nation_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf
+https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/Qoda_Finance_Core_V1_Smart_Contract_Security_Assessment_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/Rario_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/Reef_Finance_SmartContract_Halborn_Report_V1.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/Reef_Finance_SmartContract_Halborn_Report_V1_1.pdf

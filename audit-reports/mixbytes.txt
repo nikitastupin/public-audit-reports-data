@@ -20,10 +20,13 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Akropolis/Vestin
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Algebra%20Finance/Core/Algebra%20Finance%20Core%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Algebra%20Finance/Farmings/Algebra%20Farmings%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Algebra%20Finance/Periphery/Algebra%20Periphery%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Algebra%20Finance/Plugins/Algebra%20Plugins%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Aragon/Open%20Enterprise/Aragon%20Open%20Enterprise%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Aragon/Voting%20Connectors/Aragon%20Voting%20Connectors%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/B-Cube/B-Cube%20ICO%20Security%20Audit%20Report.pdf
-https://raw.githubusercontent.com/mixbytes/audits_public/master/Barter%20DAO/Barter%20DAO%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Barter%20DAO/Barter%20DAO%20(diff)/Barter%20DAO%20Security%20Audit%20Report%20(diff).pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Barter%20DAO/Barter%20DAO/Barter%20DAO%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Bebop/Bebop%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Bond%20Appetit/BondAppetit%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/C.R.E.A.M.%20Finance/Compound%20Protocol/Compound%20Protocol%20SCA.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/C.R.E.A.M.%20Finance/Flashloan/C.R.E.A.M.%20finance%20flashloan%20Security%20Review%20Report.pdf
