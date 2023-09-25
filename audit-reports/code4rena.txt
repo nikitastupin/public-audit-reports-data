@@ -216,13 +216,16 @@ https://code4rena.com/reports/2023-05-ajna
 https://code4rena.com/reports/2023-05-ambire
 https://code4rena.com/reports/2023-05-base
 https://code4rena.com/reports/2023-05-juicebox
+https://code4rena.com/reports/2023-05-maia
 https://code4rena.com/reports/2023-05-particle
 https://code4rena.com/reports/2023-05-party
 https://code4rena.com/reports/2023-05-venus
 https://code4rena.com/reports/2023-05-xeth
 https://code4rena.com/reports/2023-06-angle
 https://code4rena.com/reports/2023-06-llama
+https://code4rena.com/reports/2023-06-lukso
 https://code4rena.com/reports/2023-06-lybra
 https://code4rena.com/reports/2023-06-stader
 https://code4rena.com/reports/2023-07-nounsdao
+https://code4rena.com/reports/2023-08-arbitrum
 https://code4rena.com/reports/2023-08-pooltogether

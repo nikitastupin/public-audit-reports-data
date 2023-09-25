@@ -8,3 +8,5 @@ https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2023-
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2023-08-25-cyfrin-stake-link.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2023-08-26-cyfrin-dolomite-margin.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2023-09-06-cyfrin-woosh.pdf
+https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2023-09-19-cyfrin-stakepet.pdf
+https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2023-09-19-cyfrin-swapexchange.pdf

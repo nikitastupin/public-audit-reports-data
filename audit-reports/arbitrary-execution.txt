@@ -5,6 +5,7 @@ https://raw.githubusercontent.com/arbitraryexecution/publications/main/assessmen
 https://raw.githubusercontent.com/arbitraryexecution/publications/main/assessments/Milkomeda_20220421.pdf
 https://raw.githubusercontent.com/arbitraryexecution/publications/main/assessments/Milkomeda_20220819.pdf
 https://raw.githubusercontent.com/arbitraryexecution/publications/main/assessments/Milkomeda_20221014.pdf
+https://raw.githubusercontent.com/arbitraryexecution/publications/main/assessments/Milkomeda_20230614.pdf
 https://raw.githubusercontent.com/arbitraryexecution/publications/main/assessments/Premia_20230817.pdf
 https://raw.githubusercontent.com/arbitraryexecution/publications/main/assessments/Sentiment_Oracle_20220727.pdf
 https://raw.githubusercontent.com/arbitraryexecution/publications/main/assessments/Sentiment_Protocol_20220727.pdf
