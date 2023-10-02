@@ -34,6 +34,7 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-0
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-03-atlendis-atlendissmartcontracts-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-03-eleutherai-huggingface-safetensors-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-03-walletconnectv2-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-03-wormhole-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-04-ajnalabs-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-04-chainflip-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-04-mysoloans-securityreview.pdf
@@ -41,6 +42,7 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-0
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-05-eclipse-jkube-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-05-fraxgov-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-06-thesistsslib-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-07-arcade-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-07-dappos-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-07-dragonfly2-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-07-sandclock-securityreview.pdf

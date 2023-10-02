@@ -35,6 +35,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/master/C2X/2022-05-
 https://raw.githubusercontent.com/oak-security/audit-reports/master/CW20%20Blocklist/2022-05-25%20Audit%20Report%20-%20CW20%20Blocklist%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Calculated%20Finance/2023-05-23%20Audit%20Report%20-%20Calculated%20Finance%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Celer/2022-05-14%20Audit%20Report%20-%20Celer%20cBridge%20Flow%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/master/Coinhall/2023-09-26%20Audit%20Report%20-%20Coinhall%20Genie%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Comdex/2022-10-28%20Audit%20Report%20-%20Comdex%20Locking%20and%20Vesting%20Contracts%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Comdex/2022-11-23%20Audit%20Report%20-%20Comdex%20Lend%20and%20Liquidation%20Modules%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Comdex/2022-12-07%20Audit%20Report%20-%20Comdex%20v1.0.pdf
@@ -145,3 +146,4 @@ https://raw.githubusercontent.com/oak-security/audit-reports/master/pTokens/2020
 https://raw.githubusercontent.com/oak-security/audit-reports/master/pTokens/20210212_pTokens%20Bridges%20Ongoing%20Audit%20Report.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/pTokens/20210518_pNetworks%20Enclaves%20Integration%20Audit%20Report.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/pTokens/20210526_pTokens%20SafeMoon%20Token%20and%20Vault%20Audit%20Report.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/master/ssz-rs/2023-09-28%20Audit%20Report%20-%20ssz-rs%20v1.0.pdf
