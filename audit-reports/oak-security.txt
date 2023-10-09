@@ -55,6 +55,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/master/Dock/Dock%20
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Edge/2022-04-23%20Audit%20Report%20-%20Edge%20Protocol%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Eris%20Protocol/2023-02-15%20Audit%20Report%20-%20Eris%20Protocol%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Evmos/2023-07-08%20Audit%20Report%20-%20Evmos%20EVM%20Extensions%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/master/Fairblock/2023-10-02%20Audit%20Report%20-%20FairBlock%20fairyring%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Filecoin%20Foundation/2023-03-09%20Audit%20Report%20-%20Filecoin%20EVM%20(FEVM)%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Filecoin%20Foundation/2023-03-09%20Audit%20Report%20-%20Filecoin%20FEVM%20Solidity%20Library%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/FortyTwo/2023-06-05%20Audit%20Report%20-%20FortyTwo%20v1.1.pdf
@@ -122,6 +123,8 @@ https://raw.githubusercontent.com/oak-security/audit-reports/master/Sifchain/Aud
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Sifchain/Audit%20Report%20-%20Sifchain%20Peggy%20%5B20210117%5D.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Sifchain/Audit%20Report%20-%20Sifchain%20Peggy.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Sigma/2022-05-03%20Audit%20Report%20-%20Sigma%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/master/Skip/2023-07-29%20Audit%20Report%20-%20Skip%20Protocol%20Owned%20Builder%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/master/Skip/2023-08-20%20Audit%20Report%20-%20Skip%20Protocol%20Swap%20Contracts%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Spectrum/2022-07-02%20Audit%20Report%20-%20Alpha%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Stader/2021-12-06%20Audit%20Report%20-%20Stader%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/StarTerra/Audit%20Report%20-%20StarTerra.pdf

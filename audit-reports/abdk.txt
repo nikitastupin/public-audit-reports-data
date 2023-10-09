@@ -22,6 +22,7 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/cmta/ABDK-CMTAT-au
 https://raw.githubusercontent.com/abdk-consulting/audits/main/cmta/ABDK_CMTA_CMTATRuleEngine_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/cmta/ABDK_CMTA_DVP_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/conduit/ABDK_Framework_Conduit_Solidity.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/contango/ABDK_Contango_CoreV2_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/contango/ABDK_Contango_Core_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/crowdwiz/CrowdWiz%20Token%20Contract_%20Final.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/divicoin/Divicoin%20Token%20Contract_%20Review.pdf
@@ -34,6 +35,8 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/edgeswap/ABDK_Edge
 https://raw.githubusercontent.com/abdk-consulting/audits/main/elephantslab/ABDK_ElephantsLab_OctoGamexNFTBridge_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/equihashnano/ABDK-Nano-Equihash-Report.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/esports/eSports%20Token%20Contract_%20Review.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/exactly/ABDK_Exactly_EscrowedEXA_v_2_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/exactly/ABDK_Exactly_ExactlyPeripheralContracts_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/exactly/ABDK_Exactly_ExactlyProtocol_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/exactly/ABDK_Exactly_PhaseII_v_3_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/forwarder/Forwarder%20Smart%20Contract.%20Audit.pdf
