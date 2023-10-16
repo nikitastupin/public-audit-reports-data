@@ -31,6 +31,8 @@ https://raw.githubusercontent.com/oak-security/audit-reports/master/Axelar/Audit
 https://raw.githubusercontent.com/oak-security/audit-reports/master/BRZ/Audit%20Report%20-%20BRZ%20Bridge.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/BrainTrust/Audit%20Report%20-%20%20Braintrust%20Uniswap%20Integration.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/BrainTrust/Audit%20Report%20-%20BrainTrust%20Application.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/master/Burnt%20(XION)/2023-09-22%20Audit%20Report%20-%20XION%20and%20Burnt%20Contract%20Updates%20and%20Account%20Abstraction%20v1.1.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/master/Burnt%20(XION)/2023-09-22%20Audit%20Report%20-%20XION%20and%20Burnt%20Contracts%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/C2X/2022-05-09%20Audit%20Report%20-%20C2X%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/CW20%20Blocklist/2022-05-25%20Audit%20Report%20-%20CW20%20Blocklist%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Calculated%20Finance/2023-05-23%20Audit%20Report%20-%20Calculated%20Finance%20v1.1.pdf
@@ -104,6 +106,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/master/Nym/Audit%20
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Olympus%20Pro/2022-03-21%20Audit%20Report%20-%20Olympus%20Pro%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/OnePlanet/Audit%20Report%20-%20One%20Planet.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Osmosis%20Labs/2023-08-18%20Audit%20Report%20-%20CosmWasm%20WBTC%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/master/Osmosis%20Labs/2023-10-09%20Audit%20Report%20-%20Osmosis%20Transmuter%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Persistence/2022-01-20%20Audit%20Report%20-%20Persistence%20Bridge%20-%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Persistence/2023-02-17%20Audit%20Report%20-%20pSTAKE%20Native%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Phase/2023-04-13%20Audit%20Report%20-%20Phase%20v1.0.pdf

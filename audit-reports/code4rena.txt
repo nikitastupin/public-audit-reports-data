@@ -235,3 +235,6 @@ https://code4rena.com/reports/2023-08-arbitrum
 https://code4rena.com/reports/2023-08-goodentry
 https://code4rena.com/reports/2023-08-pooltogether
 https://code4rena.com/reports/2023-08-shell
+https://code4rena.com/reports/2023-08-verwa
+https://code4rena.com/reports/2023-09-centrifuge
+https://code4rena.com/reports/2023-09-ondo

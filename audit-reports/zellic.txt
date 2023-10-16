@@ -48,6 +48,10 @@ https://raw.githubusercontent.com/Zellic/publications/master/Revest%20Finance%20
 https://raw.githubusercontent.com/Zellic/publications/master/Revest%20Resonate%20Pt.%201%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Revest%20Resonate%20Pt.%202%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/SPL%20Token%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Scroll%20-%2005.26.23%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Scroll%20-%2009.27.23%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Scroll%20zkEVM%20-%20Part%201%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Scroll%20zkEVM%20-%20Part%202%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Socket%20Data%20Layer%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Succinct%20Telepathy%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Sushiswap%20Route%20Processor%20-%20Zellic%20Audit%20Report.pdf

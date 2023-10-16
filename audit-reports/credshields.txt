@@ -1,3 +1,5 @@
+https://raw.githubusercontent.com/Credshields/Audit-Reports/main/9mm_final_audit_report.pdf
+https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Arcana_Sendit_SC_Final_Audit_report.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/AssetMantleWEB.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/BuscemiBeats-NFT.docx.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Caliburland-SmartContractAudit.pdf
@@ -19,6 +21,7 @@ https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Juno%20Web%20Ap
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/JunoFinalAuditReport.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Juno_AWS_Audit_final.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/JustFarming_Final_audit_report.pdf
+https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Lync%20Final%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Noft%20Game%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Obius_SmartContract_audit.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/PePay_SmartContract_Audit.pdf

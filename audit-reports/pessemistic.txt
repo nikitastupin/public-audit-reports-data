@@ -77,6 +77,7 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/Seascape%20Lighthou
 https://raw.githubusercontent.com/pessimistic-io/audits/main/SmartCredit%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/SolidBlock%20Security%20Recheck.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Sovryn%20Security%20Audit%20Report%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Spiral%20DAO%20SDT%20Adapter%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Spiral%20DAO%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/StablePlaza%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/StakeWise%20Security%20Analysis%20by%20Pessimistic.pdf
