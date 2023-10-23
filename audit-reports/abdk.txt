@@ -84,6 +84,9 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/shping/Shping%20Sm
 https://raw.githubusercontent.com/abdk-consulting/audits/main/spectral/ABDK_Spectral_Spectral_finance_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/synchrocoin/Synchrocoin%20Smart%20Contract.%20Review.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/tats/TATS%20Smart%20Contract.%20Final%20Review.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/term_structure/ABDK_TermStructure_Circom_v_1_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/term_structure/ABDK_TermStructure_Solidity_v_1_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/term_structure/ABDK_TermStructure_TermStructurePartII_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/timelock/Timelock%20Smart%20Contract.%20Audit.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/tornado/TornadoCash_anonymity_mining_first_audit_ABDK.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/tornado/Tornado_circuit_audit.pdf

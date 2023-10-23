@@ -22,6 +22,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/NFTR/NFTR_Market_Au
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/NFTR/NFTR_Naming_Credits_Audit.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/PariFi/09-03-2023-PariFi.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Poolshark/Poolshark_Cover_Audit.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Poolshark/Poolshark_Limit_Audit.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Reliquary_Audit.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/UltiBets/UltiBets_Audit_1.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/UltiBets/UltiBets_Audit_2.pdf

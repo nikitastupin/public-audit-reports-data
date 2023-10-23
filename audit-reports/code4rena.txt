@@ -233,6 +233,7 @@ https://code4rena.com/reports/2023-07-nounsdao
 https://code4rena.com/reports/2023-07-pooltogether
 https://code4rena.com/reports/2023-08-arbitrum
 https://code4rena.com/reports/2023-08-goodentry
+https://code4rena.com/reports/2023-08-livepeer
 https://code4rena.com/reports/2023-08-pooltogether
 https://code4rena.com/reports/2023-08-shell
 https://code4rena.com/reports/2023-08-verwa

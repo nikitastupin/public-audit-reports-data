@@ -32,7 +32,10 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-0
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-02-solana-token-2022-program-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-02-succinct-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-03-atlendis-atlendissmartcontracts-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-03-eclipse-jetty-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-03-eleutherai-huggingface-safetensors-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-03-primitive-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-03-spool-platformv2-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-03-walletconnectv2-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-03-wormhole-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-04-ajnalabs-securityreview.pdf
@@ -47,8 +50,12 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-0
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-07-dappos-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-07-dragonfly2-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-07-sandclock-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-07-scroll-zktrie-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-08-digitalocean-oidc-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-08-immutable-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-08-scrollL2geth-initial-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-08-scrollL2geth-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-09-wasmCloud-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/88mph.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/API3.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/AcalaNetwork.pdf

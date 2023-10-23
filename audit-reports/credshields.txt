@@ -1,5 +1,6 @@
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/9mm_final_audit_report.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Arcana_Sendit_SC_Final_Audit_report.pdf
+https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Archethic_Bridge_Contracts_SC_Final_Report.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/AssetMantleWEB.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/BuscemiBeats-NFT.docx.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Caliburland-SmartContractAudit.pdf
@@ -28,6 +29,7 @@ https://raw.githubusercontent.com/Credshields/Audit-Reports/main/PePay_SmartCont
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Rove_Token_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/SWYP_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Solace%20Final%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Credshields/Audit-Reports/main/StationX_Claim_Contract_Final_Report.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/TRICE_SC-Audit.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Uniscrow%20Final%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Wahed%20Token%20Final%20Report.pdf

@@ -95,6 +95,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Yearn%20Finance/
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Yearn%20Finance/Timeloans/Yearn%20Finance%20Timeloans.Finance%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Yearn%20Finance/Vault%20V2%20(Solidity%20part)/Yearn%20Finance%20Vault%20v.2%20(Solidity%20Part)%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Yearn%20Finance/Vault%20V2%20(Vyper%20part)/Yearn%20Finance%20Vault%20v.2%20(Vyper%20part)%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Yearn%20Finance/Vesting%20Escrow/Yearn%20Finance%20Vesting%20Escrow%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Yearn%20Finance/Weth%20Maker/Weth%20Maker%20SCA.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Yearn%20Finance/Yearn%20Protocol%20V1/Yearn%20Finance%20Protocol%20v.1%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Yearn%20Finance/Yearn%20Strategy%20SSB/Yearn%20Strategy%20SSB%20Security%20Audit%20Report.pdf

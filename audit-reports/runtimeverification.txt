@@ -61,6 +61,8 @@ https://raw.githubusercontent.com/runtimeverification/publications/main/reports/
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Uniswap-V1.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/WorldMobileGroup.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/XET-script.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Zivoe_Core_Contracts.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Zivoe_Locker_Contracts.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/algofi-v2-audit-report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/atlendis-audit-report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/hone-report.pdf

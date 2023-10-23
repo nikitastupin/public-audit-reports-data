@@ -49,6 +49,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/master/Cypher%20Wal
 https://raw.githubusercontent.com/oak-security/audit-reports/master/DAO%20DAO/2022-06-22%20Audit%20Report%20-%20DAO%20DAO%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/DAO%20DAO/2023-02-06%20Audit%20Report%20-%20DAO%20DAO%202%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/DAO%20DAO/2023-03-22%20Audit%20Report%20-%20DAO%20DAO%20Vesting%20and%20Payroll%20Factory%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/master/DAO%20DAO/2023-10-16%20Audit%20Report%20-%20DAO%20DAO%20Updates%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Dapper%20Labs/Audit%20Report%20-%20Hybrid%20Custody%20Smart%20Contracts.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Dexter/2023-03-15%20Audit%20Report%20-%20Dexter%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Dock/Audit%20Report%20-%20Dock%20Token%20Migration.pdf
