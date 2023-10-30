@@ -33,6 +33,7 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/eco/ABDK_Eco_Phase
 https://raw.githubusercontent.com/abdk-consulting/audits/main/edgeswap/ABDK_EdgeSwap_Circuit_v_1_0%20.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/edgeswap/ABDK_EdgeSwap_Solidity_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/elephantslab/ABDK_ElephantsLab_OctoGamexNFTBridge_v_2_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/equation/ABDK_Equation_EquationDAO_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/equihashnano/ABDK-Nano-Equihash-Report.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/esports/eSports%20Token%20Contract_%20Review.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/exactly/ABDK_Exactly_EscrowedEXA_v_2_0.pdf
@@ -45,6 +46,7 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/gambit/ABDK_Gambit
 https://raw.githubusercontent.com/abdk-consulting/audits/main/gossamercontractwallet/GossamerContractWallet.%20Audit.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/harbor/Harbor%20Smart%20Contract.%20Review%20July%202018.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/harbor/Harbor%20Smart%20Contracts.%20Review%20March%202019.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/herodotus/ABDK_Herodotus_Herodotus_v_3_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/hive/Hive%20Contracts_%20Review%20Report.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/hunch_finance/ABDK_Hunch_finance_Hunch_finance_v_3_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/indexcoop/ABDK_IndexCoop_IndexProtocol_v_1_0.pdf

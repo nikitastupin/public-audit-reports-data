@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/2023-10-25-Orderly.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/BeefyFinance_StrategyGeistEth_Audit.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Bridges/Bridges_Exchange_Audit_1.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Bridges/Bridges_Exchange_Audit_2.pdf

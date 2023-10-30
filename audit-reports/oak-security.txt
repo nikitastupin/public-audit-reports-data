@@ -82,6 +82,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/master/Lido%20Finan
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Lido%20Finance/2022-05-16%20Audit%20Report%20-%20Lido%20Finance%20stATOM%20on%20Cosmos%20Hub%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Lum%20Network/2023-05-15%20Audit%20Report%20-%20Lum%20Millions%20Module%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Margined%20Protocol/2022-10-28%20Audit%20Report%20-%20Margined%20Protocol%20Perpetuals%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/master/Margined%20Protocol/2023-10-25%20Audit%20Report%20-%20Margined%20Power%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Mars/2022-02-17%20Audit%20Report%20-%20Fields%20of%20Mars%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Mars/2022-02-17%20Audit%20Report%20-%20Mars%20Periphery%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Mars/2022-02-17%20Audit%20Report%20-%20Mars%20v1.0.pdf

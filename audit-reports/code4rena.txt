@@ -227,6 +227,7 @@ https://code4rena.com/reports/2023-06-llama
 https://code4rena.com/reports/2023-06-lukso
 https://code4rena.com/reports/2023-06-lybra
 https://code4rena.com/reports/2023-06-stader
+https://code4rena.com/reports/2023-07-arcade
 https://code4rena.com/reports/2023-07-basin
 https://code4rena.com/reports/2023-07-moonwell
 https://code4rena.com/reports/2023-07-nounsdao

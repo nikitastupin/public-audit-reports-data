@@ -22,6 +22,7 @@ https://raw.githubusercontent.com/kalos-xyz/Publications/main/audit-reports-engl
 https://raw.githubusercontent.com/kalos-xyz/Publications/main/audit-reports-english/%5BKALOS%5D%20RIGO%20v1.0%20(ENG).pdf
 https://raw.githubusercontent.com/kalos-xyz/Publications/main/audit-reports-english/%5BKALOS%5D%20Rodeo%20Finance%20Audit%20Report%20v2.1.pdf
 https://raw.githubusercontent.com/kalos-xyz/Publications/main/audit-reports-english/%5BKALOS%5D%20Rodeo%20Finance%20Audit%20Report.pdf
+https://raw.githubusercontent.com/kalos-xyz/Publications/main/audit-reports-english/%5BKALOS%5D%20Softnyx-kingdomNFT%20Audit%20Report%20v1.1%20(ENG).pdf
 https://raw.githubusercontent.com/kalos-xyz/Publications/main/audit-reports-english/%5BKALOS%5D%20StableComp%20Audit%20Report%20v1.1%20(ENG).pdf
 https://raw.githubusercontent.com/kalos-xyz/Publications/main/audit-reports-english/%5BKALOS%5D%20ZeroDev%20Wallet%20Kernel%202.1%20Audit%20Report-v1.0%20(ENG).pdf
 https://raw.githubusercontent.com/kalos-xyz/Publications/main/audit-reports-english/KALOS_ZeroDev_Wallet_Kernel_2_1_Lite_Audit_Report_v2_0_ENG.pdf
