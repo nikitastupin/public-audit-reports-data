@@ -35,6 +35,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Maia%20DAO%20Ulysse
 https://raw.githubusercontent.com/Zellic/publications/master/Mantle%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Matrixdock-STBT%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Maverick%20Protocol%20-%20Zellic%20Security%20Assessment%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Move%20and%20Sui%20Security%20Assessment%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Muni%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Odos%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/PancakeSwap%20Aptos%20-%20Zellic%20Audit%20Report.pdf

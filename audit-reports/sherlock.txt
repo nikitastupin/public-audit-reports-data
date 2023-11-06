@@ -77,6 +77,7 @@ https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2023.13.04%20-%20Final%20-%20Olympus%20Update%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2023.18.04%20-%20Final%20-%20Sense%20Update%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2023.19.04%20-%20Final%20-%20Taurus%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2023.21.09%20-%20Final%20-%20Allo%20V2%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2023.22.09%20-%20Final%20-%20Cooler%20Update%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2023.24.04%20-%20Final%20-%20Kairos%20Loan%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2023.25.06%20-%20Final%20-%20Real%20Wagmi%20Audit%20Report.pdf

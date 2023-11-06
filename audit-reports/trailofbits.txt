@@ -5,6 +5,7 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-0
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-07-mobilecoin-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-09-aleosystems-snarkvm-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-09-alphasoc-alphasocapi-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-09-dfinity-sns-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-09-incrementprotocol-fixreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-09-incrementprotocol-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-09-maplefinance-mapleprotocolv2-securityreview.pdf
@@ -45,6 +46,8 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-0
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-05-eclipse-jkube-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-05-franklintempleton-moneymarket-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-05-fraxgov-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-06-dfinity-ckBTC-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-06-dfinity-sns-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-06-thesistsslib-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-07-arcade-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-07-dappos-securityreview.pdf
@@ -56,7 +59,9 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-0
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-08-scroll-zkEVM-wave2-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-08-scrollL2geth-initial-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-08-scrollL2geth-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-09-elixir-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-09-wasmCloud-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-10-yolov7-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/88mph.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/API3.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/AcalaNetwork.pdf

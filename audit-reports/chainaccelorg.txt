@@ -10,3 +10,4 @@ https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2023-
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2023-09-06-cyfrin-woosh.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2023-09-19-cyfrin-stakepet.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2023-09-19-cyfrin-swapexchange.pdf
+https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2023-11-03-cyfrin-streamr-v2.0.pdf

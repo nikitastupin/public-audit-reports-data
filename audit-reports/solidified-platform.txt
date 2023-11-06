@@ -230,6 +230,7 @@ https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Repo
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Wyvern%20Exchange%20v2%20%5B03.07.18%5D.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Xaya%20Democrit.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Xaya.pdf
+https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20ether.fi.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20iComply%20%5B03.19.18%5D.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20iComply%20%5B10.10.2018%5D.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20kirobo%20%5B22.06.2021%5D.pdf
