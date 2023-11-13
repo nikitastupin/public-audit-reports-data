@@ -24,6 +24,7 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-1
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-12-curl-threatmodel.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-12-driftlabs-driftprotocol-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-12-openarchivesaveandroid-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-12-openvpn-openvpn2-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-12-paxos-paypal-pyusd-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-01-keda-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-01-ryanshea-noblecurveslibrary-securityreview.pdf
@@ -55,6 +56,7 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-0
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-07-sandclock-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-07-scroll-zktrie-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-08-digitalocean-oidc-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-08-flux-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-08-immutable-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-08-scroll-zkEVM-wave2-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-08-scrollL2geth-initial-securityreview.pdf

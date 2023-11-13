@@ -11,6 +11,8 @@ https://raw.githubusercontent.com/informalsystems/audits/main/Interlay/informal-
 https://raw.githubusercontent.com/informalsystems/audits/main/Interlay/informal-report-interlay-audit-2021Q3.pdf
 https://raw.githubusercontent.com/informalsystems/audits/main/Mars%20Protocol/2023-02-03%20Audit%20report%20-%20Mars%20Protocol%20Envoy%20module.pdf
 https://raw.githubusercontent.com/informalsystems/audits/main/Neutron/2023-04-06%20Audit%20Report%20-%20Neutron%20SDK%20DAO%20Wasmd%20TGE%20.pdf
+https://raw.githubusercontent.com/informalsystems/audits/main/Neutron/2023-11-05%20Audit%20Report%20-%20Neutron%20Smart%20Contracts%20-%20Overrule%20%2B%20Liquidity%20Migration.pdf
+https://raw.githubusercontent.com/informalsystems/audits/main/Neutron/2023-11-11%20Audit%20Report%20-%20Neutron%20-%20Duality%20v0.5.0%20%2B%20integration%20of%20Cosmos%20SDK%200.47.pdf
 https://raw.githubusercontent.com/informalsystems/audits/main/Osmosis/2023-06-23%20Audit%20Report%20-%20Osmosis%20Q2.pdf
 https://raw.githubusercontent.com/informalsystems/audits/main/Skip/2023-04-11%20Audit%20Report%20-%20Skip%20Mev%20Tendermint.pdf
 https://raw.githubusercontent.com/informalsystems/audits/main/Stride/2022-11-30%20Audit%20Report%20-%20Stride%20StakeIBC%20ICACallbacks.pdf

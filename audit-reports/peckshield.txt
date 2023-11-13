@@ -172,6 +172,7 @@ https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/P
 https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-MilkySwap-v1.0.pdf
 https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-Minterest-v1.0.pdf
 https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-MixToEarn-v1.0.pdf
+https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-Mu-v1.0.pdf
 https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-Mushrooms-v1.0.pdf
 https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-MyDeFiPet-v1.0.pdf
 https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-NBC-v1.0.pdf
@@ -240,6 +241,7 @@ https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/P
 https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-Ribbon-v1.0.pdf
 https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-Rikkei-v1.0.pdf
 https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-RoeFinance-v1.0.pdf
+https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-Rollup-v1.0.pdf
 https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-RosePad-v1.0.pdf
 https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-SSAP-v1.0.pdf
 https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-SZNS-v1.0.pdf

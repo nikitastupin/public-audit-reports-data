@@ -40,6 +40,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Cover%20Protocol
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Curve%20Finance/Curve%20Stablecoin%20(crvUSD)/Curve%20Stablecoin%20(crvUSD)%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Curve%20Finance/DAO%20Voting%20Forwarder/Curve%20Finance%20DAO%20Voting%20Forwarder%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Curve%20Finance/DAO%20Voting/Curve%20Finance%20DAO%20Voting%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Curve%20Finance/StableSwapNG/Curve%20Finance%20StableSwapNG%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Defi%20Starter/DefiStarter%20Smart%20Contracts/report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Empower%20the%20DAO/Empower%20the%20DAO%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Enso%20Finance/Enso%20Wallet/Enso%20Wallet%20Security%20Audit%20Report.pdf
