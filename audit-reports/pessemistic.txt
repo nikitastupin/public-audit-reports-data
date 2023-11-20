@@ -65,8 +65,17 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/Paladin%20Dullahan%
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Paladin%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Parsiq%20Token%20Security%20Audit%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/PlasmaFinance%20Quadrat%20Booster%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/PowerPool%20Agent%20Security%20Analysis%20by%20Pessimistic%20(11.08.2023).pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/PowerPool%20Agent%20Security%20Analysis%20by%20Pessimistic%20(24.05.2023).pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/PowerPool%20Agent%20Security%20Analysis%20by%20Pessimistic%20(26.07.2023).pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/PowerPool%20Balancer%20Connectors%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/PowerPool%20CVP%20Bridge%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/PowerPool%20Erc20VaultSwap%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/PowerPool%20Lending%20Security%20Audit%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/PowerPool%20PVP%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/PowerPool%20Tornado%20Connector%20%26%20Router%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/PowerPool%20Vesting%20Security%20Audit%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Powerpool%20Vaults%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/ReWind%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/RealFevr%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Recovery%20Crypto%20Security%20Analysis%20by%20Pessimistic.pdf
