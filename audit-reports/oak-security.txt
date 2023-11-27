@@ -148,7 +148,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/master/TerraSwap%20
 https://raw.githubusercontent.com/oak-security/audit-reports/master/WhiteWhale/Audit%20Report%20-%20White%20Whale.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Wormhole/2023-07-06%20Audit%20Report%20-%20Wormhole%20Token%20Translator%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/XM/XM%20EBBS%20Stamp.pdf
-https://raw.githubusercontent.com/oak-security/audit-reports/master/pNetwork/20200915_pNetwork%20DAO%20staking%2Breward%20audit.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/master/pNetwork/20200915_pNetwork DAO staking+reward audit.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/pTokens/20200302_Audit_Report_pToken.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/pTokens/20200424_pToken%20-%20Bridge%20pBTC%20on%20EOS.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/pTokens/20200916_pTokens%20Bridges%20Ongoing%20Audit%20Report.pdf

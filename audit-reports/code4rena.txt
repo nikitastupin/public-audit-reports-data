@@ -244,3 +244,5 @@ https://code4rena.com/reports/2023-08-verwa
 https://code4rena.com/reports/2023-09-centrifuge
 https://code4rena.com/reports/2023-09-delegate
 https://code4rena.com/reports/2023-09-ondo
+https://code4rena.com/reports/2023-10-brahma
+https://code4rena.com/reports/2023-10-canto

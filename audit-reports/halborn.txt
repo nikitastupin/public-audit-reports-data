@@ -160,6 +160,7 @@ https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/Oraichain_Oracle_audit_Halborn_v1.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/Oraichain_aiVaultORAI_audit_Halborn_v1_1.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/Oraichain_controller_and_vault_audit_Halborn_v1_3.pdf
+https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/Orion_Liquidity_Aggregator_Smart_Contract_Security_Assessment_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/Pangolin_AllocationVester_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/Pangolin_Exchange_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solidity%20Smart%20Contract%20Audits/Pangolin_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf

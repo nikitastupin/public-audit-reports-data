@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/solidified-platform/audits/master/Audit Report - Trident Gold [08%2F20%2F2018].pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20%20Betoken%20%5B20.05.2019%5D.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20%20OB1%20Rewards%20%5B06.03.2019%5D.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20%20Polymath%20-%20Patches%20for%20GeneralTransferManger%2C%20CountTransferManager%20and%20ManualApprovalManager%20%5B14.03.19%5D.pdf
@@ -212,7 +213,6 @@ https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Repo
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Topl%20%5B08.14.2018%5D.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Tower%20NFT%20Payout%20%5B19%20April%2022%5D.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Transak%20%5B24.11.2022%5D.pdf
-https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Trident%20Gold%20%5B08%252F20%252F2018%5D.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20TrueFi%20Helium.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Turms%20Message%20Transport%20%5B19.03.2019%5D.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20USM%20%5B10.12.2020%5D.pdf

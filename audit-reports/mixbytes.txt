@@ -66,6 +66,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Withdrawals
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/WstETH/Lido%20WstETH%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/stETH%20Price%20Feed/Lido%20stETH%20Price%20Feed%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/stETH%20Price%20Oracle/Lido%20stETH%20price%20oracle%20Security%20Audit%20Report%20(merged).pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Mantle%20Network/Mantle%20Network%20METH%20Secuity%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Mellow%20Finance/Mellow%20Finance%20SCA.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/NuCypher/NuCypher%20PoolingStakingContractV2%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Opium%20Protocol/Opium%20Network%20Protocol%20v1%20Security%20Audit%20Report.pdf
