@@ -154,6 +154,7 @@ https://code4rena.com/reports/2022-09-canto
 https://code4rena.com/reports/2022-09-frax
 https://code4rena.com/reports/2022-09-nouns-builder
 https://code4rena.com/reports/2022-09-party
+https://code4rena.com/reports/2022-09-quickswap
 https://code4rena.com/reports/2022-09-tribe
 https://code4rena.com/reports/2022-09-vtvl
 https://code4rena.com/reports/2022-09-y2k-finance
@@ -179,6 +180,7 @@ https://code4rena.com/reports/2022-12-backed
 https://code4rena.com/reports/2022-12-caviar
 https://code4rena.com/reports/2022-12-escher
 https://code4rena.com/reports/2022-12-forgeries
+https://code4rena.com/reports/2022-12-forgotten-runiverse
 https://code4rena.com/reports/2022-12-gogopool
 https://code4rena.com/reports/2022-12-pooltogether
 https://code4rena.com/reports/2022-12-prepo
@@ -229,6 +231,7 @@ https://code4rena.com/reports/2023-06-lybra
 https://code4rena.com/reports/2023-06-reserve
 https://code4rena.com/reports/2023-06-stader
 https://code4rena.com/reports/2023-07-arcade
+https://code4rena.com/reports/2023-07-axelar
 https://code4rena.com/reports/2023-07-basin
 https://code4rena.com/reports/2023-07-moonwell
 https://code4rena.com/reports/2023-07-nounsdao
@@ -243,6 +246,8 @@ https://code4rena.com/reports/2023-08-shell
 https://code4rena.com/reports/2023-08-verwa
 https://code4rena.com/reports/2023-09-centrifuge
 https://code4rena.com/reports/2023-09-delegate
+https://code4rena.com/reports/2023-09-maia
 https://code4rena.com/reports/2023-09-ondo
+https://code4rena.com/reports/2023-09-venus
 https://code4rena.com/reports/2023-10-brahma
 https://code4rena.com/reports/2023-10-canto

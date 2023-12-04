@@ -17,7 +17,9 @@ https://raw.githubusercontent.com/kalos-xyz/Publications/main/audit-reports-engl
 https://raw.githubusercontent.com/kalos-xyz/Publications/main/audit-reports-english/%5BHAECHI%20AUDIT%5D%20Sygma%20Audit%20Report.pdf
 https://raw.githubusercontent.com/kalos-xyz/Publications/main/audit-reports-english/%5BHAECHI%20AUDIT%5D%20Yeti%20Finance%20Smart%20Contract%20Audit%20Report.pdf
 https://raw.githubusercontent.com/kalos-xyz/Publications/main/audit-reports-english/%5BKALOS%5D%20DFX%20Finance%20v2%20Audit%20Report.pdf
+https://raw.githubusercontent.com/kalos-xyz/Publications/main/audit-reports-english/%5BKALOS%5D%20DFX%20Finance%20v3%20Audit%20Report%20v1.1.pdf
 https://raw.githubusercontent.com/kalos-xyz/Publications/main/audit-reports-english/%5BKALOS%5D%20IntellaX-gasless%20Audit%20Report%20v1.0%20(ENG).pdf
+https://raw.githubusercontent.com/kalos-xyz/Publications/main/audit-reports-english/%5BKALOS%5D%20Iskra%20Bridge%20Audit%20Report%20v2.0%20(ENG)%20(1).pdf
 https://raw.githubusercontent.com/kalos-xyz/Publications/main/audit-reports-english/%5BKALOS%5D%20Meter%20Liquid%20Staking%20v1.1%20(ENG).pdf
 https://raw.githubusercontent.com/kalos-xyz/Publications/main/audit-reports-english/%5BKALOS%5D%20RIGO%20v1.0%20(ENG).pdf
 https://raw.githubusercontent.com/kalos-xyz/Publications/main/audit-reports-english/%5BKALOS%5D%20Rodeo%20Finance%20Audit%20Report%20v2.1.pdf
@@ -25,6 +27,7 @@ https://raw.githubusercontent.com/kalos-xyz/Publications/main/audit-reports-engl
 https://raw.githubusercontent.com/kalos-xyz/Publications/main/audit-reports-english/%5BKALOS%5D%20Softnyx-kingdomNFT%20Audit%20Report%20v1.1%20(ENG).pdf
 https://raw.githubusercontent.com/kalos-xyz/Publications/main/audit-reports-english/%5BKALOS%5D%20StableComp%20Audit%20Report%20v1.1%20(ENG).pdf
 https://raw.githubusercontent.com/kalos-xyz/Publications/main/audit-reports-english/%5BKALOS%5D%20ZeroDev%20Wallet%20Kernel%202.1%20Audit%20Report-v1.0%20(ENG).pdf
+https://raw.githubusercontent.com/kalos-xyz/Publications/main/audit-reports-english/%5BKALOS%5D%20Zerodev%20Wallet%20Kernel%201.0%20Audit%20Report-v1.0%20(ENG).pdf
 https://raw.githubusercontent.com/kalos-xyz/Publications/main/audit-reports-english/KALOS_ZeroDev_Wallet_Kernel_2_1_Lite_Audit_Report_v2_0_ENG.pdf
 https://raw.githubusercontent.com/kalos-xyz/Publications/main/audit-reports-english/Scroll_zkEVM_-_Audit_Report.pdf
 https://raw.githubusercontent.com/kalos-xyz/Publications/main/audit-reports-english/Scroll_zkEVM_-_Part_2_-_Audit_Report.pdf

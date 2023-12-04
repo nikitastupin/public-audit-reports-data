@@ -17,6 +17,7 @@ https://raw.githubusercontent.com/Dedaub/audits/main/Ethereum%20Foundation/EIP-3
 https://raw.githubusercontent.com/Dedaub/audits/main/Ethereum%20Foundation/Receipts%20%26%20Transactions%20SSZ%20Root%20Impact%20Study.pdf
 https://raw.githubusercontent.com/Dedaub/audits/main/Ethereum%20Foundation/Selfdestruct%20Study.pdf
 https://raw.githubusercontent.com/Dedaub/audits/main/Ethereum%20Foundation/Verkle%20gas%20cost%20changes%20insights.pdf
+https://raw.githubusercontent.com/Dedaub/audits/main/Follows%20App/Follows.app%20Audit%20-%20Oct%20'23.pdf
 https://raw.githubusercontent.com/Dedaub/audits/main/Furucombo/Furucombo%20smart%20wallet%20and%20gelato%20audit%20Sep%2021.pdf
 https://raw.githubusercontent.com/Dedaub/audits/main/GMX/GMX%20Audit%20-%20Oct%20'22.pdf
 https://raw.githubusercontent.com/Dedaub/audits/main/GYSR/GYSR%20-%20Mar%20'23.pdf

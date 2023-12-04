@@ -33,6 +33,7 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/eco/ABDK_Eco_Phase
 https://raw.githubusercontent.com/abdk-consulting/audits/main/edgeswap/ABDK_EdgeSwap_Circuit_v_1_0%20.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/edgeswap/ABDK_EdgeSwap_Solidity_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/elephantslab/ABDK_ElephantsLab_OctoGamexNFTBridge_v_2_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/enso/ABDK_Enso_ShortcutRouter_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/equation/ABDK_Equation_EquationDAO_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/equihashnano/ABDK-Nano-Equihash-Report.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/esports/eSports%20Token%20Contract_%20Review.pdf
@@ -84,6 +85,8 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/set/Set%20Smart%20
 https://raw.githubusercontent.com/abdk-consulting/audits/main/set/Set%20Smart%20Contract.%20Review%20May%202018.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/shping/Shping%20Smart%20Contract.%20Version%202.%20Review.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/spectral/ABDK_Spectral_Spectral_finance_v_1_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/starkware/ABDK_StarkWare_Perpetual_V3_1_v_1_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/starkware/ABDK_StarkWare_Perpetual__V3_2_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/synchrocoin/Synchrocoin%20Smart%20Contract.%20Review.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/tats/TATS%20Smart%20Contract.%20Final%20Review.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/term_structure/ABDK_TermStructure_Circom_v_1_0.pdf

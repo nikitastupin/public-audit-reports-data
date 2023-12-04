@@ -28,6 +28,7 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/DeFi%20Plaza%20Secu
 https://raw.githubusercontent.com/pessimistic-io/audits/main/DeFiPie%20Security%20Audit%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/DeFireX%20Security%20Audit%20by%20Pessimistic%20Public.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/DeNet%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/DefiPlaza%20Radix%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/DexSport%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Dexdao%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Ember%20Security%20Audit%20by%20Pessimistic.pdf

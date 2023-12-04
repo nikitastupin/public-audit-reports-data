@@ -30,11 +30,13 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-0
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-01-ryanshea-noblecurveslibrary-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-02-chainport-fixreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-02-chainport-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-02-eclipse-mosquitto-lightweight-threatmodel.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-02-ryanshea-practicalstealthaddresses-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-02-solana-token-2022-program-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-02-succinct-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-03-atlendis-atlendissmartcontracts-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-03-eclipse-jetty-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-03-eclipse-mosquitto-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-03-eleutherai-huggingface-safetensors-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-03-primitive-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-03-spool-platformv2-securityreview.pdf
@@ -43,6 +45,7 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-0
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-04-ajnalabs-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-04-chainflip-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-04-mysoloans-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-04-scroll-zkEVM-wave1-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-04-tempus-raft-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-05-eclipse-jkube-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-05-franklintempleton-moneymarket-securityreview.pdf
@@ -65,6 +68,7 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-0
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-09-elixir-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-09-hyperlane-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-09-pypi-warehouse-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-09-scroll-zkEVM-wave3-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-09-uniswap-wallet-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-09-wasmCloud-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-10-yolov7-securityreview.pdf
