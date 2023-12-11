@@ -12,6 +12,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/AAVE/Governance%
 https://raw.githubusercontent.com/mixbytes/audits_public/master/AAVE/Governance%20Crosschain%20Bridges%20V3/Governance%20Crosschain%20Bridges%20V3%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/AAVE/Incentives%20Proposal/Aave%20Incentives%20Proposal%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/AAVE/ParaSwap%20Adapter/ParaSwap%20Adapter%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/AAVE/Voting%20Tokens/AAVE%20Voting%20Tokens%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/AAVE/protocol%20v2/report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Abyss%20Finance/Abyss%20Eth2%20Depositor/AbyssEth2Depositor%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Abyss%20Finance/Abyss%20LockUp/AbyssLockup%20Security%20Audit%20Report.pdf

@@ -18,6 +18,7 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/Babylon%20Security%
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Beam%20DAO%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Beam%20Swaps%20Security%20Audit%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Beam%20Upgradeable%20DAO%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Bebop%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Blockchain%20Testament%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Brydge%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/CPOOL%20Security%20Analysis%20by%20Pessimistic.pdf
@@ -45,6 +46,7 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/Jupiter%20Security%
 https://raw.githubusercontent.com/pessimistic-io/audits/main/KickToken%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Krystal%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/KyberPool%20Security%20Audit%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Lido%20Stonks%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/LiquiFi%20Security%20Audit%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Locus%20Arbitrum%20Strategies%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Locus%20Security%20Analysis%20by%20Pessimistic.pdf
@@ -103,6 +105,7 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/THX%20Security%20An
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Tornado.Cash%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Via%20Protocol%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/VirtuSwap%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Work%20X%20Token%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/XDAO%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/YFValue%20Security%20Audit%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/xDao%202%20Security%20Recheck.pdf

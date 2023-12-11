@@ -1,5 +1,6 @@
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/0x-protocol.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2021-04-balancer-balancerv2-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-03-maplefinance-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-07-beanstalk-fixreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-07-beanstalk-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-07-mobilecoin-securityreview.pdf
@@ -56,6 +57,7 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-0
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-07-arcade-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-07-dappos-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-07-dragonfly2-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-07-liskv4.0-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-07-sandclock-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-07-scroll-zktrie-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-08-digitalocean-oidc-securityreview.pdf
@@ -67,10 +69,13 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-0
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-08-scrollL2geth-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-09-elixir-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-09-hyperlane-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-09-lisksdk-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-09-pypi-warehouse-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-09-scroll-zkEVM-wave3-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-09-uniswap-wallet-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-09-wasmCloud-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-10-aleo-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-10-squadsv4-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-10-yolov7-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/88mph.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/API3.pdf
