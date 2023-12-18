@@ -105,6 +105,7 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/THX%20Security%20An
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Tornado.Cash%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Via%20Protocol%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/VirtuSwap%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Weft%20Finance%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Work%20X%20Token%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/XDAO%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/YFValue%20Security%20Audit%20by%20Pessimistic.pdf

@@ -21,6 +21,7 @@ https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Llama-Spearbit-
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Locke-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/LooksRare-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/MapleV2.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Matter-labs-snark-wrapper-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Morpho-Av3-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Morpho-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/MorphoV1-Spearbit-Security-Review.pdf
@@ -34,6 +35,7 @@ https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Primitive-Spear
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Seadrop-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Seaport-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Sense-Spearbit-Security-Review.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Sphinx-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Sudoswap-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/SudoswapLSSVM2-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Timeless-Spearbit-Security-Review.pdf

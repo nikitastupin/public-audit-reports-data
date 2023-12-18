@@ -13,3 +13,4 @@ https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2023-
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2023-11-03-cyfrin-streamr-v2.0.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2023-11-05-cyfrin-farcaster-v1.0.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2023-11-10-cyfrin-dexe-v2.0.pdf
+https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2023-11-20-cyfrin-mode-earnm-v2.0.pdf

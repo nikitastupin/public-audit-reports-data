@@ -17,6 +17,7 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/blockswap/ABDK_Blo
 https://raw.githubusercontent.com/abdk-consulting/audits/main/brink/ABDK_Brink_Solidity_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/chainflip/ABDK_Chainflip_ChainFlip_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/chainflip/ABDK_Chainflip_Solidity_v_1_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/chi/ABDK_Chi_ChiProtocol_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/chronicle/ABDK_Chronicle_ChronicleProtocol_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/cmta/ABDK-CMTAT-audit-20210910.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/cmta/ABDK_CMTA_CMTATRuleEngine_v_1_0.pdf
@@ -44,6 +45,8 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/exactly/ABDK_Exact
 https://raw.githubusercontent.com/abdk-consulting/audits/main/forwarder/Forwarder%20Smart%20Contract.%20Audit.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/gambit/ABDK_Gambit_Orderbook_Solidity_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/gambit/ABDK_Gambit_Solidity_v_1_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/gearbox/ABDK_Gearbox_CoreV3_v_3_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/gearbox/ABDK_Gearbox_Oracles_v_3_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/gossamercontractwallet/GossamerContractWallet.%20Audit.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/harbor/Harbor%20Smart%20Contract.%20Review%20July%202018.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/harbor/Harbor%20Smart%20Contracts.%20Review%20March%202019.pdf
@@ -74,6 +77,7 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/primitive/ABDK_Pri
 https://raw.githubusercontent.com/abdk-consulting/audits/main/proxima_capital/ABDK_ProximaCapital_Vault_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/railgun/ABDK_Railgun_CircomSolidity_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/redstone/ABDK_RedStone_Oracle_v_2_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/redstone/ABDK_RedStone_OraclesMonorepo_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/relevant/ABDK_Relevant_Solidity_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/reservoirfi/ABDK_ReservoirFi_AMMCore_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/rift/ABDK_Rift_RiftProtocol_v_1_0.pdf

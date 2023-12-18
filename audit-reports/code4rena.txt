@@ -202,6 +202,7 @@ https://code4rena.com/reports/2023-01-timeswap
 https://code4rena.com/reports/2023-02-ethos
 https://code4rena.com/reports/2023-02-kuma
 https://code4rena.com/reports/2023-02-malt
+https://code4rena.com/reports/2023-03-aragon
 https://code4rena.com/reports/2023-03-asymmetry
 https://code4rena.com/reports/2023-03-canto-identity
 https://code4rena.com/reports/2023-03-mute
@@ -233,6 +234,7 @@ https://code4rena.com/reports/2023-06-stader
 https://code4rena.com/reports/2023-07-arcade
 https://code4rena.com/reports/2023-07-axelar
 https://code4rena.com/reports/2023-07-basin
+https://code4rena.com/reports/2023-07-lens
 https://code4rena.com/reports/2023-07-moonwell
 https://code4rena.com/reports/2023-07-nounsdao
 https://code4rena.com/reports/2023-07-pooltogether
@@ -252,4 +254,7 @@ https://code4rena.com/reports/2023-09-venus
 https://code4rena.com/reports/2023-10-brahma
 https://code4rena.com/reports/2023-10-canto
 https://code4rena.com/reports/2023-10-ens
+https://code4rena.com/reports/2023-10-wildcat
 https://code4rena.com/reports/2023-11-betafinance
+https://code4rena.com/reports/2023-11-canto
+https://code4rena.com/reports/2023-11-kelp

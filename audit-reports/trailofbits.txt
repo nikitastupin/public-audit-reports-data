@@ -47,6 +47,7 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-0
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-04-chainflip-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-04-mysoloans-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-04-scroll-zkEVM-wave1-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-04-smardexamm-realestateexecutives-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-04-tempus-raft-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-05-eclipse-jkube-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-05-franklintempleton-moneymarket-securityreview.pdf

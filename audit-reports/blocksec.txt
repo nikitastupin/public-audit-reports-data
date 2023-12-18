@@ -28,6 +28,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_aloe_1.1_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_alpaca_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_arken_v1.0-signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_cakepie_2nd_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_cakepie_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_coordinape_v1.1_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_crossearn_v1.0_signed.pdf
@@ -40,6 +41,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/block
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_filda_dao_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_firnprotocol_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_fyllo_v1.1-signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_glorifinance_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_impossible_finance_swap_v1.2.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_latteswap_flat_v1.1.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_loansnap_baconcoin_v1.0.pdf
