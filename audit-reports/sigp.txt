@@ -43,6 +43,7 @@ https://raw.githubusercontent.com/sigp/public-audits/master/lido/lido-dc4bc/revi
 https://raw.githubusercontent.com/sigp/public-audits/master/lido/lido-easy-track/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/lido/lido/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/linkpool/linkpool-2/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/lyra-finance/review-round2.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/lyra-finance/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/mantle/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/near/review.pdf

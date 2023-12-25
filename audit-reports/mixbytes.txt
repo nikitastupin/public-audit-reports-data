@@ -73,6 +73,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/NuCypher/NuCyphe
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Opium%20Protocol/Opium%20Network%20Protocol%20v1%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/ETH2%20Depositor%20&%20ETH%20Staking%20Fee%20Distributor%20(v.1)/P2P.org_ETH2%20Depositor%20&%20ETH%20Staking%20Fee%20Distributor%20Smart%20Contracts%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/ETH2%20Depositor%20&%20ETH%20Staking%20Fee%20Distributor%20(v.2)/ETH2%20Depositor%20&%20ETH%20Staking%20Fee%20Distributor%20Security%20Audit%20Report%20(v.2).pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/SSV%20Integration/P2P.org%20SSV%20Integration%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Pickle%20Finance/All%20Strategies/Pickle%20Finance%20All%20Stratagies%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Pickle%20Finance/Strategy-Curve-scrv-v4_1/Pickle%20Finance%20Strategy-Curve-scrv-v4_1%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/PieDAO/ExperiPie/PieDAO%20Experipie%20Security%20Audit%20Report.pdf

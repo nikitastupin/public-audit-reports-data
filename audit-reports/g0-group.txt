@@ -5,6 +5,7 @@ https://raw.githubusercontent.com/g0-group/Audits/master/AzuroJan2023.pdf
 https://raw.githubusercontent.com/g0-group/Audits/master/ConfirmedTransactionsOct2020.pdf
 https://raw.githubusercontent.com/g0-group/Audits/master/CowAllocationModuleJul2022.pdf
 https://raw.githubusercontent.com/g0-group/Audits/master/CowTwapOrdersJan2023.pdf
+https://raw.githubusercontent.com/g0-group/Audits/master/CowswapOrderSignerDec2023.pdf
 https://raw.githubusercontent.com/g0-group/Audits/master/ETHFlowContractsOct2022.pdf
 https://raw.githubusercontent.com/g0-group/Audits/master/FloozTrade2021Oct.pdf
 https://raw.githubusercontent.com/g0-group/Audits/master/FloozTradeMultichain2021Oct.pdf
@@ -36,6 +37,7 @@ https://raw.githubusercontent.com/g0-group/Audits/master/HatsFinance2021Jul.pdf
 https://raw.githubusercontent.com/g0-group/Audits/master/HatsFinanceOct2022.pdf
 https://raw.githubusercontent.com/g0-group/Audits/master/HatsUpdateFeb2023.pdf
 https://raw.githubusercontent.com/g0-group/Audits/master/KiroboJul2021.pdf
+https://raw.githubusercontent.com/g0-group/Audits/master/MechDec2023.pdf
 https://raw.githubusercontent.com/g0-group/Audits/master/MilkmanNov2022.pdf
 https://raw.githubusercontent.com/g0-group/Audits/master/MinterKiroboSep2020.pdf
 https://raw.githubusercontent.com/g0-group/Audits/master/NibblFeb2022.pdf
