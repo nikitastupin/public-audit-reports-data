@@ -38,6 +38,7 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/Fananees%20NFT%20Se
 https://raw.githubusercontent.com/pessimistic-io/audits/main/GGMT%20ERC20%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/GGMV%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/GYSR%20Security%20Audit%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/HodlessBotToken%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Holyheld%20Security%20Audit%20Report%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/IQ%20Protocol%20V2%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/IQ%20Token%20Security%20Analysis%20by%20Pessimistic.pdf

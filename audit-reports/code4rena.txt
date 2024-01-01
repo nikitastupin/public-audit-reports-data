@@ -241,6 +241,7 @@ https://code4rena.com/reports/2023-07-pooltogether
 https://code4rena.com/reports/2023-07-reserve
 https://code4rena.com/reports/2023-07-tapioca
 https://code4rena.com/reports/2023-08-arbitrum
+https://code4rena.com/reports/2023-08-dopex
 https://code4rena.com/reports/2023-08-goodentry
 https://code4rena.com/reports/2023-08-livepeer
 https://code4rena.com/reports/2023-08-pooltogether
