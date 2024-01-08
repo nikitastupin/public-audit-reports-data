@@ -261,3 +261,4 @@ https://code4rena.com/reports/2023-10-wildcat
 https://code4rena.com/reports/2023-11-betafinance
 https://code4rena.com/reports/2023-11-canto
 https://code4rena.com/reports/2023-11-kelp
+https://code4rena.com/reports/2023-11-shellprotocol

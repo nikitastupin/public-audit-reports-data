@@ -12,6 +12,7 @@ https://raw.githubusercontent.com/cystack/security-audit-reports/main/smart-cont
 https://raw.githubusercontent.com/cystack/security-audit-reports/main/smart-contracts/NFT5%20-%20v1.3-vi.pdf
 https://raw.githubusercontent.com/cystack/security-audit-reports/main/smart-contracts/ONUS%20Launchpad%20-%20v1.2.pdf
 https://raw.githubusercontent.com/cystack/security-audit-reports/main/smart-contracts/ONUS%20Token%20-%20v1.2.pdf
+https://raw.githubusercontent.com/cystack/security-audit-reports/main/smart-contracts/Oquity%20-%20v1.1.pdf
 https://raw.githubusercontent.com/cystack/security-audit-reports/main/smart-contracts/RICE%20-%20v1.2.pdf
 https://raw.githubusercontent.com/cystack/security-audit-reports/main/smart-contracts/TORUM%20NFT%20-%20v1.2.pdf
 https://raw.githubusercontent.com/cystack/security-audit-reports/main/smart-contracts/VIDB%20-%20v1.0.pdf
