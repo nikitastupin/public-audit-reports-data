@@ -14,6 +14,7 @@ https://raw.githubusercontent.com/Credshields/Audit-Reports/main/DeVoTokenFinalR
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/DevoWhiteListFinalReport.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Final%20Report%20pStake%20Smart%20Contract%20Audit.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/FoundersLabFinalReport.pdf
+https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Gitopia%20Blockchain%20Final%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Ideology%20Final%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/JayDeriv_SC_Audit_report.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/JayPeggers%20Final%20Audit%20Report.pdf
@@ -28,6 +29,7 @@ https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Noft%20Game%20A
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Obius_SmartContract_audit.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/PePay_SmartContract_Audit.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Quest_Contract_final_audit_report.pdf
+https://raw.githubusercontent.com/Credshields/Audit-Reports/main/RDGX_Final_Audit_report.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Rove_Token_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/SWYP_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/Audit-Reports/main/Solace%20Final%20Audit%20Report.pdf

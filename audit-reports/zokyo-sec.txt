@@ -8,6 +8,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/AngelBlock/AngelB
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/ArtMeta/ArtMeta_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/BobaNetwork/Boba%20Network_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/CVI/CVI_Zokyo_audit_report_30thNov_2023.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Curra/Curra_Zokyo_audit_report_Jan4th_2024.pdf.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/DPEX/DPEX_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/DPNMDEFI/DPNMDEFI_Zokyoauditreport_14March_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Ethlas/Ethlas_Zokyo_audit_report_26th_April_2023.pdf

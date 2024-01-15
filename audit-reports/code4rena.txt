@@ -256,7 +256,9 @@ https://code4rena.com/reports/2023-10-brahma
 https://code4rena.com/reports/2023-10-canto
 https://code4rena.com/reports/2023-10-ens
 https://code4rena.com/reports/2023-10-ethena
+https://code4rena.com/reports/2023-10-nextgen
 https://code4rena.com/reports/2023-10-opendollar
+https://code4rena.com/reports/2023-10-party
 https://code4rena.com/reports/2023-10-wildcat
 https://code4rena.com/reports/2023-11-betafinance
 https://code4rena.com/reports/2023-11-canto

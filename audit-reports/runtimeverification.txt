@@ -4,6 +4,7 @@ https://raw.githubusercontent.com/runtimeverification/publications/main/reports/
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/consensus-protocols/Ethereum-BeaconChain.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/consensus-protocols/Ethereum-Casper.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/consensus-protocols/Ethereum-Gasper.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/consensus-protocols/MultiversX-Async-Calls-V2.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/consensus-protocols/PlatON-Giskard.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Alchemix_v2.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Algodex_Dec.pdf

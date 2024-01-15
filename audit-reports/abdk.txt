@@ -70,6 +70,7 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/muffin/ABDK_Muffin
 https://raw.githubusercontent.com/abdk-consulting/audits/main/muffin/ABDK_Muffin_Periphery_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/mystiko/ABDK_Mystiko_Solidity_ZoKrates_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/notional/ABDK_NotionalV2_Solidity_v_1_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/othernet_global_pte_ltd/ABDK_OthernetGlobalPTELTD_SaltyIO_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/pandifi/ABDK_PandiFi_Soliditi_v_4_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/paragoncoin/ParagonCoin%20Token%20Contract_%20Review.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/peeritycoin/PeerityCoin%20Token%20Contract_Review.pdf
