@@ -80,6 +80,7 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/PowerPool%20PVP%20S
 https://raw.githubusercontent.com/pessimistic-io/audits/main/PowerPool%20Tornado%20Connector%20%26%20Router%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/PowerPool%20Vesting%20Security%20Audit%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Powerpool%20Vaults%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Rarible%20Migration%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/ReWind%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/RealFevr%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Recovery%20Crypto%20Security%20Analysis%20by%20Pessimistic.pdf
@@ -108,6 +109,7 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/Via%20Protocol%20Se
 https://raw.githubusercontent.com/pessimistic-io/audits/main/VirtuSwap%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Weft%20Finance%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Work%20X%20Token%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/WorkX%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/XDAO%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/YFValue%20Security%20Audit%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/xDao%202%20Security%20Recheck.pdf

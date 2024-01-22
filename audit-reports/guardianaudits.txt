@@ -3,6 +3,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/Ambit/2023-12-06_Am
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/BeefyFinance_StrategyGeistEth_Audit.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Bridges/Bridges_Exchange_Audit_1.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Bridges/Bridges_Exchange_Audit_2.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Dolomite/2023-01-11_Dolomite.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/GMX/2022-10-24_GMX_Synthetics.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/GMX/2023-01-08_GMX_Synthetics.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/GMX/2023-03-15_GMX_Synthetics.pdf
@@ -16,6 +17,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/GMX/2023-09-18_GMX_
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/GMX/2023-09-20_Chainlink_Automations.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/GMX/2023-10-23_GMX_Migration.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/GMX/2023-12-17_GMX_Governance.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/GMX/2024-01-16_GMX_Config.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/HamstersOfOpera_Guardian_Audit.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/IVX/09-13-2023-IVX.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/IceBearSociety_Audit.pdf
@@ -24,7 +26,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/Key_Finance_Audit.p
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/NFTR/NFTR_Audit.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/NFTR/NFTR_Market_Audit.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/NFTR/NFTR_Naming_Credits_Audit.pdf
-https://raw.githubusercontent.com/GuardianAudits/Audits/main/Orderly/2023-10-25-Orderly.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Orderly/2023-10-25_Orderly.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/PariFi/09-03-2023-PariFi.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/PariFi/11-15-2023_PariFi.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Poolshark/Poolshark_Cover_Audit.pdf

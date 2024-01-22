@@ -77,9 +77,11 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-0
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-09-uniswap-wallet-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-09-wasmCloud-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-10-aleo-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-10-saltyio-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-10-squadsv4-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-10-yolov7-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-11-immutable-zkevmbridgecontracts-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-12-unibot-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/88mph.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/API3.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/AcalaNetwork.pdf
@@ -181,6 +183,7 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/argo-t
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/arweave-randomx.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/aztec.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/basis.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/celo-oracle.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/chai-loa.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/compound-2.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/compound-3.pdf

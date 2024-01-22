@@ -4,6 +4,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Arpeggi_Labs_-_Zell
 https://raw.githubusercontent.com/Zellic/publications/master/Asymmetry%20Finanace%20safETH%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Audius%20EVM%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Audius%20Solana%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Biconomy%20Secp256r1%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Biconomy%20Smart%20Account%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Bond%20Protocol%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/BrahmaFi%20-%20Zellic%20Audit%20Report.pdf
@@ -18,6 +19,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Empiric%20Oracle%20
 https://raw.githubusercontent.com/Zellic/publications/master/EtherFi_-_Zellic_Audit_Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Fractal%20Protocol%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/GoGoPool%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/GotSui%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Horizon%20Sequence%20Wallet%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Hyperliquid%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Jarvis%20Network%20Synthereum%20-%20Zellic%20Audit%20Report.pdf

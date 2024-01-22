@@ -264,3 +264,4 @@ https://code4rena.com/reports/2023-11-betafinance
 https://code4rena.com/reports/2023-11-canto
 https://code4rena.com/reports/2023-11-kelp
 https://code4rena.com/reports/2023-11-shellprotocol
+https://code4rena.com/reports/2023-12-initcapital

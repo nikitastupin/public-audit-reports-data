@@ -36,3 +36,4 @@ https://raw.githubusercontent.com/yAudit/reports/main/12-2022-GET-Protocol-Staki
 https://raw.githubusercontent.com/yAudit/reports/main/12-2022-Gro-Protocol-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/12-2022-LlamaPay-V2-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/12-2022-RageTrade-yAudit-Report.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/12-2023-Euler-EVC.pdf
