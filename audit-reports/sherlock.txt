@@ -84,6 +84,7 @@ https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2023.11.14%20-%20Final%20-%20Perennial%20V2%20Update%201%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2023.11.25%20-%20Final%20-%20Notional%20Update%204%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2023.11.29%20-%20Final%20-%20Convergence%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2023.12.24%20-%20Final%20-%20DODO%20GSP%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2023.13.04%20-%20Final%20-%20Olympus%20Update%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2023.17.12%20-%20Final%20-%20Footium%20Update%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2023.18.04%20-%20Final%20-%20Sense%20Update%20Audit%20Report.pdf
@@ -94,3 +95,5 @@ https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2023.25.06%20-%20Final%20-%20Real%20Wagmi%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2023.25.12%20-%20Final%20-%20Layer3%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2023.27.10%20-%20Final%20-%20Ajna%202%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.01.08%20-%20Final%20-%20Truflation%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.01.13%20-%20Final%20-%20Rio%20Vesting%20Escrow%20Audit%20Report.pdf

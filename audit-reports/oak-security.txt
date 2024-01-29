@@ -45,6 +45,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/master/Comdex/2022-
 https://raw.githubusercontent.com/oak-security/audit-reports/master/CosmWasm/2023-03-27%20Audit%20Report%20-%20CosmWasm%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/CosmWasm/2023-03-27%20Audit%20Report%20-%20wasmvm%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/CosmWasm/2023-10-17%20Audit%20Report%20-%20wasmd%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/master/Cosmos%20SDK/2024-01-23%20Audit%20Report%20-%20Cosmos%20SDK%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Cosmos/2023-06-23%20Audit%20Report%20-%20Cosmos%20Interchain%20Security%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/CronCat/2023-03-14%20Audit%20Report%20-%20CronCat%20CosmWasm%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Cypher%20Wallet/2023-05-19%20Audit%20Report%20-%20Cypher%20Wallet%20v1.2.pdf
@@ -115,6 +116,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/master/Olympus%20Pr
 https://raw.githubusercontent.com/oak-security/audit-reports/master/OnePlanet/Audit%20Report%20-%20One%20Planet.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Osmosis%20Labs/2023-08-18%20Audit%20Report%20-%20CosmWasm%20WBTC%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Osmosis%20Labs/2023-10-09%20Audit%20Report%20-%20Osmosis%20Transmuter%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/master/Out/Audit%20Report%20-%20Out.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Persistence/2022-01-20%20Audit%20Report%20-%20Persistence%20Bridge%20-%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Persistence/2023-02-17%20Audit%20Report%20-%20pSTAKE%20Native%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/master/Phase/2023-04-13%20Audit%20Report%20-%20Phase%20v1.0.pdf

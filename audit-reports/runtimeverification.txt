@@ -48,6 +48,7 @@ https://raw.githubusercontent.com/runtimeverification/publications/main/reports/
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Stakefish-BatchDeposit.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/StakerDAO.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/SundaeSwap.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Synonym-audit-report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Tezos-Dexter-Liquidity-Baking.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Tezos-Dexter.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Tinyman-amm-v2-audit/supplemental/invariant-analysis.pdf

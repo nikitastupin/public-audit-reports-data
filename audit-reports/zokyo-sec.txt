@@ -20,6 +20,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/FoxYieldy/FOX%20Y
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Fractal/Fractal_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/GAIN/Gain_Ai_Zokyo_audit_report_May29th_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/GAIN/Gain_Zokyo_audit_report_6thFeb_2023.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/GAIN/Gain_Zokyo_audit_report_Jan22_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Global%20Interlink%20(GIL)/Global%20Interlink%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Gumball/Gumball_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/HELIX%20-%20Filecoin%20Virtual%20Machine/Helix_Filecoin%20Virtual%20Machine_Zokyo_auditreport_March29_2023.pdf

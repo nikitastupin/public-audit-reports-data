@@ -41,6 +41,7 @@ https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Sudoswap-Spearb
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/SudoswapLSSVM2-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Timeless-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Tracer-Spearbit-Security-Review.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Velodrome-Spearbit-Security-Review-Nov23.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Velodrome-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/zkEVM-Cryptography-Spearbit-27-March.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/zkEVM-bridge-Spearbit-27-March.pdf

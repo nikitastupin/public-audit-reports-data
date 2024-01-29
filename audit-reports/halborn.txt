@@ -53,6 +53,7 @@ https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/NEAR%20Sm
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Node%20Audits/Playground_Labs_Self_Custody_Node_Security_Audit_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Protocol%20Wallet%20Pen%20Tests/AVA%20LABS_AVAX%20Wallet_PenTest_Halborn_Report.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Protocol%20Wallet%20Pen%20Tests/Anatha_Wallet_PenetrationTest_report_Halborn_v1.pdf
+https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solana%20Program%20Audit/Bonfida_SNS_Solana_Program_Security_Assessment_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solana%20Program%20Audit/Clone_Protocol_Solana_Program_Security_Assessment_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solana%20Program%20Audit/Cropper_Finance_AMM_Program_Security_Audit_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Solana%20Program%20Audit/Cropper_Finance_Farm_Solana_Program_Security_Audit_Report_Halborn_Final.pdf

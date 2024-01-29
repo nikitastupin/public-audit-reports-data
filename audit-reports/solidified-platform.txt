@@ -109,6 +109,7 @@ https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Repo
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Ivy-Cash%20%5B12.10.2021%5D.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Ivy-Cash%20%5B29.08.2021%5D.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20KrawlCat%20%5B30.09.2020%5D.pdf
+https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Kresko%20%5B2024-01-12%5D.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Kresko.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Kuende%20%5B17.10.2018%5D.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20LandToken%20%5B14.07.2021%5D.pdf
