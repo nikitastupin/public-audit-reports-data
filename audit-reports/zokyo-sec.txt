@@ -9,10 +9,12 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/ArtMeta/ArtMeta_Z
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Auki%20Labs/Auki_Labs_Zokyo_audit_report_Oct2nd_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/BobaNetwork/Boba%20Network_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/CVI/CVI_Zokyo_audit_report_30thNov_2023.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Chainport/Chainport_Zokyo_Audit_Report_3_Jan_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/CreditSwap/Credit_Swap_Zokyo_audit_report_Dec22_2023_ed16f43d95.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Curra/Curra_Zokyo_audit_report_Jan4th_2024.pdf.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/DPEX/DPEX_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/DPNMDEFI/DPNMDEFI_Zokyoauditreport_14March_2023.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/DarkPool%20One/DarkPool%20One_Zokyo_audit_report_Feb9th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Ethlas/Ethlas_Zokyo_audit_report_26th_April_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/FNDZ/FNDZ_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Fluxfire/Fluxfire_Zokyo_audit_report_June5_2023.pdf
@@ -52,6 +54,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/RAILGUN/Railgun_Z
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Radiant/Radiant%20Capital%20audit%20report_06_March.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/SIVIRA/SIVIRA_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/SharkSwap/SharkSwap_Zokyoaudit%20report.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Shimmer/Shimmer%20Bridge_Zokyo_Jan19_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Sqwid/Sqwid_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/StablR/StablR_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Taunt/Taunt%20Token_Zokyo%20audit%20report.pdf

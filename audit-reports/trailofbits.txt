@@ -84,6 +84,7 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-1
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-10-yolov7-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-11-immutable-zkevmbridgecontracts-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-12-unibot-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-01-offchainarbitrum-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/88mph.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/API3.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/AcalaNetwork.pdf

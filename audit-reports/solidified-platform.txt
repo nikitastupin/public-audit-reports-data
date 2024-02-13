@@ -18,8 +18,11 @@ https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Repo
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Animoca%20%5B17.07.2021%5D.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Animoca%20%5B26.07.2021%5D.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Animoca%20%5B3%20Oct%202021%5D.pdf
+https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Animoca%20Core%20Library%20Extension%20%5B18.10.2023%5D.pdf
+https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Animoca%20Core%20Library%20V2.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Animoca%20Core%20Library.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Animoca%20PrimateCoin%20%5B19%20April%202022%5D.pdf
+https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Animoca%20Publisher%20NFT%20Season%202%20Contracts%20%5B18.10.2023%5D.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Animoca-Wighawag%5B17.07.2021%5D.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Aperture%20Finance.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20AquaFi%20%5B15%20Sept%202021%5D.pdf
@@ -140,6 +143,7 @@ https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Repo
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Ola%20Finance%20%5B21%20Oct%202021%5D.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20OlaX%20%5B07.11.2022%5D.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20OliveX%20%5B03.09.2021%5D.pdf
+https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Open%20Campus%20Genesis%20NFT%20%5B16.06.2023%5D.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20OpenCampus%20EDuCoin.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20OpenSea%20Contract%20Creator%20%5B08.08.2021%5D.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Opiria%20%5B04.13.18%5D.pdf

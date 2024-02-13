@@ -36,6 +36,7 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/edgeswap/ABDK_Edge
 https://raw.githubusercontent.com/abdk-consulting/audits/main/edgeswap/ABDK_EdgeSwap_Solidity_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/elephantslab/ABDK_ElephantsLab_OctoGamexNFTBridge_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/enso/ABDK_Enso_ShortcutRouter_v_1_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/equation/ABDK_Equation_EquationDAOV2_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/equation/ABDK_Equation_EquationDAO_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/equihashnano/ABDK-Nano-Equihash-Report.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/esports/eSports%20Token%20Contract_%20Review.pdf
@@ -69,6 +70,7 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/muffin/ABDK_Muffin
 https://raw.githubusercontent.com/abdk-consulting/audits/main/muffin/ABDK_Muffin_Core_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/muffin/ABDK_Muffin_Periphery_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/mystiko/ABDK_Mystiko_Solidity_ZoKrates_v_2_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/nil_foundation/ABDK_NilFoundation_BlockchainVerifier_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/notional/ABDK_NotionalV2_Solidity_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/othernet_global_pte_ltd/ABDK_OthernetGlobalPTELTD_SaltyIO_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/pandifi/ABDK_PandiFi_Soliditi_v_4_0.pdf
