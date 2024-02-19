@@ -100,5 +100,6 @@ https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.01.05%20-%20Final%20-%20SYMM%20IO%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.01.08%20-%20Final%20-%20Truflation%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.01.13%20-%20Final%20-%20Rio%20Vesting%20Escrow%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.01.18%20-%20Final%20-%20Notional%20Update%205%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.01.24%20-%20Final%20-%20LooksRare%20YOLO%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.01.25%20-%20Final%20-%20Olympus%20On-Chain%20Governance%20Audit%20Report.pdf

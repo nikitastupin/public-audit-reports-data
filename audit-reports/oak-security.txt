@@ -72,6 +72,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/FreshCut/Audit
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Fuzion/2023-02-24%20Audit%20Report%20-%20Fuzion%20Plasma%20OTC%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Glow/2021-11-12%20Audit%20Report%20-%20Glow%20-%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Hadron%20Labs/2023-07-29%20Audit%20Report%20-%20Hadron%20Labs%20Lido%20Satellite%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Hyperlane/2024-02-13%20Audit%20Report%20-%20cw-hyperlane%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/IBCX/2023-04-29%20Audit%20Report%20-%20IBCX%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Illiquid%20Labs/2023-01-10%20Audit%20Report%20-%20Illiquid%20Labs%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/IncrementFi/Audit%20Report%20-%20Increment%20Finance.pdf
@@ -121,6 +122,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Osmosis%20Labs
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Out/Audit%20Report%20-%20Out.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Persistence/2022-01-20%20Audit%20Report%20-%20Persistence%20Bridge%20-%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Persistence/2023-02-17%20Audit%20Report%20-%20pSTAKE%20Native%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Persistence/2024-01-26%20Audit%20Report%20-%20pSTAKE%20Native%20Auto-Compounding%20and%20Rebalancing%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Phase/2023-04-13%20Audit%20Report%20-%20Phase%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Polytone/2023-06-05%20Audit%20Report%20-%20Polytone%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Prism/2022-01-20%20Audit%20Report%20-%20Prism%20v1.0.pdf
