@@ -15,6 +15,7 @@ https://raw.githubusercontent.com/Decurity/audits/master/ThalesMarket/thales-mar
 https://raw.githubusercontent.com/Decurity/audits/master/ThalesMarket/thales-market-speedmarkets-audit-report-1.1.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/Tokenlon/tokenlon-limit-order-audit-report-1.1.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/Tokenlon/tokenlon-rfqv2-audit-report-1.1.pdf
+https://raw.githubusercontent.com/Decurity/audits/master/UFarm/ufarm-audit-report-2023-1.1.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/Vooi/vooi-pool-security-audit-report-1.1.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/Yearn/yearn-univ3stablesjoint-audit-report-1.0.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/zkBob/zkbob-contracts-cdp-audit-report-1.1.pdf

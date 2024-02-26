@@ -70,6 +70,7 @@ https://raw.githubusercontent.com/sigp/public-audits/master/synthetix/delegates/
 https://raw.githubusercontent.com/sigp/public-audits/master/synthetix/ethercollateral/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/synthetix/multicurrency/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/synthetix/unipool/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/taiko/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/term-finance/term1/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/term-finance/term2/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/tracer/tracer-2/review.pdf

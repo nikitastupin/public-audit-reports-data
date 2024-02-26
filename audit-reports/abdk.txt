@@ -23,6 +23,7 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/cmta/ABDK-CMTAT-au
 https://raw.githubusercontent.com/abdk-consulting/audits/main/cmta/ABDK_CMTA_CMTATRuleEngine_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/cmta/ABDK_CMTA_DVP_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/conduit/ABDK_Framework_Conduit_Solidity.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/contango/ABDK_Contango_CoreV2PartIII_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/contango/ABDK_Contango_CoreV2_PARTII_v_3_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/contango/ABDK_Contango_CoreV2_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/contango/ABDK_Contango_Core_v_1_0.pdf

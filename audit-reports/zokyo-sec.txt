@@ -26,6 +26,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/GAIN/Gain_Zokyo_a
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Global%20Interlink%20(GIL)/Global%20Interlink%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Gumball/Gumball_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/HELIX%20-%20Filecoin%20Virtual%20Machine/Helix_Filecoin%20Virtual%20Machine_Zokyo_auditreport_March29_2023.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Hinkal/Hinkal_Zokyo_Feb20th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Hord/Hord_Zokyo_audit_report_Dec27_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Hord/Hord_Zokyo_audit_report_Sep19_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Hord/Zokyo_Hord%20audit%20report.pdf
@@ -43,6 +44,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Minterest/Mintere
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/OT/OT_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Onemind/Onemind_Zokyo_audit%20report_October18_2022.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Onemind/Onemind_Zokyo_audit_report_November16_2022.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/PLEXUS/Plexus_Zokyo_audit_report_Nov24_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Propchain/Propchain_Zokyo_audit_report_16May_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/RAIL/RAIL%20Token%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/RAILGUN/RAILGUN_Zokyo_audit_report_April20_2022.pdf
