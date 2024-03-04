@@ -17,6 +17,7 @@ https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/LiquidCollectiv
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/LiquidCollectivePR-Spearbit-Security-Review-July.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/LiquidCollectivePR-Spearbit-Security-Review-Sept.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/LiquidCollectivePR-Spearbit-Security-Review.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Llama-Spearbit-Dec-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Llama-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Locke-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/LooksRare-Spearbit-Security-Review.pdf

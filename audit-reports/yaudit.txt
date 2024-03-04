@@ -3,6 +3,7 @@ https://raw.githubusercontent.com/yAudit/reports/main/01-2023-TempleDao-Origami-
 https://raw.githubusercontent.com/yAudit/reports/main/01-2024-Peapods-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/02-2023-RageTrade-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/02-2023-TempleDao-Origami-Recheck-yAudit-Report.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/02-2024-Obelisk-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/03-2022-Ohm-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/03-2023-Bunni-Zap-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/04-2022-Ohm-Bond-yAudit-Report.pdf

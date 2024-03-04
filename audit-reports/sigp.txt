@@ -21,6 +21,7 @@ https://raw.githubusercontent.com/sigp/public-audits/master/dapper-wallet/review
 https://raw.githubusercontent.com/sigp/public-audits/master/dimo/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/dxdao/carrot-kpi/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/dxdao/erc20-guild/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/eigen-layer-3/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/eth-docker/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/ethereum-foundation/c-kzg/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/ethereum-foundation/ef-kzg/review.pdf

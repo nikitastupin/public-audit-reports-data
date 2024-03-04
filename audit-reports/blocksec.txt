@@ -4,6 +4,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec-
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_boost_farm_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_burrow_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_burrow_v2.0_signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_burrowland_v3_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_cornerstone_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_halotrade_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_linear_v1.0_signed.pdf
@@ -12,6 +13,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_nearx_v3.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_oct-convertor_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_oct_anchor_v1.0_signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_octopus_network_restaking_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_oinfinance_v1.0.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_paras-token_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_paras_Market_signed_v1.0.pdf
@@ -22,6 +24,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_ref_finance_dcl_v2.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_ref_finance_exchange_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_ref_finance_exchange_v2.0_signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_ref_finance_exchange_v3.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_ref_finance_xref_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_refve_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_xp_network_v1.0.pdf
@@ -66,6 +69,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/block
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_spherium_bridge_v1.1_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_staketogether_v1.1-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_stnd_v1.7_signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_wencore_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_whale_loan_v1.4.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_windranger_v1.2_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_xyfinance_v1.0_signed.pdf
