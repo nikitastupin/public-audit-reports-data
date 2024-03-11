@@ -34,3 +34,4 @@ https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/ma
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/SyncDAO_report.pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/Trupenny_SC.pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/cLabs_June23(Public)%20(Governance%20Protocol)_v2.pdf
+https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/fungify-nft-audit-feb24(Public).pdf

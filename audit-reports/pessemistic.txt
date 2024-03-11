@@ -13,6 +13,7 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/ARTM%20Security%20A
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Aquaris%20Token%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Azuro%20V1%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Azuro%20V2%20BetExpress%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Azuro%20V2%20LiveCore%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Azuro%20V2%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Babylon%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Beam%20DAO%20Security%20Analysis%20by%20Pessimistic.pdf
@@ -45,6 +46,8 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/IQ%20Token%20Securi
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Impossible%20Finance%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Jupiter%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/KickToken%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Kinto%20Access%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Kinto%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Krystal%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/KyberPool%20Security%20Audit%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Lido%20Stonks%20Security%20Analysis%20by%20Pessimistic.pdf

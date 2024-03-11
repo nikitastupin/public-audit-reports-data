@@ -32,6 +32,7 @@ https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/CosmWasm%
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Cosmos%20Audits/A41_SuperNova_Bot_Golang_Security_Audit_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Cosmos%20Audits/A41_SuperNova_Cosmos_Security_Audit_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Cosmos%20Audits/BoostyLabs_Tricorn_Bridge_Server_Golang_Security_Assessment_Report_Halborn_Final.pdf
+https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Cosmos%20Audits/Entangle_Blockchain_Cosmos_Security_Assessment_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Cosmos%20Audits/Pocket_Network_Validator_WPokt_Golang_Security_Assessment_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Cosmos%20Audits/Sifchain_Sifnode_042_Upgrade_Security_Audit_Report_Halborn_v1_1.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Cosmos%20Audits/UMEE_WASM_Integration_Cosmos_Security_Audit_Report_Halborn_Final.pdf
@@ -255,6 +256,7 @@ https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Substrate
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Tezos%20Smart%20Contact%20Audits/Tezos_Oropocket_Smart_Contract_Final_Report_v1.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Web%20Pentest/Debridge_solana_tx_parser_Whitebox_Pentest_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Web%20Pentest/HBarSuite_WebApp_SmartNode_FrontEnd_BackEnd_Pentest_Report_Halborn_Final.pdf
+https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Web%20Pentest/Ithaca_Backend_WebApp_Pentest_%20Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Web%20Pentest/Playground_Labs_Kapital_DAO_Guild_Service_Browser_Extension_Pentest_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Web%20Pentest/Pontem_Network_Aptos_Wallet_WebApp_Pentest_Report_Halborn_Final.pdf
 https://raw.githubusercontent.com/HalbornSecurity/PublicReports/master/Web%20Pentest/Rarimo_Snap_App_WebApp_Pentest_Report_Halborn_Final.pdf

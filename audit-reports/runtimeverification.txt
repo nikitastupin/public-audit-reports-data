@@ -14,6 +14,7 @@ https://raw.githubusercontent.com/runtimeverification/publications/main/reports/
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Algofi.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Algorand_Governance_Rewards_audit_report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/AshSwap.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Band_Protocol_Soroban-Band_Standard_Reference_Contract.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Bihu.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Blockswap_Gateway.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Blockswap_Stakehouse.pdf

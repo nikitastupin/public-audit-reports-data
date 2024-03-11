@@ -61,6 +61,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Dexter/2023-03
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Dock/Audit%20Report%20-%20Dock%20Token%20Migration.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Dock/Audit%20Report%20-%20Dock%20Wallet.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Dock/Dock%20PoS%20-%20Audit%20Report%20%5B20210706%5D.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/DoraHacks/2024-03-04%20Audit%20Report%20-%20DoraHacks%20Quadratic%20Grant%20Injective%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Edge/2022-04-23%20Audit%20Report%20-%20Edge%20Protocol%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Eris%20Protocol/2023-02-15%20Audit%20Report%20-%20Eris%20Protocol%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Evmos/2023-07-08%20Audit%20Report%20-%20Evmos%20EVM%20Extensions%20v1.0.pdf
@@ -150,6 +151,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/StarTerra/Audi
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Stargaze/2022-08-01%20Audit%20Report%20-%20Stargaze%20Marketplace%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Stargaze/2023-06-20%20Audit%20Report%20-%20Stargaze%20Reserve%20Auctions%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Stargaze/2023-07-20%20Audit%20Report%20-%20Stargaze%20Infinity%20Pool%20v1.1.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Starlay/2024-03-06%20Audit%20Report%20-%20Starlay%20Protocol%20Wasm%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Streamswap/2023-03-16%20Audit%20Report%20-%20Streamswap%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Stride/2022-09-26%20Audit%20Report%20-%20Stride%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Stride/2023-08-20%20Audit%20Report%20-%20Stride%20ICA%20Oracle%20v1.0.pdf
