@@ -32,6 +32,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Atlo/2022-05-0
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Autonomy/2023-03-06%20Audit%20Report%20-%20Autonomy%20Osmosis%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Axelar/Audit%20Report%20-%20%20Axelar.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/BRZ/Audit%20Report%20-%20BRZ%20Bridge.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Bifrost/2024-03-11%20Audit%20Report%20-%20Bifrost%20Finance%20Leveraged%20Staking%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/BrainTrust/Audit%20Report%20-%20%20Braintrust%20Uniswap%20Integration.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/BrainTrust/Audit%20Report%20-%20BrainTrust%20Application.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Burnt%20(XION)/2023-09-22%20Audit%20Report%20-%20XION%20and%20Burnt%20Contract%20Updates%20and%20Account%20Abstraction%20v1.1.pdf
@@ -62,6 +63,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Dock/Audit%20R
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Dock/Audit%20Report%20-%20Dock%20Wallet.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Dock/Dock%20PoS%20-%20Audit%20Report%20%5B20210706%5D.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/DoraHacks/2024-03-04%20Audit%20Report%20-%20DoraHacks%20Quadratic%20Grant%20Injective%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Dymension/2024-03-08%20Audit%20Report%20-%20Dymension%20Point%200D%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Edge/2022-04-23%20Audit%20Report%20-%20Edge%20Protocol%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Eris%20Protocol/2023-02-15%20Audit%20Report%20-%20Eris%20Protocol%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Evmos/2023-07-08%20Audit%20Report%20-%20Evmos%20EVM%20Extensions%20v1.0.pdf
@@ -160,6 +162,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/TeFi/2022-01-1
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Terra%20Liquidity%20Bootstrapping%20Pool/2021-12-23%20Audit%20Report%20-%20Terra%20Liquidity%20Bootstrapping%20Pool%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Terra/Terra%20Columbus-5%20-%20Audit%20Report.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/TerraSwap%20LBP/TerraSwap%20Liquidity%20Bootstrap%20Pool%20-%20Audit%20Report.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Vectis/2024-03-14%20Audit%20Report%20-%20Vectis%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/WhiteWhale/Audit%20Report%20-%20White%20Whale.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Wormhole/2023-07-06%20Audit%20Report%20-%20Wormhole%20Token%20Translator%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/XM/XM%20EBBS%20Stamp.pdf

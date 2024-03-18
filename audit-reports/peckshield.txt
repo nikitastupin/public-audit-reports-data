@@ -96,6 +96,7 @@ https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/P
 https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-ERC20-YYDS-v1.0.pdf
 https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-ERC20-ZKID-v1.0.pdf
 https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-ERC20-eEURO-v1.0.pdf
+https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-ERC404-XRGB-v1.0.pdf
 https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-ERD-v1.0.pdf
 https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-Eigenpie-v1.0.pdf
 https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-Equilibria-v1.0.pdf

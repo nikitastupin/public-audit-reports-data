@@ -71,6 +71,7 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-0
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-08-scroll-zkEVM-wave2-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-08-scrollL2geth-initial-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-08-scrollL2geth-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-08-worldcoin-orb-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-09-elixir-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-09-hyperlane-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-09-lisksdk-securityreview.pdf

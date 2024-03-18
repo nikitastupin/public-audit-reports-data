@@ -1,11 +1,12 @@
 https://raw.githubusercontent.com/ChainSafe/audits/main/1inch/1inch-11-2022.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/Beamer/beamer-01-2023.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/Connext/connext-12-2020.pdf
+https://raw.githubusercontent.com/ChainSafe/audits/main/DELV/delv-06-2023.pdf
+https://raw.githubusercontent.com/ChainSafe/audits/main/DELV/delv-10-2021.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/EPNS/epns-protocol-03-2021.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/EPNS/epns-protocol-05-2023.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/EPNS/epns-protocol-10-2021.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/EPNS/epns-protocol-11-2022.pdf
-https://raw.githubusercontent.com/ChainSafe/audits/main/Element%20Finance/element-finance-10-2021.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/Exactly%20Finance/exactly-finance-05-2022.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/Exactly%20Protocol/exactly-finance-05-2022.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/Exactly%20Protocol/exactly-protocol-10-2022.pdf
@@ -14,7 +15,8 @@ https://raw.githubusercontent.com/ChainSafe/audits/main/GSN/opengsn-03-2021.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/Gnosis%20Chain/gnosis-05-2023.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/Gnosis%20Chain/gnosis-07-2023.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/Gnosis%20Chain/gnosis-08-2023.pdf
-https://raw.githubusercontent.com/ChainSafe/audits/main/Hyperdrive/hyperdrive-06-2023.pdf
+https://raw.githubusercontent.com/ChainSafe/audits/main/Grappa%20Finance/grappa-finance-02-2023.pdf
+https://raw.githubusercontent.com/ChainSafe/audits/main/Hashnote/hashnote-vaults-02-2023.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/NIFTYKIT/niftykit-v2-08-2022.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/Ribbon%20Finance/RibbonV2-July-2021.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/Ribbon%20Finance/ribbon-07-2023.pdf

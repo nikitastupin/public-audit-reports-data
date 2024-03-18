@@ -54,6 +54,8 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Fantium/Fantium/
 https://raw.githubusercontent.com/mixbytes/audits_public/master/GearBox%20Protocol/GearBox%20Protocol%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Iron%20Bank/IronBank%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Keep3r.Network/keep3r%20Staking%20Rewards%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/KelpDAO/KelpDAO%20LRT-ETH%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Kinto/Kinto%20Core%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/LTO%20Network/Token%20Sale/LTO%20Network%20Token%20Sale%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/1inch%20Rewards%20Manager/Lido%201inch%20Rewards%20Manager%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Aave%20stETH/Lido%20Aave%20stETH%20Security%20Audit%20Report.pdf
