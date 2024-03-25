@@ -7,7 +7,9 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/AngelBlock/Angel%
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/AngelBlock/AngelBlock_Zokyo_audit_report_Feb13_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/ArtMeta/ArtMeta_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Auki%20Labs/Auki_Labs_Zokyo_audit_report_Oct2nd_2023.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/BlastOff/BlastOff_Zokyo_audit%20report_March14_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/BobaNetwork/Boba%20Network_Zokyo%20audit%20report.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Brightpool/Brightpool_Finance_Zokyo_audit_report_Feb3_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/CVI/CVI_Zokyo_audit_report_30thNov_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Chainport/Chainport_Zokyo_Audit_Report_3_Jan_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/CreditSwap/Credit_Swap_Zokyo_audit_report_Dec22_2023_ed16f43d95.pdf
@@ -77,3 +79,4 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/UnityChain/Unity_
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Vaultka/Vaultka_Zokyo_audit_report_30th_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Vaultka/Vaultka_Zokyo_audit_report_July25th_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Wombat/Wombat_Zokyo_audit_report_Sep6_2023.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/zkDX/zkDX_Zokyo_audit%20report_March18th_2024.pdf

@@ -90,6 +90,7 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-1
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-01-metalayerblast-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-01-offchainarbitrum-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-02-offchainlabsarbos-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-02-scopelift-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/88mph.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/API3.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/AcalaNetwork.pdf
@@ -220,6 +221,7 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/parity
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/paxos.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/qtum_loa.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/renvm.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/reviews%3A2024-02-scopelift-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/rook.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/sai.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/sandiskx600.pdf

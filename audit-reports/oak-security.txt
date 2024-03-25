@@ -167,6 +167,8 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/WhiteWhale/Aud
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Wormhole/2023-07-06%20Audit%20Report%20-%20Wormhole%20Token%20Translator%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/XM/XM%20EBBS%20Stamp.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Zodiac%20Protocol/2024-01-02%20Audit%20Report%20-%20Zodiac%20Protocol%20Core%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Zodiac%20Protocol/2024-03-18%20Audit%20Report%20-%20Zodiac%20Protocol%20Periphery%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Zodiac%20Protocol/2024-03-22%20Audit%20Report%20-%20Zodiac%20Protocol%20Core%20Extension%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/pNetwork/20200915_pNetwork DAO staking+reward audit.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/pTokens/20200302_Audit_Report_pToken.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/pTokens/20200424_pToken%20-%20Bridge%20pBTC%20on%20EOS.pdf
