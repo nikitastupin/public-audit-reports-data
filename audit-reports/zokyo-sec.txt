@@ -10,6 +10,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Auki%20Labs/Auki_
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/BlastOff/BlastOff_Zokyo_audit%20report_March14_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/BobaNetwork/Boba%20Network_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Brightpool/Brightpool_Finance_Zokyo_audit_report_Feb3_2024.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/CORGI/CORGI_Zokyo_audit_report_March28th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/CVI/CVI_Zokyo_audit_report_30thNov_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Chainport/Chainport_Zokyo_Audit_Report_3_Jan_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/CreditSwap/Credit_Swap_Zokyo_audit_report_Dec22_2023_ed16f43d95.pdf
@@ -32,6 +33,9 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Hinkal/Hinkal_Zok
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Hord/Hord_Zokyo_audit_report_Dec27_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Hord/Hord_Zokyo_audit_report_Sep19_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Hord/Zokyo_Hord%20audit%20report.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/IOTA/IOTA_Zokyo_audit_report_Feb20_2024.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/IOTA/IOTA_Zokyo_audit_report_Feb21_2024.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/IOTA/IOTA_Zokyo_audit_report_March22nd_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/IPOR/IPOR_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/IPOR/IPOR_Zokyo_audit_report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/LYOPAY/LYOPAY_Zokyo_audit%20report.pdf
@@ -47,6 +51,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/OT/OT_Zokyo%20aud
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Onemind/Onemind_Zokyo_audit%20report_October18_2022.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Onemind/Onemind_Zokyo_audit_report_November16_2022.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/PLEXUS/Plexus_Zokyo_audit_report_Nov24_2023.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Paribus/Paribus_Zokyo_audit_report_March28th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Propchain/Propchain_Zokyo_audit_report_16May_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/RAIL/RAIL%20Token%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/RAILGUN/RAILGUN_Zokyo_audit_report_April20_2022.pdf
@@ -79,4 +84,5 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/UnityChain/Unity_
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Vaultka/Vaultka_Zokyo_audit_report_30th_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Vaultka/Vaultka_Zokyo_audit_report_July25th_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Wombat/Wombat_Zokyo_audit_report_Sep6_2023.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/bPNM/bPNM_Zokyo_audit_report_March28th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/zkDX/zkDX_Zokyo_audit%20report_March18th_2024.pdf
