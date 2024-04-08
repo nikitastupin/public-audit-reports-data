@@ -1,4 +1,5 @@
 https://raw.githubusercontent.com/Zellic/publications/master/1inch%20Farming%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/AIxCC%20Concept%20White%20Paper%20-%20Zellic.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Ante%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Aqua%20Pool%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Arpeggi_Labs_-_Zellic_Audit_Report.pdf
@@ -21,6 +22,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Biconomy%20Smart%20
 https://raw.githubusercontent.com/Zellic/publications/master/Biconomy%20Smart%20Account%20Patch%20Review%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Biconomy%20SponsorshipPaymaster%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Biconomy%20Token%20Paymaster%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Blobstream%20X%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Bond%20Protocol%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/BrahmaFi%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Cega%20-%20Zellic%20Audit%20Report.pdf
@@ -73,6 +75,8 @@ https://raw.githubusercontent.com/Zellic/publications/master/Maia%20DAO%20V2%20E
 https://raw.githubusercontent.com/Zellic/publications/master/Mantle%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Matrixdock-STBT%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Maverick%20Protocol%20-%20Zellic%20Security%20Assessment%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/MightyNet%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/MightyNetERC1155Claimer%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Molend%20Protocol%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Move%20and%20Sui%20Security%20Assessment%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Muni%20-%20Zellic%20Audit%20Report.pdf
@@ -104,6 +108,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Scroll%20-%2009.27.
 https://raw.githubusercontent.com/Zellic/publications/master/Scroll%20zkEVM%20-%20Part%201%20-%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Scroll%20zkEVM%20-%20Part%202%20-%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Socket%20Data%20Layer%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Spectral%20Modelers%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Spectral%20Token%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/SpiceFi%20Vaults%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/SpiceFiNFT4626%20-%20Zellic%20Audit%20Report.pdf

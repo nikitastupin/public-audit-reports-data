@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/c++/blocksec_eos_wram_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/go/blocksec_aura_network_v1.0.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/go/blocksec_permaswap_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec-octopus-vesting-v1.0_signed.pdf
@@ -50,6 +51,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/block
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_impossible_finance_swap_v1.2.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_latteswap_flat_v1.1.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_loansnap_baconcoin_v1.0.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_magefinance_v1.1-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_mellow_vaults_v1.3-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_melos_dao_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_multichain_vemult_v1.0_signed.pdf
@@ -61,6 +63,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/block
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_permaswap_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_polynetwork_v2.0.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_popcorn_v1.0-signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_puffer_pufETH_v1.1-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_puffer_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_radiant_v2.0.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_radpie_v1.0-signed.pdf

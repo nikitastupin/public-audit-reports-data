@@ -13,6 +13,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Brightpool/Bright
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/CORGI/CORGI_Zokyo_audit_report_March28th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/CVI/CVI_Zokyo_audit_report_30thNov_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Chainport/Chainport_Zokyo_Audit_Report_3_Jan_2024.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Chainzoom/Chainzoom_Zokyo_audit_report_April4th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/CreditSwap/Credit_Swap_Zokyo_audit_report_Dec22_2023_ed16f43d95.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Curra/Curra_Zokyo_audit_report_Jan4th_2024.pdf.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/DPEX/DPEX_Zokyo%20audit%20report.pdf
@@ -52,6 +53,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Onemind/Onemind_Z
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Onemind/Onemind_Zokyo_audit_report_November16_2022.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/PLEXUS/Plexus_Zokyo_audit_report_Nov24_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Paribus/Paribus_Zokyo_audit_report_March28th_2024.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Planar/Planar_Zokyo_audit_report_March26th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Propchain/Propchain_Zokyo_audit_report_16May_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/RAIL/RAIL%20Token%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/RAILGUN/RAILGUN_Zokyo_audit_report_April20_2022.pdf
@@ -72,6 +74,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/TokensFarm/Tokens
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/TokensFarm/TokensFarm_Zokyo%20audit%20report_sept_29.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/TokensFarm/TokensFarm_Zokyo_audit_report_oct_28.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/TokensFarm/Tokens_Farm_Zokyo_audit%20report_january_11.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Tradable/Tradable_Zokyo_audit_report_Sep4th_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Trustswap/TrustSwap_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Umami/Umami%20DAO_Zokyo_final%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Umami/Umami%20GLP%20Vaults_Zokyo_audit_report_19April_2023.pdf

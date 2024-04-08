@@ -21,6 +21,7 @@ https://raw.githubusercontent.com/sigp/public-audits/master/dapper-wallet/review
 https://raw.githubusercontent.com/sigp/public-audits/master/dimo/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/dxdao/carrot-kpi/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/dxdao/erc20-guild/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/eigen-layer-2/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/eigen-layer-3/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/eth-docker/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/ethereum-foundation/c-kzg/review.pdf
@@ -49,6 +50,7 @@ https://raw.githubusercontent.com/sigp/public-audits/master/lyra-finance/review.
 https://raw.githubusercontent.com/sigp/public-audits/master/mantle/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/membrane-finance/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/near/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/omni-network/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/open-grants/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/optimism/optimism-bedrock/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/rocket-pool/rocket-pool-4-feedistributor-fix/review.pdf
@@ -59,6 +61,7 @@ https://raw.githubusercontent.com/sigp/public-audits/master/rocket-pool/rocket-p
 https://raw.githubusercontent.com/sigp/public-audits/master/satori-sports/satori-sports-token-royalties/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/skrilla/reference-material/Token%20Sale%20Particulars.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/stader/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/stader/sd-pool/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/status/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/store/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/sushi/auction-maker-furo/review.pdf
