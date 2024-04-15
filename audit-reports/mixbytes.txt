@@ -51,7 +51,8 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Enso%20Finance/E
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Enso%20Finance/Weiroll/Weiroll%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Fantium/Fantium%20v2/Fantium%20v2%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Fantium/Fantium/Fantium%20Security%20Audit%20Report.pdf
-https://raw.githubusercontent.com/mixbytes/audits_public/master/GearBox%20Protocol/GearBox%20Protocol%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protocol/Gearbox%20Protocol%20v.1/Gearbox%20Protocol%20v.1%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protocol/Gearbox%20Protocol%20v.3%20Bots%20&%20Integrations/Gearbox%20Protocol%20v.3%20Bots%20&%20Integrations%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Iron%20Bank/IronBank%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Keep3r.Network/keep3r%20Staking%20Rewards%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/KelpDAO/KelpDAO%20LRT-ETH%20Security%20Audit%20Report.pdf
@@ -91,6 +92,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Rubic/Rubic%20Se
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Solidex/Solidex/Solidex-Security-Audit-Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/SpiritSwap/SpiritSwap-Core%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/SushiSwap/BentoBox/Sushiswap%20Bentobox%20Smart%20Contract%20Audit%20(1).pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Swell/Staking/Swell%20Staking%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Threshold%20Network/BAMM/Threshold-USD%20BAMM%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Threshold%20Network/Threshold%20USD/Threshold-USD%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/TosDis/TosDis%20Smart%20Contract%20Audit.pdf

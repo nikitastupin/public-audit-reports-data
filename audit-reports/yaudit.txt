@@ -6,6 +6,7 @@ https://raw.githubusercontent.com/yAudit/reports/main/02-2023-TempleDao-Origami-
 https://raw.githubusercontent.com/yAudit/reports/main/02-2024-Obelisk-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/03-2022-Ohm-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/03-2023-Bunni-Zap-yAudit-Report.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/03-2024-1upYFI-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/03-2024-TLX-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/04-2022-Ohm-Bond-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/04-2022-veYFI-yAudit-Report.pdf

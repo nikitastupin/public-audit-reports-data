@@ -3,6 +3,7 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2021-0
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-03-maplefinance-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-07-beanstalk-fixreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-07-beanstalk-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-07-microsoft-go-cose-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-07-mobilecoin-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-09-aleosystems-snarkvm-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2022-09-alphasoc-alphasocapi-securityreview.pdf

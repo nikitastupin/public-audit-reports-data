@@ -5,6 +5,7 @@ https://raw.githubusercontent.com/statemindio/public-audits/main/Arrakis%20Finan
 https://raw.githubusercontent.com/statemindio/public-audits/main/Arrakis%20Finance/2023-08-31_Arrakis_V2_periphery.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Buttonwood/2023-08-11_Buttonwood_Buttonswap-core.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Curve/2023-10-30_Curve_Stablecoin.pdf
+https://raw.githubusercontent.com/statemindio/public-audits/main/Curve/2024-02-02_Curve_Lending.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Dega/2024-01-17_Dega_ISPO.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Instadapp/2023-08-28_Instadapp_Avocado_v3.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Instadapp/2023-12-29_Instadapp_Fluid.pdf
@@ -19,5 +20,6 @@ https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/
 https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2023-05-10_Lido_V2_deployment_validation.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2023-05-17_Lido_Polygon_v2.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2023-10-20_Lido_Roles_Analysis.pdf
+https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2024-04-11_Lido_GateSeal_deployment_validation.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Myso%20Finance/2023-08-15_Myso_v2.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Yearn%20Finance/2022-07-08_Yearn_veYFI(Voting_and_RewardPool).pdf

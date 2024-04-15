@@ -86,6 +86,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Unimex/Unimex_Zok
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/UnityChain/Unity_Chain_Zokyo_audit_report_23Feb_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Vaultka/Vaultka_Zokyo_audit_report_30th_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Vaultka/Vaultka_Zokyo_audit_report_July25th_2023.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Wombat/Wombat%20Exchange%20_Zokyo_audit_report_March22nd_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Wombat/Wombat_Zokyo_audit_report_Sep6_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/bPNM/bPNM_Zokyo_audit_report_March28th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/zkDX/zkDX_Zokyo_audit%20report_March18th_2024.pdf
