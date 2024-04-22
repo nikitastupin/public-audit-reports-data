@@ -32,6 +32,7 @@ https://raw.githubusercontent.com/g0-group/Audits/master/GnosisSafeApr2021.pdf
 https://raw.githubusercontent.com/g0-group/Audits/master/GnosisSafeBridgeMay2021.pdf
 https://raw.githubusercontent.com/g0-group/Audits/master/GnosisSafeMay2021.pdf
 https://raw.githubusercontent.com/g0-group/Audits/master/GnosisZodiac2021Sep.pdf
+https://raw.githubusercontent.com/g0-group/Audits/master/HashiMar2024.pdf
 https://raw.githubusercontent.com/g0-group/Audits/master/HashiMay2023.pdf
 https://raw.githubusercontent.com/g0-group/Audits/master/HatsFinance2021Jul.pdf
 https://raw.githubusercontent.com/g0-group/Audits/master/HatsFinanceOct2022.pdf
@@ -72,3 +73,4 @@ https://raw.githubusercontent.com/g0-group/Audits/master/ZodiacOct2023.pdf
 https://raw.githubusercontent.com/g0-group/Audits/master/ZodiacRealityModuleSep2021.pdf
 https://raw.githubusercontent.com/g0-group/Audits/master/ZodiacRolesModifierV21Nov2023.pdf
 https://raw.githubusercontent.com/g0-group/Audits/master/ZodiacScopeGuardSep2021.pdf
+https://raw.githubusercontent.com/g0-group/Audits/master/kpkTokenApr2024.pdf

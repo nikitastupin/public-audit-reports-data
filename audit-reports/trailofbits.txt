@@ -94,6 +94,7 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-0
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-01-offchainarbitrum-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-02-offchainlabsarbos-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-02-scopelift-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-03-aladdinfxprotocol-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-03-curvance-invariant-development.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-03-pufferfinance-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/88mph.pdf
