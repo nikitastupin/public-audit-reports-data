@@ -83,6 +83,7 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/proxima_capital/AB
 https://raw.githubusercontent.com/abdk-consulting/audits/main/railgun/ABDK_Railgun_CircomSolidity_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/redstone/ABDK_RedStone_Oracle_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/redstone/ABDK_RedStone_OraclesMonorepo_v_1_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/redstone/ABDK_RedStone_Oracles_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/relevant/ABDK_Relevant_Solidity_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/reservoirfi/ABDK_ReservoirFi_AMMCore_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/reya/ReyaLabs_ReyaNetworkPartIII_v_1_0.pdf
@@ -140,6 +141,7 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/zklend/ABDK_zkLend
 https://raw.githubusercontent.com/abdk-consulting/audits/main/zklink/ABDK_zkLink_CircuitsPhaseIIs_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/zklink/ABDK_zkLink_CircuitsSmartContracts_v_6_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/zklink/ABDK_zkLink_Circuits_v_3_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/zklink/ABDK_zkLink_Nova_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/zklink/ABDK_zkLink_Solidity_PhaseII_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/zklink/ABDK_zkLink_Solidity_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/zkswap/ABDK_ZKSwap_V3_v_1_0.pdf

@@ -9,6 +9,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Audius%20EVM%20-%20
 https://raw.githubusercontent.com/Zellic/publications/master/Audius%20Solana%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Aura%20Finance%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Avantis%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Bebop%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Beefy%20BIFI%20Token%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Beefy%20UniswapV3%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Beefy%20Wrapper%20-%20Zellic%20Audit%20Report.pdf
@@ -118,6 +119,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Scroll%20-%2009.27.
 https://raw.githubusercontent.com/Zellic/publications/master/Scroll%20Lido%20Gateway%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Scroll%20zkEVM%20-%20Part%201%20-%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Scroll%20zkEVM%20-%20Part%202%20-%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Silo%20Staking%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Single%20Pool%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Socket%20Data%20Layer%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Spectral%20Modelers%20-%20Zellic%20Audit%20Report.pdf

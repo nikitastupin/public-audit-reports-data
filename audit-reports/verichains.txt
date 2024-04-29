@@ -9,6 +9,7 @@ https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichain
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20ARKRivals%20Token%20-%20v1.0.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20AVT%20Smartcontracts%20-%20v1.0.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20AceStarter%20Token%20and%20Vesting%20-%20v1.1.pdf
+https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20AiPower%20Token%20-%20v1.0.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20Aiza%20World%20Token%20-%20v1.0.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20Anta%20Token%20and%20Vesting%20-%20v1.0.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20ArenaPixel%20Token%20-%20%20v1.1.pdf

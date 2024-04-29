@@ -112,6 +112,7 @@ https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.02.13%20-%20Final%20-%20100x%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.02.16%20-%20Final%20-%20Arcadia%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.02.16%20-%20Final%20-%20Stealth%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.02.26%20-%20Final%20-%20Napier%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.02.27%20-%20Final%20-%20Real%20Wagmi%202%20Update%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.03.05%20-%20Final%20-%20Jala%20Swap%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.03.06%20-%20Final%20-%20Smilee%20Finance%20Audit%20Report.pdf
@@ -119,5 +120,10 @@ https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.03.07%20-%20Final%20-%20Telcoin%20Platform%20Audit%20Update%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.03.22%20-%20Final%20-%20Mento%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.03.23%20-%20Final%20-%20WagmiLeverage%20V2%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.03.27%20-%20Final%20-%20M%5E0%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.03.28%20-%20Final%20-%20vVv%20Vesting%20%26%20Staking%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.03.30%20-%20Final%20-%20Axis%20Finance%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.03.31%20-%20Final%20-%20Goat%20Trading%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.04.01%20-%20Final%20-%20Nouns%20DAO%20-%20Clients%20Incentives%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.04.06%20-%20Final%20-%20Perennial%20V2%20Update%202%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.22.01%20-%20Final%20-%20Avail%20Audit%20Report.pdf

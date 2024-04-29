@@ -1,6 +1,7 @@
 https://raw.githubusercontent.com/Credshields/audit-reports/master/9mm_audit_report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Arcana_PayMaster_Final_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Arcana_Sendit_SC_Final_Audit_report.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/Arcana_Staking_Contract_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Archethic_Bridge_Contracts_SC_Final_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/AssetMantleWEB.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/BuscemiBeats-NFT.docx.pdf

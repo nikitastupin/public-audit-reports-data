@@ -19,6 +19,7 @@ https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2023-
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2023-12-05-cyfrin-beanstalk-bip-39.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-01-10-cyfrin-wormhole-thermae-v2.0.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-01-24-cyfrin-solidlyV3-v2.0.pdf
+https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-02-23-cyfrin-swell-barracuda-v2.0.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-04-06-cyfrin-beefy-finance-v2.0.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-04-09-cyfrin-wormhole-evm-cctp-v2-1.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-04-11-cyfrin-wormhole-evm-ntt-v2.pdf
