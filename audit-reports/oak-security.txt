@@ -148,6 +148,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Stride/2023-08
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Suberra/2022-03-17%20Audit%20Report%20-%20Suberra%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/TeFi/2022-01-14%20Audit%20Report%20-%20TeFi%20Oracle%20Contracts%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Terra%20Liquidity%20Bootstrapping%20Pool/2021-12-23%20Audit%20Report%20-%20Terra%20Liquidity%20Bootstrapping%20Pool%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Timewave/2024-05-02%20Audit%20Report%20-%20Timewave%20Covenants%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Vectis/2024-03-14%20Audit%20Report%20-%20Vectis%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/WhiteWhale/Audit%20Report%20-%20White%20Whale.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Wormhole/2023-07-06%20Audit%20Report%20-%20Wormhole%20Token%20Translator%20v1.1.pdf

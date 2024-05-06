@@ -22,5 +22,6 @@ https://raw.githubusercontent.com/ChainSafe/audits/main/Ribbon%20Finance/RibbonV
 https://raw.githubusercontent.com/ChainSafe/audits/main/Ribbon%20Finance/ribbon-07-2023.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/Ribbon%20Finance/ribbon-finance-04-2021.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/Ribbon%20Finance/ribbon-finance-11-2021.pdf
+https://raw.githubusercontent.com/ChainSafe/audits/main/Rocket%20Pool/rocket-pool-04-2024.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/The%20Graph/thegraph-04-2021.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/Zenon%20Network/zenon-05-2023.pdf
