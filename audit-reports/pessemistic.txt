@@ -1,8 +1,11 @@
 https://raw.githubusercontent.com/pessimistic-io/audits/main/1Inch%20Limit%20Order%20Protocol%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/1inch%20Aggregation%20Router%20V4%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/1inch%20Aggregation%20Router%20V6%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/1inch%20AggregationRouter%20V5%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/1inch%20Farming%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/1inch%20FixedRateSwap%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/1inch%20Fusion%20Settlement%20Extension%20v2%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/1inch%20Fusion%20Settlement%20Extension%20v2.1%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/1inch%20Gasless%20Swaps%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/1inch%20Limit%20Swap%20Security%20Analysis%20by%20Pessimistic%20updated.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/1inch%20MerkleDrop%20Security%20Recheck.pdf

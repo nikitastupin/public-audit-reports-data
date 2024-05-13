@@ -89,6 +89,7 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-1
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-11-ockam-designreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-12-curl-http3-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-12-opus-contracts-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-12-pacman-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-12-unibot-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-01-metalayerblast-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-01-offchainarbitrum-securityreview.pdf

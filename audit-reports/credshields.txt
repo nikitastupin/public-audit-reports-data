@@ -10,6 +10,7 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/Capital_Rock_
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Capx%20Smart%20Contract%20Audit.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/CoinGabbarAudit.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Comdex%20Audit.docx.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/Compad_Coin_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/CryptoFootball%20Security%20Report%20for%20Developer.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/DaiKoKu_SC_Audit_final.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/DeVoTokenFinalReport.pdf

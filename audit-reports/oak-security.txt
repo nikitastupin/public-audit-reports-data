@@ -106,6 +106,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Nebula/Nebula%
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Neptune/2023-04-09%20Audit%20Report%20-%20Neptune%20Protocol%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Neptune/2024-01-09%20Audit%20Report%20-%20Neptune%20Updates%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Neutron/2022-12-07%20Audit%20Report%20-%20Neutron%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Ninja%20Blaze/2024-05-06%20Audit%20Report%20-%20Ninja%20Blaze%20Double%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Noble/2023-03-13%20Audit%20Report%20-%20Noble%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Noble/2023-07-08%20Audit%20Report%20-%20Noble%20Tariff%20Module%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Noble/2024-01-17%20Audit%20Report%20-%20Noble%20tokenfactory%20Changes%20and%20fiattokenfactory%20v1.0.pdf
