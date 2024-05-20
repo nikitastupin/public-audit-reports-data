@@ -83,6 +83,7 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-0
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-09-wasmCloud-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-10-aleo-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-10-saltyio-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-10-spiko-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-10-squadsv4-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-10-yolov7-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-11-immutable-zkevmbridgecontracts-securityreview.pdf

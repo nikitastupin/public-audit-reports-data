@@ -88,6 +88,7 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/PowerPool%20PVP%20S
 https://raw.githubusercontent.com/pessimistic-io/audits/main/PowerPool%20Tornado%20Connector%20%26%20Router%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/PowerPool%20Vesting%20Security%20Audit%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Powerpool%20Vaults%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Privacy Pools — the open source code security analysis by Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Rarible%20Migration%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/ReWind%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/RealFevr%20Security%20Analysis%20by%20Pessimistic.pdf

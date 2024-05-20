@@ -1,12 +1,17 @@
 https://raw.githubusercontent.com/yAudit/reports/main/01-2023-LlamaLend-V2-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/01-2023-TempleDao-Origami-yAudit-Report.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/01-2024-Inverse-sDOLA-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/01-2024-Peapods-yAudit-Report.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/01-2024-yPrisma-Recheck-yAudit-Report.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/01-2024-yPrisma-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/02-2023-RageTrade-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/02-2023-TempleDao-Origami-Recheck-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/02-2024-Obelisk-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/03-2022-Ohm-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/03-2023-Bunni-Zap-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/03-2024-1upYFI-yAudit-Report.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/03-2024-Cove-yAudit-Report.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/03-2024-EulerV2-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/03-2024-TLX-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/04-2022-Ohm-Bond-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/04-2022-veYFI-yAudit-Report.pdf
@@ -15,6 +20,7 @@ https://raw.githubusercontent.com/yAudit/reports/main/04-2023-Incubator-DAO-yAud
 https://raw.githubusercontent.com/yAudit/reports/main/05-2022-OpenMEV-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/05-2023-Sonne-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/05-2023-Timeless-Gauge-yAudit-Report.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/05-2024-Sickle-3.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/06-2022-LevGeist-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/06-2022-Singularity-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/06-2022-Superfluid-yAudit-Report.pdf

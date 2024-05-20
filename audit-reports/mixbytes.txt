@@ -50,6 +50,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Divergence%20Pro
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Empower%20the%20DAO/Empower%20the%20DAO%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Enso%20Finance/Enso%20Wallet/Enso%20Wallet%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Enso%20Finance/Weiroll/Weiroll%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Euler/Reward-Streams/Euler%20Reward-Streams%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Fantium/Fantium%20v2/Fantium%20v2%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Fantium/Fantium/Fantium%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protocol/Gearbox%20Protocol%20v.1/Gearbox%20Protocol%20v.1%20Security%20Audit%20Report.pdf
