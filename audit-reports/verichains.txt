@@ -132,6 +132,7 @@ https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichain
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20Koakuma%20Token%20v2%20-%20v1.0.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20Konverter%20Smartcontracts%20-%20v1.1.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20Krabots%20Token%20-%20v1.0.pdf
+https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20Kroma%20Spectrum%20-%20v1.0.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20Krystal%20-%20v1.1.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20KulaDAO%20Smartcontracts%20-%20v1.0.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20Kyber%20Network%20ICO%20-%20v1.1.pdf

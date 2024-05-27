@@ -20,6 +20,7 @@ https://raw.githubusercontent.com/yAudit/reports/main/04-2023-Incubator-DAO-yAud
 https://raw.githubusercontent.com/yAudit/reports/main/05-2022-OpenMEV-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/05-2023-Sonne-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/05-2023-Timeless-Gauge-yAudit-Report.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/05-2024-Heroglyphs-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/05-2024-Sickle-3.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/06-2022-LevGeist-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/06-2022-Singularity-yAudit-Report.pdf
@@ -48,3 +49,4 @@ https://raw.githubusercontent.com/yAudit/reports/main/12-2022-Gro-Protocol-yAudi
 https://raw.githubusercontent.com/yAudit/reports/main/12-2022-LlamaPay-V2-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/12-2022-RageTrade-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/12-2023-Euler-EVC.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/12-2023-dopex-v2-automator.pdf

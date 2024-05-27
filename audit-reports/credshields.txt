@@ -21,10 +21,6 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/FoundersLabFi
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Ideology%20Final%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/JayDeriv_SC_Audit_report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/JayPeggers%20Final%20Audit%20Report.pdf
-https://raw.githubusercontent.com/Credshields/audit-reports/master/Juno%20External%20Network%20Final%20Audit%20Report.pdf
-https://raw.githubusercontent.com/Credshields/audit-reports/master/Juno%20Mobile%20(iOS%20%26%20Android)%20Audit%20Final%20Report.pdf
-https://raw.githubusercontent.com/Credshields/audit-reports/master/Juno%20Web%20Application%20Audit%20Final%20Report.pdf
-https://raw.githubusercontent.com/Credshields/audit-reports/master/JunoFinalAuditReport.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Juno_AWS_Audit_final.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/JustFarming_Final_audit_report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Lync%20Final%20Audit%20Report.pdf
