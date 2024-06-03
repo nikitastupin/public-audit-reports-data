@@ -105,6 +105,7 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-0
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-03-pufferfinance-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-04-offchainbold-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-04-scroll-4844-blob-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-05-lisksmartcontracts-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/88mph.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/API3.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/AcalaNetwork.pdf

@@ -9,6 +9,7 @@ https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Connext-Spearbi
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/ConnextNxtp-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/CronFinance-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Gauntlet-Spearbit-Security-Review.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Huma-2024-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/LIFI-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/LIFI-retainer1-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/LiquidCollective-Spearbit-Security-Review.pdf

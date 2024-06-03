@@ -22,6 +22,7 @@ https://raw.githubusercontent.com/yAudit/reports/main/05-2023-Sonne-yAudit-Repor
 https://raw.githubusercontent.com/yAudit/reports/main/05-2023-Timeless-Gauge-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/05-2024-Heroglyphs-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/05-2024-Sickle-3.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/05-2024-Yearn-STB-yAudit-report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/06-2022-LevGeist-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/06-2022-Singularity-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/06-2022-Superfluid-yAudit-Report.pdf

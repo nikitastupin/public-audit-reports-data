@@ -3,6 +3,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/AIxCC%20Concept%20W
 https://raw.githubusercontent.com/Zellic/publications/master/Adrastia%20PID%20Controller%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Adrastia%20Protocol%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Ante%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Anzen%20Finance%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Aqua%20Pool%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Arpeggi_Labs_-_Zellic_Audit_Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Astroport%20Pair%20XYK%20Sale%20Tax%20-%20Zellic%20Audit%20Report.pdf
@@ -95,6 +96,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Molend%20Protocol%2
 https://raw.githubusercontent.com/Zellic/publications/master/Move%20and%20Sui%20Security%20Assessment%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Muni%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Nibiru%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Nocturne%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Nukem%20Loans%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Odos%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Omni%20AVS%20-%20Zellic%20Audit%20Report.pdf
@@ -120,6 +122,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Revest%20Resonate%2
 https://raw.githubusercontent.com/Zellic/publications/master/SAX%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/SPL%20Token%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/STFX%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Safety%20Module%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Scroll%20-%2005.26.23%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Scroll%20-%2009.27.23%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Scroll%20Lido%20Gateway%20-%20Zellic%20Audit%20Report.pdf
@@ -127,6 +130,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Scroll%20zkEVM%20-%
 https://raw.githubusercontent.com/Zellic/publications/master/Scroll%20zkEVM%20-%20Part%202%20-%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Silo%20Staking%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Single%20Pool%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Singularity%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Socket%20Data%20Layer%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Spectral%20Modelers%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Spectral%20Token%20-%20Zellic%20Audit%20Report.pdf
@@ -136,6 +140,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/StaFi%20-%20Zellic%
 https://raw.githubusercontent.com/Zellic/publications/master/Steer%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Sturdy%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Succinct%20Telepathy%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Suilend%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/SupSwap%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/SushiSwap%20FundsReturner%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/SushiSwap%20RouteProcessor3%20-%20Zellic%20Audit%20Report.pdf
@@ -157,6 +162,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Voyage%20-%20Zellic
 https://raw.githubusercontent.com/Zellic/publications/master/Wasabi%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Wasabi%20Perps%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Wormhole%20Aptos%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Y2K%20Finance%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/ZetaChain%20-%2011.14.23%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/ZetaChain%20-%206.30.23%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/ZetaChain%20-%207.12.23%20Zellic%20Audit%20Report.pdf
