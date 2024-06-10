@@ -36,6 +36,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/BrainTrust/Aud
 https://raw.githubusercontent.com/oak-security/audit-reports/main/BrainTrust/Audit%20Report%20-%20BrainTrust%20Application.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Burnt%20(XION)/2023-09-22%20Audit%20Report%20-%20XION%20and%20Burnt%20Contract%20Updates%20and%20Account%20Abstraction%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Burnt%20(XION)/2023-09-22%20Audit%20Report%20-%20XION%20and%20Burnt%20Contracts%20v1.1.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Burnt%20(XION)/2024-05-25%20Audit%20Report%20-%20XION%20and%20Account%20Abstraction%20Updates%202%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/C2X/2022-05-09%20Audit%20Report%20-%20C2X%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/CW20%20Blocklist/2022-05-25%20Audit%20Report%20-%20CW20%20Blocklist%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Calculated%20Finance/2023-05-23%20Audit%20Report%20-%20Calculated%20Finance%20v1.1.pdf
@@ -136,8 +137,8 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Sei/2023-05-19
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Sigma/2022-05-03%20Audit%20Report%20-%20Sigma%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Skip/2023-07-29%20Audit%20Report%20-%20Skip%20Protocol%20Owned%20Builder%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Skip/2023-08-20%20Audit%20Report%20-%20Skip%20Protocol%20Swap%20Contracts%20v1.0.pdf
-https://raw.githubusercontent.com/oak-security/audit-reports/main/Snowbridge/2024-01-31%20Audit%20Report%20-%20Snowbridge%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Snowbridge/2024-02-12%20Audit%20Report%20-%20Snowbridge%20Extension%20v1.1.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Snowbridge/2024-05-24%20Audit%20Report%20-%20Snowbridge%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Spectrum/2022-07-02%20Audit%20Report%20-%20Alpha%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Stader/2021-12-06%20Audit%20Report%20-%20Stader%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/StarTerra/Audit%20Report%20-%20StarTerra.pdf

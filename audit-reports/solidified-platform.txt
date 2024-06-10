@@ -204,6 +204,7 @@ https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Repo
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20SingularityNET%20%5B25.04.2021%5D.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20SingularityNET%20-%20Staking%20%5B30.04.2021%5D.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20SingularityNet%20%5B12.02.2019%5D.pdf
+https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Size%20Lending.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Snowbridge%20%5B10.09.2021%5D-final.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Solidified%20Token%20Sale%20%5B06.13.2018%5D.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Spring%20Token%20%5B11-01-2018%5D.pdf

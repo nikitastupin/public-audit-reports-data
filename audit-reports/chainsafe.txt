@@ -18,6 +18,10 @@ https://raw.githubusercontent.com/ChainSafe/audits/main/Gnosis%20Chain/gnosis-08
 https://raw.githubusercontent.com/ChainSafe/audits/main/Grappa%20Finance/grappa-finance-02-2023.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/Hashnote/hashnote-vaults-02-2023.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/NIFTYKIT/niftykit-v2-08-2022.pdf
+https://raw.githubusercontent.com/ChainSafe/audits/main/Propy/propy-auction-v2-05-2024.pdf
+https://raw.githubusercontent.com/ChainSafe/audits/main/Propy/propy-nft-staking-02-2024.pdf
+https://raw.githubusercontent.com/ChainSafe/audits/main/Propy/propy-nft-staking-v2-05-2024.pdf
+https://raw.githubusercontent.com/ChainSafe/audits/main/Propy/propy-payment-02-2024.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/Ribbon%20Finance/RibbonV2-July-2021.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/Ribbon%20Finance/ribbon-07-2023.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/Ribbon%20Finance/ribbon-finance-04-2021.pdf
