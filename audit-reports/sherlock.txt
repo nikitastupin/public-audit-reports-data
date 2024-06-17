@@ -133,8 +133,10 @@ https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.03.30%20-%20Final%20-%20Axis%20Finance%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.03.31%20-%20Final%20-%20Goat%20Trading%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.04.01%20-%20Final%20-%20Nouns%20DAO%20-%20Clients%20Incentives%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.04.04%20-%20Final%20-%20Optimism%20Fault%20Proofs%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.04.06%20-%20Final%20-%20Perennial%20V2%20Update%202%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.04.12%20-%20Final%20-%20Flat%20Money%20Fix%20Review%20Contest%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.04.13%20-%20Final%20-%20xKeeper%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.04.19%20-%20Final%20-%20Alchemix%20-%20Optimism%20Bridging%20and%20Reward%20Routing%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.04.25%20-%20Final%20-%20Arcadia%20-%20Aerodrome%20integrations%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.04.25%20-%20Final%20-%20Zivoe%20Audit%20Report.pdf
@@ -142,4 +144,5 @@ https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.05.02%20-%20Final%20-%20Uncuts.App%20(by%20REKT)%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.05.04%20-%20Final%20-%20Exactly%20Protocol%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.05.12%20-%20Final%20-%20Kwenta%20x%20Perennial%20Integration%20Update%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.05.20%20-%20Final%20-%20Gamma%20-%20Locked%20Staking%20Contract%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.22.01%20-%20Final%20-%20Avail%20Audit%20Report.pdf

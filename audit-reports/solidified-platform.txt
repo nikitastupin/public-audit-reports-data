@@ -182,6 +182,7 @@ https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Repo
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Quidd%20(1).pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Quidd.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20RAI%20Ungovernance.pdf
+https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Reserve%20Protocol%203.4.0.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Reserve%20Protocol.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20Restart%20Energy%20ICO%20%5B01.13.18%5D.pdf
 https://raw.githubusercontent.com/solidified-platform/audits/master/Audit%20Report%20-%20SKALE%20Self-Recharging%20Wallets.pdf

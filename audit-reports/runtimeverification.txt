@@ -27,6 +27,7 @@ https://raw.githubusercontent.com/runtimeverification/publications/main/reports/
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Euroe%20Stablecoin%20Audit.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Folks-Finance-Code-Audit.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Folks-Finance-Design-Review.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/FxDAO.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Galactic_Skyteller_V1.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Gigastar_CRD.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/GnosisSafe.pdf

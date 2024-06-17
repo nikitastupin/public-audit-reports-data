@@ -108,6 +108,7 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-0
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-04-scroll-4844-blob-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-05-hydrogenlabs-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-05-lisksmartcontracts-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-05-offchain-arbitrumstylus-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/88mph.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/API3.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/AcalaNetwork.pdf

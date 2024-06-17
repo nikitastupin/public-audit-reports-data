@@ -60,6 +60,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/DAO%20DAO/2024
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Dapper%20Labs/Audit%20Report%20-%20Hybrid%20Custody%20Smart%20Contracts.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Dexter/2023-03-15%20Audit%20Report%20-%20Dexter%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Dock/Audit%20Report%20-%20Dock%20Wallet.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/DoraFactory/2024-06-13%20Audit%20Report%20-%20Dora%20Vota%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/DoraHacks/2024-03-04%20Audit%20Report%20-%20DoraHacks%20Quadratic%20Grant%20Injective%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Dymension/2024-03-08%20Audit%20Report%20-%20Dymension%20Point%200D%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Edge/2022-04-23%20Audit%20Report%20-%20Edge%20Protocol%20v1.0.pdf
@@ -156,6 +157,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Timewave/2024-
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Vectis/2024-03-14%20Audit%20Report%20-%20Vectis%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/WhiteWhale/Audit%20Report%20-%20White%20Whale.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Wormhole/2023-07-06%20Audit%20Report%20-%20Wormhole%20Token%20Translator%20v1.1.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Yieldmos/2024-05-17%20Audit%20Report%20-%20Yieldmos%20Outposts%20Osmosis%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Zodiac%20Protocol/2024-01-02%20Audit%20Report%20-%20Zodiac%20Protocol%20Core%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Zodiac%20Protocol/2024-03-18%20Audit%20Report%20-%20Zodiac%20Protocol%20Periphery%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Zodiac%20Protocol/2024-03-22%20Audit%20Report%20-%20Zodiac%20Protocol%20Core%20Extension%20v1.0.pdf

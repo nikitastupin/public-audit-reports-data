@@ -64,6 +64,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/GoGoPool%20-%20Zell
 https://raw.githubusercontent.com/Zellic/publications/master/GotSui%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/H20%20vlPSDN%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Horizon%20Sequence%20Wallet%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Hydrogen%20Labs%20Rover%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Hyperliquid%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Hyperliquid%20November%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Ionic%20Protocol%20-%20Zellic%20Audit%20Report.pdf
@@ -128,6 +129,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Scroll%20-%2009.27.
 https://raw.githubusercontent.com/Zellic/publications/master/Scroll%20Lido%20Gateway%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Scroll%20zkEVM%20-%20Part%201%20-%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Scroll%20zkEVM%20-%20Part%202%20-%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Scroll%20zkEVM%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Silo%20Staking%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Single%20Pool%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Singularity%20-%20Zellic%20Audit%20Report.pdf
@@ -164,6 +166,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Wasabi%20-%20Zellic
 https://raw.githubusercontent.com/Zellic/publications/master/Wasabi%20Perps%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Wormhole%20Aptos%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Y2K%20Finance%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Yei%20Finance%20Oracle%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/ZetaChain%20-%2011.14.23%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/ZetaChain%20-%206.30.23%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/ZetaChain%20-%207.12.23%20Zellic%20Audit%20Report.pdf
