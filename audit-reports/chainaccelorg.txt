@@ -27,3 +27,4 @@ https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-05-02-cyfrin-beanstalk-bip-39-v1-2.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-05-04-cyfrin-solidly-v2-memecore-v2-2.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-05-24-cyfrin-linea-v2.0.pdf
+https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-06-17-cyfrin-templedao-v2.1.pdf

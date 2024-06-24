@@ -21,5 +21,9 @@ https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/
 https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2023-05-17_Lido_Polygon_v2.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2023-10-20_Lido_Roles_Analysis.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2024-04-11_Lido_GateSeal_deployment_validation.pdf
+https://raw.githubusercontent.com/statemindio/public-audits/main/Mellow/2024-05-27_Mellow_LRT.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Myso%20Finance/2023-08-15_Myso_v2.pdf
+https://raw.githubusercontent.com/statemindio/public-audits/main/Symbiotic/2024-05-01_Symbiotic_Default_Collateral.pdf
+https://raw.githubusercontent.com/statemindio/public-audits/main/Valantis%20Labs/2024-03-19_Valantis_Core.pdf
+https://raw.githubusercontent.com/statemindio/public-audits/main/Valantis%20Labs/2024-04-23_Valantis_HOT.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Yearn%20Finance/2022-07-08_Yearn_veYFI(Voting_and_RewardPool).pdf

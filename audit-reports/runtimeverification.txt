@@ -21,6 +21,7 @@ https://raw.githubusercontent.com/runtimeverification/publications/main/reports/
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Blockswap_Stakehouse_2nd_Audit.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Blockswap_Stakehouse_Withdrawals_Audit_Report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/EXA_Finance.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/EigenLayer_Design_Review.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/ElementFinance.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Element_Finance_Governance_Security_Audit_Report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Ethereum-Deposit.pdf

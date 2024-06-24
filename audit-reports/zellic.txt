@@ -2,6 +2,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/1inch%20Farming%20A
 https://raw.githubusercontent.com/Zellic/publications/master/AIxCC%20Concept%20White%20Paper%20-%20Zellic.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Adrastia%20PID%20Controller%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Adrastia%20Protocol%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Alkimiya%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Ante%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Anzen%20Finance%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Aqua%20Pool%20-%20Zellic%20Audit%20Report.pdf
@@ -12,6 +13,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Audius%20EVM%20-%20
 https://raw.githubusercontent.com/Zellic/publications/master/Audius%20Solana%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Aura%20Finance%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Avantis%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Awaken%20Swap%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Bebop%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Beefy%20BIFI%20Token%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Beefy%20UniswapV3%20-%20Zellic%20Audit%20Report.pdf
@@ -32,6 +34,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Blackwing%20-%20Zel
 https://raw.githubusercontent.com/Zellic/publications/master/Blobstream%20X%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Bloom%20Trading%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Bond%20Protocol%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Bracket%20Fi%20Escrow%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/BrahmaFi%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Cega%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Cega%20Vault%20Smart%20Contract%20Patch%20Review.pdf
@@ -83,6 +86,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20Stargat
 https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20UltraLightNodeV2Radar%20Audit%20(November%2022nd%202022)%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LightWallet%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LootRush%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Lorenzo%20Protocol%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/MSafe%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Maia%20DAO%20February%202023%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Maia%20DAO%20Ulysses%20Protocol%20-%20Zellic%20Audit%20Report.pdf

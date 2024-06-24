@@ -11,6 +11,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Apollo/2021-08
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Apollo/2022-03-17%20Audit%20Report%20-%20Apollo%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Apollo/2023-01-17%20Audit%20Report%20-%20Apollo%20DAO%203%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Archway/2023-06-05%20Audit%20Report%20-%20Archway%20Rewards%20Module%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Asteroid%20Bridge/2024-06-17%20Audit%20Report%20-%20Asteroid%20Bridge%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Astroport/2021-12-23%20Audit%20Report%20-%20Astroport%20Periphery%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Astroport/2022-01-20%20Audit%20Report%20-%20Astroport%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Astroport/2022-03-15%20Audit%20Report%20-%20Astroport%20Governance%20v1.0.pdf
