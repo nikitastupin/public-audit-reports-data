@@ -7,6 +7,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/AngelBlock/Angel%
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/AngelBlock/AngelBlock_Zokyo_audit_report_Feb13_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/ArtMeta/ArtMeta_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Auki%20Labs/Auki_Labs_Zokyo_audit_report_Oct2nd_2023.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Aurora/Aurora_Zokyo_audit_report_June8_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Bladeswap/Bladeswap_Zokyo_audit_report_May27th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/BlastOff/BlastOff_Zokyo_audit%20report_March14_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/BobaNetwork/Boba%20Network_Zokyo%20audit%20report.pdf
@@ -20,6 +21,8 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Curra/Curra_Zokyo
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/DPEX/DPEX_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/DPNMDEFI/DPNMDEFI_Zokyoauditreport_14March_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Devve/Devve_Zokyo_audit_report_May30th_2024.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Eclipse%20Fi/Eclipse_Fi_Zokyo_audit_report.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Ember%20Labs/Ember_Labs_Zokyo_audit_report_Oct20_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Ethlas/Ethlas_Zokyo_audit_report_26th_April_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/FNDZ/FNDZ_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Fluxfire/Fluxfire_Zokyo_audit_report_June5_2023.pdf
@@ -65,6 +68,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Paribus/Paribus_Z
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Penpie/Penpie_Zokyo_audit_report_July13_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Penpie/Penpie_Zokyo_audit_report_June22_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Planar/Planar_Zokyo_audit_report_March26th_2024.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Project%20Pi/Project%20Pi_Zokyo_final_audit_report_June24th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Propchain/Propchain_Zokyo_audit_report_16May_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/RAIL/RAIL%20Token%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/RAILGUN/RAILGUN_Zokyo_audit_report_April20_2022.pdf

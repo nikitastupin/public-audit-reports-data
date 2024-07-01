@@ -351,6 +351,7 @@ https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/P
 https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-VRHDAO-v1.0.pdf
 https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-VSD-v1.0.pdf
 https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-VeChain-v1.0.pdf
+https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-Velix-v1.0.pdf
 https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-Velvet-v1.0.pdf
 https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-Venus-MintBehalf-v1.0.pdf
 https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-Venus-v1.0.pdf

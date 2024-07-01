@@ -54,6 +54,8 @@ https://raw.githubusercontent.com/sigp/public-audits/master/reports/near/review.
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/omni-network/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/open-grants/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/optimism/optimism-bedrock/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/renzo/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/reth/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/rocket-pool/rocket-pool-4-feedistributor-fix/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/rocket-pool/rocket-pool-5-lower-eth-bond/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/rocket-pool/rocket-pool-6-rpl-router/review.pdf

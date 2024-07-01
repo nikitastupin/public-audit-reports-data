@@ -141,6 +141,7 @@ https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.04.25%20-%20Final%20-%20Arcadia%20-%20Aerodrome%20integrations%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.04.25%20-%20Final%20-%20Zivoe%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.04.26%20-%20Final%20-%20TITLES%20Publishing%20Protocol%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.04.29%20-%20Final%20-%20Teller%20Finance%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.05.02%20-%20Final%20-%20FairSide%20Network%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.05.02%20-%20Final%20-%20Uncuts.App%20(by%20REKT)%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.05.04%20-%20Final%20-%20Exactly%20Protocol%20Audit%20Report.pdf
@@ -148,4 +149,7 @@ https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.05.20%20-%20Final%20-%20Gamma%20-%20Locked%20Staking%20Contract%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.05.24%20-%20Final%20-%20Sophon%20Farming%20Contracts%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.05.31%20-%20Final%20-%20Midas%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.06.01%20-%20Final%20-%20Terrace%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.06.04%20-%20Final%20-%20Arrakis%20Valantis%20SOT%20Audit%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.06.09%20-%20Final%20-%20Telcoin%20Wallet%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.22.01%20-%20Final%20-%20Avail%20Audit%20Report.pdf

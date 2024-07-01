@@ -133,6 +133,15 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Prism/2022-11-
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Public%20Awesome/2023-01-27%20Audit%20Report%20-%20ICS721%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Random%20Earth/2021-12-10%20Audit%20Report%20-%20Random%20Earth%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Risk%20Harbor/2022-03-22%20Audit%20Report%20-%20Risk%20Harbor%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Router/2022-11-27%20Audit%20Report%20-%20Router%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Router/2024-04-29%20Audit%20Report%20-%20Router%20Voyager%20Forwarder%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Router/2024-04-30%20Audit%20Report%20-%20Router%20Asset%20Bridge%20v1.2.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Router/2024-04-30%20Audit%20Report%20-%20Router%20Chain%202%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Router/2024-04-30%20Audit%20Report%20-%20Router%20Orchestrator%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Router/2024-04-30%20Audit%20Report%20-%20Router%20Voyager%20Forwarder%20and%20CW%20Gateway%20v1.2.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Router/2024-05-10%20Audit%20Report%20-%20Router%20DexSpan%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Router/2024-05-29%20Audit%20Report%20-%20Router%20EVM%20and%20NEAR%20Gateway%20Contracts%20and%20WASM%20Bindings%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Router/2024-05-29%20Audit%20Report%20-%20Router%20Integration%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Sei/2023-05-15%20Audit%20Report%20-%20Sei%20Cosmos%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Sei/2023-05-15%20Audit%20Report%20-%20Sei%20Tendermint%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Sei/2023-05-19%20Audit%20Report%20-%20Sei%20Chain%20and%20CosmWasm%20v1.0.pdf

@@ -56,6 +56,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Fantium/Fantium%
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Fantium/Fantium/Fantium%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protocol/Gearbox%20Protocol%20v.1/Gearbox%20Protocol%20v.1%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protocol/Gearbox%20Protocol%20v.3%20Bots%20&%20Integrations/Gearbox%20Protocol%20v.3%20Bots%20&%20Integrations%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Instadapp/Fluid/Instadapp%20Fluid%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Iron%20Bank/IronBank%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Keep3r.Network/keep3r%20Staking%20Rewards%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/KelpDAO/KelpDAO%20LRT-ETH%20Security%20Audit%20Report.pdf
@@ -76,6 +77,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Withdrawals
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/WstETH/Lido%20WstETH%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/stETH%20Price%20Feed/Lido%20stETH%20Price%20Feed%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/stETH%20Price%20Oracle/Lido%20stETH%20price%20oracle%20Security%20Audit%20Report%20(merged).pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/stETH%20on%20Optimism/Lido%20stETH%20on%20Optimism%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Mantle%20Network/Mantle%20Network%20METH%20Secuity%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Mellow%20Finance/Mellow%20Finance%20SCA.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/NuCypher/NuCypher%20PoolingStakingContractV2%20Security%20Audit%20Report.pdf
@@ -123,3 +125,4 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Yearn%20Finance/
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Yearn%20Finance/yETH-bootstrap/Yearn%20Finance%20yETH-bootstrap%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Yearn%20Finance/ySwaps/Yearn%20ySwaps%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Yearn%20Finance/yveCRV/yveCRV-vault%20Security%20Audit%20Report%20(merged).pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/dForce/Lending%20v2/dForce%20Lending%20V2%20Security%20Audit%20Report.pdf

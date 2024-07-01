@@ -1,6 +1,7 @@
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/c++/blocksec_eos_wram_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/c++/blocksec_eos_wram_v1.1-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/c++/blocksec_eos_wram_v1.2-signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/c++/blocksec_rams_rambank_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/go/blocksec_aura_network_v1.0.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/go/blocksec_permaswap_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec-octopus-vesting-v1.0_signed.pdf
