@@ -1,3 +1,6 @@
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/c++/blocksec_defibox_vault_v1.0-signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/c++/blocksec_defibox_vault_v1.1-signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/c++/blocksec_eos_rex_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/c++/blocksec_eos_wram_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/c++/blocksec_eos_wram_v1.1-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/c++/blocksec_eos_wram_v1.2-signed.pdf

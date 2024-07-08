@@ -8,6 +8,13 @@ https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Clober-Spearbit
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Connext-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/ConnextNxtp-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/CronFinance-Spearbit-Security-Review.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Delv-Spearbit-Security-Review-February-2024.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Delv-Spearbit-Security-Review-June-2023.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Delv-Spearbit-Security-Review-June-2024.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Delv-Spearbit-Security-Review-March-2024.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Euler-Spearbit-Security-Review-EVC-April-2024.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Euler-Spearbit-Security-Review-EVK-April-2024.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Euler-Spearbit-Security-Review-Oracle-April-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Gauntlet-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Huma-2024-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/LIFI-Spearbit-Security-Review.pdf

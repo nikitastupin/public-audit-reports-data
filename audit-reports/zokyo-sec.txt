@@ -47,6 +47,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/KBT%20token/KBT%2
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/KIP/KIP_Zokyo_audit_report_May7th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/LYOPAY/LYOPAY_Zokyo_audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/LayerZero/LayerZero%20audit%20report.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Legion/Legion%20OTC_Zokyo_audit_report_June12th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Limit%20Break/Limit%20Break_Zokyo_audit_report_June12th_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/MadeForGamers/Made%20For%20Gamers_Zokyo%20audit%20report%20_compressed.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Magic%20Yearn/Magic%20Yearn_Zokyo_audit%20report_Feb8_2023.pdf

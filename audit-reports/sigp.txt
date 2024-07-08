@@ -48,6 +48,7 @@ https://raw.githubusercontent.com/sigp/public-audits/master/reports/lido/lido/re
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/linkpool/linkpool-2/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/lyra-finance/review-round2.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/lyra-finance/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/lyra-finance/v2-matching/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/mantle/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/membrane-finance/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/near/review.pdf
@@ -82,6 +83,7 @@ https://raw.githubusercontent.com/sigp/public-audits/master/reports/synthetix/un
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/taiko/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/term-finance/term1/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/term-finance/term2/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/term-finance/term3/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/tracer/tracer-2/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/tracer/tracer-3/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/tracer/tracer/review.pdf

@@ -34,6 +34,7 @@ https://raw.githubusercontent.com/yAudit/reports/main/06-2023-VMEX-yAudit-Report
 https://raw.githubusercontent.com/yAudit/reports/main/06-2023-Yearn-v3-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/06-2024-Asymmetry-veASF.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/06-2024-JRF-Recheck.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/06-2024-Origami-Oracles-Adapters-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/07-2023-TempleDAO-Lending-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/07-2023-Timeless-Bunni-Oracle-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/08-2022-Bunni-yAudit-Report.pdf

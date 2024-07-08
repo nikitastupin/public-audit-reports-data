@@ -38,6 +38,7 @@ https://raw.githubusercontent.com/runtimeverification/publications/main/reports/
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/HydraDX-Omnipool-AMM-Audit-Report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/HydraDX-Omnipool-Withdrawal-Fee.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Jpg.Store-audit-report.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Lido_Dual_Governance_Design_Review.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Morpho-Audit-Report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Ojo.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Pact_Fi.pdf

@@ -54,6 +54,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Enso%20Finance/W
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Euler/Reward-Streams/Euler%20Reward-Streams%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Fantium/Fantium%20v2/Fantium%20v2%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Fantium/Fantium/Fantium%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/FireBTC/FBTC/FireBTC%20FBTC%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protocol/Gearbox%20Protocol%20v.1/Gearbox%20Protocol%20v.1%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protocol/Gearbox%20Protocol%20v.3%20Bots%20&%20Integrations/Gearbox%20Protocol%20v.3%20Bots%20&%20Integrations%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Instadapp/Fluid/Instadapp%20Fluid%20Security%20Audit%20Report.pdf
@@ -75,11 +76,14 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Lido%20Prot
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Two-Phase%20Voting/Lido%20Two-Phase%20Voting%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Withdrawals%20Manager%20Stub/Lido%20Withdrawals%20Manager%20Stub%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/WstETH/Lido%20WstETH%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/a.DI/Lido%20a.DI%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/stETH%20Price%20Feed/Lido%20stETH%20Price%20Feed%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/stETH%20Price%20Oracle/Lido%20stETH%20price%20oracle%20Security%20Audit%20Report%20(merged).pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/stETH%20on%20Optimism/Lido%20stETH%20on%20Optimism%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Mantle%20Network/Mantle%20Network%20METH%20Secuity%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Mellow%20Finance/Mellow%20Finance%20SCA.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Napier%20Finance/Napier%20Pool/Napier%20Pool%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Napier%20Finance/Napier%20v1/Napier%20v1%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/NuCypher/NuCypher%20PoolingStakingContractV2%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Opium%20Protocol/Opium%20Network%20Protocol%20v1%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/ETH2%20Depositor%20&%20ETH%20Staking%20Fee%20Distributor%20(v.1)/P2P.org_ETH2%20Depositor%20&%20ETH%20Staking%20Fee%20Distributor%20Smart%20Contracts%20Audit%20Report.pdf
