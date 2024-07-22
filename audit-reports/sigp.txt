@@ -52,7 +52,8 @@ https://raw.githubusercontent.com/sigp/public-audits/master/reports/lyra-finance
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/mantle/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/membrane-finance/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/near/review.pdf
-https://raw.githubusercontent.com/sigp/public-audits/master/reports/omni-network/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/omni-network/Sigma%20Prime%20-%20Omni%20-%20AVS%20And%20Token%20-%20Security%20Assessment%20Report%20-%20v2.1.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/omni-network/Sigma%20Prime%20-%20Omni%20Network%20-%20Omni%20Portal%20-%20Security%20Assessment%20Report%20-%20v2.1.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/open-grants/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/optimism/optimism-bedrock/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/renzo/review.pdf

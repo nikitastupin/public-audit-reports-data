@@ -121,6 +121,7 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/Tornado.Cash%20Secu
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Venus%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Via%20Protocol%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/VirtuSwap%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Warden%20Yield%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Weft%20Finance%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Work%20X%20Reward%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Work%20X%20Token%20Security%20Analysis%20by%20Pessimistic.pdf

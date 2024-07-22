@@ -171,6 +171,7 @@ https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichain
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20MetaBomb%20Token%20-%20v1.1.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20MetaDOS%20SECOND%20Token%20-%20v1.0.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20MetaDOS%20Smartcontracts%20-%20v1.0.pdf
+https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20MetaDOS%20Staking%20-%20v1.0.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20MetaGear%20Token%20-%20v1.0.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20MetaGear%20Token%20-%20v1.1.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20MetaSpets%20Smartcontracts%20-%20v1.0.pdf
@@ -221,6 +222,7 @@ https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichain
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20ProtonSale%20Smartcontracts%20-%20v1.2.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20RENEC%20LEND%20-%20v1.0.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20RENEC%20Oracle%20and%20PeggedFiat%20-%20v1.0.pdf
+https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20RagMon%20-%20v1.2.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20RageOnWheels%20Token%20-%20v1.0.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20Reit%20Smartcontracts%20-%20v1.0.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20Renec%20Network%20-%20v1.0.pdf

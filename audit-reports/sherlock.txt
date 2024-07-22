@@ -152,6 +152,7 @@ https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.05.31%20-%20Final%20-%20Midas%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.06.01%20-%20Final%20-%20Terrace%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.06.04%20-%20Final%20-%20Arrakis%20Valantis%20SOT%20Audit%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.06.06%20-%20Final%20-%20PoolTogether%3A%20The%20Prize%20Layer%20for%20DeFi%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.06.09%20-%20Final%20-%20Telcoin%20Wallet%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.06.22%20-%20Final%20-%20SYMMIO%20v0.83%20Update%20Contest%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.22.01%20-%20Final%20-%20Avail%20Audit%20Report.pdf

@@ -32,10 +32,10 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/IceBearSociety_Audi
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/InfinityLotto_Audit.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Key_Finance_Audit.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/MIMSwap/2024-03-21_MIMSwap.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/MagnifyCash/2024-03-14_MagnifyCash.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/NFTR/NFTR_Audit.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/NFTR/NFTR_Market_Audit.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/NFTR/NFTR_Naming_Credits_Audit.pdf
-https://raw.githubusercontent.com/GuardianAudits/Audits/main/NFTYFinance/2024-03-15_NFTY_Finance.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Orderly/2023-10-25_Orderly.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/PariFi/09-03-2023-PariFi.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/PariFi/2024-01-24_PariFi.pdf
@@ -44,6 +44,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/Poolshark/Poolshark
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Poolshark/Poolshark_Limit_Audit.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Reliquary_Audit.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/RestFinance/2024-01-26_Rest_Finance.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Synthetix/2024-04-18_Synthetix_BFP_Market.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/UltiBets/UltiBets_Audit_1.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/UltiBets/UltiBets_Audit_2.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/UltimateFantoms_Audit.pdf

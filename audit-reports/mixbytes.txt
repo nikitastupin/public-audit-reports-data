@@ -27,6 +27,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Aragon/Open%20En
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Aragon/Voting%20Connectors/Aragon%20Voting%20Connectors%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Aspida%20Network/Aspida%20Network%20Contracts%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/B-Cube/B-Cube%20ICO%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Barter%20DAO/Barter%20DAO%20(diff%20v2)/Barter%20DAO%20Security%20Audit%20Report%20(diff%20v2).pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Barter%20DAO/Barter%20DAO%20(diff)/Barter%20DAO%20Security%20Audit%20Report%20(diff).pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Barter%20DAO/Barter%20DAO/Barter%20DAO%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Bebop/Bebop%20Security%20Audit%20Report.pdf
@@ -88,7 +89,9 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/NuCypher/NuCyphe
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Opium%20Protocol/Opium%20Network%20Protocol%20v1%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/ETH2%20Depositor%20&%20ETH%20Staking%20Fee%20Distributor%20(v.1)/P2P.org_ETH2%20Depositor%20&%20ETH%20Staking%20Fee%20Distributor%20Smart%20Contracts%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/ETH2%20Depositor%20&%20ETH%20Staking%20Fee%20Distributor%20(v.2)/ETH2%20Depositor%20&%20ETH%20Staking%20Fee%20Distributor%20Security%20Audit%20Report%20(v.2).pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/SSV%20Integration%20Diff%20Audit%20(v1)/P2P.org%20SSV%20Integration%20Diff%20Audit%20(v1).pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/SSV%20Integration/P2P.org%20SSV%20Integration%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/Staking%20Fee%20Distributor%20Diff%20Audit%20(v1)/P2P.org%20Staking%20Fee%20Depositor%20Diff%20Audit%20(v1).pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Pickle%20Finance/All%20Strategies/Pickle%20Finance%20All%20Stratagies%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Pickle%20Finance/Strategy-Curve-scrv-v4_1/Pickle%20Finance%20Strategy-Curve-scrv-v4_1%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/PieDAO/ExperiPie/PieDAO%20Experipie%20Security%20Audit%20Report.pdf
@@ -101,6 +104,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Roobee/Roobee%20
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Rubic/Rubic%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Solidex/Solidex/Solidex-Security-Audit-Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/SpiritSwap/SpiritSwap-Core%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Stader%20Labs/ETHx/Stader%20Labs%20ETHx%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/SushiSwap/BentoBox/Sushiswap%20Bentobox%20Smart%20Contract%20Audit%20(1).pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Swell/Staking/Swell%20Staking%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Threshold%20Network/BAMM/Threshold-USD%20BAMM%20Security%20Audit%20Report.pdf
