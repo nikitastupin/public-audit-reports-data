@@ -37,6 +37,8 @@ https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/ma
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/SyncDAO_report.pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/Trupenny_SC.pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/cLabs_June23(Public)%20(Governance%20Protocol)_v2.pdf
+https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/deq.fi-audit-may24(Public).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/fuel-audit-pre-deposit-contract-june-24(Public).pdf
+https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/fungify-audit-june-2024(Public).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/fungify-nft-audit-feb24(Public).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/spool-audit-feb-2024(Public).pdf

@@ -37,6 +37,7 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/Rove_Token_Fi
 https://raw.githubusercontent.com/Credshields/audit-reports/master/SWYP_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Solace%20Final%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/StationX_Claim_Contract_Final_Audit_Report.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/Styleo%20Coin%20Final%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/TRICE_SC-Audit.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Uniscrow%20Final%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Wahed%20Token%20Final%20Report.pdf

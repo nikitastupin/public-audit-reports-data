@@ -56,6 +56,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/EtherFi%20-%20Zelli
 https://raw.githubusercontent.com/Zellic/publications/master/EtherFi_-_Zellic_Audit_Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Euler%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Euler%20Fee%20Flow%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Family%20Wallet%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Fractal%20Protocol%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Fractal%20Protocol%20v2-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/GammaSwap%20-%20Zellic%20Audit%20Report.pdf
@@ -136,6 +137,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Scroll%20Lido%20Gat
 https://raw.githubusercontent.com/Zellic/publications/master/Scroll%20zkEVM%20-%20Part%201%20-%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Scroll%20zkEVM%20-%20Part%202%20-%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Scroll%20zkEVM%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Session%20Token%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Silo%20Staking%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Single%20Pool%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Singularity%20-%20Zellic%20Audit%20Report.pdf
@@ -145,6 +147,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Spectral%20Token%20
 https://raw.githubusercontent.com/Zellic/publications/master/SpiceFi%20Vaults%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/SpiceFiNFT4626%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/StaFi%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/StakeKit%20FeeWrapper%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Steer%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Sturdy%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Succinct%20Telepathy%20-%20Zellic%20Audit%20Report.pdf

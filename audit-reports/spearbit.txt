@@ -38,6 +38,7 @@ https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Nouns-Spearbit-
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/OptimismDrippie-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Overlay-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Paladin-Spearbit-Security-Review.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Pendle-Spearbit-Security-Review-July-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Porter-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Primitive-Spearbit-Security-Review-July.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Primitive-Spearbit-Security-Review.pdf

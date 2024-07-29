@@ -108,6 +108,9 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-0
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-03-pufferfinance-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-03-seda-chaintokenmigration-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-04-ironfish-fishhash-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-04-offchain-arbos-30-nitro-upgrade-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-04-offchain-arbos-31-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-04-offchain-l1-l3-teleporter-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-04-offchainbold-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-04-scroll-4844-blob-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-05-ailayerlabs-6079smartcontracts-securityreview.pdf
