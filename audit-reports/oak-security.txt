@@ -65,6 +65,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Dock/Audit%20R
 https://raw.githubusercontent.com/oak-security/audit-reports/main/DoraFactory/2024-06-13%20Audit%20Report%20-%20Dora%20Vota%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/DoraHacks/2024-03-04%20Audit%20Report%20-%20DoraHacks%20Quadratic%20Grant%20Injective%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Dymension/2024-03-08%20Audit%20Report%20-%20Dymension%20Point%200D%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Eclipse%20Fi/2024-07-30%20Audit%20Report%20-%20Eclipse%20Equinox%20Lockdrop%20Contract%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Edge/2022-04-23%20Audit%20Report%20-%20Edge%20Protocol%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Eris%20Protocol/2023-02-15%20Audit%20Report%20-%20Eris%20Protocol%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Evmos/2023-07-08%20Audit%20Report%20-%20Evmos%20EVM%20Extensions%20v1.0.pdf
@@ -78,6 +79,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Glow/2021-11-1
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Hadron%20Labs/2023-07-29%20Audit%20Report%20-%20Hadron%20Labs%20Lido%20Satellite%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Helix%20Bridge/2024-07-04%20Audit%20Report%20-%20Helix%20Bridge%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Helix%20Bridge/2024-07-04%20Audit%20Report%20-%20Helix%20xToken%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Hydro/2024-07-30%20Audit%20Report%20-%20Hydro%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Hyperlane/2024-02-13%20Audit%20Report%20-%20cw-hyperlane%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/IBCX/2023-04-29%20Audit%20Report%20-%20IBCX%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Illiquid%20Labs/2023-01-10%20Audit%20Report%20-%20Illiquid%20Labs%20v1.0.pdf

@@ -100,6 +100,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Matrixdock-STBT%20-
 https://raw.githubusercontent.com/Zellic/publications/master/Maverick%20Protocol%20-%20Zellic%20Security%20Assessment%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/MightyNet%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/MightyNetERC1155Claimer%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Mitosis%20Vault%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Molend%20Protocol%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Move%20and%20Sui%20Security%20Assessment%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Muni%20-%20Zellic%20Audit%20Report.pdf
@@ -179,5 +180,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Yei%20Finance%20Ora
 https://raw.githubusercontent.com/Zellic/publications/master/ZetaChain%20-%2011.14.23%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/ZetaChain%20-%206.30.23%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/ZetaChain%20-%207.12.23%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/eBridge%20AElf%20Bridge%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/eBridge%20Ethereum%20Bridge%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/ether.fi%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/warpdotgreen-cli%20-%20Zellic%20Audit%20Report.pdf

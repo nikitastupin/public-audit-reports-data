@@ -26,6 +26,7 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/Bebop%20Security%20
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Blockchain%20Testament%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Brydge%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/CPOOL%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/CYBRO%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Cheelee%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Choise%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Choise%20Token%20Security%20Analysis%20by%20Pessimistic.pdf
@@ -94,10 +95,12 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/PowerPool%20Tornado
 https://raw.githubusercontent.com/pessimistic-io/audits/main/PowerPool%20Vesting%20Security%20Audit%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Powerpool%20Vaults%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Privacy Pools — the open source code security analysis by Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Rari%20Bridged%20Token%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Rarible%20Migration%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/ReWind%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/RealFevr%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Recovery%20Crypto%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Resolv%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/SWT%20Token%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/SX1411%20-%20AssetToken%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Sahara%20Vesting%20Security%20Analysis%20by%20Pessimistic.pdf

@@ -6,9 +6,11 @@ https://raw.githubusercontent.com/Decurity/audits/master/1inch/1inch-fusion-v2-a
 https://raw.githubusercontent.com/Decurity/audits/master/Bebop/bebop-jam-audit-report-1.1.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/CollectifDAO/collectif-dao-audit-report-1.2.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/EastFinance/east-finance-audit-report-1.0.pdf
+https://raw.githubusercontent.com/Decurity/audits/master/EtherFi/etherfi-liquifier-diff-audit-report-2024-1.1.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/Gearbox/gearbox-governor-v3-audit-report-1.0.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/MonkeyKingdom/monkeykingdom-security-audit-report-1.0.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/OracleDAO/oracle-dao-security-audit-report-1.0.pdf
+https://raw.githubusercontent.com/Decurity/audits/master/SocketTech/socket-hop-l2-integration-audit-report-2024-1.1.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/Symbiosis/symbiosis-finance-frontend-audit-report-1.1.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/Symbiosis/symbiosis-finance-relayers-audit-report-1.1.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/TON/ton-verification-report-1.1.pdf

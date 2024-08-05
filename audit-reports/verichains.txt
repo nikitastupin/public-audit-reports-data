@@ -42,6 +42,7 @@ https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichain
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20Camly%20Smartcontracts%20-%20v1.0.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20CapShort%20Smartcontracts%20-%20v1.1.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20ChainTex%20-%20v1.0.pdf
+https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20CoLend%20-%20v1.0.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20Come2Us%20-%20v1.0.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20CorePepe%20-%20v1.0.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20Crabada%20Game%20-%20v1.1.pdf

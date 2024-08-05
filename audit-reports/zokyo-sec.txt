@@ -16,6 +16,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/CORGI/CORGI_Zokyo
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/CVI/CVI_Zokyo_audit_report_30thNov_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Chainport/Chainport_Zokyo_Audit_Report_3_Jan_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Chainzoom/Chainzoom_Zokyo_audit_report_April4th_2024.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Copra/Copra_Zokyo_audit_report_July23th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/CreditSwap/Credit_Swap_Zokyo_audit_report_Dec22_2023_ed16f43d95.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Curra/Curra_Zokyo_audit_report_Jan4th_2024.pdf.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Cyber%20Finance/Cyber_Finance_Zokyo_audit_report_July25th_2024.pdf
@@ -23,6 +24,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/DPEX/DPEX_Zokyo%2
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/DPNMDEFI/DPNMDEFI_Zokyoauditreport_14March_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Devve/Devve_Zokyo_audit_report_May30th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Eclipse%20Fi/Eclipse_Fi_Zokyo_audit_report.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Elektrik/Elektrik_Zokyo_audit_report_July9th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Ember%20Labs/Ember_Labs_Zokyo_audit_report_Oct20_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Ethlas/Ethlas_Zokyo_audit_report_26th_April_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/FNDZ/FNDZ_Zokyo%20audit%20report.pdf
@@ -86,6 +88,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Rollie/Rollie_Zok
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/SIVIRA/SIVIRA_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/STFIL/STFIL_Zokyo_audit_report_28th_Aug_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/SharkSwap/SharkSwap_Zokyoaudit%20report.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Shido/Shido%20Blockchain%20Protocol%20Audit_Zokyo_July30th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Shido/Shido_Zokyo_audit_report_May28th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Shimmer/Shimmer%20Bridge_Zokyo_Jan19_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Snailbrook/SnailBrook_Zokyo_audit%20report_April10th_2024.pdf
