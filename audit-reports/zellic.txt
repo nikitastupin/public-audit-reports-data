@@ -113,7 +113,9 @@ https://raw.githubusercontent.com/Zellic/publications/master/Omron%20-%20Zellic%
 https://raw.githubusercontent.com/Zellic/publications/master/Orderly%20Network%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Origami%20Finance%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Osmosis%20Authentication%20Abstraction%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/PDT%20Staking%20V2%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/PancakeSwap%20Aptos%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Penumbra%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Perennial%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Pontem%20Liquidswap%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Pontem%20wallet%20-%20Zellic%20Audit%20Report.pdf

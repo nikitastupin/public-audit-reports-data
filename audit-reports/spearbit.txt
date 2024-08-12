@@ -4,6 +4,7 @@ https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Astaria-Spearbi
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Brahma-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Brink-Spearbit-Security-Review-Engagement-1.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Brink-Spearbit-Security-Review-Engagement-2.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Centrifuge-Spearbit-Security-Review-July-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Clober-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Connext-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/ConnextNxtp-Spearbit-Security-Review.pdf

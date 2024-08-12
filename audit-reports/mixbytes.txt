@@ -74,6 +74,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Easy%20Trac
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/In-protocol%20Coverage/Lido%20In-protocol%20%20Coverage%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Lido%20KSM/LIDO%20KSM%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Lido%20Protocol/Lido%20Protocol%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/SanityChecker/Lido%20Sanity%20Checker%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Two-Phase%20Voting/Lido%20Two-Phase%20Voting%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Withdrawals%20Manager%20Stub/Lido%20Withdrawals%20Manager%20Stub%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/WstETH/Lido%20WstETH%20Security%20Audit%20Report.pdf
