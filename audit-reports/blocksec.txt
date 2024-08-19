@@ -32,6 +32,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_paras_NFT_signed_v1.0.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_pembrock_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_phoenix_bonds_v1.0.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_ref_bridge_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_ref_degenpool_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_ref_degenpool_v2.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_ref_deltabot_v1.0-signed.pdf
@@ -47,6 +48,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_ref_token-locker-v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_ref_token-locker-v2.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_refve_v1.0_signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_tknhomes_tkn_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_xp_network_v1.0.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_aloe_1.1_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_alpaca_v1.0_signed.pdf

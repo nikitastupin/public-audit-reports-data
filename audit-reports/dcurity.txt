@@ -4,6 +4,8 @@ https://raw.githubusercontent.com/Decurity/audits/master/1inch/1inch-fusion-mode
 https://raw.githubusercontent.com/Decurity/audits/master/1inch/1inch-fusion-mode-audit-report-2.1.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/1inch/1inch-fusion-v2-audit-report-2024-1.1.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/Bebop/bebop-jam-audit-report-1.1.pdf
+https://raw.githubusercontent.com/Decurity/audits/master/Clearpool/clearpool-open-term-pools-audit-report-2024-1.1.pdf
+https://raw.githubusercontent.com/Decurity/audits/master/Clearpool/clearpool-usdx-audit-report-2024-1.1.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/CollectifDAO/collectif-dao-audit-report-1.2.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/EastFinance/east-finance-audit-report-1.0.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/EtherFi/etherfi-liquifier-diff-audit-report-2024-1.1.pdf

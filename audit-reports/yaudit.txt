@@ -41,6 +41,7 @@ https://raw.githubusercontent.com/yAudit/reports/main/08-2022-Bunni-yAudit-Repor
 https://raw.githubusercontent.com/yAudit/reports/main/08-2022-Timeless-Yield-Daddy-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/08-2023-TempleDAO-Lending-Recheck-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/08-2023-yAudit_KEOM_Upgrade_Report.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/08-2024-Goldilocks.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/09-2022-yFu-NFT-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/10-2022-NounsDAO-Token-Buyer-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/10-2023-Dopex-rDPX-v2-yAudit-Report.pdf
