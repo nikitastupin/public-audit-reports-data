@@ -1,4 +1,5 @@
 https://raw.githubusercontent.com/ChainSafe/audits/main/1inch/1inch-11-2022.pdf
+https://raw.githubusercontent.com/ChainSafe/audits/main/B3/b3-points-08-2024.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/Beamer/beamer-01-2023.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/Connext/connext-12-2020.pdf
 https://raw.githubusercontent.com/ChainSafe/audits/main/DELV/delv-06-2023.pdf

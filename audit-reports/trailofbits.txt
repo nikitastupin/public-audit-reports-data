@@ -107,6 +107,7 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-0
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-03-aladdinfxprotocol-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-03-bondexecosystem-loa.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-03-curvance-invariant-development.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-03-intuition-smart-contracts-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-03-lisksmartcontracts-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-03-pufferfinance-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-03-seda-chaintokenmigration-securityreview.pdf

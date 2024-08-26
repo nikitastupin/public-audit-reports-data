@@ -12,6 +12,7 @@ https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20
 https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20Smart%20Contract%20Audit%20-%20SenseiStake%20v221028.pdf
 https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20Smart%20Contract%20Audit%20-%20Tempus%20v211013.pdf
 https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20Smart%20Contract%20Update%20Review%20-%20Tinyman%20v220107.pdf
+https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20Source%20Code%20Audit%20-%20Babylon%20-%20Babylon%20Phase%201%20-%20v240805.pdf
 https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20Source%20Code%20Audit%20-%20Soroban%20Tricorn%20Bridge%20v240725.pdf
 https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20Source%20Code%20Audit%20-%20Zendoo%20v210921.pdf
 https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20Tari%20-%20Base%20Layer%20-%20Security%20Assessment%20-%20v240115.pdf

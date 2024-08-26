@@ -10,6 +10,7 @@ https://raw.githubusercontent.com/sigp/public-audits/master/reports/adex/review.
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/alongside/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/angle/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/api3-airnode/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/august/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/aurora/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/bartercard/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/bls-wallet/review.pdf
@@ -41,11 +42,14 @@ https://raw.githubusercontent.com/sigp/public-audits/master/reports/infinigold/i
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/infinigold/infinigold-offchain/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/infinigold/infinigold/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/interest-protocol/review.pdf
-https://raw.githubusercontent.com/sigp/public-audits/master/reports/kelp/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/kelp/lrt-updates/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/kelp/lrt-withdrawals/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/kelp/lrt/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/lido/lido-dc4bc/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/lido/lido-easy-track/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/lido/lido/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/linkpool/linkpool-2/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/lyra-finance/pptsa/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/lyra-finance/review-round2.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/lyra-finance/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/lyra-finance/v2-matching/review.pdf

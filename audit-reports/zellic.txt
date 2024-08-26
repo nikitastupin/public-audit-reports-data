@@ -113,7 +113,9 @@ https://raw.githubusercontent.com/Zellic/publications/master/Omron%20-%20Zellic%
 https://raw.githubusercontent.com/Zellic/publications/master/Orderly%20Network%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Origami%20Finance%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Osmosis%20Authentication%20Abstraction%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Ostium%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/PDT%20Staking%20V2%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Palmy%20Finance%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/PancakeSwap%20Aptos%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Penumbra%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Perennial%20-%20Zellic%20Audit%20Report.pdf
@@ -134,6 +136,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/SAX%20-%20Zellic%20
 https://raw.githubusercontent.com/Zellic/publications/master/SPL%20Token%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/STFX%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Safety%20Module%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/SatLayer%20Pool%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Scroll%20-%2005.26.23%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Scroll%20-%2009.27.23%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Scroll%20Lido%20Gateway%20-%20Zellic%20Audit%20Report.pdf
