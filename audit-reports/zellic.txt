@@ -14,6 +14,8 @@ https://raw.githubusercontent.com/Zellic/publications/master/Audius%20Solana%20-
 https://raw.githubusercontent.com/Zellic/publications/master/Aura%20Finance%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Avantis%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Awaken%20Swap%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Axiom%20November%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Axiom%20October%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Bebop%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Beefy%20BIFI%20Token%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Beefy%20UniswapV3%20-%20Zellic%20Audit%20Report.pdf

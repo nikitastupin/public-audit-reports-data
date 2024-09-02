@@ -126,6 +126,7 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-0
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-06-ethereum-foundation-devcon-auction-raffle-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-06-offchain-labs-bold-dac-rewards-updates-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-06-scroll-zstd-compression-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-07-taraxa-bridge-smart-contracts-v2-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/88mph.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/API3.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/AcalaNetwork.pdf
