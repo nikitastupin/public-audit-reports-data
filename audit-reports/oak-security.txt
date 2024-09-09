@@ -10,6 +10,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Aperture/2022-
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Apollo/2021-08-18%20Audit%20Report%20-%20Apollo.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Apollo/2022-03-17%20Audit%20Report%20-%20Apollo%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Apollo/2023-01-17%20Audit%20Report%20-%20Apollo%20DAO%203%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Apollo/2024-09-04%20Audit%20Report%20-%20Apollo%20Osmosis%20Fixed%20Width%20Range%20Vault%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Archway/2023-06-05%20Audit%20Report%20-%20Archway%20Rewards%20Module%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Asteroid%20Bridge/2024-06-17%20Audit%20Report%20-%20Asteroid%20Bridge%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Astroport/2021-12-23%20Audit%20Report%20-%20Astroport%20Periphery%20v1.0.pdf
@@ -69,6 +70,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/DoraHacks/2024
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Drop/2024-08-12%20Audit%20Report%20-%20Drop%20Contracts%20Extension%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Drop/2024-08-12%20Audit%20Report%20-%20Drop%20Contracts%20Updates%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Drop/2024-08-19%20Audit%20Report%20-%20Drop%20Contracts%20v1.1.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Dusk/2024-09-06%20Protocol%20Review%20Report%20-%20Dusk%20.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Dymension/2024-03-08%20Audit%20Report%20-%20Dymension%20Point%200D%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Dymension/2024-04-30%20Audit%20Report%20-%20Dymension%20Point%201D%20Stream%202_%20Virtual%20Frontier%20Contract%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Dymension/2024-07-09%20Audit%20Report%20-%20Dymension%20Point%201D%20Stream%203_%20Dymint%20v1.1.pdf

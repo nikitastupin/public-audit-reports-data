@@ -49,6 +49,9 @@ https://raw.githubusercontent.com/runtimeverification/publications/main/reports/
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Proof-Of-Neutrality-Network/Proof-of-Neutrality-Network-Report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Quipuswap.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Skyteller_Debit_Card_V0.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Soroswap_Aggregator.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Soroswap_Aggregator_-_Audit%20Summary.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Soroswap_Aggregator_-_Audit_Summary.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/StakeWise.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Stakefish-BatchDeposit.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/StakerDAO.pdf

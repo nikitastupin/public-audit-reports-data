@@ -28,6 +28,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Elektrik/Elektrik
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Ember%20Labs/Ember_Labs_Zokyo_audit_report_Oct20_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Ethlas/Ethlas_Zokyo_audit_report_26th_April_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/FNDZ/FNDZ_Zokyo%20audit%20report.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Filament/Filament_Zokyo_audit_report_Aug15th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Fluxfire/Fluxfire_Zokyo_audit_report_June5_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/FoxYieldy/FOX%20Yieldy%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Fractal/Fractal_Zokyo%20audit%20report.pdf
