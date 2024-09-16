@@ -100,6 +100,7 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-1
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-12-unibot-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-01-metalayerblast-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-01-offchainarbitrum-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-01-pyth-entropy-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-02-heliosglobal-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-02-offchainlabsarbos-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-02-scopelift-securityreview.pdf
@@ -128,6 +129,7 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-0
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-06-scroll-zstd-compression-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-07-taraxa-bridge-smart-contracts-v2-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-07-uniswap-v4-core-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-08-onchain-pass-app-contracts-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/88mph.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/API3.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/AcalaNetwork.pdf

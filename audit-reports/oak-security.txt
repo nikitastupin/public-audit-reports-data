@@ -190,4 +190,5 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Zodiac%20Proto
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Zodiac%20Protocol/2024-03-18%20Audit%20Report%20-%20Zodiac%20Protocol%20Periphery%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Zodiac%20Protocol/2024-03-22%20Audit%20Report%20-%20Zodiac%20Protocol%20Core%20Extension%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/ixo/2024-03-15%20Audit%20Report%20-%20IxoSwap%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/ixo/2024-09-13%20Audit%20Report%20-%20IxoSwap%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/ssz-rs/2023-09-28%20Audit%20Report%20-%20ssz-rs%20v1.0.pdf

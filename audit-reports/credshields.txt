@@ -37,11 +37,14 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/Quest_Contrac
 https://raw.githubusercontent.com/Credshields/audit-reports/master/RDGX_Final_Audit_report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Rex_Exchange_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Rove_Token_Final_Audit_Report.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/SAN_Final_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/SWYP_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Solace%20Final%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/StationX_Claim_Contract_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Styleo%20Coin%20Final%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/TRICE_SC-Audit.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/Tribal_Token_Final_Report.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/Tribally_Games_Final_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Uniscrow%20Final%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Wahed%20Token%20Final%20Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Wasset_Final_Audit_Report.pdf

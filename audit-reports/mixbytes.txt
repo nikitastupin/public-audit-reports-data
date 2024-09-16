@@ -84,6 +84,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/stETH%20Pri
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/stETH%20on%20Optimism/Lido%20stETH%20on%20Optimism%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Mantle%20Network/Mantle%20Network%20METH%20Secuity%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Mellow%20Finance/Mellow%20Finance%20SCA.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/MetaLeX/LeXscrow/Metalex%20Lexscrow%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Napier%20Finance/Napier%20Pool/Napier%20Pool%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Napier%20Finance/Napier%20v1/Napier%20v1%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/NuCypher/NuCypher%20PoolingStakingContractV2%20Security%20Audit%20Report.pdf

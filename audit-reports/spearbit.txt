@@ -56,6 +56,7 @@ https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Sudoswap-Spearb
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/SudoswapLSSVM2-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Timeless-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Tracer-Spearbit-Security-Review.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Tradable-Spearbit-Security-Review-July2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Velodrome-Spearbit-Security-Review-Nov23.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Velodrome-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/report-blast-contracts-review-draft.pdf
