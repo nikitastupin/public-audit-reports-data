@@ -44,6 +44,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/C2X/2022-05-09
 https://raw.githubusercontent.com/oak-security/audit-reports/main/CW20%20Blocklist/2022-05-25%20Audit%20Report%20-%20CW20%20Blocklist%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Calculated%20Finance/2023-05-23%20Audit%20Report%20-%20Calculated%20Finance%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Celer/2022-05-14%20Audit%20Report%20-%20Celer%20cBridge%20Flow%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Celer/2024-09-20%20-%20Celer%20Flow%20Contracts.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Coinhall/2023-09-26%20Audit%20Report%20-%20Coinhall%20Genie%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Comdex/2022-10-28%20Audit%20Report%20-%20Comdex%20Locking%20and%20Vesting%20Contracts%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Comdex/2022-11-23%20Audit%20Report%20-%20Comdex%20Lend%20and%20Liquidation%20Modules%20v1.0.pdf
@@ -71,6 +72,8 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Drop/2024-08-1
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Drop/2024-08-12%20Audit%20Report%20-%20Drop%20Contracts%20Updates%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Drop/2024-08-19%20Audit%20Report%20-%20Drop%20Contracts%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Dusk/2024-09-06%20Protocol%20Review%20Report%20-%20Dusk%20.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Dusk/2024-09-20%20Audit%20Report%20-%20Rusk%20Consensus.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Dusk/2024-09-20%20Audit%20Report%20-%20Rusk%20Node%20Library.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Dymension/2024-03-08%20Audit%20Report%20-%20Dymension%20Point%200D%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Dymension/2024-04-30%20Audit%20Report%20-%20Dymension%20Point%201D%20Stream%202_%20Virtual%20Frontier%20Contract%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Dymension/2024-07-09%20Audit%20Report%20-%20Dymension%20Point%201D%20Stream%203_%20Dymint%20v1.1.pdf
@@ -165,6 +168,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Sei/2023-05-19
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Sigma/2022-05-03%20Audit%20Report%20-%20Sigma%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Skip/2023-07-29%20Audit%20Report%20-%20Skip%20Protocol%20Owned%20Builder%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Skip/2023-08-20%20Audit%20Report%20-%20Skip%20Protocol%20Swap%20Contracts%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Slide%20SDK/2024-09-20%20Audit%20Report%20-%20Slide%20SDK%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Snowbridge/2024-02-12%20Audit%20Report%20-%20Snowbridge%20Extension%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Snowbridge/2024-05-24%20Audit%20Report%20-%20Snowbridge%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Spectrum/2022-07-02%20Audit%20Report%20-%20Alpha%20v1.0.pdf
@@ -183,6 +187,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Terra%20Liquid
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Timewave/2024-04-10%20Audit%20Report%20-%20Timewave%20Computer%20Valence%20Services%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Timewave/2024-05-02%20Audit%20Report%20-%20Timewave%20Covenants%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Vectis/2024-03-14%20Audit%20Report%20-%20Vectis%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Volta/2024-09-18%20Audit%20Report%20-%20Volta%20CosmWasm%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/WhiteWhale/Audit%20Report%20-%20White%20Whale.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Wormhole/2023-07-06%20Audit%20Report%20-%20Wormhole%20Token%20Translator%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Yieldmos/2024-05-17%20Audit%20Report%20-%20Yieldmos%20Outposts%20Osmosis%20v1.0.pdf

@@ -94,4 +94,5 @@ https://raw.githubusercontent.com/sigp/public-audits/master/reports/term-finance
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/tracer/tracer-2/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/tracer/tracer-3/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/tracer/tracer/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/treehouse/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/urbit/stardust/review.pdf

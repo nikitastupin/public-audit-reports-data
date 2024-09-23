@@ -9,6 +9,7 @@ https://raw.githubusercontent.com/statemindio/public-audits/main/Curve/2024-02-0
 https://raw.githubusercontent.com/statemindio/public-audits/main/Dega/2024-01-17_Dega_ISPO.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Instadapp/2023-08-28_Instadapp_Avocado_v3.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Instadapp/2023-12-29_Instadapp_Fluid.pdf
+https://raw.githubusercontent.com/statemindio/public-audits/main/Instadapp/2024-04-10_Instadapp_Avocado_Chain_Agnostic_feature.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Keep3r%20Network/2023-02-03_Keep3r_Sidechain_oracles.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2022-08-15_Lido_Insurance_Fund.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2022-09-09_Lido_MEV-Boost_relay_allowlist.pdf
@@ -22,6 +23,7 @@ https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/
 https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2023-10-20_Lido_Roles_Analysis.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2024-04-11_Lido_GateSeal_deployment_validation.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Mellow/2024-05-27_Mellow_LRT.pdf
+https://raw.githubusercontent.com/statemindio/public-audits/main/Mellow/2024-05-30_Mellow_LRT_Obol.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Myso%20Finance/2023-08-15_Myso_v2.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Symbiotic/2024-05-01_Symbiotic_Default_Collateral.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Valantis%20Labs/2024-03-19_Valantis_Core.pdf

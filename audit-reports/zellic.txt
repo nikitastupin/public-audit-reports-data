@@ -1,5 +1,6 @@
 https://raw.githubusercontent.com/Zellic/publications/master/1inch%20Farming%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/AIxCC%20Concept%20White%20Paper%20-%20Zellic.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Acctual%20Batch%20Payments%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Adrastia%20PID%20Controller%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Adrastia%20Protocol%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Alkimiya%20-%20Zellic%20Audit%20Report.pdf
@@ -52,6 +53,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Definitive%20-%20Ze
 https://raw.githubusercontent.com/Zellic/publications/master/Definitive%202024%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Definitive%20LLSD%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Drift%20Protocol%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Echelon%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Econia%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Empiric%20Oracle%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Ethena%20-%20Zellic%20Audit%20Report.pdf
@@ -73,6 +75,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/GotSui%20-%20Zellic
 https://raw.githubusercontent.com/Zellic/publications/master/H20%20vlPSDN%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Horizon%20Sequence%20Wallet%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Hydrogen%20Labs%20Rover%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Hyperlane%20Starknet%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Hyperliquid%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Hyperliquid%20November%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Initia%20-%20Zellic%20Audit%20Report.pdf
@@ -108,6 +111,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Mitosis%20Vault%20-
 https://raw.githubusercontent.com/Zellic/publications/master/Molend%20Protocol%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Move%20and%20Sui%20Security%20Assessment%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Muni%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Nebra%20Universal%20Proof%20Aggregator%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Nibiru%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Nocturne%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Nukem%20Loans%20-%20Zellic%20Audit%20Report.pdf
@@ -185,6 +189,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Wasabi%20-%20Zellic
 https://raw.githubusercontent.com/Zellic/publications/master/Wasabi%20Perps%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Wormhole%20Aptos%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Y2K%20Finance%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Yeet%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Yei%20Finance%20Oracle%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/ZetaChain%20-%2011.14.23%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/ZetaChain%20-%206.30.23%20Zellic%20Audit%20Report.pdf

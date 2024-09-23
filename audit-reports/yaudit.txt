@@ -43,6 +43,8 @@ https://raw.githubusercontent.com/yAudit/reports/main/08-2023-TempleDAO-Lending-
 https://raw.githubusercontent.com/yAudit/reports/main/08-2023-yAudit_KEOM_Upgrade_Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/08-2024-Goldilocks.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/09-2022-yFu-NFT-yAudit-Report.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/09-2024-Euler-price-oracles-update.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/09-2024-Qantura-rebalance.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/10-2022-NounsDAO-Token-Buyer-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/10-2023-Dopex-rDPX-v2-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/10-2023-DopexV2-CLAMM.pdf
