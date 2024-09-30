@@ -3,6 +3,8 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Alice/Audit%20
 https://raw.githubusercontent.com/oak-security/audit-reports/main/All%20in%20Bits/2022-04-04%20Audit%20Report%20-%20Budget%20and%20Farming%20Cosmos%20SDK%20Modules%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Altered%20Protocol/2021-08-16%20Audit%20Report%20-%20Altered%20Protocol.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Altered%20Protocol/2021-08-19%20Audit%20Report%20-%20Altered%20Protocol.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Amulet/2024-01-08%20Audit%20Report%20-%20Amulet%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Amulet/2024-02-07%20Audit%20Report%20-%20Amulet%20Neutron%20PoS%20Strategy%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Anchor/2021-10-18%20Audit%20Report%20-%20Anchor%20Liquidation%20Queue.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Anoma/2023-03-28%20Audit%20Report%20-%20Namada%20Ethereum%20Bridge%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Aperture/2022-03-08%20Audit%20Report%20-%20Aperture%20v1.0.pdf
@@ -62,11 +64,12 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/DAO%20DAO/2023
 https://raw.githubusercontent.com/oak-security/audit-reports/main/DAO%20DAO/2023-03-22%20Audit%20Report%20-%20DAO%20DAO%20Vesting%20and%20Payroll%20Factory%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/DAO%20DAO/2023-10-16%20Audit%20Report%20-%20DAO%20DAO%20Updates%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/DAO%20DAO/2024-01-10%20Audit%20Report%20-%20DAO%20DAO%20Veto%20v1.0.pdf
-https://raw.githubusercontent.com/oak-security/audit-reports/main/DAO%20DAO/2024-08-14%20Audit%20Report%20-%20DAO%20DAO%20Rewards%20Distributor%2C%20x_onft%20Staked%20Voting%2C%20BitSong%20FanToken%20Factory%2C%20Permission%20Granularity%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/DAO%20DAO/2024-09-24%20Audit%20Report%20-%20DAO%20DAO%20Rewards%20Distributor%2C%20x_onft%20Staked%20Voting%2C%20BitSong%20FanToken%20Factory%2C%20Permission%20Granularity%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Dapper%20Labs/Audit%20Report%20-%20Hybrid%20Custody%20Smart%20Contracts.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Dexter/2023-03-15%20Audit%20Report%20-%20Dexter%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Dock/Audit%20Report%20-%20Dock%20Wallet.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/DoraFactory/2024-06-13%20Audit%20Report%20-%20Dora%20Vota%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/DoraFactory/2024-09-23%20Audit%20Report%20-%20Dora%20Vota%20Migration%20Contract%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/DoraHacks/2024-03-04%20Audit%20Report%20-%20DoraHacks%20Quadratic%20Grant%20Injective%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Drop/2024-08-12%20Audit%20Report%20-%20Drop%20Contracts%20Extension%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Drop/2024-08-12%20Audit%20Report%20-%20Drop%20Contracts%20Updates%20v1.0.pdf
@@ -142,6 +145,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Osmosis%20Labs
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Osmosis%20Labs/2023-10-09%20Audit%20Report%20-%20Osmosis%20Transmuter%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Osmosis%20Labs/2024-05-15%20Audit%20Report%20-%20Osmosis%20Transmuter%20v3%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Osmosis%20Labs/2024-07-03%20Audit%20Report%20-%20Osmosis%20Smart%20Accounts%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Out/2024-09-24%20Audit%20Report%20-%20Out%20GCC.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Out/Audit%20Report%20-%20Out.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Persistence/2022-01-20%20Audit%20Report%20-%20Persistence%20Bridge%20-%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Persistence/2023-02-17%20Audit%20Report%20-%20pSTAKE%20Native%20v1.0.pdf
@@ -165,6 +169,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Router/2024-05
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Sei/2023-05-15%20Audit%20Report%20-%20Sei%20Cosmos%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Sei/2023-05-15%20Audit%20Report%20-%20Sei%20Tendermint%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Sei/2023-05-19%20Audit%20Report%20-%20Sei%20Chain%20and%20CosmWasm%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/SendIt/2024-09-25%20Audit%20Report%20-%20SendIt%20Contracts%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Sigma/2022-05-03%20Audit%20Report%20-%20Sigma%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Skip/2023-07-29%20Audit%20Report%20-%20Skip%20Protocol%20Owned%20Builder%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Skip/2023-08-20%20Audit%20Report%20-%20Skip%20Protocol%20Swap%20Contracts%20v1.0.pdf

@@ -41,6 +41,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Bracket%20Fi%20Escr
 https://raw.githubusercontent.com/Zellic/publications/master/BrahmaFi%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Cega%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Cega%20Vault%20Smart%20Contract%20Patch%20Review.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Celestia%20Packet%20Forward%20Middleware%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/ChainLocker%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Chainflip%20Backend%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Chainflip%20Solana%20-%20Zellic%20Audit%20Report.pdf
@@ -93,6 +94,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20Solidit
 https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20Solidity%20Examples%20ONFT%20Audit%20(January%2019th%202023)%20-%20Zellic.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20Stargate%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20UltraLightNodeV2Radar%20Audit%20(November%2022nd%202022)%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Level%20Points%20Farm%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Lido%20Fixed%20Income%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LightWallet%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LootRush%20-%20Zellic%20Audit%20Report.pdf

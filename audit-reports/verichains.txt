@@ -1,6 +1,7 @@
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Amnis%20Finance%20-%20Public%20Report%20v1.1.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/VSA-2022-120_Multichain_Key_Extraction_Vulnerability_in_fastMPC.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Audit%20Public%20Report%20-%20BCMH%20-%20v1.2.pdf
+https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Audit%20Public%20Report%20-%20Kelp%20Delta%20-%20v1.0.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Audit%20Public%20Report%20-%20Vapor%20-%20v1.0.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Audit%20public%20report%20-%20Ronin%20Marketplace%20-%20v1.0.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Draft%20Audit%20Report%20-%20HoldStation%20Dex%20-%20v1.0.pdf
@@ -11,6 +12,7 @@ https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichain
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20AceStarter%20Token%20and%20Vesting%20-%20v1.1.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20AiPower%20Token%20-%20v1.0.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20Aiza%20World%20Token%20-%20v1.0.pdf
+https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20Ancient8%20Native%20Bridge%20-%20v1.0.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20Ancient8%20Staking%20-%20v1.0.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20Ancient8%20Token%20-%20v1.0.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20Anta%20Token%20and%20Vesting%20-%20v1.0.pdf
@@ -166,6 +168,7 @@ https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichain
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20LuaSwapIDO%20-%20v1.1.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20LunaRush%20Smartcontracts%20-%20v1.1.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20LunaRush%20Token%20-%20v1.1.pdf
+https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20MAO%20-%20v1.0.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20MAoE%20Smartcontracts%20-%20v1.0.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20MCity%20Token%20-%20v1.0.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20MadMonkeyGuide%20Token%20-%20v1.0.pdf

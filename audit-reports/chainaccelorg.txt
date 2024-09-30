@@ -33,3 +33,4 @@ https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-07-13-cyfrin-zaros-v2.0.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-08-21-cyfrin-chaos-labs-risk-oracle-v2.0.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-09-13-cyfrin-the-standard-smart-vault-v2.0.pdf
+https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-09-27-cyfrin-bima-v2.0.pdf

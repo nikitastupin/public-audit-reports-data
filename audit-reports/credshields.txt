@@ -34,6 +34,8 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/Numa_Final_Au
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Obius_SmartContract_audit.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/PePay_SmartContract_Audit.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Plutope_Final_Audit_Report.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/Protop_Token_Contract_Final%20Report.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/Protop_Vesting_Contracts_Final_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Quest_Contract_final_audit_report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/RDGX_Final_Audit_report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Rex_Exchange_Final_Audit_Report.pdf
@@ -47,6 +49,7 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/TRICE_SC-Audi
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Tribal_Token_Final_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Tribally_Games_Final_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Uniscrow%20Final%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/Vouch_Contract_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Wahed%20Token%20Final%20Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Wasset_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Webapp%20Audit.pdf
