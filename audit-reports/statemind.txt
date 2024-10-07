@@ -21,6 +21,7 @@ https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/
 https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2023-05-10_Lido_V2_deployment_validation.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2023-05-17_Lido_Polygon_v2.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2023-10-20_Lido_Roles_Analysis.pdf
+https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2024-03-12_Lido_Voting.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2024-04-11_Lido_GateSeal_deployment_validation.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Mellow/2024-05-27_Mellow_LRT.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Mellow/2024-05-30_Mellow_LRT_Obol.pdf

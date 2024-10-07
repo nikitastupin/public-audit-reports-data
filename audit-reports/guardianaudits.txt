@@ -51,6 +51,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/UltiBets/UltiBets_A
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/UltiBets/UltiBets_Audit_2.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/UltimateFantoms_Audit.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Umami/2024-01-10_Umami.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Zap/2024-09-30_Zap_Token.pdf
 https://raw.githubusercontent.com/GuardianAudits/DefenderAudits/main/raisin/Raisin_Audit_Team1.pdf
 https://raw.githubusercontent.com/GuardianAudits/DefenderAudits/main/raisin/Raisin_Audit_Team2.pdf
 https://raw.githubusercontent.com/GuardianAudits/DefenderAudits/main/raisin/Raisin_Audit_Team3.pdf

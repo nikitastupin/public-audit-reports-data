@@ -52,6 +52,10 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/IQ%20NFT%20Staking%
 https://raw.githubusercontent.com/pessimistic-io/audits/main/IQ%20Protocol%20V2%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/IQ%20Token%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Impossible%20Finance%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Intentable_Kirobo_FCT_part_1_Security_Analysis_by_Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Intentable_Kirobo_FCT_part_2_Security_Analysis_by_Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Intentable_Kirobo_FCT_part_3_Security_Analysis_by_Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Intentable_Kirobo_Smart_Wallet_Security_Analysis_by_Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/JuicyBet%20Token%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Jupiter%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/KickToken%20Security%20Analysis%20by%20Pessimistic.pdf
@@ -136,6 +140,7 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/Work%20X%20Reward%2
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Work%20X%20Token%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/WorkX%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/XDAO%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/XYZVERSE%20Presale%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/YFValue%20Security%20Audit%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/xDao%202%20Security%20Recheck.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/xDao%20Security%20Analysis%20by%20Pessimistic.pdf

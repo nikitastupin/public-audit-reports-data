@@ -42,6 +42,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Convex%20Platfor
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Cover%20Protocol/Cover%20Flashloan/CoverProtocol_cover-flashloan%20Security%20Audit%20Report%20(merged).pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Cover%20Protocol/Cover%20Protocol%20Peripheral/Cover%20Protocol%20Peripheral%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Cover%20Protocol/Cover%20Protocol%20V2/Cover%20Protocol%20v2%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Curve%20Finance/Curve%20Lending/Curve%20Lending%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Curve%20Finance/Curve%20Stablecoin%20(crvUSD)/Curve%20Stablecoin%20(crvUSD)%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Curve%20Finance/DAO%20Voting%20Forwarder/Curve%20Finance%20DAO%20Voting%20Forwarder%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Curve%20Finance/DAO%20Voting/Curve%20Finance%20DAO%20Voting%20Security%20Audit%20Report.pdf
@@ -81,7 +82,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/WstETH/Lido
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/a.DI/Lido%20a.DI%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/stETH%20Price%20Feed/Lido%20stETH%20Price%20Feed%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/stETH%20Price%20Oracle/Lido%20stETH%20price%20oracle%20Security%20Audit%20Report%20(merged).pdf
-https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/stETH%20on%20Optimism/Lido%20stETH%20on%20Optimism%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/stETH%20on%20Optimism/Lido%20stETH%20on%20Optimism%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Mantle%20Network/Mantle%20Network%20METH%20Secuity%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Mellow%20Finance/Mellow%20Finance%20SCA.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/MetaLeX/LeXscrow/Metalex%20Lexscrow%20Security%20Audit%20Report.pdf
