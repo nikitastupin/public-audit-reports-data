@@ -107,6 +107,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Maia%20DAO%20V2%20E
 https://raw.githubusercontent.com/Zellic/publications/master/Mantle%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Matrixdock-STBT%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Maverick%20Protocol%20-%20Zellic%20Security%20Assessment%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Metavest%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/MightyNet%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/MightyNetERC1155Claimer%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Mitosis%20Vault%20-%20Zellic%20Audit%20Report.pdf

@@ -34,6 +34,7 @@ https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/P
 https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-BEP20-LEONS-v1.0.pdf
 https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-BEP20-Tokoin-v1.0.pdf
 https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-BNPL-v1.0.pdf
+https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-BOOL-v1.0.pdf
 https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-BSCStationStartPools-v1.0.pdf
 https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-BSD-v1.0.pdf
 https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-BTC+-v1.0rc.pdf

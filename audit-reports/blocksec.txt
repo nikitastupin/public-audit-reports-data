@@ -21,6 +21,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_deltatrade_DCA_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_deltatrade_solana_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_deltatrade_v2.0_signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_easycoin_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_halotrade_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_linear_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_memefarming_v1.0-signed.pdf

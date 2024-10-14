@@ -52,6 +52,7 @@ https://raw.githubusercontent.com/yAudit/reports/main/10-2023-Dopex-rDPX-v2-yAud
 https://raw.githubusercontent.com/yAudit/reports/main/10-2023-DopexV2-CLAMM.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/10-2023-DopexV2-rDPX-upgrade.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/10-2023-Sickle-Update.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/10-2024-Euler-ERC20-Wrapper-Locked.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/11-2022-Yearn-Stargate-Strategy-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/12-2022-GET-Protocol-Staking-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/12-2022-Gro-Protocol-yAudit-Report.pdf

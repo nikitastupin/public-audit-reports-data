@@ -64,6 +64,7 @@ https://raw.githubusercontent.com/sigp/public-audits/master/reports/polygon/Sigm
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/polygon/Sigma_Prime_Polygon_LXLY_Bridge_Security_Assessment_Report_v2_1.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/renzo/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/reth/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/rocket-pool/rocket-pool-10-houston-hotfix/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/rocket-pool/rocket-pool-4-feedistributor-fix/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/rocket-pool/rocket-pool-5-lower-eth-bond/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/rocket-pool/rocket-pool-6-rpl-router/review.pdf

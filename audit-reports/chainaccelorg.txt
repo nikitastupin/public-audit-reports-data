@@ -31,6 +31,11 @@ https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-07-01-cyfrin-tunnl-v2.0.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-07-10-cyfrin-casimir-v2.0.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-07-13-cyfrin-zaros-v2.0.pdf
+https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-07-23-cyfrin-wormhole-NTT-Diff-v1.0.pdf
+https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-08-15-cyfrin-earnm-dropbox-v2.0.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-08-21-cyfrin-chaos-labs-risk-oracle-v2.0.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-09-13-cyfrin-the-standard-smart-vault-v2.0.pdf
+https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-09-17-cyfrin-stake-link-v2.0.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-09-27-cyfrin-bima-v2.0.pdf
+https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-10-04-cyfrin-wormhole-multigov-v2.0.pdf
+https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-10-07-cyfrin-pancakeswap-v2.0.pdf

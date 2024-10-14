@@ -10,6 +10,7 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/algebra/ABDK_Algeb
 https://raw.githubusercontent.com/abdk-consulting/audits/main/algebra/ABDK_Algebra_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/balancer/ABDK_Balancer_Balancer_v2_v1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/bankex/Bankex%20Token%20Contract_%20Review.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/bebop/ABDK_Bebop_Bebop_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/blockswap/ABDK_Blockswap_CIP_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/blockswap/ABDK_Blockswap_ModularGateway_v_3_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/blockswap/ABDK_Blockswap_RPBS_v_3_0.pdf
@@ -17,6 +18,7 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/brink/ABDK_Brink_S
 https://raw.githubusercontent.com/abdk-consulting/audits/main/chainflip/ABDK_Chainflip_ChainFlip_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/chainflip/ABDK_Chainflip_Solidity_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/chi/ABDK_Chi_ChiProtocol_v_1_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/chronicle/ABDK_Chronicle_Aggor_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/chronicle/ABDK_Chronicle_ChronicleProtocol_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/cmta/ABDK-CMTAT-audit-20210910.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/cmta/ABDK_CMTA_CMTATRuleEngine_v_1_0.pdf
@@ -83,10 +85,12 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/primitive/ABDK_Pri
 https://raw.githubusercontent.com/abdk-consulting/audits/main/proxima_capital/ABDK_ProximaCapital_Vault_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/railgun/ABDK_Railgun_CircomSolidity_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/realt/ABDK_RealT_RMMV3v_3_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/realt/ABDK_RealT_RealTokenWrapper_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/realt/ABDK_RealT_RegCcipCore_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/redstone/ABDK_RedStone_Oracle_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/redstone/ABDK_RedStone_OraclesMonorepo_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/redstone/ABDK_RedStone_Oracles_v_2_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/redstone/ABDK_Redstone_AdapterUpdate_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/relevant/ABDK_Relevant_Solidity_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/reservoirfi/ABDK_ReservoirFi_AMMCore_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/reya/ReyaLabs_ReyaNetworkPartIII_v_1_0.pdf

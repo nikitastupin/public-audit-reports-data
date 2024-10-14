@@ -40,6 +40,13 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/DexSport%20Security
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Dexdao%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Ember%20Security%20Audit%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/EthGild%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/FCT%20Core%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/FCT%20Economy%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/FCT%20Engines%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/FCT%20Extensions%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/FCT%20Flash%20Loans%20Executors%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/FCT%20Libraries%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/FCT%20Smart%20Wallet%20FCT%20Runner%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Fananees%20NFT%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Fluence%20DAO%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Fluence%20Deal%20Security%20Analysis%20by%20Pessimistic.pdf
