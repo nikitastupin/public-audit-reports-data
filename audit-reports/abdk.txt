@@ -29,6 +29,7 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/contango/ABDK_Cont
 https://raw.githubusercontent.com/abdk-consulting/audits/main/contango/ABDK_Contango_CoreV2_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/contango/ABDK_Contango_Core_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/crowdwiz/CrowdWiz%20Token%20Contract_%20Final.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/deltaprime/ABDK_Deltaprime_Primeloans_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/divicoin/Divicoin%20Token%20Contract_%20Review.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/domuscoin/DomusCoin%20Contract_%20Review.%20Public%20Copy.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/dragoncoin/Dragon%20Token%20Contract_%20Review.pdf
@@ -147,6 +148,8 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/zeropool/ABDK_Zero
 https://raw.githubusercontent.com/abdk-consulting/audits/main/zklend/ABDK_zkLend_zkLendCore_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/zklink/ABDK_zkLink_CircuitsPhaseII_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/zklink/ABDK_zkLink_CircuitsSmartContracts_v_6_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/zklink/ABDK_zkLink_CostOptimisation_v_1_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/zklink/ABDK_zkLink_Mergetoken_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/zklink/ABDK_zkLink_Nova_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/zklink/ABDK_zkLink_Solidity_PhaseII_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/zklink/ABDK_zkLink_Solidity_v_1_0.pdf

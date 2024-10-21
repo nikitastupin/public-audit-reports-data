@@ -8,6 +8,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/AngelBlock/AngelB
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/ArtMeta/ArtMeta_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Auki%20Labs/Auki_Labs_Zokyo_audit_report_Oct2nd_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Aurora/Aurora_Zokyo_audit_report_June8_2023.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Bitgrit/Bitgrit_Zokyo_audit_report_Oct10th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Bladeswap/Bladeswap_Zokyo_audit_report_May27th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/BlastOff/BlastOff_Zokyo_audit%20report_March14_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/BobaNetwork/Boba%20Network_Zokyo%20audit%20report.pdf
@@ -42,6 +43,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/HELIX%20-%20Filec
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Heir/es/Heir:es_Zokyo_audit_report_April30th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Heurist/Heurist_Zokyo_audit_report_Aug1st_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Hinkal/Hinkal_Zokyo_Feb20th_2024.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Hord/Hord_(iteration-4)_Zokyo_audit_report_May24_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Hord/Hord_Zokyo_audit_report_Dec27_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Hord/Hord_Zokyo_audit_report_Sep19_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Hord/Zokyo_Hord%20audit%20report.pdf
