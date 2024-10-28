@@ -226,6 +226,7 @@ https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/P
 https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-OlympusDAO-v1.0.pdf
 https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-Omnipool-v1.0.pdf
 https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-OneSwap-v1.0.pdf
+https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-OnyxStaking-v1.0.pdf
 https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-OpenLeverage-1.0.1.pdf
 https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-OpenLeverage-LimitOrder-v1.0.pdf
 https://raw.githubusercontent.com/peckshield/publications/master/audit_reports/PeckShield-Audit-Report-OpenLeverage-v1.0.pdf

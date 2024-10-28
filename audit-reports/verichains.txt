@@ -41,6 +41,7 @@ https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichain
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20Blockcelerate%20QuarkChain%20-%20v1.0.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20Breederdao%20Staking%20v2%20-%20v1.0.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20Briky%20Land%20-%20v1.1.pdf
+https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20BrownFi%20AMM%20Smartcontracts%20-%20v1.0.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20Bythen.AI%20NFT%20-%20v1.0.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20CATO%20Token%20-%20v1.1.pdf
 https://raw.githubusercontent.com/verichains/public-audit-reports/main/Verichains%20Public%20Audit%20Report%20-%20Camly%20Smartcontracts%20-%20v1.0.pdf
