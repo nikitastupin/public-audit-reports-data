@@ -42,6 +42,7 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/RDGX_Final_Au
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Rex_Exchange_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Rove_Token_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/SAN_Final_Report.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/SPE_Smart_Contract_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/SWYP_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Solace%20Final%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/StationX_Claim_Contract_Final_Audit_Report.pdf

@@ -52,11 +52,13 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/IOTA/IOTA_Zokyo_a
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/IOTA/IOTA_Zokyo_audit_report_March22nd_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/IPOR/IPOR_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/IPOR/IPOR_Zokyo_audit_report.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Isle%20Finance/Isle%20Finance_Zokyo_audit%20report_Oct_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/KBT%20token/KBT%20token_Zokyo_audit_report_May3rd_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/KIP/KIP_Zokyo_audit_report_May7th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/LYOPAY/LYOPAY_Zokyo_audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/LayerZero/LayerZero%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Legion/Legion%20OTC_Zokyo_audit_report_June12th_2024.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Liberty%20Finance/Liberty%20Finance%20_Zokyo_audit_report_Oct29th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Limit%20Break/Limit%20Break_Zokyo_audit_report_June12th_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/MadeForGamers/Made%20For%20Gamers_Zokyo%20audit%20report%20_compressed.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Magic%20Yearn/Magic%20Yearn_Zokyo_audit%20report_Feb8_2023.pdf

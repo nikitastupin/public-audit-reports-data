@@ -11,6 +11,7 @@ https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Brink-Spearbit-
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Centrifuge-Spearbit-Security-Review-July-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Clober-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Coinbase-Session-Keys-Spearbit-Security-Review-September-2024.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Coinbase-Verified-Pools-Spearbit-Security-Review-September-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Connext-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/ConnextNxtp-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/CronFinance-Spearbit-Security-Review.pdf
@@ -20,6 +21,7 @@ https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Delv-Spearbit-S
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Delv-Spearbit-Security-Review-March-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Euler-Spearbit-Security-Review-EVC-April-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Euler-Spearbit-Security-Review-EVK-April-2024.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Euler-Spearbit-Security-Review-October-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Euler-Spearbit-Security-Review-Oracle-April-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Fastlane-Spearbit-Security-Review-April-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Gauntlet-Spearbit-Security-Review.pdf
@@ -39,6 +41,7 @@ https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/LooksRare-Spear
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/MapleV2.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Matter-labs-snark-wrapper-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Morpho-Av3-Spearbit-Security-Review.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Morpho-Spearbit-Security-Review-October-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Morpho-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/MorphoV1-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Nouns-Spearbit-Security-Review.pdf
@@ -54,16 +57,20 @@ https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Porter-Spearbit
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Primitive-Spearbit-Security-Review-July.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Primitive-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Redacted-Dinero-Infrastructure-Security-Review.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Royco-Spearbit-Security-Review-October-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Seadrop-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Seaport-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Sense-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Size-Spearbit-Security-Review.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Sorella-Spearbit-Security-Review-October-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Sphinx-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Sudoswap-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/SudoswapLSSVM2-Spearbit-Security-Review.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Tezos-Spearbit-Security-Review-September-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Timeless-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Tracer-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Tradable-Spearbit-Security-Review-July2024.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Uniswapx-Spearbit-Security-Review-July-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Velodrome-Spearbit-Security-Review-Nov23.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Velodrome-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/report-blast-contracts-review-draft.pdf
