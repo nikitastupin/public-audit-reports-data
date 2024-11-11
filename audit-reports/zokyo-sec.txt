@@ -6,6 +6,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Adrastia/Adrastia
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/AngelBlock/Angel%20Block_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/AngelBlock/AngelBlock_Zokyo_audit_report_Feb13_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/ArtMeta/ArtMeta_Zokyo%20audit%20report.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Auki%20Labs/Auki%20Labs_Zokyo_audit_report_Oct30th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Auki%20Labs/Auki_Labs_Zokyo_audit_report_Oct2nd_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Aurora/Aurora_Zokyo_audit_report_June8_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Bitgrit/Bitgrit_Zokyo_audit_report_Oct10th_2024.pdf

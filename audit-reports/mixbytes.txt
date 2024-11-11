@@ -86,13 +86,16 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/a.DI/Lido%2
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/stETH%20Price%20Feed/Lido%20stETH%20Price%20Feed%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/stETH%20Price%20Oracle/Lido%20stETH%20price%20oracle%20Security%20Audit%20Report%20(merged).pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/stETH%20on%20Optimism/Lido%20stETH%20on%20Optimism%20Security%20Audit%20Report.pdf
-https://raw.githubusercontent.com/mixbytes/audits_public/master/Mantle%20Network/Mantle%20Network%20METH%20Secuity%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Mantle%20Network/METH/Mantle%20Network%20METH%20Secuity%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Mantle%20Network/cMETH/Mantle%20cMETH%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Mellow%20Finance/Mellow%20Finance%20SCA.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/MetaLeX/Borg/Metalex%20Borg%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/MetaLeX/LeXscrow/Metalex%20Lexscrow%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Napier%20Finance/Napier%20Pool/Napier%20Pool%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Napier%20Finance/Napier%20v1/Napier%20v1%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/NuCypher/NuCypher%20PoolingStakingContractV2%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Opium%20Protocol/Opium%20Network%20Protocol%20v1%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/ETH%20Allocation%20Share/P2P%20ETH%20Allocation%20Share%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/ETH2%20Depositor%20&%20ETH%20Staking%20Fee%20Distributor%20(v.1)/P2P.org_ETH2%20Depositor%20&%20ETH%20Staking%20Fee%20Distributor%20Smart%20Contracts%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/ETH2%20Depositor%20&%20ETH%20Staking%20Fee%20Distributor%20(v.2)/ETH2%20Depositor%20&%20ETH%20Staking%20Fee%20Distributor%20Security%20Audit%20Report%20(v.2).pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/SSV%20Integration%20Diff%20Audit%20(v1)/P2P.org%20SSV%20Integration%20Diff%20Audit%20(v1).pdf
@@ -105,7 +108,8 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/PieDAO/VestedTok
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Prisma%20Finance/Core/Prisma%20Finance%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Prisma%20Finance/Zap/Prisma%20Finance%20Zap%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Reality%20Cards/RealityCards%20Security%20Audit%20Report.pdf
-https://raw.githubusercontent.com/mixbytes/audits_public/master/Resolv/Resolv%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Resolv/Treasury/Resolv%20Treasury%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Resolv/stUSR/Resolv%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Roobee/Roobee%20Token%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Rubic/Rubic%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Solidex/Solidex/Solidex-Security-Audit-Report.pdf

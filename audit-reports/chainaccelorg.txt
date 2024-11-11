@@ -39,3 +39,4 @@ https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-09-27-cyfrin-bima-v2.0.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-10-04-cyfrin-wormhole-multigov-v2.0.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-10-07-cyfrin-pancakeswap-v2.0.pdf
+https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-10-29-cyfrin-one-world-project-v2.0.pdf

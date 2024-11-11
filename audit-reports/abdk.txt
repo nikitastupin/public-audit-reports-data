@@ -71,6 +71,7 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/marble/Marble%20Sm
 https://raw.githubusercontent.com/abdk-consulting/audits/main/marble/Marble%20Smart%20Contracts.%20Audit.%20Part%20II.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/matterlabs/ABDK-ZKSync-Audit-v2-part2.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/matterlabs/ABDK_MatterLabs_ZkSync_V9_Solidity_v_2_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/morpho/ABDK_Morpho_pre_liquidation_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/morphose/ABDK_Morphose.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/muffin/ABDK_Muffin_Core_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/muffin/ABDK_Muffin_Core_v_2_0.pdf

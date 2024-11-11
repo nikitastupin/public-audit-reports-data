@@ -28,6 +28,7 @@ https://raw.githubusercontent.com/sigp/public-audits/master/reports/dxdao/carrot
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/dxdao/erc20-guild/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/eigen-layer-2/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/eigen-layer-3/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/eth-docker/Sigma_Prime_Eth_Docker_Update_2_v2_0.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/eth-docker/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/ethereum-foundation/c-kzg/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/ethereum-foundation/ef-kzg/review.pdf

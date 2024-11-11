@@ -61,3 +61,4 @@ https://raw.githubusercontent.com/yAudit/reports/main/12-2022-LlamaPay-V2-yAudit
 https://raw.githubusercontent.com/yAudit/reports/main/12-2022-RageTrade-yAudit-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/12-2023-Euler-EVC.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/12-2023-dopex-v2-automator.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/2024-10-Flower-Report.pdf
