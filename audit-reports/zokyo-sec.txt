@@ -38,11 +38,13 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/GAIN/Gain_Ai_Zoky
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/GAIN/Gain_Zokyo_audit_report_6thFeb_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/GAIN/Gain_Zokyo_audit_report_Jan22_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/GPT360/GPT360_Zokyo_audit_report_July12th_2024.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Galaxy%20Games/Galaxy%20Games_Zokyo_audit_report_Nov7th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Global%20Interlink%20(GIL)/Global%20Interlink%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Gumball/Gumball_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/HELIX%20-%20Filecoin%20Virtual%20Machine/Helix_Filecoin%20Virtual%20Machine_Zokyo_auditreport_March29_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Heir/es/Heir:es_Zokyo_audit_report_April30th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Heurist/Heurist_Zokyo_audit_report_Aug1st_2024.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Heurist/Heurist_Zokyo_audit_report_Nov4th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Hinkal/Hinkal_Zokyo_Feb20th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Hord/Hord_(iteration-4)_Zokyo_audit_report_May24_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Hord/Hord_Zokyo_audit_report_Dec27_2023.pdf
@@ -57,6 +59,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Isle%20Finance/Is
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/KBT%20token/KBT%20token_Zokyo_audit_report_May3rd_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/KIP/KIP_Zokyo_audit_report_May7th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/LYOPAY/LYOPAY_Zokyo_audit%20report.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/LayerK_folder_Audit/LayerK_Zokyo_audit_report_Nov8th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/LayerZero/LayerZero%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Legion/Legion%20OTC_Zokyo_audit_report_June12th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Liberty%20Finance/Liberty%20Finance%20_Zokyo_audit_report_Oct29th_2024.pdf
@@ -141,6 +144,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Wisdomise/Wisdomi
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Wombat/Wombat%20Exchange%20_Zokyo_audit_report_March22nd_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Wombat/Wombat_Zokyo_audit_report_Sep6_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Xyro/Xyro_Zokyo_audit_report_Aug30_2024.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Xyro/Xyro_Zokyo_audit_report_Nov7th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Xyro/Xyro_Zokyo_audit_report_Sep26th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/YieldNest/YieldNest_Zokyo_audit_report_May7th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/ZeUSD/TRZN_Zokyo_audit_report_Jan12_2024.pdf

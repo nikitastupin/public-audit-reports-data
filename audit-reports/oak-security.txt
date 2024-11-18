@@ -67,7 +67,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/DAO%20DAO/2023
 https://raw.githubusercontent.com/oak-security/audit-reports/main/DAO%20DAO/2023-03-22%20Audit%20Report%20-%20DAO%20DAO%20Vesting%20and%20Payroll%20Factory%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/DAO%20DAO/2023-10-16%20Audit%20Report%20-%20DAO%20DAO%20Updates%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/DAO%20DAO/2024-01-10%20Audit%20Report%20-%20DAO%20DAO%20Veto%20v1.0.pdf
-https://raw.githubusercontent.com/oak-security/audit-reports/main/DAO%20DAO/2024-09-24%20Audit%20Report%20-%20DAO%20DAO%20Rewards%20Distributor%2C%20x_onft%20Staked%20Voting%2C%20BitSong%20FanToken%20Factory%2C%20Permission%20Granularity%20v1.1.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/DAO%20DAO/2024-11-07%20Audit%20Report%20-%20DAO%20DAO%20Rewards%20Distributor%2C%20x_onft%20Staked%20Voting%2C%20BitSong%20FanToken%20Factory%2C%20Permission%20Granularity%20v1.2.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Dapper%20Labs/Audit%20Report%20-%20Hybrid%20Custody%20Smart%20Contracts.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Dexter/2023-03-15%20Audit%20Report%20-%20Dexter%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Dock/Audit%20Report%20-%20Dock%20Wallet.pdf

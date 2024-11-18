@@ -30,6 +30,7 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/CPOOL%20Security%20
 https://raw.githubusercontent.com/pessimistic-io/audits/main/CYBRO%20One%20Click%20Lending%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/CYBRO%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Cega%20LP%20Offramp%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Certain.fi%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Cheelee%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Choise%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Choise%20Token%20Security%20Analysis%20by%20Pessimistic.pdf

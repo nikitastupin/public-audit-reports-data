@@ -19,6 +19,7 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/DevoWhiteList
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Factiiv_Token_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Final%20Report%20pStake%20Smart%20Contract%20Audit.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/FoundersLabFinalReport.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/HoldPlatform_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Ideology%20Final%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/JayDeriv_SC_Audit_report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/JayPeggers%20Final%20Audit%20Report.pdf
@@ -50,6 +51,7 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/Styleo%20Coin
 https://raw.githubusercontent.com/Credshields/audit-reports/master/TRICE_SC-Audit.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Tribal_Token_Final_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Tribally_Games_Final_Report.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/UniCoinX_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Uniscrow%20Final%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Vouch_Contract_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Wahed%20Token%20Final%20Report.pdf
