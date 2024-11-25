@@ -120,6 +120,7 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/RealFevr%20Security
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Recovery%20Crypto%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Resolv%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Resolv%20WstUSR%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Rivo%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/SWT%20Token%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/SX1411%20-%20AssetToken%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Sahara%20Vesting%20Security%20Analysis%20by%20Pessimistic.pdf

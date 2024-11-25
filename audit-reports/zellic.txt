@@ -8,6 +8,10 @@ https://raw.githubusercontent.com/Zellic/publications/master/Ante%20-%20Zellic%2
 https://raw.githubusercontent.com/Zellic/publications/master/Anzen%20Finance%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Aqua%20Pool%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Arpeggi_Labs_-_Zellic_Audit_Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Astria%20Bridge%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Astria%20Geth%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Astria%20Shared%20Sequencer%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Astria%20Shared%20Sequencer%20April%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Astroport%20Pair%20XYK%20Sale%20Tax%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Asymmetry%20Finanace%20safETH%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Audius%20EVM%20-%20Zellic%20Audit%20Report.pdf
@@ -95,8 +99,10 @@ https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20Core%20
 https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20DVN%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20Endpoint%20V2%20(VerifierNetwork)%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20Endpoint%20V2%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20OApp%20%26%20OFT%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20OFT%20Wrapper%20Audit%20(January%2019th%202023)%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20Router%20%26%20FeeLibraryV5.1%20Audit%20(December%2014th%202022)%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20Solana%20Endpoint%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20Solidity%20Examples%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20Solidity%20Examples%20ONFT%20Audit%20(January%2019th%202023)%20-%20Zellic.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20Stargate%20-%20Zellic%20Audit%20Report.pdf
@@ -178,6 +184,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Spectral%20Modelers
 https://raw.githubusercontent.com/Zellic/publications/master/Spectral%20Token%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/SpiceFi%20Vaults%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/SpiceFiNFT4626%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/SpringSui%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/StaFi%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/StakeKit%20FeeWrapper%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Steer%20-%20Zellic%20Audit%20Report.pdf

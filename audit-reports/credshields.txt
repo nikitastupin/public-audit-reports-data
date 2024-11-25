@@ -40,6 +40,7 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/Protop_Token_
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Protop_Vesting_Contracts_Final_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Quest_Contract_final_audit_report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/RDGX_Final_Audit_report.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/ResearchHub_SmartContract_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Rex_Exchange_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Rove_Token_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/SAN_Final_Report.pdf

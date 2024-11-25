@@ -54,6 +54,7 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/gambit/ABDK_Gambit
 https://raw.githubusercontent.com/abdk-consulting/audits/main/gambit/ABDK_Gambit_Solidity_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/gearbox/ABDK_Gearbox_CoreV3_v_3_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/gearbox/ABDK_Gearbox_Oracles_v_3_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/gmx/ABDK_GMX_gmx_synthetics_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/gossamercontractwallet/GossamerContractWallet.%20Audit.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/harbor/Harbor%20Smart%20Contract.%20Review%20July%202018.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/harbor/Harbor%20Smart%20Contracts.%20Review%20March%202019.pdf
@@ -77,6 +78,9 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/muffin/ABDK_Muffin
 https://raw.githubusercontent.com/abdk-consulting/audits/main/muffin/ABDK_Muffin_Core_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/muffin/ABDK_Muffin_Periphery_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/mystiko/ABDK_Mystiko_Solidity_ZoKrates_v_2_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/nebra/ABDK_Nebra_Saturn_CircuitsUpdate_v_1_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/nebra/ABDK_Nebra_Saturn_Circuits_v_1_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/nebra/ABDK_Nebra_SpecAudit_PartI_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/nil_foundation/ABDK_NilFoundation_BlockchainVerifier_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/notional/ABDK_NotionalV2_Solidity_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/othernet_global_pte_ltd/ABDK_OthernetGlobalPTELTD_SaltyIO_v_2_0.pdf

@@ -25,6 +25,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Cyber%20Finance/C
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/DPEX/DPEX_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/DPNMDEFI/DPNMDEFI_Zokyoauditreport_14March_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Devve/Devve_Zokyo_audit_report_May30th_2024.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Devve/Devve_Zokyo_audit_report_Nov19th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Eclipse%20Fi/Eclipse_Fi_Zokyo_audit_report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Elektrik/Elektrik_Zokyo_audit_report_July9th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Ember%20Labs/Ember_Labs_Zokyo_audit_report_Oct20_2023.pdf
@@ -126,6 +127,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/TokensFarm/Tokens
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/TokensFarm/TokensFarm_Zokyo_audit_report_oct_28.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/TokensFarm/Tokens_Farm_Zokyo_audit%20report_january_11.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Tradable/Tradable_Zokyo_audit_report_Sep4th_2023.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Tren%20Finance/Tren%20Finance_Zokyo_audit_report_Nov19th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Trustswap/TrustSwap_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Umami/Umami%20DAO_Zokyo_final%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Umami/Umami%20GLP%20Vaults_Zokyo_audit_report_19April_2023.pdf

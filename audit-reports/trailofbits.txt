@@ -146,6 +146,8 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-0
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-09-treehouse-finance-teth-extension-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-10-30-Offchain-NitroContractswithBoLD-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-10-huggingface-gradio-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-11-nomic-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-11-orgaandmerk-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/88mph.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/API3.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/AcalaNetwork.pdf
