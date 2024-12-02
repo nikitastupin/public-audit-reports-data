@@ -58,6 +58,7 @@ https://raw.githubusercontent.com/runtimeverification/publications/main/reports/
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/SundaeSwap.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Synonym-audit-report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/TCA_Oveit_7.10.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Term%20FV%20Summary%20Report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Tezos-Dexter-Liquidity-Baking.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Tezos-Dexter.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Tinyman-amm-v2-audit/supplemental/invariant-analysis.pdf

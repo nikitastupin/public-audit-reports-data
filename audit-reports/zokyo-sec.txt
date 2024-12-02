@@ -9,6 +9,8 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/ArtMeta/ArtMeta_Z
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Auki%20Labs/Auki%20Labs_Zokyo_audit_report_Oct30th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Auki%20Labs/Auki_Labs_Zokyo_audit_report_Oct2nd_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Aurora/Aurora_Zokyo_audit_report_June8_2023.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/BANDO%20COOL%20S.A.%20DE%20C.V./BANDO%20COOL%20S.A.%20DE%20C.V.%20_Zokyo_audit_report_Nov25th_2024.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Beyond/Beyond_Zokyo_audit_report_Oct30th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Bitgrit/Bitgrit_Zokyo_audit_report_Oct10th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Bladeswap/Bladeswap_Zokyo_audit_report_May27th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/BlastOff/BlastOff_Zokyo_audit%20report_March14_2024.pdf

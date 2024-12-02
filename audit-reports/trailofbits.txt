@@ -99,6 +99,7 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-1
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-12-opus-contracts-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-12-pacman-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-12-unibot-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2023-8-offchain-challenge-protocol-V2-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-01-metalayerblast-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-01-offchainarbitrum-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-01-pyth-entropy-securityreview.pdf
@@ -144,8 +145,12 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-0
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-09-kraken-mobile-wallet-icloud-backup-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-09-offchain-stylus-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-09-treehouse-finance-teth-extension-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-1-kraken-mobile-wallet-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-10-30-Offchain-NitroContractswithBoLD-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-10-huggingface-gradio-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-10-offchain-bold-optimized-history-commit-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-10-offchain-stylus-emergency-fixes-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-11-kraken-wallet-in-app-browser-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-11-nomic-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-11-orgaandmerk-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/88mph.pdf

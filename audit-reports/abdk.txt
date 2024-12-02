@@ -114,6 +114,7 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/set/Set%20Smart%20
 https://raw.githubusercontent.com/abdk-consulting/audits/main/shping/Shping%20Smart%20Contract.%20Version%202.%20Review.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/spectral/ABDK_SpectralFinance_SCPOC_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/spectral/ABDK_Spectral_Spectral_finance_v_1_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/starkware/ABDK_StarkWare_OS_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/starkware/ABDK_StarkWare_Perpetual_V3_1_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/starkware/ABDK_StarkWare_Perpetual__V3_2_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/starkware/ABDK_Starkware_Perpetual_v_1_0.pdf
