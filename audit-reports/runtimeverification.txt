@@ -6,6 +6,7 @@ https://raw.githubusercontent.com/runtimeverification/publications/main/reports/
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/consensus-protocols/Ethereum-Gasper.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/consensus-protocols/MultiversX-Async-Calls-V2.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/consensus-protocols/PlatON-Giskard.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/infrastructure/Wasmi_-_WebAssembly_(Wasm)_Interpreter.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Alchemix_v2.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Algodex_Dec.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Algodex_Jan.pdf

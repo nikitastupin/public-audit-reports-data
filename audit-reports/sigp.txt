@@ -18,6 +18,7 @@ https://raw.githubusercontent.com/sigp/public-audits/master/reports/chainlink/ch
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/chainlink/chainlink-2/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/chainsafe/forest/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/chainsafe/gossamer/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/commitboost/Sigma_Prime_Commit_Boost_Client_Security_Assessment_Report_v2_0.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/dapper-wallet/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/derive/pptsa/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/derive/review-round2.pdf

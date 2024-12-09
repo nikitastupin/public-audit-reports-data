@@ -27,7 +27,6 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Cyber%20Finance/C
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/DPEX/DPEX_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/DPNMDEFI/DPNMDEFI_Zokyoauditreport_14March_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Devve/Devve_Zokyo_audit_report_May30th_2024.pdf
-https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Devve/Devve_Zokyo_audit_report_Nov19th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Eclipse%20Fi/Eclipse_Fi_Zokyo_audit_report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Elektrik/Elektrik_Zokyo_audit_report_July9th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Ember%20Labs/Ember_Labs_Zokyo_audit_report_Oct20_2023.pdf
@@ -121,6 +120,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/TangleSwap/Tangle
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/TangleSwap/TangleSwap-audit-Periphery.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/TangleSwap/TangleSwap-audit-VE-Staking.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Taunt/Taunt%20Token_Zokyo%20audit%20report.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/The%20Forevver%20Association/The%20Forevver%20Association_Zokyo_audit_report_Nov19th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/TheStandard/TheStandard.io_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/TigrisTrade/TigrisTrade_Zokyo_audit%20report_Sep19_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/TigrisTrade/Tigris_trade_Zokyo_audit_report_Aug8_2023.pdf
@@ -152,6 +152,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Xyro/Xyro_Zokyo_a
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Xyro/Xyro_Zokyo_audit_report_Sep26th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/YieldNest/YieldNest_Zokyo_audit_report_May7th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/ZeUSD/TRZN_Zokyo_audit_report_Jan12_2024.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Zerolend/ZeroLend_Zokyo_audit_report_Nov26_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/bPNM/bPNM_Zokyo_audit_report_March28th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/veSync/veSync_Zokyo_audit_report_June23_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/zap/ZAP_Zokyo_audit_report_April11_2024.pdf

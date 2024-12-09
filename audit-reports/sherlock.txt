@@ -168,6 +168,7 @@ https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.07.13%20-%20Final%20-%20Union%20Finance%20Update%202%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.07.16%20-%20Final%20-%20Aloe%20Update%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.07.17%20-%20Final%20-%20Super%20Boring%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.07.19%20-%20Final%20-%20Allora%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.07.25%20-%20Final%20-%20Exactly%20Protocol%20Update%20-%20Staking%20Contract%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.07.25%20-%20Final%20-%20Velocimeter%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.08.03%20-%20Final%20-%20Kwenta%20Staking%20Rewards%20Upgrade%20Audit%20Report.pdf
@@ -175,7 +176,9 @@ https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.08.20%20-%20Final%20-%20Winnables%20Raffles%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.08.24%20-%20Final%20-%20Sentiment%20V2%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.08.29%20-%20Final%20-%20Rumpel%20Point%20Tokenization%20Protocol%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.09.10%20-%20Final%20-%20ZeroLend%20One%20%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.09.13%20-%20Final%20-%20Perennial%20V2%20Update%203%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.09.15%20-%20Final%20-%20Flayer%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.09.20%20-%20Final%20-%20Boost%20Core%20Incentive%20Protocol%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.09.21%20-%20Final%20-%20Saffron%20Lido%20Vaults%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.09.23%20-%20Final%20-%20MorphL2%20Audit%20Report.pdf
@@ -186,6 +189,12 @@ https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.10.21%20-%20Final%20-%20Index%20x%20Morpho%20Leverage%20Integration%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.10.27%20-%20Final%20-%20Gamma%20Brevis%20Rewarder%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.10.27%20-%20Final%20-%20Orderly%20Solana%20Vault%20Contract%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.10.29%20-%20Final%20-%20Covalent%20-%20EWM%20Light%20Client%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.10.31%20-%20Final%20-%20Mento%20x%20Good%24%20Integration%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.11.09%20-%20Final%20-%20Telcoin%20Update%202%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.11.13%20-%20Final%20-%20Velodrome.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.11.17%20-%20Final%20-%20vVv%20Launchpad%20-%20Investments%20%26%20Token%20distribution%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.11.23%20-%20Final%20-%20HatsSignerGate%20v2%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.11.24%20-%20Final%20-%20Superfluid%20Locker%20System%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.11.28%20-%20Final%20-%20Wasabi%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.22.01%20-%20Final%20-%20Avail%20Audit%20Report.pdf

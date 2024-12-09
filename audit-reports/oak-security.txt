@@ -115,6 +115,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Levana/2022-05
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Lido%20Finance/2021-11-23%20Audit%20Report%20-%20Lido%20Finance%20stLuna%20v1.2.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Lido%20Finance/2022-05-16%20Audit%20Report%20-%20Lido%20Finance%20stATOM%20on%20Cosmos%20Hub%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Lum%20Network/2023-05-15%20Audit%20Report%20-%20Lum%20Millions%20Module%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Magma%20Core/2024-12-04%20Audit%20Report%20-%20Magma%20Core%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Margined%20Protocol/2022-10-28%20Audit%20Report%20-%20Margined%20Protocol%20Perpetuals%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Margined%20Protocol/2023-10-25%20Audit%20Report%20-%20Margined%20Power%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Mars/2022-02-17%20Audit%20Report%20-%20Fields%20of%20Mars%20v1.0.pdf
@@ -127,6 +128,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Mars/2023-02-0
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Mars/2023-08-01%20Audit%20Report%20-%20Mars%20Red%20Bank%20Updates%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Mars/2023-09-14%20Audit%20Report%20-%20Mars%20Rover%20v2%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Mars/2024-07-15%20Audit%20Report%20-%20Mars%20v2%20on%20Neutron%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Mars/2024-12-04%20Audit%20Report%20-%20Mars%20Perps%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Membrane/2023-06-15%20Audit%20Report%20-%20Membrane%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/MilkyWay/2023-12-12%20Audit%20Report%20-%20MilkyWay%20Staking%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Mirror/2022-01-14%20Audit%20Report%20-%20Mirror%20Decentralized%20Governance%20v1.0.pdf
@@ -134,6 +136,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/NOIZD/Audit%20
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Nebula/Nebula%20-%20Audit%20Report.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Neptune/2023-04-09%20Audit%20Report%20-%20Neptune%20Protocol%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Neptune/2024-01-09%20Audit%20Report%20-%20Neptune%20Updates%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Neptune/2024-12-06%20Audit%20Report%20-%20Neptune%20Updates%202%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Neutron/2022-12-07%20Audit%20Report%20-%20Neutron%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Ninja%20Blaze/2024-05-06%20Audit%20Report%20-%20Ninja%20Blaze%20Double%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Noble/2023-03-13%20Audit%20Report%20-%20Noble%20v1.0.pdf

@@ -131,6 +131,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Move%20and%20Sui%20
 https://raw.githubusercontent.com/Zellic/publications/master/Muni%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Nebra%20Universal%20Proof%20Aggregator%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Nibiru%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Nimbora%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Nocturne%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Nukem%20Loans%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Odos%20-%20Zellic%20Audit%20Report.pdf

@@ -3,6 +3,7 @@ https://raw.githubusercontent.com/cystack/security-audit-reports/main/smart-cont
 https://raw.githubusercontent.com/cystack/security-audit-reports/main/smart-contracts/AOC%20BEP-20%20-%20v1.3.pdf
 https://raw.githubusercontent.com/cystack/security-audit-reports/main/smart-contracts/AOC%20ERC-20%20V2%20-%20v1.2.pdf
 https://raw.githubusercontent.com/cystack/security-audit-reports/main/smart-contracts/Busy%20Technology%20-%20v1.2.pdf
+https://raw.githubusercontent.com/cystack/security-audit-reports/main/smart-contracts/Cellframe%20Bridge%20-%20v1.1.pdf
 https://raw.githubusercontent.com/cystack/security-audit-reports/main/smart-contracts/Cellframe%20Staking%20-%20v1.1.pdf
 https://raw.githubusercontent.com/cystack/security-audit-reports/main/smart-contracts/Coherence%20Beamsplitter%20-%20v1.1.pdf
 https://raw.githubusercontent.com/cystack/security-audit-reports/main/smart-contracts/DOXY%20-%20v1.3.pdf

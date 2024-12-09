@@ -137,6 +137,8 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/uniswap/ABDK_Unisw
 https://raw.githubusercontent.com/abdk-consulting/audits/main/uniswap/ABDK_Uniswap_UniswapX_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/uniswap/ABDK_Uniswap_UniswapXv1_1_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/uniswap/ABDK_Uniswap_UniversalRouter_v_2_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/uniswap/ABDK_Uniswap_v4_core_v_0_9.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/uniswap/ABDK_Uniswap_v4_periphery_UniversalRouter_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/usm/ABDK_USM__Solidity_v1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/voltz/ABDK_Voltz_Project1_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/voltz/ABDK_Voltz_Voltz_Protocol_Part_2_v_1_0.pdf

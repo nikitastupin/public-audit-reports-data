@@ -153,6 +153,9 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-1
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-11-kraken-wallet-in-app-browser-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-11-nomic-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-11-orgaandmerk-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-11-plume-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-12-alignedlayer-aligned-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-12-arkis-defi-prime-brokerage-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/88mph.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/API3.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/AcalaNetwork.pdf
