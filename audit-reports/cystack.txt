@@ -1,4 +1,5 @@
 https://raw.githubusercontent.com/cystack/security-audit-reports/main/applications/Rice%20Wallet%20-%20v1.1.pdf
+https://raw.githubusercontent.com/cystack/security-audit-reports/main/blockchain-protocol/Cellframe%20Protocol%20-%20v1.1.pdf
 https://raw.githubusercontent.com/cystack/security-audit-reports/main/smart-contracts/AKRC%20-%20v1.1.pdf
 https://raw.githubusercontent.com/cystack/security-audit-reports/main/smart-contracts/AOC%20BEP-20%20-%20v1.3.pdf
 https://raw.githubusercontent.com/cystack/security-audit-reports/main/smart-contracts/AOC%20ERC-20%20V2%20-%20v1.2.pdf

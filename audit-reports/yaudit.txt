@@ -55,6 +55,7 @@ https://raw.githubusercontent.com/yAudit/reports/main/10-2023-Sickle-Update.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/10-2024-Euler-ERC20-Wrapper-Locked.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/10-2024-Flower-Report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/10-2024-GuessOurBlock.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/10-2024-Obelisk.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/10-2024-Sickle-Strategies.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/10-2024-Superform.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/11-2022-Yearn-Stargate-Strategy-yAudit-Report.pdf

@@ -21,6 +21,8 @@ https://raw.githubusercontent.com/Zellic/publications/master/Avantis%20-%20Zelli
 https://raw.githubusercontent.com/Zellic/publications/master/Awaken%20Swap%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Axiom%20November%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Axiom%20October%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Babylon%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Barretenberg%20Bigfield%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Bebop%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Beefy%20BIFI%20Token%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Beefy%20UniswapV3%20-%20Zellic%20Audit%20Report.pdf
@@ -67,6 +69,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/EtherFi%20-%20Zelli
 https://raw.githubusercontent.com/Zellic/publications/master/EtherFi_-_Zellic_Audit_Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Euler%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Euler%20Fee%20Flow%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Extended%20ERC20%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Facet%20Bridge%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Facet%20Geth%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Facet%20Migrations%20-%20Zellic%20Audit%20Report.pdf

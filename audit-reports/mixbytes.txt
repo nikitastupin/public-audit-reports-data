@@ -13,6 +13,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/AAVE/Governance%
 https://raw.githubusercontent.com/mixbytes/audits_public/master/AAVE/Governance%20Crosschain%20Bridges%20V3/Governance%20Crosschain%20Bridges%20V3%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/AAVE/Incentives%20Proposal/Aave%20Incentives%20Proposal%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/AAVE/ParaSwap%20Adapter/ParaSwap%20Adapter%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/AAVE/Stata%20Token%20(watoken)/Aave%20Stata%20Token%20(watoken)%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/AAVE/Voting%20Tokens/AAVE%20Voting%20Tokens%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/AAVE/protocol%20v2/report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Abyss%20Finance/Abyss%20Eth2%20Depositor/AbyssEth2Depositor%20Security%20Audit%20Report.pdf
@@ -61,6 +62,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Fantium/Fantium/
 https://raw.githubusercontent.com/mixbytes/audits_public/master/FireBTC/FBTC/FireBTC%20FBTC%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protocol/Gearbox%20Protocol%20v.1/Gearbox%20Protocol%20v.1%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protocol/Gearbox%20Protocol%20v.3%20Bots%20&%20Integrations/Gearbox%20Protocol%20v.3%20Bots%20&%20Integrations%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Instadapp/Fluid%20DEX/Instadapp%20Fluid%20DEX%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Instadapp/Fluid/Instadapp%20Fluid%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Iron%20Bank/IronBank%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Keep3r.Network/keep3r%20Staking%20Rewards%20Security%20Audit%20Report.pdf
