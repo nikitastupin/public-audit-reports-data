@@ -1,6 +1,9 @@
 https://raw.githubusercontent.com/informalsystems/audits/main/Agoric/informal-agoric-report-phase1.pdf
 https://raw.githubusercontent.com/informalsystems/audits/main/Agoric/informal-agoric-report-phase2.pdf
 https://raw.githubusercontent.com/informalsystems/audits/main/Agoric/informal-agoric-report-phase3.pdf
+https://raw.githubusercontent.com/informalsystems/audits/main/Anoma/2024-02-26%20Namada%20MASP%20Final%20Report.pdf
+https://raw.githubusercontent.com/informalsystems/audits/main/Anoma/2024-04-30%20Namada%20ABCI%2C%20Replay%20Protection%2C%20Fee%20And%20Gas%20Metering%20Final%20Report.pdf
+https://raw.githubusercontent.com/informalsystems/audits/main/Anoma/2024-08-16%20IBC%20and%20MASP%20integrations%20Final%20Report.pdf
 https://raw.githubusercontent.com/informalsystems/audits/main/Anoma/2024-12-11%20Namada%20Governance%20%26%20PGF.pdf
 https://raw.githubusercontent.com/informalsystems/audits/main/Axelar/2023-08-04%20Audit%20Report%20-%20Axelar%20-%20axelarnet.pdf
 https://raw.githubusercontent.com/informalsystems/audits/main/Celestia/2023-03-30%20Celestia%20Namespaced%20Merkle%20Tree%20Library%20Audit.pdf
