@@ -77,6 +77,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/DoraHacks/2024
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Drop/2024-08-12%20Audit%20Report%20-%20Drop%20Contracts%20Extension%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Drop/2024-08-12%20Audit%20Report%20-%20Drop%20Contracts%20Updates%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Drop/2024-08-19%20Audit%20Report%20-%20Drop%20Contracts%20v1.1.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Drop/2024-12-21%20Audit%20Report%20-%20Drop%20Updates%202%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Dusk/2024-09-06%20Protocol%20Review%20Report%20-%20Dusk%20.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Dusk/2024-09-20%20Audit%20Report%20-%20Rusk%20Consensus.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Dusk/2024-09-20%20Audit%20Report%20-%20Rusk%20Node%20Library.pdf

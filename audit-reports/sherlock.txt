@@ -207,4 +207,5 @@ https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.12.08%20-%20Final%20-%20Rain%20-%20Collateral%20Contract%20V2%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.12.10%20-%20Final%20-%20Cork%20Protocol%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.12.17%20-%20Final%20-%20Tally%20Collaborative%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.12.21%20-%20Final%20-%20Mach%20Finance%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.22.01%20-%20Final%20-%20Avail%20Audit%20Report.pdf

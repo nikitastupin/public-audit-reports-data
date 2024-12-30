@@ -48,6 +48,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/Poolshark/Poolshark
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Reliquary/Reliquary_Audit.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/RestFinance/2024-01-26_Rest_Finance.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Synthetix/2024-04-18_Synthetix_BFP_Market.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Synthetix/2024-12-29_Synthetix_TLX_Conversion.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/UltiBets/UltiBets_Audit_1.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/UltiBets/UltiBets_Audit_2.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/UltimateFantoms_Audit.pdf

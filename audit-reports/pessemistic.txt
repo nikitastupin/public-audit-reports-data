@@ -42,6 +42,7 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/DeNet%20Security%20
 https://raw.githubusercontent.com/pessimistic-io/audits/main/DefiPlaza%20Radix%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/DexSport%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Dexdao%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Drizzle%20Finance%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Ember%20Security%20Audit%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/EthGild%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/FCT%20Core%20Security%20Analysis%20by%20Pessimistic.pdf
@@ -59,6 +60,7 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/GGMV%20Security%20A
 https://raw.githubusercontent.com/pessimistic-io/audits/main/GYSR%20Security%20Audit%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/HodlessBotToken%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Holyheld%20Security%20Audit%20Report%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Hypersea%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/IQ%20NFT%20Staking%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/IQ%20Protocol%20V2%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/IQ%20Token%20Security%20Analysis%20by%20Pessimistic.pdf

@@ -154,9 +154,11 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-1
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-11-nomic-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-11-orgaandmerk-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-11-plume-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-12-ULTI-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-12-alignedlayer-aligned-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-12-arkis-defi-prime-brokerage-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-12-ethstaker-depositcli-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-12-offchain-boldfixes-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-12-rubycentral-rubygemsorg-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/88mph.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/API3.pdf

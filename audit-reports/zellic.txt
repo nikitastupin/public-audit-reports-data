@@ -78,6 +78,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Fairyring%20-%20Zel
 https://raw.githubusercontent.com/Zellic/publications/master/Family%20Wallet%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Fractal%20Protocol%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Fractal%20Protocol%20v2-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Fuelet%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/GammaSwap%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/GammaSwap%20Deltaswap%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/GammaSwap%20Staking%20-%20Zellic%20Audit%20Report.pdf
