@@ -6,6 +6,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Adrastia%20Protocol
 https://raw.githubusercontent.com/Zellic/publications/master/Alkimiya%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Ante%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Anzen%20Finance%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Anzen%20and%20protocol-v2%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Aqua%20Pool%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Arpeggi_Labs_-_Zellic_Audit_Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Astria%20Bridge%20-%20Zellic%20Audit%20Report.pdf
@@ -55,6 +56,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Chateau%20-%20Zelli
 https://raw.githubusercontent.com/Zellic/publications/master/Chirp%20Network%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Cosmos%20SDK%20Sign%20Mode%20Textual%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/CrocSwap%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Cultured%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/DFYN%20RFQ%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Definitive%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Definitive%202024%20-%20Zellic%20Audit%20Report.pdf

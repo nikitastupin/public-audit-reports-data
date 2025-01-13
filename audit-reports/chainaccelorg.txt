@@ -42,6 +42,6 @@ https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-10-29-cyfrin-one-world-project-v2.0.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-11-18-cyfrin-stake.link-metis-staking-v2.0.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-11-26-cyfrin-m0-v2.0.pdf
-https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-12-04-cyfrin-linea-v2.1.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-12-11-cyfrin-benqi-ignite-v2.0.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2024-12-17-cyfrin-quantamm-v1.2.pdf
+https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2025-01-06-cyfrin-linea-v2.2.pdf

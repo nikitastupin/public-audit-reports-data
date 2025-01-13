@@ -29,6 +29,7 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/JustFarming_F
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Kaku_SmartContract_Final_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Kresus_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Lara_Liquid_Staking_Final_Audit_Report.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/Liza_Coin_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/LogX_Token_Final_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Lync%20Final%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Moby_Smart_Contract_Final_Report.pdf
@@ -55,6 +56,7 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/Tribal_Token_
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Tribally_Games_Final_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/UniCoinX_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Uniscrow%20Final%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/Uponly_Contracts_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Vouch_Contract_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Wahed%20Token%20Final%20Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Wasset_Final_Audit_Report.pdf

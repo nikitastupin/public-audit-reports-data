@@ -176,6 +176,7 @@ https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.08.20%20-%20Final%20-%20Winnables%20Raffles%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.08.24%20-%20Final%20-%20Sentiment%20V2%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.08.29%20-%20Final%20-%20Rumpel%20Point%20Tokenization%20Protocol%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.09.09%20-%20Final%20-%20Velar%20Artha%20PerpDEX%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.09.10%20-%20Final%20-%20ZeroLend%20One%20%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.09.13%20-%20Final%20-%20Perennial%20V2%20Update%203%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.09.15%20-%20Final%20-%20Flayer%20Audit%20Report.pdf

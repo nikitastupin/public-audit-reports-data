@@ -11,6 +11,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/c++/blocksec_r
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/go/blocksec_aura_network_v1.0.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/go/blocksec_permaswap_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/mixed/blocksec_neox_v1.0-signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/mixed/blocksec_side_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec-octopus-vesting-v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_boost_farm_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_burrow_margin_trade_v1.0-signed.pdf
@@ -80,6 +81,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/block
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_fyllo_v1.1-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_glorifinance_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_goatfi_multistrategy_v1.0-signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_halo_token-earn-membership_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_impossible_finance_swap_v1.2.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_latteswap_flat_v1.1.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_loansnap_baconcoin_v1.0.pdf
@@ -93,6 +95,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/block
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_multichain_vemult_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_nfex_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_noah_v1.0-signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_noahv3_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_pancake_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_pancake_vecake_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_pancakeswap_cross_farming_v1.0_signed.pdf
