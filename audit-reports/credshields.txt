@@ -20,6 +20,7 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/DevoWhiteList
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Factiiv_Token_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Final%20Report%20pStake%20Smart%20Contract%20Audit.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/FoundersLabFinalReport.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/HealthCareDatabase_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/HoldPlatform_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Ideology%20Final%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/JayDeriv_SC_Audit_report.pdf
@@ -64,5 +65,6 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/Webapp%20Audi
 https://raw.githubusercontent.com/Credshields/audit-reports/master/ZHDCoin_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Zenland_SmartContract_Audit.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/ZetaSwap_Final_Audit-Report.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/Zoth_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/aUSD_SC_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/pStake%20Bridge%20Audit.docx.pdf

@@ -72,6 +72,7 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/Intentable_Kirobo_S
 https://raw.githubusercontent.com/pessimistic-io/audits/main/JuicyBet%20Token%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Jupiter%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/KickToken%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Kinto%20Access%20Registry%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Kinto%20Access%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Kinto%20Bridger%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Kinto%20Bridger%20V2%20Security%20Analysis%20by%20Pessimistic.pdf

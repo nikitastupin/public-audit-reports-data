@@ -1,4 +1,5 @@
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Abstract/2023-05-09%20Audit%20Report%20-%20Abstract%20Module%20Bases%2C%20Proxy%20and%20Manager%20Contracts%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Abstract/2024-12-31%20Audit%20Report%20-%20Abstract%20Account%20Contract%200.26.0%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Alice/Audit%20Report%20-%20Alice.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/All%20in%20Bits/2022-04-04%20Audit%20Report%20-%20Budget%20and%20Farming%20Cosmos%20SDK%20Modules%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Altered%20Protocol/2021-08-16%20Audit%20Report%20-%20Altered%20Protocol.pdf

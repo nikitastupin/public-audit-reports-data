@@ -159,7 +159,10 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-1
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-12-arkis-defi-prime-brokerage-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-12-ethstaker-depositcli-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-12-offchain-boldfixes-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-12-pixelswap-dex-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-12-rubycentral-rubygemsorg-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2025-01-beethovenx-sonicstaking-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2025-01-shape-gasback-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/88mph.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/API3.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/AcalaNetwork.pdf

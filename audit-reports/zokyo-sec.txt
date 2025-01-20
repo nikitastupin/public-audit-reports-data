@@ -32,6 +32,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Eclipse%20Fi/Ecli
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Elektrik/Elektrik_Zokyo_audit_report_July9th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Ember%20Labs/Ember_Labs_Zokyo_audit_report_Oct20_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Ethlas/Ethlas_Zokyo_audit_report_26th_April_2023.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Evoq%20Finance/Evoq%20Finance_Zokyo_audit_report_Jan9th_2025.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/FNDZ/FNDZ_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Filament/Filament_Zokyo_audit_report_Aug15th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Fluxfire/Fluxfire_Zokyo_audit_report_June5_2023.pdf
@@ -111,6 +112,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Sqwid/Sqwid_Zokyo
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/StablR/StablR_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Starter/Starter_Zokyo_audit_report_June26th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Struct%20Finance/Struct%20Finance_Zokyo%20audit%20report_May24_2023.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Symbiosis/Symbiosis_Zokyo_audit_report_Jan3rd_2025.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Symbiosis/Symbiosis_Zokyo_audit_report_May29th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/TEAHOUSE/TEAHOUSE_Zokyo_audit_report_Sep26th_2024..pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/TProtocol/TProtocol_Zokyo_audit_report_Sep12th_2023.pdf
