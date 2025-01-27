@@ -187,7 +187,6 @@ https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.09.25%20-%20Final%20-%20Thanos%20L2%20Native%20Token%20Bridge%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.10.07%20-%20Final%20-%20predict.fun%20lending%20market%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.10.08%20-%20Final%20-%20SYMMIO%20v0.8.4%20Update%20Contest%20Audit%20Report.pdf
-https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.10.15%20-%20Final%20-%20AXION%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.10.21%20-%20Final%20-%20Index%20x%20Morpho%20Leverage%20Integration%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.10.27%20-%20Final%20-%20Gamma%20Brevis%20Rewarder%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.10.27%20-%20Final%20-%20Orderly%20Solana%20Vault%20Contract%20Audit%20Report.pdf
@@ -207,9 +206,12 @@ https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.12.01%20-%20Final%20-%20Extra%20Finance%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.12.02%20-%20Final%20-%20Resolv%20Core%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.12.05%20-%20Final%20-%20Ethos%20Network%20Financial%20Contracts%20Audit%20Report.pdf
-https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.12.08%20-%20Final%20-%20Rain%20-%20Collateral%20Contract%20V2%20Audit%20Report.pdf
-https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.12.10%20-%20Final%20-%20Cork%20Protocol%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.12.10%20-%20Final%20-%20Teller%20Lender%20Groups%20Update%20Audit%20%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.12.17%20-%20Final%20-%20Tally%20Collaborative%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.12.21%20-%20Final%20-%20Idle%20Finance%20Credit%20Vaults%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.12.21%20-%20Final%20-%20Mach%20Finance%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.12.30%20-%20Final%20-%20Ethos%20Reputation%20Market%20Fix%20Review%20Contest%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2024.22.01%20-%20Final%20-%20Avail%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2025.01.02%20-%20Final%20-%20Cork%20Best%20Efforts%20Audit%20Contest%20Report%20.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2025.01.03%20-%20Final%20-%20Axion%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2025.01.20%20-%20Final%20-%20Rain%20Private%20Best%20Efforts%20Audit%20Contest%20Report.pdf

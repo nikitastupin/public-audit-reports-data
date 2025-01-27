@@ -125,6 +125,7 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-0
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-05-lisksmartcontracts-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-05-offchain-arbitrumstylus-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-05-panoptic-liquidation-engine-invariant-development.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-05-parabollabs-protocolcontracts-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-05-wonderland-prophet-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-06-aladdinfx-oracle-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-06-ethereum-foundation-devcon-auction-raffle-securityreview.pdf
@@ -162,6 +163,7 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-1
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-12-pixelswap-dex-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-12-rubycentral-rubygemsorg-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2025-01-beethovenx-sonicstaking-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2025-01-parabollabs-protocolcontractsupdates-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2025-01-shape-gasback-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/88mph.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/API3.pdf

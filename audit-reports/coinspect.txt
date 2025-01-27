@@ -10,6 +10,7 @@ https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20
 https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20Smart%20Contract%20Audit%20-%20Exactly%20Protocol%204th%20Audit%20V221028.pdf
 https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20Smart%20Contract%20Audit%20-%20Folks%20Finance%20v220314.pdf
 https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20Smart%20Contract%20Audit%20-%20Liquity%20-%20Bold%20-%20v241231.pdf
+https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20Smart%20Contract%20Audit%20-%20Liquity%20-%20Bold%20Governance%20-%20v250120.pdf
 https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20Smart%20Contract%20Audit%20-%20SenseiStake%20v221028.pdf
 https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20Smart%20Contract%20Audit%20-%20Tempus%20v211013.pdf
 https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20Smart%20Contract%20Update%20Review%20-%20Tinyman%20v220107.pdf

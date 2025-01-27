@@ -214,6 +214,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/SyncSwap%20-%20Zell
 https://raw.githubusercontent.com/Zellic/publications/master/Thala%20Labs%20Move%20Dollar%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Tortuga%20Liquid%20Staking%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Trillion%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Trillion%20EVM%20cross%20chain%20contract%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/TrustToken%20Contracts-Tequila%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Valorem%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Valorem%20Options%20-%20Zellic%20Audit%20Report.pdf

@@ -186,6 +186,9 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Skip/2023-08-2
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Slide%20SDK/2024-09-20%20Audit%20Report%20-%20Slide%20SDK%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Snowbridge/2024-02-12%20Audit%20Report%20-%20Snowbridge%20Extension%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Snowbridge/2024-05-24%20Audit%20Report%20-%20Snowbridge%20v1.1.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Snowbridge/2024-08-10%20Audit%20Report%20-%20Snowbridge%20Updates%202%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Snowbridge/2024-08-16%20Audit%20Report%20-%20Snowbridge%20Updates%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Snowbridge/2025-01-07%20Audit%20Report%20-%20Snowbridge%20Updates%203%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Spectrum/2022-07-02%20Audit%20Report%20-%20Alpha%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Stader/2021-12-06%20Audit%20Report%20-%20Stader%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/StarTerra/Audit%20Report%20-%20StarTerra.pdf
@@ -197,6 +200,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Streamswap/202
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Stride/2022-09-26%20Audit%20Report%20-%20Stride%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Stride/2023-08-20%20Audit%20Report%20-%20Stride%20ICA%20Oracle%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Suberra/2022-03-17%20Audit%20Report%20-%20Suberra%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/THORChain/2024-12-16%20Audit%20Report%20-%20Validator-scheduled%20Standard%20Cosmos%20Hard%20Fork%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/TeFi/2022-01-14%20Audit%20Report%20-%20TeFi%20Oracle%20Contracts%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Terra%20Liquidity%20Bootstrapping%20Pool/2021-12-23%20Audit%20Report%20-%20Terra%20Liquidity%20Bootstrapping%20Pool%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Timewave/2024-04-10%20Audit%20Report%20-%20Timewave%20Computer%20Valence%20Services%20v1.0.pdf
