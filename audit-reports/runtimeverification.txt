@@ -6,6 +6,7 @@ https://raw.githubusercontent.com/runtimeverification/publications/main/reports/
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/consensus-protocols/Ethereum-Gasper.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/consensus-protocols/MultiversX-Async-Calls-V2.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/consensus-protocols/PlatON-Giskard.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/infrastructure/Stellar_Soroban_Environment_Audit.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/infrastructure/Wasmi_-_WebAssembly_(Wasm)_Interpreter.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Alchemix_v2.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Algodex_Dec.pdf
@@ -21,6 +22,8 @@ https://raw.githubusercontent.com/runtimeverification/publications/main/reports/
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Blockswap_Stakehouse.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Blockswap_Stakehouse_2nd_Audit.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Blockswap_Stakehouse_Withdrawals_Audit_Report.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/ClickPesa%20Oracle%20Aggregator.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Cork%20FV%20Summary%20Report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/EXA_Finance.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/EigenLayer_Design_Review.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/ElementFinance.pdf
@@ -30,6 +33,7 @@ https://raw.githubusercontent.com/runtimeverification/publications/main/reports/
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Folks-Finance-Code-Audit.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Folks-Finance-Design-Review.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/FxDAO.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/FxHash%20Token%20Security%20Audit.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Galactic_Skyteller_V1.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Gigastar_CRD.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/GnosisSafe.pdf
@@ -70,6 +74,7 @@ https://raw.githubusercontent.com/runtimeverification/publications/main/reports/
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Tinyman-amm-v2-audit/tinyman-amm-v2-audit-report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Tinyman-security-review.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Tinyman.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/TokenOps.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Tracer-Perpetual-Pools-V2.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Uniswap-V1.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/WorldMobileGroup.pdf

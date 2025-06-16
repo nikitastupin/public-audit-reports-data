@@ -2,6 +2,7 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/1Inch%20Limit%20Ord
 https://raw.githubusercontent.com/pessimistic-io/audits/main/1inch%20Aggregation%20Router%20V4%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/1inch%20Aggregation%20Router%20V6%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/1inch%20AggregationRouter%20V5%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/1inch%20Cross%20Chain%20Atomic%20Swaps%20v2%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/1inch%20Farming%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/1inch%20FixedRateSwap%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/1inch%20Fusion%20Settlement%20Extension%20v2%20Security%20Analysis%20by%20Pessimistic.pdf
@@ -13,8 +14,11 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/1inch%20Multi-Farmi
 https://raw.githubusercontent.com/pessimistic-io/audits/main/1inch%20Vesting%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/A2DAO%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/ARTM%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Agent%20A.I.%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Amplified%20Strategy%20Vault%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Aquaris%20Token%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Azuro%20CashOut%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Azuro%20RewardPoolV2%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Azuro%20V1%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Azuro%20V2%20BetExpress%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Azuro%20V2%20LiveCore%20Security%20Analysis%20by%20Pessimistic.pdf
@@ -77,6 +81,7 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/Kinto%20Access%20Se
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Kinto%20Bridger%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Kinto%20Bridger%20V2%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Kinto%20Governance%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Kinto%20SealedBidTokenSale%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Kinto%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Kinto%20SuperBridge%20Hooks%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Kinto%20Token%26Vesting%20Security%20Analysis%20by%20Pessimistic.pdf
@@ -133,9 +138,11 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/Seascape%20Lighthou
 https://raw.githubusercontent.com/pessimistic-io/audits/main/SmartCredit%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/SolidBlock%20Security%20Recheck.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Sovryn%20Security%20Audit%20Report%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Spiko%20ATM%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Spiral%20DAO%20Lockers%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Spiral%20DAO%20SDT%20Adapter%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Spiral%20DAO%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Stabiliti%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/StablePlaza%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/StakeWise%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Starton%20Security%20Analysis%20by%20Pessimistic.pdf
@@ -148,6 +155,7 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/Syntropy%20Security
 https://raw.githubusercontent.com/pessimistic-io/audits/main/THX%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/TYMIO%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Tornado.Cash%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Venus%20ERC4626%20Wrapper%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Venus%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Via%20Protocol%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/VirtuSwap%20Security%20Analysis%20by%20Pessimistic.pdf

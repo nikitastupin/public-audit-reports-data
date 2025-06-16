@@ -12,10 +12,12 @@ https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20
 https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20Smart%20Contract%20Audit%20-%20Liquity%20-%20Bold%20-%20v241231.pdf
 https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20Smart%20Contract%20Audit%20-%20Liquity%20-%20Bold%20Governance%20-%20v250120.pdf
 https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20Smart%20Contract%20Audit%20-%20SenseiStake%20v221028.pdf
+https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20Smart%20Contract%20Audit%20-%20Tari%20-%20wXTM%20Bridge%20-%20Fix%20Review%20-%20v250528.pdf
 https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20Smart%20Contract%20Audit%20-%20Tempus%20v211013.pdf
 https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20Smart%20Contract%20Update%20Review%20-%20Tinyman%20v220107.pdf
 https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20Source%20Code%20Audit%20-%20Babylon%20-%20Babylon%20Phase%201%20-%20v240805.pdf
 https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20Source%20Code%20Audit%20-%20Soroban%20Tricorn%20Bridge%20v240725.pdf
+https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20Source%20Code%20Audit%20-%20VeChainThor%20Galactica%20V250512.pdf
 https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20Source%20Code%20Audit%20-%20Zendoo%20v210921.pdf
 https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20Tari%20-%20Base%20Layer%20-%20Security%20Assessment%20-%20v240115.pdf
 https://raw.githubusercontent.com/coinspect/publications/master/Grin%20Audit%202019%20v1014.pdf

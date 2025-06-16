@@ -23,10 +23,16 @@ https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/
 https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2023-10-20_Lido_Roles_Analysis.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2024-03-12_Lido_Voting.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2024-04-11_Lido_GateSeal_deployment_validation.pdf
+https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2024-09-12_Lido_Dual_Governance_2024.pdf
+https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2025-03-10_Lido_GateSeal_Deployment_2025.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Mellow/2024-05-27_Mellow_LRT.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Mellow/2024-05-30_Mellow_LRT_Obol.pdf
+https://raw.githubusercontent.com/statemindio/public-audits/main/Mellow/2024-09-20_Mellow_Simple_LRT_Final_report.pdf
+https://raw.githubusercontent.com/statemindio/public-audits/main/Mellow/2025-01-31_Mellow_MultiVault_with_deployment.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Myso%20Finance/2023-08-15_Myso_v2.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Symbiotic/2024-05-01_Symbiotic_Default_Collateral.pdf
+https://raw.githubusercontent.com/statemindio/public-audits/main/Symbiotic/2024-12-20_Symbiotic_Core_final_report.pdf
+https://raw.githubusercontent.com/statemindio/public-audits/main/Symbiotic/2024-12-27_Symbiotic_Hooks_Final_report.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Valantis%20Labs/2024-03-19_Valantis_Core.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Valantis%20Labs/2024-04-23_Valantis_HOT.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Vyper/2024-03-08_Vyper_Storage_layout.pdf
