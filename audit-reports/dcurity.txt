@@ -22,6 +22,7 @@ https://raw.githubusercontent.com/Decurity/audits/master/Fluence/fluence-dao-aud
 https://raw.githubusercontent.com/Decurity/audits/master/Frankencoin/frankencoin-audit-report-2024-1.1.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/Gearbox/gearbox-balancer-v3-integrations-audit-report-1.1.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/Gearbox/gearbox-governor-v3-audit-report-1.0.pdf
+https://raw.githubusercontent.com/Decurity/audits/master/Gearbox/gearbox-integrations-misc-audit-report-1.1.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/Gearbox/gearbox-pendle-mellow-integrations-audit-report-1.1.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/Gearbox/gearbox-sky-pyth-integrations-audit-report-1.1.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/MonkeyKingdom/monkeykingdom-security-audit-report-1.0.pdf

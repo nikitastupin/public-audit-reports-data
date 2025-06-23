@@ -203,6 +203,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/SatLayer/2025-
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Sei/2023-05-15%20Audit%20Report%20-%20Sei%20Cosmos%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Sei/2023-05-15%20Audit%20Report%20-%20Sei%20Tendermint%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Sei/2023-05-19%20Audit%20Report%20-%20Sei%20Chain%20and%20CosmWasm%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Selfchain/2025-06-18%20Audit%20Report%20-%20Selfchain.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/SendIt/2024-09-25%20Audit%20Report%20-%20SendIt%20Contracts%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Sigma/2022-05-03%20Audit%20Report%20-%20Sigma%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Skip/2023-07-29%20Audit%20Report%20-%20Skip%20Protocol%20Owned%20Builder%20v1.0.pdf

@@ -14,6 +14,7 @@ https://raw.githubusercontent.com/sigp/public-audits/master/reports/august/revie
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/aurora/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/bartercard/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/bls-wallet/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/botanix/Sigma_Prime_Botanix_Macbeth_Security_Assessment_Report_v2_1.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/brava/report.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/chainlink/chainlink-1/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/chainlink/chainlink-2/review.pdf

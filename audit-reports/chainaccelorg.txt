@@ -60,9 +60,9 @@ https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2025-
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2025-04-24-cyfrin-yieldfi-v2.0.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2025-05-08-cyfrin-gas-aave3.3-v1.0.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2025-05-16-cyfrin-ethena-timelock-v2.0.pdf
-https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2025-06-01-cyfrin-yieldfi-pr19-vytoken-v2.1.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2025-06-02-cyfrin-evo-soulboundtoken-v2.0.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2025-06-04-cyfrin-stakelink-pr152-linkmigrator-v2.0.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2025-06-06-cyfrin-eulerswap-v2.1.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2025-06-10-cyfrin-bunni-v2.1.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2025-06-11-cyfrin-strata-predeposit-v2.1.pdf
+https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2025-06-17-cyfrin-yieldfi-pr19-vytoken-v2.2.pdf

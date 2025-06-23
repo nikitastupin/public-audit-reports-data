@@ -87,6 +87,12 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Magpie/Magpie_Zok
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Magpie/Magpie_Zokyo_audit_report_Sep24th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/MarsDAO/MarsDao_Zokyo_Android_Application_audit_report_Aug18ер_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/MarsDAO/MarsDao_Zokyo_IOS_Application_audit_report_Aug18ер_2023.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/MaxApy/Veris%20Labs_Zokyo_Unlockd_protocol_audit%20report_2024.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/MaxApy/maxAPY_Zokyo_%20MetaVault_audit_report_March10th_2025.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/MaxApy/maxAPY_Zokyo_HurdleRateOracle_audit_report_March18th_2025.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/MaxApy/maxAPY_Zokyo_MetaVault_audit_report%202_March%2031th_2025.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/MaxApy/maxAPY_Zokyo_SharePriceOracle_audit_report_May_2025.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/MaxApy/maxAPY_Zokyo_audit_report_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Metapro/Metapro_Zokyo_audit_report_April11th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Metropolis/Metropolis_Zokyoaudit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Minterest/Minterest_Zokyo_audit_report_14thMarch_2023.pdf

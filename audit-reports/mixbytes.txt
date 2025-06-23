@@ -50,6 +50,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Curve%20Finance/
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Curve%20Finance/DAO%20Voting/Curve%20Finance%20DAO%20Voting%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Curve%20Finance/StableSwapNG/Curve%20Finance%20StableSwapNG%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/DIA/Genesis%20Staking/DIA%20Genesis%20Staking%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/DIA/Lumina%20Staking/DIA%20Lumina%20Staking%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/DIA/Multi%20Scope/DIA%20Multi%20Scope%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/DeFi%20Money/Core/DeFi%20Money%20Core%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Defi%20Starter/DefiStarter%20Smart%20Contracts/report.pdf

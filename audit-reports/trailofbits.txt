@@ -214,6 +214,7 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2025-0
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2025-06-offchain-arbitrum-block-hash-pusher-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2025-06-offchain-arbitrum-mint-burn-precompile-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2025-06-offchain-setcoregovernorquorumaction-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2025-06-reserveprotocol-solidity400-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2025-1-everstake-ethereum-staking-protocol-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/88mph.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/API3.pdf
