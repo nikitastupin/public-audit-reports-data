@@ -10,9 +10,11 @@ https://raw.githubusercontent.com/informalsystems/audits/main/Axelar/2023-08-04%
 https://raw.githubusercontent.com/informalsystems/audits/main/Babylon/Babylon%20Q2%202025%20_%20Genesis%20v2%20Upgrade%20Audit%20Report_Final.pdf
 https://raw.githubusercontent.com/informalsystems/audits/main/Celestia/2023-03-30%20Celestia%20Namespaced%20Merkle%20Tree%20Library%20Audit.pdf
 https://raw.githubusercontent.com/informalsystems/audits/main/Celestia/2023-09-13%20Audit%20Report%20Celestia%20rsmt2d%20library.pdf
+https://raw.githubusercontent.com/informalsystems/audits/main/Celestia/Celestia%20Q2%202025%20_%20High-Throughput%20Recovery%20Audit%20Report_Final%20v2.pdf
 https://raw.githubusercontent.com/informalsystems/audits/main/Celestia/Celestia%20Q2%202025_%20CIP-31%20Audit%20Report_Final.pdf
 https://raw.githubusercontent.com/informalsystems/audits/main/Cosmos%20Hub/2023-02-10%20Audit%20Report%20-%20ICS%20replicated%20security.pdf
 https://raw.githubusercontent.com/informalsystems/audits/main/Duality/2023-05-16%20Audit%20Report%20-%20Duality%20Dex%20and%20Incentives%20modules.pdf
+https://raw.githubusercontent.com/informalsystems/audits/main/Espresso/Espresso%20Q1%202025%20_%20Epoch%20Change%20Protocol%20Audit%20Report_Final.pdf
 https://raw.githubusercontent.com/informalsystems/audits/main/Evmos/informal-evmos-report-2021q4.pdf
 https://raw.githubusercontent.com/informalsystems/audits/main/IBC-GO/report.pdf
 https://raw.githubusercontent.com/informalsystems/audits/main/Injective/informal-report-injective-audit-202106.pdf

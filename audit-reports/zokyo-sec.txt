@@ -1,5 +1,7 @@
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/1inch/1Inch%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/1inch/1inch_Zokyo%20audit%20report.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/ARTokens%20GmbH/ARTokens_GmbH_Zokyo_audit_report_June19_2025.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/ARTokens%20GmbH/ARTokens_GmbH_Zokyo_audit_report_May6th_2025.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Adaswap/Adaswap_Zokyo%20audit%20report%20.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Adaswap/Adaswap_Zokyo%20audit_report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Adrastia/Adrastia_Zokyo%20audit%20report.pdf

@@ -7,6 +7,8 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Altered%20Prot
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Amulet/2024-01-08%20Audit%20Report%20-%20Amulet%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Amulet/2024-02-07%20Audit%20Report%20-%20Amulet%20Neutron%20PoS%20Strategy%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Anchor/2021-10-18%20Audit%20Report%20-%20Anchor%20Liquidation%20Queue.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Animoca/2025-06-23%20Audit%20Report%20-%20Anichess%20Ethereum%20Contracts%20v1.2.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Animoca/2025-06-24%20Audit%20Report%20-%20Animoca%20Staking%20Pool%20v1.2.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Anoma/2023-03-28%20Audit%20Report%20-%20Namada%20Ethereum%20Bridge%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Aperture/2022-03-08%20Audit%20Report%20-%20Aperture%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Aperture/2022-06-27%20Audit%20Report%20-%20Aperture%202%20v1.0.pdf
@@ -162,6 +164,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Ninja%20Blaze/
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Noble/2023-03-13%20Audit%20Report%20-%20Noble%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Noble/2023-07-08%20Audit%20Report%20-%20Noble%20Tariff%20Module%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Noble/2024-01-17%20Audit%20Report%20-%20Noble%20tokenfactory%20Changes%20and%20fiattokenfactory%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/NodeOps/2025-06-25%20Audit%20Report%20-%20NodeOps%20Network.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Nolus/2022-12-12%20Audit%20Report%20-%20Nolus%20Core%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Nolus/2023-01-27%20Audit%20Report%20-%20Nolus%20Money%20Market%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Nudge/2025-03-07%20Audit%20Report%20-%20Nudge%20Campaigns.pdf

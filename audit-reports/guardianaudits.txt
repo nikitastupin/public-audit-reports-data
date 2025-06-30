@@ -25,6 +25,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/Ethereal/2025-02-10
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Foil/2024-10-28_Foil.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Foil/2025-01-13_Foil_Updates.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Foil/2025-01-13_Foil_Vault.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/G8keep/2024-07-29_G8keep.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/GMX/2022-10-24_GMX_Synthetics.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/GMX/2023-01-08_GMX_Synthetics.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/GMX/2023-03-15_GMX_Synthetics.pdf
@@ -57,6 +58,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/K33Loans/2025-02-24
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/KeyFinance/Key_Finance_Audit.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/MIMSwap/2024-03-21_MIMSwap.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/MUX/2025-02-06_MUX_Perps.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Magna/Magna_Magna_Staking_report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/MagnifyCash/2024-03-14_MagnifyCash.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/NFTR/NFTR_Audit.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/NFTR/NFTR_Market_Audit.pdf

@@ -64,6 +64,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Circuit%20DAO%20-%2
 https://raw.githubusercontent.com/Zellic/publications/master/Core%20and%20Periphery%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Cosmos%20SDK%20Liquid%20Stake%20Module%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Cosmos%20SDK%20Sign%20Mode%20Textual%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Cove%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/CrocSwap%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Cultured%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Cultured%20February%20-%20Zellic%20Audit%20Report.pdf
