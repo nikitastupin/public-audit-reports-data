@@ -85,6 +85,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/Synthetix/2024-12-2
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Synthetix/2025-03-01_Synthetix_TLX_V2.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Synthetix/2025-03-03_Synthetix_BFP_2.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Synthetix/2025-10-28_Synthetix_Migration.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Tenor/Tenor%20-%20Lending%20Protocol_report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Truemarkets/2025-03-18_Truemarkets_Report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/USDT0/2025-02-14_USDT0_Multihop.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/USDT0/2025-03-21_USDT0_OneSig.pdf

@@ -66,3 +66,4 @@ https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2025-
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2025-06-10-cyfrin-bunni-v2.1.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2025-06-11-cyfrin-strata-predeposit-v2.1.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2025-06-17-cyfrin-yieldfi-pr19-vytoken-v2.2.pdf
+https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2025-06-30-cyfrin-linea-spingame-v2-v2.1.pdf

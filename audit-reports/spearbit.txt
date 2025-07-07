@@ -21,6 +21,7 @@ https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Brink-Spearbit-
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Centrifuge-Spearbit-Security-Review-July-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Clober-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Cod3x-Spearbit-Security-Review-December-2024.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Coinbase-OP-Enclave-Spearbit-Security-Review-December-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Coinbase-Session-Keys-Spearbit-Security-Review-September-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Coinbase-Verified-Pools-Spearbit-Security-Review-September-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Collar-Spearbit-Security-Review-December-2024.pdf
@@ -36,6 +37,7 @@ https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Euler-Spearbit-
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Euler-Spearbit-Security-Review-October-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Euler-Spearbit-Security-Review-Oracle-April-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Fastlane-Spearbit-Security-Review-April-2024.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Gauntlet-Spearbit-Security-Review-April-2025.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Gauntlet-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Huma-2024-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/InfiniFi-Spearbit-Security-Review-March-2025.pdf

@@ -137,6 +137,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Resolv/Staking/R
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Resolv/Treasury%20Escrow/Resolv%20Treasury%20Escrow%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Resolv/Treasury%20Extension/Resolv%20Treasury%20Extension%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Resolv/Treasury/Resolv%20Treasury%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Resolv/Utils/Resolv%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Resolv/stUSR/Resolv%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Roobee/Roobee%20Token%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Rubic/Rubic%20Security%20Audit%20Report.pdf
