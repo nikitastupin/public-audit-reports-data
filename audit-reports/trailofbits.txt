@@ -134,6 +134,7 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-0
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-05-offchain-arbitrumstylus-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-05-panoptic-liquidation-engine-invariant-development.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-05-parabollabs-protocolcontracts-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-05-polygonlabs-iden3circuits-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-05-wonderland-prophet-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-06-aladdinfx-oracle-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2024-06-ethereum-foundation-devcon-auction-raffle-securityreview.pdf
@@ -208,13 +209,13 @@ https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2025-0
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2025-05-FIVA-yieldtokenizationprotocol-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2025-05-fabriclabs-zipperprotocol-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2025-05-offchainlabs-arbos40nitro-securityreview.pdf
-https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2025-05-swap-coffee-ton-dex-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2025-05-whales-dmcc-holders-contracts-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2025-05-whales-dmcc-nominators-contract-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2025-06-offchain-arbitrum-block-hash-pusher-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2025-06-offchain-arbitrum-mint-burn-precompile-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2025-06-offchain-setcoregovernorquorumaction-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2025-06-reserveprotocol-solidity400-securityreview.pdf
+https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2025-07-scroll-feynmanupgradesmartcontractchanges-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/2025-1-everstake-ethereum-staking-protocol-securityreview.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/88mph.pdf
 https://raw.githubusercontent.com/trailofbits/publications/master/reviews/API3.pdf

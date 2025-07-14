@@ -62,6 +62,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Empower%20the%20
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Enjoyoors/EVM%20Vaults/Enjoyoors%20EVM%20Vaults%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Enso%20Finance/Enso%20Wallet/Enso%20Wallet%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Enso%20Finance/Weiroll/Weiroll%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Euler/AccessControlKeyring/Euler%20AccessControlKeyring%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Euler/EVK%20Periphery/Euler%20EVK%20Periphery%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Euler/HookTargetStakeDelegator/Euler%20StakeDelegator%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Euler/Reward-Streams/Euler%20Reward-Streams%20Security%20Audit%20Report.pdf
@@ -123,7 +124,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/Lending%
 https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/SSV%20Integration%20Diff%20Audit%20(v1)/P2P.org%20SSV%20Integration%20Diff%20Audit%20(v1).pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/SSV%20Integration/P2P.org%20SSV%20Integration%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/Staking%20Fee%20Distributor%20Diff%20Audit%20(v1)/P2P.org%20Staking%20Fee%20Depositor%20Diff%20Audit%20(v1).pdf
-https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/Staking%20Lending%20Proxy%20(2)/P2P%20Staking%20Lending%20Proxy%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/Staking%20Lending%20Proxy%20(2)/P2P.org%20Staking%20Lending%20Proxy%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/Staking%20Lending%20Proxy/P2P%20Staking%20Lending%20Proxy.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Pickle%20Finance/All%20Strategies/Pickle%20Finance%20All%20Stratagies%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Pickle%20Finance/Strategy-Curve-scrv-v4_1/Pickle%20Finance%20Strategy-Curve-scrv-v4_1%20Security%20Audit%20Report.pdf

@@ -42,6 +42,7 @@ https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Gauntlet-Spearb
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Huma-2024-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/InfiniFi-Spearbit-Security-Review-March-2025.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Infrared-Spearbit-Security-Review-January-2025.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Kinetiq-Spearbit-Security-Review-March-2025.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/LIFI-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/LIFI-retainer1-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/LiquidCollective-Spearbit-Security-Review.pdf

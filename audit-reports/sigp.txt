@@ -18,6 +18,7 @@ https://raw.githubusercontent.com/sigp/public-audits/master/reports/botanix/Sigm
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/brava/report.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/chainlink/chainlink-1/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/chainlink/chainlink-2/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/chainlink/lockbox/Sigma_Prime_CL_Lockbox_Security_Assessment_Report_v2_1.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/chainsafe/forest/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/chainsafe/gossamer/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/commitboost/Sigma_Prime_Commit_Boost_Client_Security_Assessment_Report_v2_0.pdf
@@ -79,6 +80,7 @@ https://raw.githubusercontent.com/sigp/public-audits/master/reports/open-grants/
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/optimism/optimism-bedrock/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/polygon/Sigma%20Prime%20-%20Polygon%20-%20PolToken%20-%20Security%20Assessment%20Report%20-%20v2.0.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/polygon/Sigma_Prime_Polygon_LXLY_Bridge_Security_Assessment_Report_v2_1.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/recall/Sigma_Prime_Recall_Staking_Security_Assessment_Report_v2_0.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/recall/Sigma_Prime_recall_labs_recall_Security_Assessment_Report_v2_2.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/renzo/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/reth/review.pdf

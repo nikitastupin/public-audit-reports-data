@@ -21,6 +21,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/Bridges/Bridges_Exc
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Cyfrin/Guardian%20-%20Cyfrin's%20Attester%20%26%20Resolver.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/DN404/2024-05-13_DN404.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Dolomite/2024-01-11_Dolomite.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Ethena/2025-05-26_Ethena_TimelockController.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Ethereal/2025-02-10_Ethereal_Vault.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Foil/2024-10-28_Foil.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Foil/2025-01-13_Foil_Updates.pdf

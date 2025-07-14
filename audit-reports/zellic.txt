@@ -74,6 +74,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/DeepBook%20-%20Zell
 https://raw.githubusercontent.com/Zellic/publications/master/Definitive%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Definitive%202024%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Definitive%20LLSD%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/DexFi%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/DexFi%20Factory%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/DojoSwap%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Drift%20Protocol%20Audit%20Report.pdf

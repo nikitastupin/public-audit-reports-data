@@ -4,6 +4,7 @@ https://raw.githubusercontent.com/coinspect/publications/master/Aragon%20Protoco
 https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20Security%20Assessment%20-%20Magic%20Protocol%20Supplier%20Server%20v220906.pdf
 https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20Smart%20Contract%20Audit%20-%20Algofi%20Algo%20Vault.pdf
 https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20Smart%20Contract%20Audit%20-%20Algorand%20Name%20Service%20v220602.pdf
+https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20Smart%20Contract%20Audit%20-%20CapyFi%20-%20v250711.pdf
 https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20Smart%20Contract%20Audit%20-%20Exactly%20Protocol%201st%20Audit%20V220126.pdf
 https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20Smart%20Contract%20Audit%20-%20Exactly%20Protocol%202nd%20Audit%20V220822.pdf
 https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20Smart%20Contract%20Audit%20-%20Exactly%20Protocol%203rd%20Audit%20V221028.pdf

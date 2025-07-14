@@ -226,4 +226,6 @@ https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2025.04.26%20-%20Final%20-%20Aegis%20Collaborative%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2025.05.03%20-%20Final%20-%20Aegis.im%20YUSD%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2025.05.29%20-%20Final%20-%20Native%20Smart%20Contract%20V2%20Audit%20Report.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2025.05.30%20-%20Final%20-%20MetaLend%20Collaborative%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2025.06.05%20-%20Final%20-%20Seamless%20Protocol%20Collaborative%20Audit%20Report%201749131188.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2025.07.04%20-%20Final%20-%20MetaLend%20Collaborative%20Audit%20Report.pdf
