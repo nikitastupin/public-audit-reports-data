@@ -33,6 +33,8 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/DEFAI%20REWARDS%2
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/DPEX/DPEX_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/DPNMDEFI/DPNMDEFI_Zokyoauditreport_14March_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Defactor/Defactor%20(Pools)_Zokyo_audit_report_Nov22_2023.pdf.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Defactor/Defactor_Zokyo_Buyback_contracts_audit_report_March28th_2025.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Defactor/Defactor_Zokyo_audit_report_March28th_2025.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Defactor/Zokyo_Defactor(Buyback)_audit_report_NoV15th_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Devve/Devve_Zokyo_audit_report_May30th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Eclipse%20Fi/Eclipse_Fi_Zokyo_audit_report.pdf
@@ -130,6 +132,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Shido/Shido%20Blo
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Shido/Shido_Zokyo_audit_report_May28th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Shimmer/Shimmer%20Bridge_Zokyo_Jan19_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Snailbrook/SnailBrook_Zokyo_audit%20report_April10th_2024.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Sova%20Labs/Sova%20Labs_Zokyo_audit_report_July10_2025.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Sqwid/Sqwid_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/StablR/StablR_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Starter/Starter_Zokyo_audit_report_June26th_2024.pdf

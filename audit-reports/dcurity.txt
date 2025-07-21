@@ -15,6 +15,7 @@ https://raw.githubusercontent.com/Decurity/audits/master/Bebop/bebop-jam-audit-r
 https://raw.githubusercontent.com/Decurity/audits/master/Clearpool/clearpool-open-term-pools-audit-report-2024-1.1.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/Clearpool/clearpool-usdx-audit-report-2024-1.1.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/CollectifDAO/collectif-dao-audit-report-1.2.pdf
+https://raw.githubusercontent.com/Decurity/audits/master/Cryptolegacy/cryptolegacy-audit-report-2025-1.1.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/DysonFinance/dyson-finance-audit-report-1.0.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/EastFinance/east-finance-audit-report-1.0.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/EtherFi/etherfi-liquifier-diff-audit-report-2024-1.1.pdf

@@ -39,6 +39,7 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/Certain.fi%20Securi
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Cheelee%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Choise%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Choise%20Token%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/CryptoLegacy%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/DeFi%20Plaza%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/DeFiPie%20Security%20Audit%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/DeFireX%20Security%20Audit%20by%20Pessimistic%20Public.pdf

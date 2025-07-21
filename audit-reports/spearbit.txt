@@ -69,6 +69,7 @@ https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Omni-Halo-Spear
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Omni-Solidity-Spearbit-Security-Review-September-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Ondo-Spearbit-Security-Review-March-2025.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Optimism-MtCannon-Spearbit-Security-Review-December-2024.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Optimism-Spearbit-Security-Review-July-2025.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Optimism-Spearbit-Security-Review-May-2025.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Optimism-Upgrade-15a-Spearbit-Security-Review-April-2025.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Optimism-Upgrade13-Spearbit-Security-Review-January-2025.pdf
@@ -101,6 +102,7 @@ https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Thala-Spearbit-
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Timeless-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Tracer-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Tradable-Spearbit-Security-Review-July2024.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Uniswap-The-Compact-Spearbit-Security-Review-May-2025.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Uniswapx-Spearbit-Security-Review-July-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Velodrome-Spearbit-Security-Review-Nov23.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Velodrome-Spearbit-Security-Review.pdf

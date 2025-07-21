@@ -95,6 +95,7 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/mystiko/ABDK_Mysti
 https://raw.githubusercontent.com/abdk-consulting/audits/main/nebra/ABDK_Nebra_Saturn_CircuitsUpdate_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/nebra/ABDK_Nebra_Saturn_Circuits_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/nebra/ABDK_Nebra_SpecAudit_PartI_v_1_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/nexa_finance/ABDK_NexaFinance_TokenPortfolio_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/nil_foundation/ABDK_NilFoundation_BlockchainVerifier_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/nomial/ABDK_Nomial_Contracts_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/notional/ABDK_NotionalV2_Solidity_v_1_0.pdf

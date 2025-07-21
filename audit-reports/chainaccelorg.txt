@@ -72,3 +72,4 @@ https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2025-
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2025-06-30-cyfrin-linea-spingame-v2-v2.1.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2025-07-04-cyfrin-remora-pledge-v2.0.pdf
 https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2025-07-07-cyfrin-suzaku-core-v2.0.pdf
+https://raw.githubusercontent.com/Cyfrin/cyfrin-audit-reports/main/reports/2025-07-15-cyfrin-vii-v2.0.pdf
