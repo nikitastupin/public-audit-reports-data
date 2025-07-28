@@ -84,6 +84,7 @@ https://raw.githubusercontent.com/sigp/public-audits/master/reports/recall/Sigma
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/recall/Sigma_Prime_recall_labs_recall_Security_Assessment_Report_v2_2.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/renzo/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/reth/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/risc-zero/Sigma_Prime_Risc_Zero_The_Signal_Ethereum_Security_Assessment_Report_v2_0.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/rocket-pool/rocket-pool-10-houston-hotfix/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/rocket-pool/rocket-pool-4-feedistributor-fix/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/rocket-pool/rocket-pool-5-lower-eth-bond/review.pdf
