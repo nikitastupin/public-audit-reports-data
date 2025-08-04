@@ -36,4 +36,5 @@ https://raw.githubusercontent.com/yacademy/audits/yacademy-audits/block_004/week
 https://raw.githubusercontent.com/yacademy/audits/yacademy-audits/block_004/week_5_optional_bonus/yAcademy_LlamaLend_V2_Review.pdf
 https://raw.githubusercontent.com/yacademy/audits/yacademy-audits/block_005/week_1_2/yAcademy_Exit10_Review.pdf
 https://raw.githubusercontent.com/yacademy/audits/yacademy-audits/block_005/week_3_4/yAcademy_VMEX_Review.pdf
+https://raw.githubusercontent.com/yacademy/audits/yacademy-audits/block_007/week_1_2/Electi_CentrifugeV3_Vaults_Review.pdf
 https://raw.githubusercontent.com/yacademy/audits/yacademy-audits/yFu/yAcademy_yFu_NFT_review.pdf

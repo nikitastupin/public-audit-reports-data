@@ -32,6 +32,7 @@ https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Delv-Spearbit-S
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Delv-Spearbit-Security-Review-June-2023.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Delv-Spearbit-Security-Review-June-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Delv-Spearbit-Security-Review-March-2024.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Eigenlayer-Spearbit-vCISO-February-2025.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Euler-Spearbit-Security-Review-EVC-April-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Euler-Spearbit-Security-Review-EVK-April-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Euler-Spearbit-Security-Review-October-2024.pdf

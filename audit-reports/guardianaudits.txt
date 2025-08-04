@@ -54,6 +54,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/HamstersOfOpera_Gua
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/IVX/09-13-2023-IVX.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/IceBearSociety_Audit.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Impermax/2025-02-08_Impermax.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Impermax/Impermax_Consortium_Report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/InfinityLotto_Audit.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/K33Loans/2025-02-24_K33_Loans.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/KeyFinance/Key_Finance_Audit.pdf

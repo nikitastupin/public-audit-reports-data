@@ -28,7 +28,8 @@ https://raw.githubusercontent.com/informalsystems/audits/main/Neutron/2023-11-11
 https://raw.githubusercontent.com/informalsystems/audits/main/Neutron/2024-03-21_liquidity_migration_audit_report.pdf
 https://raw.githubusercontent.com/informalsystems/audits/main/Neutron/2024-03-28_neutron_chain_manager_report.pdf
 https://raw.githubusercontent.com/informalsystems/audits/main/Neutron/2024-12-11%20Neutron%20Dex%20Model.pdf
-https://raw.githubusercontent.com/informalsystems/audits/main/Neutron/Neutron-Timewave%20Q2%202025%20_%20Valence%20Protocol%20Audit%20Report_Final.pdf
+https://raw.githubusercontent.com/informalsystems/audits/main/Neutron/2025-07-18%20Neutron-Timewave%20Q2%202025%20_%20Valence%20Protocol%20Audit%20Report_Final.pdf
+https://raw.githubusercontent.com/informalsystems/audits/main/Neutron/2025-07-30%20Neutron%20Q3%202025%20_%20DEX%20Fractional%20Banking%20Audit%20Report_Final.pdf
 https://raw.githubusercontent.com/informalsystems/audits/main/Osmosis/2023-06-23%20Audit%20Report%20-%20Osmosis%20Q2.pdf
 https://raw.githubusercontent.com/informalsystems/audits/main/Osmosis/2023-30-10%20Audit%20-%20Fee%20Abstraction%20Module%20by%20Notional.pdf
 https://raw.githubusercontent.com/informalsystems/audits/main/Ripple/2025-03-25%20XRPL%20EVM%20Sidechain.pdf

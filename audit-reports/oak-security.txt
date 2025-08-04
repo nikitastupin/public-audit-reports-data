@@ -68,6 +68,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Cosmos/2023-06
 https://raw.githubusercontent.com/oak-security/audit-reports/main/CronCat/2023-03-14%20Audit%20Report%20-%20CronCat%20CosmWasm%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Cypher%20Wallet/2023-05-19%20Audit%20Report%20-%20Cypher%20Wallet%20v1.2.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Cypher%20Wallet/2024-08-08%20Audit%20Report%20-%20Cypher%20Autoload%20Simple%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Cypher%20Wallet/2025-07-30%20Audit%20Report%20-%20Cypher%20Protocol%20v1.4.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/DAO%20DAO/2022-06-22%20Audit%20Report%20-%20DAO%20DAO%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/DAO%20DAO/2023-02-06%20Audit%20Report%20-%20DAO%20DAO%202%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/DAO%20DAO/2023-03-22%20Audit%20Report%20-%20DAO%20DAO%20Vesting%20and%20Payroll%20Factory%20v1.0.pdf
