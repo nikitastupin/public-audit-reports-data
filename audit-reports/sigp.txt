@@ -21,6 +21,8 @@ https://raw.githubusercontent.com/sigp/public-audits/master/reports/chainlink/ch
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/chainlink/lockbox/Sigma_Prime_CL_Lockbox_Security_Assessment_Report_v2_1.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/chainsafe/forest/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/chainsafe/gossamer/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/chainway/Sigma_Prime_Chainway_Citrea_Security_Assessment_Report_v2_2.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/chainway/Sigma_Prime_Chainway_Labs_Clementine_Security_Assessment_Report_v2_0.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/commitboost/Sigma_Prime_Commit_Boost_Client_Security_Assessment_Report_v2_0.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/dapper-wallet/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/derive/atomic/review.pdf

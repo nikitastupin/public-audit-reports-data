@@ -193,6 +193,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Penumbra%20-%20Zell
 https://raw.githubusercontent.com/Zellic/publications/master/Perennial%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Plaza%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Plaza%20Core%20Protocol%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Polygon%20Staking%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Polyhedra%20DVN%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Polyhedra%20zk%20light%20client%20on%20LayerZero%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Pontem%20Liquidswap%20-%20Zellic%20Audit%20Report.pdf
@@ -211,6 +212,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/RabbitX%20-%20Zelli
 https://raw.githubusercontent.com/Zellic/publications/master/RabbitX%20December%202024%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Radix%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Rainmaker%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Reclaim%20Protocol%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Reserve%20Throttle%20Wallet%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Revest%20Finance%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Revest%20Resonate%20Pt.%201%20-%20Zellic%20Audit%20Report.pdf
