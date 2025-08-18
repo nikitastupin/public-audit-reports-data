@@ -1,1 +1,5 @@
-{"message":"Not Found","documentation_url":"https://docs.github.com/rest","status":"404"}
+  "documentation_url": "https://docs.github.com/rest",
+  "message": "Not Found",
+  "status": "404"
+{
+}

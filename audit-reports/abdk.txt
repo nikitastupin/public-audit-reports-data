@@ -144,6 +144,9 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/starkware/ABDK_Sta
 https://raw.githubusercontent.com/abdk-consulting/audits/main/starkware/ABDK_Starkware_Perpetual_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/synchrocoin/Synchrocoin%20Smart%20Contract.%20Review.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/tats/TATS%20Smart%20Contract.%20Final%20Review.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/term_structure/ABDK_TermStructureLabs_TermMax_Phase1_v_1_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/term_structure/ABDK_TermStructureLabs_TermMax_Phase2_v_1_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/term_structure/ABDK_TermStructureLabs_TermMax_Phase3_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/term_structure/ABDK_TermStructure_Circom_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/term_structure/ABDK_TermStructure_Solidity_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/term_structure/ABDK_TermStructure_TSUpdate_v_1_0.pdf

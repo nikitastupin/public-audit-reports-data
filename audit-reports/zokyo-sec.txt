@@ -74,6 +74,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/IOTA/IOTA_Zokyo_a
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/IOTA/IOTA_Zokyo_audit_report_March22nd_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/IPOR/IPOR_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/IPOR/IPOR_Zokyo_audit_report.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Ikigai%20Studios%20Limited/Ikigai%20Studios%20Limited_Zokyo_audit_report_Aug11_2025.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Inertia%20Finance/Inertia_Finance_Zokyo_audit_report_April22_2025.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Inferium/Inferium_Zokyo_audit_report_Feb12nd_2025.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Isle%20Finance/Isle%20Finance_Zokyo_audit%20report_Oct_2024.pdf
@@ -162,6 +163,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/TokensFarm/Tokens
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Tradable/Tradable_Zokyo_audit_report_Sep4th_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Tren%20Finance/Tren%20Finance_Zokyo_audit_report_Nov19th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Trustswap/TrustSwap_Zokyo%20audit%20report.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/UWI/UWI_Zokyo_audit_report_Aug8th_2025.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Umami/Umami%20DAO_Zokyo_final%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Umami/Umami%20GLP%20Vaults_Zokyo_audit_report_19April_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Umami/UmamiDAO_Zokyo%20audit%20report.pdf

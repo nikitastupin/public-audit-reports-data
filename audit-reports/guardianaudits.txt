@@ -5,6 +5,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/Ambit/2023-12-06_Am
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Animecoin/2025-01-18_Anime_Claimer_1.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Animecoin/2025-01-18_Anime_Claimer_2.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Animecoin/2025-01-18_Anime_Claimer_3.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Aria/Aria%20IPRWA%20Report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/BaselineMarkets/2024-06-17_BaselineV2.1.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/BaselineMarkets/2024-06-17_BaselineV2.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/BaselineMarkets/2024-06-18_Baseline_Updates.pdf

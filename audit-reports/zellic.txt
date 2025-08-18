@@ -16,6 +16,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Astria%20Bridge%20-
 https://raw.githubusercontent.com/Zellic/publications/master/Astria%20Geth%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Astria%20Shared%20Sequencer%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Astria%20Shared%20Sequencer%20April%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Astria%20Shared%20Sequencer%20Oracle%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Astroport%20Pair%20XYK%20Sale%20Tax%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Asymmetry%20Finanace%20safETH%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/AtomOne%20-%20Zellic%20Audit%20Report.pdf
@@ -80,6 +81,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/DexFi%20-%20Zellic%
 https://raw.githubusercontent.com/Zellic/publications/master/DexFi%20Factory%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/DojoSwap%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Drift%20Protocol%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Echelon%20-%20Zellic%20Audit%20Report%20(January).pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Echelon%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Econia%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Empiric%20Oracle%20-%20Zellic%20Audit%20Report.pdf
@@ -176,6 +178,8 @@ https://raw.githubusercontent.com/Zellic/publications/master/Nimbora%20-%20Zelli
 https://raw.githubusercontent.com/Zellic/publications/master/Nocturne%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Nukem%20Loans%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Odos%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Odos%20Cross-Chain%20Contracts%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Odos%20Router%20V3%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Omni%20AVS%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Omni%20Network%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Omron%20-%20Zellic%20Audit%20Report.pdf
@@ -202,6 +206,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Prisma%20Finance%20
 https://raw.githubusercontent.com/Zellic/publications/master/Privy_Shamir_Secret_Sharing_-_Zellic_Audit_Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Proof%20of%20Data%20Possession%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Prosper%20Omnichain%20Fungible%20Token%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Pye%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Pyth%20Governance%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Pyth%20Lazer%20EVM%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Pyth%20Lazer%20Solana%20-%20Zellic%20Audit%20Report.pdf
@@ -235,6 +240,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Session%20Token%20-
 https://raw.githubusercontent.com/Zellic/publications/master/Silo%20Staking%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Single%20Pool%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Singularity%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/SoSoValue%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Socket%20Data%20Layer%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/SolBLS%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Spectral%20Modelers%20-%20Zellic%20Audit%20Report.pdf

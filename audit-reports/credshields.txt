@@ -84,6 +84,7 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/Tribally_Game
 https://raw.githubusercontent.com/Credshields/audit-reports/master/UniCoinX_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Uniscrow%20Final%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Vouch_Contract_Final_Audit_Report.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/Vouch_Token_and_Distribution_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/W3.labs_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Wahed%20Token%20Final%20Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Wasset_Final_Audit_Report.pdf
@@ -91,6 +92,7 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/Webapp%20Audi
 https://raw.githubusercontent.com/Credshields/audit-reports/master/ZHDCoin_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Zenland_SmartContract_Audit.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/ZetaSwap_Final_Audit-Report.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/Zodor_Staking_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Zoth_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/aUSD_SC_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/ePound_Final_Audit_Report.pdf

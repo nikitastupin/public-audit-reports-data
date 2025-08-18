@@ -1,6 +1,7 @@
 https://raw.githubusercontent.com/coinspect/publications/master/Aragon%20ANTv2%20Smart%20Contract%20Audit%20v201016.pdf
 https://raw.githubusercontent.com/coinspect/publications/master/Aragon%20Minters%20Smart%20Contract%20Audit%20v210121.pdf
 https://raw.githubusercontent.com/coinspect/publications/master/Aragon%20Protocol%20Smart%20Contract%20Audit%20v201113.pdf
+https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20%20Smart%20Contract%20Audit%20-%20Green%20Mint%20-%20Green%20Minting%20Token%20-%20v250813.pdf
 https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20Security%20Assessment%20-%20Magic%20Protocol%20Supplier%20Server%20v220906.pdf
 https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20Smart%20Contract%20Audit%20-%20Algofi%20Algo%20Vault.pdf
 https://raw.githubusercontent.com/coinspect/publications/master/Coinspect%20-%20Smart%20Contract%20Audit%20-%20Algorand%20Name%20Service%20v220602.pdf

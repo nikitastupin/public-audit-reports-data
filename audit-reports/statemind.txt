@@ -25,6 +25,7 @@ https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/
 https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2024-04-11_Lido_GateSeal_deployment_validation.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2024-09-12_Lido_Dual_Governance_2024.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2025-03-10_Lido_GateSeal_Deployment_2025.pdf
+https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2025-05-27_Dual_Governance_Script_Review_2025.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Mellow/2024-05-27_Mellow_LRT.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Mellow/2024-05-30_Mellow_LRT_Obol.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Mellow/2024-09-20_Mellow_Simple_LRT_Final_report.pdf
@@ -39,3 +40,4 @@ https://raw.githubusercontent.com/statemindio/public-audits/main/Vyper/2024-03-0
 https://raw.githubusercontent.com/statemindio/public-audits/main/Vyper/2024-05-23_Vyper_compiler_modules.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Yearn%20Finance/2022-07-08_Yearn_veYFI(Voting_and_RewardPool).pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Yearn%20Finance/2024-03-01_Yearn_V3.pdf
+https://raw.githubusercontent.com/statemindio/public-audits/main/Yield%20Basis/2025-02-24_Yield_Basis_core_2025.pdf
