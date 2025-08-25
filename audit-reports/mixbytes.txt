@@ -61,8 +61,8 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/EYWA/CLP/Eywa%20
 https://raw.githubusercontent.com/mixbytes/audits_public/master/EYWA/DAO/Eywa%20DAO%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Empower%20the%20DAO/Empower%20the%20DAO%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Enjoyoors/EVM%20Vaults/Enjoyoors%20EVM%20Vaults%20Security%20Audit%20Report.pdf
-https://raw.githubusercontent.com/mixbytes/audits_public/master/Enso%20Finance/Enso%20Wallet/Enso%20Wallet%20Security%20Audit%20Report.pdf
-https://raw.githubusercontent.com/mixbytes/audits_public/master/Enso%20Finance/Weiroll/Weiroll%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Enso/Enso%20Wallet/Enso%20Wallet%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Enso/Weiroll/Weiroll%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Euler/AccessControlKeyring/Euler%20AccessControlKeyring%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Euler/EVK%20Periphery/Euler%20EVK%20Periphery%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Euler/HookTargetStakeDelegator/Euler%20StakeDelegator%20Security%20Audit%20Report.pdf

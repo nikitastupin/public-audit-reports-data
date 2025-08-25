@@ -186,6 +186,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Persistence/20
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Phase/2023-04-13%20Audit%20Report%20-%20Phase%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Polkadot/2025-06-12%20Audit%20Report%20-%20Polkadot%20micro-sr25519%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Polkadot/2025-06-12%20Differential%20Fuzz%20Testing%20Report%20-%20Polkadot%20micro-sr25519%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Polkadot/2025-08-22%20Audit%20Report%20-%20Polkadot%20scure-sr25519%20v1.5.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Polytone/2023-06-05%20Audit%20Report%20-%20Polytone%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Prism/2022-01-20%20Audit%20Report%20-%20Prism%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Prism/2022-11-04%20Audit%20Report%20-%20Prism%20Auto%20Compounding%20cAsset%20v1.0.pdf

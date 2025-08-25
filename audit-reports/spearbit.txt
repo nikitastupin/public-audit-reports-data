@@ -96,6 +96,7 @@ https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Size-Spearbit-S
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Solady-Coinbase-Spearbit-Security-Review-December-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Sorella-Spearbit-Security-Review-October-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Sphinx-Spearbit-Security-Review.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Stackup-Spearbit-Security-Review-July-2025.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Sudoswap-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/SudoswapLSSVM2-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Tezos-Spearbit-Security-Review-June-2024.pdf

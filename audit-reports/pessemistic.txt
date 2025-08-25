@@ -92,6 +92,7 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/Lido%20Stonks%20Sec
 https://raw.githubusercontent.com/pessimistic-io/audits/main/LiquiFi%20Security%20Audit%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Locus%20Arbitrum%20Strategies%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Locus%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Lopswap%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/MakersPlace%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/MakersPlace%20Security%20Audit%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Mars%20Colony%20Liquidity%20Mining%20Security%20Analysis%20by%20Pessimistic.pdf
