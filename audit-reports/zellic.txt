@@ -169,6 +169,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Migration%20-%20Zel
 https://raw.githubusercontent.com/Zellic/publications/master/Mina%20Token%20Bridge%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Mina%20Token%20Bridge%20EVM%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Mitosis%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Mitosis%20Extensible%20Vaults%20-%20Zellic%20Audit%20Reports.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Mitosis%20Vault%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Molend%20Protocol%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Move%20and%20Sui%20Security%20Assessment%20-%20Zellic%20Audit%20Report.pdf
