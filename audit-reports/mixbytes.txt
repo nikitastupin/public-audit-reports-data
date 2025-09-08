@@ -33,6 +33,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/B-Cube/B-Cube%20
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Barter%20DAO/Barter%20DAO%20(diff%20v2)/Barter%20DAO%20Security%20Audit%20Report%20(diff%20v2).pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Barter%20DAO/Barter%20DAO%20(diff)/Barter%20DAO%20Security%20Audit%20Report%20(diff).pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Barter%20DAO/Barter%20DAO/Barter%20DAO%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Barter%20DAO/InchFusionBarterResolver/BarterDAO%20InchFusionBarterResolver%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Bebop/Bebop%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Bond%20Appetit/BondAppetit%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/C.R.E.A.M.%20Finance/Compound%20Protocol/Compound%20Protocol%20SCA.pdf

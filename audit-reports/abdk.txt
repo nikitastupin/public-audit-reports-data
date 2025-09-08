@@ -174,6 +174,7 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/voltz/ABDK_Voltz_V
 https://raw.githubusercontent.com/abdk-consulting/audits/main/vovo/ABDK_Vovo_VovoFinance_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/wallie/Wallie%20Smart%20Contract.%20Review.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/weiroll/ABDK_Weiroll_Weiroll_v_1_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/wheelx/ABDK_WheelX_WheelXContracts_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/wizcoin/WIZCoin%20Token%20Contract_%20Review.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/wwh/WWH%20Smart%20Contract.%20Review.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/xtoken/ABDK_xToken_Origination_v_1_0.pdf
