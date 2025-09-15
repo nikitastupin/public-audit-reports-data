@@ -29,6 +29,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Chainzoom/Chainzo
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Colend/Colend_Zokyo_audit_report_Jan7th_2025.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Copra/Copra_Zokyo_audit_report_July23th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/CreditSwap/Credit_Swap_Zokyo_audit_report_Dec22_2023_ed16f43d95.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/CryptoAutos/CryptoAutos_Zokyo_audit_report_Aug4th_2025.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Curra/Curra_Zokyo_audit_report_Jan4th_2024.pdf.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Cyber%20Finance/Cyber_Finance_Zokyo_audit_report_July25th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/DEFAI%20REWARDS%20&%20Boosty/DEFAI%20REWARDS%20&%20Boosty_Zokyo_audit_report_May6th_2025.pdf

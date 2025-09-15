@@ -11,6 +11,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/c++/blocksec_r
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/go/blocksec_aura_network_v1.0.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/go/blocksec_bitway_app-chain_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/go/blocksec_permaswap_v1.0_signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/mixed/blocksec_manta_fast_finality_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/mixed/blocksec_neox_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/mixed/blocksec_side_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec-octopus-vesting-v1.0_signed.pdf
@@ -63,6 +64,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_tknhomes_tkn_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_xp_network_v1.0.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_BedRock_BR-Token_v1.0-signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_CoboTokenization_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_aloe_1.1_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_alpaca_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_arken_v1.0-signed.pdf
@@ -89,6 +91,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/block
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_impossible_finance_swap_v1.2.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_latteswap_flat_v1.1.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_loansnap_baconcoin_v1.0.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_lotus_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_magefinance_v1.1-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_magpie_cakepie_latest-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_magpie_cakepie_v1.0-signed.pdf
@@ -100,8 +103,10 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/block
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_magpie_penpie_latest-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_magpie_penpie_v2.1-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_magpie_penpie_v2.3-signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_magpie_penpieautomkt_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_mancake_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_mancake_v1.1-signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_mantle_fiat24_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_mellow_vaults_v1.3-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_melos_dao_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_multichain_vemult_v1.0_signed.pdf
@@ -119,6 +124,8 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/block
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_puffer_pufETH_v1.1-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_puffer_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_pumpbtc_v1.1-signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_rabby_wallet_swap-router_v1.0_signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_radiant_glp_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_radiant_v2.0.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_radpie_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_ramdefi_v1.0-signed.pdf

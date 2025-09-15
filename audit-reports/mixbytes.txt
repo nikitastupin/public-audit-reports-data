@@ -102,6 +102,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Lido%20Prot
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/SanityChecker/Lido%20Sanity%20Checker%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Two-Phase%20Voting/Lido%20Two-Phase%20Voting%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Withdrawals%20Manager%20Stub/Lido%20Withdrawals%20Manager%20Stub%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/WstETH%20Staker/Lido%20WstETH%20Staker%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/WstETH/Lido%20WstETH%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/a.DI/Lido%20Delivery%20Infrastructure%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/stETH%20Price%20Feed/Lido%20stETH%20Price%20Feed%20Security%20Audit%20Report.pdf

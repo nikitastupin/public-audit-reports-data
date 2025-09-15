@@ -60,6 +60,9 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/Impermax/Impermax_C
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/InfinityLotto_Audit.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/K33Loans/2025-02-24_K33_Loans.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/KeyFinance/Key_Finance_Audit.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/M0/M0_M0_M-Extensions_report.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/M0/M0_M0_M-Portal-Lite_report.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/M0/M0_M0_mUSD_report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/MIMSwap/2024-03-21_MIMSwap.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/MUX/2025-02-06_MUX_Perps.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Magna/Magna_Magna_Staking_report.pdf

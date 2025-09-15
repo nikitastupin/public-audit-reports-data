@@ -13,6 +13,7 @@ https://raw.githubusercontent.com/sigp/public-audits/master/reports/api3-airnode
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/august/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/aurora/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/bartercard/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/berachain/Sigma_Prime_Berachain_Reth_Geth_Security_Assessment_Report_v2_0.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/bls-wallet/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/botanix/Sigma_Prime_Botanix_Macbeth_Security_Assessment_Report_v2_1.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/brava/report.pdf
@@ -108,6 +109,7 @@ https://raw.githubusercontent.com/sigp/public-audits/master/reports/sushi/sushi-
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/swell/barracuda/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/swell/swell-2/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/swell/swell/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/symbiotic/Sigma_Prime_Symbiotic_Relay_Contracts_Security_Assessment_Report_v2_0.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/synthetix/delegates/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/synthetix/ethercollateral/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/synthetix/multicurrency/review.pdf
