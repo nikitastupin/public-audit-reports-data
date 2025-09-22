@@ -5,7 +5,7 @@ https://raw.githubusercontent.com/informalsystems/audits/main/Anoma/2024-02-26%2
 https://raw.githubusercontent.com/informalsystems/audits/main/Anoma/2024-04-30%20Namada%20ABCI%2C%20Replay%20Protection%2C%20Fee%20And%20Gas%20Metering%20Final%20Report.pdf
 https://raw.githubusercontent.com/informalsystems/audits/main/Anoma/2024-08-16%20IBC%20and%20MASP%20integrations%20Final%20Report.pdf
 https://raw.githubusercontent.com/informalsystems/audits/main/Anoma/2024-12-11%20Namada%20Governance%20%26%20PGF.pdf
-https://raw.githubusercontent.com/informalsystems/audits/main/Anoma/Anoma Q3 2025 _ Token + Token Distributor Audit Report_Final_v2.pdf
+https://raw.githubusercontent.com/informalsystems/audits/main/Anoma/Anoma_Q3_2025-Token_%26_Token_Distributor_Audit_Report_Final_v3.pdf
 https://raw.githubusercontent.com/informalsystems/audits/main/Anoma/Namada%20Q2%202025_%20E2E%20Shielded%20Transaction%20%26%20Balance%20Consistency%20Audit%20Report_Final.pdf
 https://raw.githubusercontent.com/informalsystems/audits/main/Apex/Apex%20Q1%202025%20_%20Reactor%20%26%20Skyline%20Critical%20Path%20Audit%20Report_Final.pdf
 https://raw.githubusercontent.com/informalsystems/audits/main/Axelar/2023-08-04%20Audit%20Report%20-%20Axelar%20-%20axelarnet.pdf

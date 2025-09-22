@@ -135,6 +135,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Lido%20Finance
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Lido%20Finance/2022-05-16%20Audit%20Report%20-%20Lido%20Finance%20stATOM%20on%20Cosmos%20Hub%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Lum%20Network/2023-05-15%20Audit%20Report%20-%20Lum%20Millions%20Module%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/MANTRA/2024-10-30%20Audit%20Report%20-%20MANTRA%20Claimdrop%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/MANTRA/2025-09-19%20Audit%20Report%20-%20MANTRA%20Claimdrop%20Updates%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Magma%20Core/2024-12-04%20Audit%20Report%20-%20Magma%20Core%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Margined%20Protocol/2022-10-28%20Audit%20Report%20-%20Margined%20Protocol%20Perpetuals%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Margined%20Protocol/2023-10-25%20Audit%20Report%20-%20Margined%20Power%20v1.0.pdf
@@ -234,7 +235,11 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Streamswap/202
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Stride/2022-09-26%20Audit%20Report%20-%20Stride%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Stride/2023-08-20%20Audit%20Report%20-%20Stride%20ICA%20Oracle%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Structured/2025-06-12%20Audit%20Report%20-%20Structured%20Private%20Deposit%20Smart%20Contract%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Structured/2025-09-19%20Audit%20Report%20-%20Structured%20Private%20Deposit%20Minter%20and%20Oracle%20Contracts%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Suberra/2022-03-17%20Audit%20Report%20-%20Suberra%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Syndicate/2025-09-09%20Audit%20Report%20-%20Syndicate%20Stage%201A.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Syndicate/2025-09-09%20Audit%20Report%20-%20Syndicate%20Stage%201C%20(Milestone%201).pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Syndicate/2025-09-09%20Audit%20Report%20-%20Syndicate%20Stage%201C%20(Milestone%202).pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/THORChain/2024-12-16%20Audit%20Report%20-%20Validator-scheduled%20Standard%20Cosmos%20Hard%20Fork%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/TeFi/2022-01-14%20Audit%20Report%20-%20TeFi%20Oracle%20Contracts%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Terra%20Liquidity%20Bootstrapping%20Pool/2021-12-23%20Audit%20Report%20-%20Terra%20Liquidity%20Bootstrapping%20Pool%20v1.0.pdf

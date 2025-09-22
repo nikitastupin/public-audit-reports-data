@@ -94,6 +94,7 @@ https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Royco-Spearbit-
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Satsbridge-frontend-Spearbit-Security-Review-January-2025.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Seadrop-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Seaport-Spearbit-Security-Review.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Semantic-Layer-Spearbit-Security-Review-May-2025.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Sense-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Size-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Solady-Coinbase-Spearbit-Security-Review-December-2024.pdf

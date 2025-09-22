@@ -80,6 +80,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Hanji/Liquidity%
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Hanji/OnchainCLOB/Hanji%20Protocol%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Instadapp/Fluid%20DEX/Instadapp%20Fluid%20DEX%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Instadapp/Fluid/Instadapp%20Fluid%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Instadapp/Jupiter%20Lend%20Vaults/Jupiter%20Lend%20Vaults%20on%20Solana%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Iron%20Bank/IronBank%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Keep3r.Network/Staking%20Rewards/keep3r%20Staking%20Rewards%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Keep3r.Network/Sunset/Keep3r%20Sunset%20Security%20Audit%20Report.pdf
@@ -94,6 +95,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Aragon%20Vo
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/CSM/Lido%20CSM%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Deposit%20Security%20Module/Lido%20Deposit%20Security%20Module%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Easy%20Track%20(2)/Lido%20EasyTrack%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Easy%20Track%20(3)/Lido%20Easy%20Track%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Easy%20Track/Lido%20Easy%20Track%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/In-protocol%20Coverage/Lido%20In-protocol%20%20Coverage%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Lido%20KSM/LIDO%20KSM%20Security%20Audit%20Report.pdf
@@ -126,7 +128,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/ETH%20Al
 https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/ETH2%20Depositor%20&%20ETH%20Staking%20Fee%20Distributor%20(v.1)/P2P.org_ETH2%20Depositor%20&%20ETH%20Staking%20Fee%20Distributor%20Smart%20Contracts%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/ETH2%20Depositor%20&%20ETH%20Staking%20Fee%20Distributor%20(v.2)/ETH2%20Depositor%20&%20ETH%20Staking%20Fee%20Distributor%20Security%20Audit%20Report%20(v.2).pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/Lending%20Proxy/P2P.org%20Lending%20Proxy%20Security%20Audit%20Report.pdf
-https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/SSV%20Integration%20Diff%20Audit%20(v1)/P2P.org%20SSV%20Integration%20Diff%20Audit%20(v1).pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/SSV%20Integration%20Diff%20Audit%20(v1)/P2P.org%20SSV%20Integration%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/SSV%20Integration/P2P.org%20SSV%20Integration%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/Staking%20Fee%20Distributor%20Diff%20Audit%20(v1)/P2P.org%20Staking%20Fee%20Depositor%20Diff%20Audit%20(v1).pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/Staking%20Lending%20Proxy%20(2)/P2P.org%20Staking%20Lending%20Proxy%20Security%20Audit%20Report.pdf

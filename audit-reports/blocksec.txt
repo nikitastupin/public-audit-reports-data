@@ -137,6 +137,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/block
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_staketogether_v1.1-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_stnd_v1.7_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_tentou_mimboku_v1.0-signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_upheaval_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_wencore_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_whale_loan_v1.4.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_windranger_v1.2_signed.pdf

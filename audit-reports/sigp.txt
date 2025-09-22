@@ -70,6 +70,7 @@ https://raw.githubusercontent.com/sigp/public-audits/master/reports/lido/lido-dc
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/lido/lido-easy-track/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/lido/lido/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/linkpool/linkpool-2/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/makina/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/mantle/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/membrane-finance/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/near/Sigma_Prime_Burrow_Finance_Burrowland_Security_Assessment_Report_v2_0.pdf
@@ -77,13 +78,18 @@ https://raw.githubusercontent.com/sigp/public-audits/master/reports/near/Sigma_P
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/near/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/omni-network/Sigma%20Prime%20-%20Omni%20-%20AVS%20And%20Token%20-%20Security%20Assessment%20Report%20-%20v2.1.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/omni-network/Sigma%20Prime%20-%20Omni%20Network%20-%20Omni%20Portal%20-%20Security%20Assessment%20Report%20-%20v2.1.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/omni-network/Sigma_Prime_Omni_EVM_Redenom_Security_Assessment_Report_v2_0.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/omni-network/Sigma_Prime_Omni_Network_Omni_Chain_2_Security_Assessment_Report_v2_1.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/omni-network/Sigma_Prime_Omni_Nomina_Bridge_Contracts_Security_Assessment_Report_v2_1.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/omni-network/Sigma_Prime_Omni_Nomina_ERC20_Security_Assessment_Report_v2_0.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/omni-network/Sigma_Prime_Omni_SolverNet_Security_Assessment_Report_v2_0.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/omni-network/Sigma_Prime_Omni_Token_Upgrade_Frontend_Security_Assessment_Report_v2_0.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/omni-network/Sigma_Prime_Omni_rlUSD_Brdige_Security_Assessment_Report_v2_0.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/open-grants/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/optimism/optimism-bedrock/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/polygon/Sigma%20Prime%20-%20Polygon%20-%20PolToken%20-%20Security%20Assessment%20Report%20-%20v2.0.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/polygon/Sigma_Prime_Polygon_LXLY_Bridge_Security_Assessment_Report_v2_1.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/protocol-guild/Sigma_Prime_Protocol_Guild_Agora_Token_Security_Assessment_Report_v2_1.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/recall/Sigma_Prime_Recall_Staking_Security_Assessment_Report_v2_0.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/recall/Sigma_Prime_recall_labs_recall_Security_Assessment_Report_v2_2.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/renzo/review.pdf

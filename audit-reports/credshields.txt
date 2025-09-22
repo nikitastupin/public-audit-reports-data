@@ -80,6 +80,7 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/StationX_Clai
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Styleo%20Coin%20Final%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/TRICE_SC-Audit.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/TUNToken_Final_Audit_Report.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/Tarmiiz_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Tor_Token_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Tribal_Token_Final_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Tribally_Games_Final_Report.pdf
