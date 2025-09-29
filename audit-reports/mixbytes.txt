@@ -119,6 +119,8 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Mellow%20Finance
 https://raw.githubusercontent.com/mixbytes/audits_public/master/MetaLeX/Borg/Metalex%20Borg%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/MetaLeX/LeXscrow/Metalex%20Lexscrow%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/MetaLeX/MetaVesT/MetaLeX%20MetaVesT%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/NUTS%20Finance/Pike/NUTS%20Pike%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/NUTS%20Finance/Tapio/NUTS%20Tapio%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Napier%20Finance/Napier%20Pool/Napier%20Pool%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Napier%20Finance/Napier%20v1/Napier%20v1%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/NuCypher/NuCypher%20PoolingStakingContractV2%20Security%20Audit%20Report.pdf

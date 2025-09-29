@@ -77,6 +77,7 @@ https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Optimism-Spearb
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Optimism-Spearbit-Security-Review-May-2025.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Optimism-Upgrade-15a-Spearbit-Security-Review-April-2025.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Optimism-Upgrade13-Spearbit-Security-Review-January-2025.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Optimism-Verify-Upgrade16-Spearbit-Security-Review-September-2025.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/OptimismDrippie-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/OptimismInterop-Spearbit-Security-Review-February-2025.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Overlay-Spearbit-Security-Review.pdf
@@ -101,6 +102,7 @@ https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Solady-Coinbase
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Sorella-Spearbit-Security-Review-October-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Sphinx-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Stackup-Spearbit-Security-Review-July-2025.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Steakhouse-App-Web2-Spearbit-Security-Review-September-2025.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Sudoswap-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/SudoswapLSSVM2-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Tezos-Spearbit-Security-Review-June-2024.pdf
