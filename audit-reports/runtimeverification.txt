@@ -75,6 +75,7 @@ https://raw.githubusercontent.com/runtimeverification/publications/main/reports/
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Tinyman-security-review.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Tinyman.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/TokenOps.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Token_Wrap.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Tracer-Perpetual-Pools-V2.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Uniswap-V1.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/WorldMobileGroup.pdf

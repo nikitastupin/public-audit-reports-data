@@ -78,6 +78,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/DAO%20DAO/2024
 https://raw.githubusercontent.com/oak-security/audit-reports/main/DAO%20DAO/2024-11-07%20Audit%20Report%20-%20DAO%20DAO%20Rewards%20Distributor%2C%20x_onft%20Staked%20Voting%2C%20BitSong%20FanToken%20Factory%2C%20Permission%20Granularity%20v1.2.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Dapper%20Labs/Audit%20Report%20-%20Hybrid%20Custody%20Smart%20Contracts.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Dexter/2023-03-15%20Audit%20Report%20-%20Dexter%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Dither/2025-09-23%20Audit%20Report%20-%20Dither%20Service.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Dock/Audit%20Report%20-%20Dock%20Wallet.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/DoraFactory/2024-06-13%20Audit%20Report%20-%20Dora%20Vota%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/DoraFactory/2024-09-23%20Audit%20Report%20-%20Dora%20Vota%20Migration%20Contract%20v1.0.pdf

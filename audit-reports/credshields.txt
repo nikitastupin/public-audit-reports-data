@@ -46,6 +46,7 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/JayPeggers%20
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Juno_AWS_Audit_final.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/JustFarming_Final_audit_report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Kaku_SmartContract_Final_Report.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/Klink_Token_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Kresus_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/LERNToken_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Lara_Liquid_Staking_Final_Audit_Report.pdf
