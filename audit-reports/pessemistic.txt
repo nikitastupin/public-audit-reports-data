@@ -31,6 +31,7 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/Bebop%20Security%20
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Blockchain%20Testament%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Brydge%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/CPOOL%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/CYBRO%20LPManager%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/CYBRO%20One%20Click%20Lending%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/CYBRO%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/CYBRO%20Staking%20Security%20Analysis%20by%20Pessimistic.pdf
@@ -40,6 +41,7 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/Cheelee%20Security%
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Choise%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Choise%20Token%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/CryptoLegacy%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Cybro%20LidoVault%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/DeFi%20Plaza%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/DeFiPie%20Security%20Audit%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/DeFireX%20Security%20Audit%20by%20Pessimistic%20Public.pdf

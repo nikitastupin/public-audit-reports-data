@@ -37,6 +37,7 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/Final%20Repor
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Fomodotbiz_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/FoundersLabFinalReport.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Fun_Token_Final_Audit_Report.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/Fun_Token_Final_Audit_Report_2.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/HealthCareDatabase_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Hemi_Labs_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/HoldPlatform_Final_Audit_Report.pdf
@@ -56,6 +57,7 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/LogX_Token_Fi
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Lottery_Contracts_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Lync%20Final%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Manadotwin_Final_Audit_Report.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/Mandala_Presale_2_Final_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Moby_Smart_Contract_Final_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Mushi_V2_0_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Noft%20Game%20Audit%20Report.pdf

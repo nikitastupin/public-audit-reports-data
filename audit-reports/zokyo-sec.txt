@@ -85,6 +85,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/KBT%20token/KBT%2
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/KIP/KIP_Zokyo_audit_report_May7th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/LYOPAY/LYOPAY_Zokyo_audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Lab/LAB_Zokyo_audit_report_Sep5th_2025.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Lab/Lab_Zokyo_audit_report_Oct6th_2025.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/LayerK_folder_Audit/LayerK_Zokyo_audit_report_June13th_2025.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/LayerK_folder_Audit/LayerK_Zokyo_audit_report_Nov8th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/LayerZero/LayerZero%20audit%20report.pdf

@@ -8,6 +8,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/All%20in%20Bits%20-
 https://raw.githubusercontent.com/Zellic/publications/master/Ante%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Anza%20BPF%20Stake%20Program%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Anza%20Solana%20BPF%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Anza%20Token%20Wrap%20-Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Anzen%20Finance%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Anzen%20and%20protocol-v2%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Aori%200.3.1%20Upgrade%20-%20Zellic%20Audit%20Report.pdf
@@ -36,6 +37,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Bebop%20-%20Zellic%
 https://raw.githubusercontent.com/Zellic/publications/master/Beefy%20BIFI%20Token%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Beefy%20UniswapV3%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Beefy%20Wrapper%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Benqi%20Oracle%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Berachain%20Airdrop%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Biconomy%20Account%20Recovery%20Module%20-%20Zellic%20Audit%20Report-II.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Biconomy%20Account%20Recovery%20Module%20-%20Zellic%20Audit%20Report.pdf
@@ -137,6 +139,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/InfiniCard%20Vault%
 https://raw.githubusercontent.com/Zellic/publications/master/Initia%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Ionic%20Protocol%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Jarvis%20Network%20Synthereum%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/LZ%20OApp%20OFT%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Laminar%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20Core%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20Core%20Audit%20(June%203rd%202022)%20-%20Zellic%20Audit%20Report.pdf
@@ -178,6 +181,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/MightyNetERC1155Cla
 https://raw.githubusercontent.com/Zellic/publications/master/Migration%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Mina%20Token%20Bridge%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Mina%20Token%20Bridge%20EVM%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Mitosis%20(May)%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Mitosis%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Mitosis%20Extensible%20Vaults%20-%20Zellic%20Audit%20Reports.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Mitosis%20Vault%20-%20Zellic%20Audit%20Report.pdf

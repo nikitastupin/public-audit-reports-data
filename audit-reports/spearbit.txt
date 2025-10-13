@@ -61,6 +61,7 @@ https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/LooksRare-Spear
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/MapleV2.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Matter-Labs-Spearbit-Security-Review-March-2025.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Matter-labs-snark-wrapper-Spearbit-Security-Review.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Monad-Spearbit-Security-Review-September-2025.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Morpho-Av3-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Morpho-Spearbit-Security-Review-December-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Morpho-Spearbit-Security-Review-October-2024.pdf
