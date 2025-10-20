@@ -77,6 +77,7 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/lemmalabs/ABDK_Lem
 https://raw.githubusercontent.com/abdk-consulting/audits/main/limitless/ABDK_Limitless_ProtocolV1_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/livetree/LiveTree%20Contract_%20Review.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/lossless/ABDK_Lossless_Solidity_v_2_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/lumis/ABDK_Lumis_LumisContracts_v_1_1.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/makerdao/ABDK_MakerDAO_Crop_Solidity.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/makerdao/ABDK_MakerDAO_Vote_Delegate_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/makerdao/ABDK_Maker_Univ2LpOracle.pdf

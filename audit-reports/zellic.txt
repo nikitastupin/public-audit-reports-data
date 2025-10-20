@@ -139,6 +139,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/InfiniCard%20Vault%
 https://raw.githubusercontent.com/Zellic/publications/master/Initia%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Ionic%20Protocol%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Jarvis%20Network%20Synthereum%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/LPTxLPT%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LZ%20OApp%20OFT%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Laminar%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20Core%20-%20Zellic%20Audit%20Report.pdf
@@ -296,6 +297,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/THORChain%20Bifrost
 https://raw.githubusercontent.com/Zellic/publications/master/Takara%20Lend%20Contracts%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Thala%20Labs%20Move%20Dollar%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Tortuga%20Liquid%20Staking%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Tradoor%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Trillion%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Trillion%20EVM%20cross%20chain%20contract%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Tristero%20-%20Zellic%20Audit%20Report.pdf
@@ -313,6 +315,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Wasabi%20-%20Zellic
 https://raw.githubusercontent.com/Zellic/publications/master/Wasabi%20Perps%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Wormhole%20Aptos%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Wormhole%20MultiGov%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Wrapped%20Staked%20TAO%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Xion%20Passkeys%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Y2K%20Finance%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Yeet%20-%20Zellic%20Audit%20Report.pdf

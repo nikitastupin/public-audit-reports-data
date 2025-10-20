@@ -67,6 +67,8 @@ https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Morpho-Spearbit
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Morpho-Spearbit-Security-Review-October-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Morpho-Spearbit-Security-Review-September-2025.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Morpho-Spearbit-Security-Review.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Morpho-Vaults-v2-Spearbit-Security-Review-May-2025.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Morpho-Vaults-v2-fixes-Spearbit-Security-Review-August-2025.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/MorphoV1-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Neutrl-Spearbit-Security-Review-July-2025.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Nouns-Spearbit-Security-Review.pdf

@@ -98,6 +98,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Easy%20Trac
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Easy%20Track%20(3)/Lido%20Easy%20Track%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Easy%20Track/Lido%20Easy%20Track%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/In-protocol%20Coverage/Lido%20In-protocol%20%20Coverage%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Lido%20EasyTrack%20CSM%20v2/Lido%20Easy%20Track%20CSM%20v2%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Lido%20KSM/LIDO%20KSM%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Lido%20Oracle/Lido%20Oracle%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Lido%20Protocol/Lido%20Protocol%20Security%20Audit%20Report.pdf

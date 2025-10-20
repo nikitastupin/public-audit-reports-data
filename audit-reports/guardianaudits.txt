@@ -25,6 +25,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/DN404/2024-05-13_DN
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Dolomite/2024-01-11_Dolomite.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Ethena/2025-05-26_Ethena_TimelockController.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Ethereal/2025-02-10_Ethereal_Vault.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Ethereal/2025-05-20_Ethereal_OrderbookDex.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Foil/2024-10-28_Foil.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Foil/2025-01-13_Foil_Updates.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Foil/2025-01-13_Foil_Vault.pdf

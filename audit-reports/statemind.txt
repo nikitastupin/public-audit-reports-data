@@ -26,6 +26,8 @@ https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/
 https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2024-09-12_Lido_Dual_Governance_2024.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2025-03-10_Lido_GateSeal_Deployment_2025.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2025-05-27_Dual_Governance_Script_Review_2025.pdf
+https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2025-08-19_Lido_Dual_Governance_Upgrade_deployment.pdf
+https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2025-09-19_Lido_TW_and_CSM_V2_final_report_upd.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Mellow/2024-05-27_Mellow_LRT.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Mellow/2024-05-30_Mellow_LRT_Obol.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Mellow/2024-09-20_Mellow_Simple_LRT_Final_report.pdf
