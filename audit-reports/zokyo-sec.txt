@@ -78,6 +78,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/IOTA/IOTA_Zokyo_a
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/IPOR/IPOR_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/IPOR/IPOR_Zokyo_audit_report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Ikigai%20Studios%20Limited/Ikigai%20Studios%20Limited_Zokyo_audit_report_Aug11_2025.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Ikigai%20Studios%20Limited/Ikigai_Studios_Limited_audit_report_Oct15_2025.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Inertia%20Finance/Inertia_Finance_Zokyo_audit_report_April22_2025.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Inferium/Inferium_Zokyo_audit_report_Feb12nd_2025.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Isle%20Finance/Isle%20Finance_Zokyo_audit%20report_Oct_2024.pdf
@@ -132,6 +133,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/RAILGUN/Railgun_Z
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Radiant/Radiant%20Capital%20audit%20report_06_March.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Raiinmaker/Raiinmaker_Zokyo_audit_report_May13th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Realize/Realize_Zokyo_audit_report_Nov13_2024.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Rho%20Labs/Rho_Labs_Zokyo_audit_report_Sep23rd_2025.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Rollie/Rollie_Zokyo_audit_report_April16th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/SIVIRA/SIVIRA_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/STFIL/STFIL_Zokyo_audit_report_28th_Aug_2023.pdf

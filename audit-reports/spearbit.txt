@@ -9,6 +9,7 @@ https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Axiom-contracts
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Balancer-Spearbit-Security-Review-September-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Base-Spearbit-Security-Review-August-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Beethoven-Sonic-Staking-Spearbit-Security-Review-December-2024.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Beets-Looped-Sonic-Spearbit-Security-Review-September-2025.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Berachain-Beacon-kit-Spearbit-Security-Review-November-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Berachain-Beacon-kit-Spearbit-Security-Review-October-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Berachain-Bex-Spearbit-Security-Review-September-2024.pdf
@@ -34,6 +35,7 @@ https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Delv-Spearbit-S
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Delv-Spearbit-Security-Review-June-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Delv-Spearbit-Security-Review-March-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Eigenlayer-Spearbit-vCISO-February-2025.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Etherex-Contracts-Spearbit-Security-Review-August-2025.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Euler-Spearbit-Security-Review-EVC-April-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Euler-Spearbit-Security-Review-EVK-April-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Euler-Spearbit-Security-Review-October-2024.pdf
@@ -45,6 +47,7 @@ https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Huma-2024-Spear
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/InfiniFi-Spearbit-Security-Review-March-2025.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Infrared-Spearbit-Security-Review-January-2025.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Kinetiq-Spearbit-Security-Review-March-2025.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Kyber-Hook-Uniswap-Foundation-Spearbit-Security-Review-October-2025.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/LIFI-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/LIFI-retainer1-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/LiquidCollective-Spearbit-Security-Review.pdf
@@ -109,6 +112,7 @@ https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Stackup-Spearbi
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Steakhouse-App-Web2-Spearbit-Security-Review-September-2025.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Sudoswap-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/SudoswapLSSVM2-Spearbit-Security-Review.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Superform-v2-periphery-Spearbit-Security-Review-June-2025.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Tezos-Spearbit-Security-Review-June-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Tezos-Spearbit-Security-Review-September-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Thala-Spearbit-vCISO-December-2024.pdf

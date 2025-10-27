@@ -37,3 +37,4 @@ https://raw.githubusercontent.com/informalsystems/audits/main/Osmosis/2023-30-10
 https://raw.githubusercontent.com/informalsystems/audits/main/Ripple/2025-03-25%20XRPL%20EVM%20Sidechain.pdf
 https://raw.githubusercontent.com/informalsystems/audits/main/Skip/2023-04-11%20Audit%20Report%20-%20Skip%20Mev%20Tendermint.pdf
 https://raw.githubusercontent.com/informalsystems/audits/main/Stride/2022-11-30%20Audit%20Report%20-%20Stride%20StakeIBC%20ICACallbacks.pdf
+https://raw.githubusercontent.com/informalsystems/audits/main/dYdX/dydx_Q3_2025_-_Proposer_Selection_Updates_Audit_Report_Final.pdf

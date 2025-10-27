@@ -88,6 +88,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/Reliquary/Reliquary
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/RestFinance/2024-01-26_Rest_Finance.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Sentiment/2025-08-05_SentimentV2.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Smardex/12-18-2024_Smardex_USDN.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Strata/Strata_Tranches_report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Synthetix/2024-04-18_Synthetix_BFP_Market.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Synthetix/2024-10-28_Synthetix_Perps_V3.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Synthetix/2024-12-29_Synthetix_TLX_Conversion.pdf
