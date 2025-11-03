@@ -58,6 +58,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Bond%20Protocol%20-
 https://raw.githubusercontent.com/Zellic/publications/master/Bracket%20Fi%20Escrow%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/BrahmaFi%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Brevis%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Carina%20Smart%20Contracts%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Cega%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Cega%20Vault%20Smart%20Contract%20Patch%20Review.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Celestia%20Packet%20Forward%20Middleware%20-%20Zellic%20Audit%20Report.pdf

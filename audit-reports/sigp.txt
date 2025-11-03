@@ -36,6 +36,7 @@ https://raw.githubusercontent.com/sigp/public-audits/master/reports/dimo/review.
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/dxdao/carrot-kpi/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/dxdao/erc20-guild/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/eigenlayer/Sigma_Prime_EigenLabs_EigenLayer_EIGEN_Rewards_Security_Assessment_Report_v2.0.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/eigenlayer/Sigma_Prime_EigenLayer_DA_Secure_Integration_Security_Assessment_Report_v2_0.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/eigenlayer/Sigma_Prime_EigenLayer_EigenDA_Proxy_Security_Assessment_Report_v2_0.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/eigenlayer/Sigma_Prime_Eigen_Labs_EigenLayer_Checkpoint_Proofs_Security_Assessment_Report_v2.0.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/eigenlayer/Sigma_Prime_Eigen_Labs_EigenLayer_Rewards_Coordinator_Security_Assessment_Report_v1.1.pdf

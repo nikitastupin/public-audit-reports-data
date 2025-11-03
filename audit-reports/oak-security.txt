@@ -186,6 +186,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Osmosis%20Labs
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Osmosis%20Labs/2024-07-03%20Audit%20Report%20-%20Osmosis%20Smart%20Accounts%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Out/2024-09-24%20Audit%20Report%20-%20Out%20GCC.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Out/Audit%20Report%20-%20Out.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Paxi/2025-11-01%20Audit%20Report%20-%20Paxi%20Network.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Persistence/2022-01-20%20Audit%20Report%20-%20Persistence%20Bridge%20-%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Persistence/2023-02-17%20Audit%20Report%20-%20pSTAKE%20Native%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Persistence/2024-01-26%20Audit%20Report%20-%20pSTAKE%20Native%20Auto-Compounding%20and%20Rebalancing%20v1.0.pdf
