@@ -80,6 +80,8 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/Orderly/2024-07-01_
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Orderly/2024-07-01_Orderly_Omnichain.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Orderly/2025-02-24_Orderly_Vault.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Orderly/2025-03-21_Orderly_Solana_Staking.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Orderly/Orderly_Solana_Vault_Review_report.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Orderly/Orderly_Updates_Review_report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/PariFi/09-03-2023-PariFi.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/PariFi/2024-01-24_PariFi.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Peapods/2024-11-11_Peapods.pdf
@@ -103,6 +105,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/USDT0/2025-02-14_US
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/USDT0/2025-03-21_USDT0_OneSig.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/USDT0/2025-05-09_USDT0_HyperEVM.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/USDT0/USDT0_OFT.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/USDT0/USDT0_XAUT0_SOL_Deployment_and_Peer_Verification_report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/USDT0/USDT_Arbitrum_Upgrade.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/UltiBets/UltiBets_Audit_1.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/UltiBets/UltiBets_Audit_2.pdf

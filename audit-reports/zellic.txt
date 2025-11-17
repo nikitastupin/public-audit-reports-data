@@ -7,6 +7,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Alkimiya%20-%20Zell
 https://raw.githubusercontent.com/Zellic/publications/master/All%20in%20Bits%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Ante%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Anza%20BPF%20Stake%20Program%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Anza%20P%20Token%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Anza%20Solana%20BPF%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Anza%20Token%20Wrap%20-Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Anzen%20Finance%20-%20Zellic%20Audit%20Report.pdf
@@ -39,6 +40,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Beefy%20UniswapV3%2
 https://raw.githubusercontent.com/Zellic/publications/master/Beefy%20Wrapper%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Benqi%20Oracle%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Berachain%20Airdrop%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Berachain%20BEND%20v2%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Biconomy%20Account%20Recovery%20Module%20-%20Zellic%20Audit%20Report-II.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Biconomy%20Account%20Recovery%20Module%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Biconomy%20Batched%20Session%20Router%20Module%20-%20Zellic%20Audit%20Report.pdf
@@ -146,6 +148,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Laminar%20-%20Zelli
 https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20Core%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20Core%20Audit%20(June%203rd%202022)%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20DVN%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20EigenLayer%20DVN%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20Endpoint%20V2%20(VerifierNetwork)%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20Endpoint%20V2%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20OApp%20%26%20OFT%20-%20Zellic%20Audit%20Report.pdf
@@ -278,6 +281,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/SpiceFi%20Vaults%20
 https://raw.githubusercontent.com/Zellic/publications/master/SpiceFiNFT4626%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/SpringSui%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/StaFi%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Stable%20Predeposit%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/StakeKit%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/StakeKit%20FeeWrapper%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Steer%20-%20Zellic%20Audit%20Report.pdf
