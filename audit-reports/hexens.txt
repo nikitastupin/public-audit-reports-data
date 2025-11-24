@@ -61,6 +61,7 @@ https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/ma
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/avacloud-circuits-audit-apr25(Final).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/avacloud-etrapay-audit-jan25(Final).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/cLabs_June23(Public)%20(Governance%20Protocol)_v2.pdf
+https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/chaos-bgd-labs-edge-apr-25(Final).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/deq.fi-audit-may24(Public).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/eigenlayer-apr-25(Final).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/fuel-audit-pre-deposit-contract-june-24(Public).pdf
@@ -73,6 +74,7 @@ https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/ma
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/glif-audit-july-2024(Public)%202_.pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/glif-audit-july-2024(Public).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/holonym-zk-audit-may-2024(Public).pdf
+https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/infura-din-oct-25(Final).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/layerzero-zro-claim-contract-june-2024(Public)%20(c1101c1).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/logarithm-labs-metavault-jul-25(Final).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/mantle-cmeth-audit-aug-2024(Public).pdf
@@ -102,6 +104,7 @@ https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/ma
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/valantis-mar-25(Final).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/valantis-may-25(Final).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/valora-audit-june24(Public).pdf
+https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/yelay-oct-25(Final).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/zealous-may-25(Final).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/zealous-may-25(Final)_upd.pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/zharta-oct-25(Final).pdf

@@ -262,11 +262,14 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Unipay/2025-04
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Valdora/2025-09-28%20Audit%20Report%20-%20Valdora.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Vectis/2024-03-14%20Audit%20Report%20-%20Vectis%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Volta/2024-09-18%20Audit%20Report%20-%20Volta%20CosmWasm%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Volta/2025-11-19%20Audit%20Report%20-%20Volta%20Soroban.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/WhiteWhale/Audit%20Report%20-%20White%20Whale.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Wormhole/2023-07-06%20Audit%20Report%20-%20Wormhole%20Token%20Translator%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Yieldmos/2024-05-17%20Audit%20Report%20-%20Yieldmos%20Outposts%20Osmosis%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/ZIGChain/2025-08-25%20Audit%20Report%20-%20ZIGChain.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/ZIGChain/2025-11-11%20Audit%20Report%20-%20ZIGChain%20Reward%20Contract.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Zeitgeist/2025-01-02%20Audit%20Report%20-%20Zeitgeist%20Combinatorial%20Betting%20and%20Futarchy%20Security%20Audit%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Zephyrus/2025-11-11%20Audit%20Report%20-%20Zephyrus%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Zodiac%20Protocol/2024-01-02%20Audit%20Report%20-%20Zodiac%20Protocol%20Core%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Zodiac%20Protocol/2024-03-18%20Audit%20Report%20-%20Zodiac%20Protocol%20Periphery%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Zodiac%20Protocol/2024-03-22%20Audit%20Report%20-%20Zodiac%20Protocol%20Core%20Extension%20v1.0.pdf

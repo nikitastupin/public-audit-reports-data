@@ -73,6 +73,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Euler/Reward-Str
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Fantium/Fantium%20v2/Fantium%20v2%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Fantium/Fantium/Fantium%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/FireBTC/FBTC/FireBTC%20FBTC%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protocol/Gearbox%20InfiniFi%20Integration/Gearbox%20InfiniFi%20Integration%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protocol/Gearbox%20Midas%20Integration/Gearbox%20Midas%20Integration%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protocol/Gearbox%20Protocol%20v.1/Gearbox%20Protocol%20v.1%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protocol/Gearbox%20Protocol%20v.3%20Bots%20&%20Integrations/Gearbox%20Protocol%20v.3%20Bots%20&%20Integrations%20Audit%20Report.pdf
@@ -118,6 +119,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Liquorice/Liquor
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Mantle%20Network/FBTC%20Timelock/Mantle%20Network%20fBTC%20Timelock%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Mantle%20Network/METH/Mantle%20Network%20METH%20Secuity%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Mantle%20Network/cMETH/Mantle%20cMETH%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Mantle%20Network/mETH%20x%20Aave%20Integration/Mantle%20mETH%20x%20Aave%20Integration%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Mellow%20Finance/Mellow%20Finance%20SCA.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Mellow%20Finance/Simple-LRT%20Vault/Mellow%20Finance%20Simple-LRT%20Vault%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/MetaLeX/Borg/Metalex%20Borg%20Security%20Audit%20Report.pdf

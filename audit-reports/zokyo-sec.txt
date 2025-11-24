@@ -186,6 +186,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Vaultka/Vaultka_Z
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Vaultka/Vaultka_Zokyo_audit_report_July25th_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Velocore/Velocore_Zokyo_audit_report_Aug14_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/WELF/WELF_Zokyo_audit_report_Dec4th_2024.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/WINS/WINS_Zokyo_audit_report_Nov10_2025.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Wavefront/Wavefront_Zokyo_audit_report_April19_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Whales%20Money/Whales_Money_Zokyo_audit_report_Feb17th_2025.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Wisdomise/Wisdomise_Zokyo_audit%20report_Feb27th_2024.pdf

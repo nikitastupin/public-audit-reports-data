@@ -71,6 +71,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Chainflip%20Solana%
 https://raw.githubusercontent.com/Zellic/publications/master/Chateau%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Chirp%20Network%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Circuit%20DAO%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Cloak%20V1%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Concrete%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Core%20and%20Periphery%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Cosmos%20SDK%20Liquid%20Stake%20Module%20-%20Zellic%20Audit%20Report.pdf
@@ -330,6 +331,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Yei%20Finance%20Ora
 https://raw.githubusercontent.com/Zellic/publications/master/ZetaChain%20-%2011.14.23%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/ZetaChain%20-%206.30.23%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/ZetaChain%20-%207.12.23%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/cyberRaise%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/d3-doma%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/eBridge%20AElf%20Bridge%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/eBridge%20Ethereum%20Bridge%20-%20Zellic%20Audit%20Report.pdf

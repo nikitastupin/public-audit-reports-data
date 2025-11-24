@@ -45,6 +45,8 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/Fun_Token_Fin
 https://raw.githubusercontent.com/Credshields/audit-reports/master/HealthCareDatabase_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Hemi_Labs_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/HeyElsa_Final_Audit_Report.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/HeyElsa_Token_Final_Audit_Report.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/HeyElsa_Widget_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/HoldPlatform_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Ideology%20Final%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/JayDeriv_SC_Audit_report.pdf
@@ -78,6 +80,7 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/Polytrade_Tra
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Protop_Token_Contract_Final%20Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Protop_Vesting_Contracts_Final_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Quest_Contract_final_audit_report.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/Quickswap_Token_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/RDGX_Final_Audit_report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/ResearchHub_SmartContract_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Rex_Exchange_Final_Audit_Report.pdf
