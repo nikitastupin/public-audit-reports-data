@@ -236,6 +236,7 @@ https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2025.08.20%20-%20Final%20Report%20-%20Hydrex%20Collaborative%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2025.08.24%20-%20Final%20-%20Neutrl%20Protocol%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2025.09.10%20-%20Final%20-%20Football.Fun%20Collaborative%20Audit%20Report%201757498747.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2025.09.11%20-%20Final%20-%20USG%20-%20Tangent%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2025.10.16%20-%20Final%20-%20Atleta%20Network%20Collaborative%20Audit%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2025.10.31%20-%20Final%20-%20Vesu%20Vaults%20Collaborative%20Audit%20Report%201761914943.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2025.11.06%20-%20Final%20-%20Football.Fun%20Collaborative%20Audit%20Report%201762392691%20(1).pdf

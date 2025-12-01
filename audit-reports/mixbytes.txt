@@ -137,6 +137,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/ETH%20Al
 https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/ETH2%20Depositor%20&%20ETH%20Staking%20Fee%20Distributor%20(v.1)/P2P.org_ETH2%20Depositor%20&%20ETH%20Staking%20Fee%20Distributor%20Smart%20Contracts%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/ETH2%20Depositor%20&%20ETH%20Staking%20Fee%20Distributor%20(v.2)/ETH2%20Depositor%20&%20ETH%20Staking%20Fee%20Distributor%20Security%20Audit%20Report%20(v.2).pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/Lending%20Proxy/P2P.org%20Lending%20Proxy%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/Resolv%20Integration/P2P.org%20Resolv%20Integration%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/SSV%20Integration%20Diff%20Audit%20(v1)/P2P.org%20SSV%20Integration%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/SSV%20Integration/P2P.org%20SSV%20Integration%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/Staking%20Fee%20Distributor%20Diff%20Audit%20(v1)/P2P.org%20Staking%20Fee%20Depositor%20Diff%20Audit%20(v1).pdf

@@ -171,6 +171,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/LootRush%20-%20Zell
 https://raw.githubusercontent.com/Zellic/publications/master/Lorenzo%20Protocol%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/MSafe%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Magma%20Finance%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Magna%20Airlock%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Maia%20DAO%20February%202023%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Maia%20DAO%20Partner%20Vault%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Maia%20DAO%20Ulysses%20Protocol%20-%20Zellic%20Audit%20Report.pdf
@@ -180,6 +181,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Mantle%20-%20Zellic
 https://raw.githubusercontent.com/Zellic/publications/master/Matrixdock%20XAUm%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Matrixdock-STBT%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Maverick%20Protocol%20-%20Zellic%20Security%20Assessment%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/MegaETH%20Predeposit%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Memecoin%20Launcher%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Metavest%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/MightyNet%20-%20Zellic%20Audit%20Report.pdf

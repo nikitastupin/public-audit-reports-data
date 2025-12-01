@@ -4,9 +4,11 @@ https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2025-07-Resuppl
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2025-07-YieldBasis-Update.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2025-07-centrifuge.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2025-07-report-origamin-cowswapper.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2025-08-Callisto-Vault-report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2025-08-Twyne-incremental.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2025-08-haiVELO-V2.pdf
-https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2025-09-3Jane-Moneymarket-report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2025-09-Goldilock-goldilend.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2025-09-Resupply-curvelend.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2025-10-3Jane-Moneymarket-report.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2025-11-Goldilock-goldilend.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2025-11-Worm-proofofburn.pdf

@@ -25,6 +25,7 @@ https://raw.githubusercontent.com/Decurity/audits/master/Gearbox/gearbox-balance
 https://raw.githubusercontent.com/Decurity/audits/master/Gearbox/gearbox-balancer-v3-integrations-audit-report-2.0.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/Gearbox/gearbox-curve-pendle-oracle-update-audit-report-1.1.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/Gearbox/gearbox-governor-v3-audit-report-1.0.pdf
+https://raw.githubusercontent.com/Decurity/audits/master/Gearbox/gearbox-infinifi-uniswap-v4-audit-report-1.1.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/Gearbox/gearbox-integrations-misc-audit-report-1.1.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/Gearbox/gearbox-pendle-mellow-integrations-audit-report-1.1.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/Gearbox/gearbox-sky-pyth-integrations-audit-report-1.1.pdf

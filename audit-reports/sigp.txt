@@ -16,6 +16,7 @@ https://raw.githubusercontent.com/sigp/public-audits/master/reports/bartercard/r
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/berachain/Sigma_Prime_Berachain_Reth_Geth_Security_Assessment_Report_v2_0.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/bls-wallet/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/botanix/Sigma_Prime_Botanix_Macbeth_Security_Assessment_Report_v2_1.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/brava/module-integrations/report.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/brava/report.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/bullet/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/chainlink/chainlink-1/review.pdf
@@ -96,6 +97,7 @@ https://raw.githubusercontent.com/sigp/public-audits/master/reports/recall/Sigma
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/renzo/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/reth/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/risc-zero/Sigma_Prime_Risc_Zero_The_Signal_Ethereum_Security_Assessment_Report_v2_0.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/rise/Sigma_Prime_Rise_Core_Node_Security_Assessment_Report_v2_0.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/rocket-pool/rocket-pool-10-houston-hotfix/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/rocket-pool/rocket-pool-4-feedistributor-fix/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/rocket-pool/rocket-pool-5-lower-eth-bond/review.pdf

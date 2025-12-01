@@ -20,6 +20,8 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/Artu_Rust_Fin
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Artu_Solidity_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/AssetMantleWEB.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Asset_Chain_Final_Audit_Report.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/Avail_Vault_Final_Audit_Report.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/Avail_XARMigration_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/BRLA_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/BuscemiBeats-NFT.docx.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Caliburland-SmartContractAudit.pdf
@@ -77,6 +79,7 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/Okidori_Final
 https://raw.githubusercontent.com/Credshields/audit-reports/master/PePay_SmartContract_Audit.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Plutope_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Polytrade_TradeStaking_Final_Audit_Report.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/Presale_Contracts_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Protop_Token_Contract_Final%20Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Protop_Vesting_Contracts_Final_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Quest_Contract_final_audit_report.pdf
@@ -101,6 +104,7 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/Tribal_Token_
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Tribally_Games_Final_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/UniCoinX_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Uniscrow%20Final%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/VaultCoin_Token_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Vouch_Contract_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Vouch_Staking_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Vouch_Token_and_Distribution_Final_Audit_Report.pdf
