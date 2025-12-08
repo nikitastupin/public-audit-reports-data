@@ -39,6 +39,7 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/DeVoTokenFina
 https://raw.githubusercontent.com/Credshields/audit-reports/master/DevoWhiteListFinalReport.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/EcoYield_Token_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Factiiv_Token_Final_Audit_Report.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/Fanbase_Token_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Final%20Report%20pStake%20Smart%20Contract%20Audit.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Fomodotbiz_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/FoundersLabFinalReport.pdf
@@ -74,6 +75,7 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/Mushi_V2_0_Fi
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Noft%20Game%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Numa_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Obius_SmartContract_audit.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/Octos_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Okidori_Booster_Pack_Final_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Okidori_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/PePay_SmartContract_Audit.pdf
@@ -92,6 +94,7 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/SAN_Final_Rep
 https://raw.githubusercontent.com/Credshields/audit-reports/master/SPE_Smart_Contract_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/SWYP_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Safle_Final_Audit_Report.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/Score11_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Solace%20Final%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Star_FSTR_Token_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/StationX_Claim_Contract_Final_Audit_Report.pdf

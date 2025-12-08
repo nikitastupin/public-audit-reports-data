@@ -71,6 +71,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Chainflip%20Solana%
 https://raw.githubusercontent.com/Zellic/publications/master/Chateau%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Chirp%20Network%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Circuit%20DAO%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Claim%20and%20Rewards%20Programs%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Cloak%20V1%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Concrete%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Core%20and%20Periphery%20-%20Zellic%20Audit%20Report.pdf
@@ -110,6 +111,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Falcon%20Finance%20
 https://raw.githubusercontent.com/Zellic/publications/master/Falcon%20Finance%20FF%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Family%20Wallet%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Filecoin%20Services%20Payments%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Flare%20FAsset%20Review%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Flare%20FAssets%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Fractal%20Protocol%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Fractal%20Protocol%20v2-%20Zellic%20Audit%20Report.pdf
@@ -134,6 +136,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Grug%20-%20Zellic%2
 https://raw.githubusercontent.com/Zellic/publications/master/H20%20vlPSDN%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Horizon%20Sequence%20Wallet%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Hydrogen%20Labs%20Rover%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Hyperbeat%20Pay%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Hyperlane%20-%20Radix%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Hyperlane%20Starknet%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Hyperliquid%20-%20Zellic%20Audit%20Report.pdf

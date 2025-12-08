@@ -75,6 +75,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/NFTR/NFTR_Audit.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/NFTR/NFTR_Market_Audit.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/NFTR/NFTR_Naming_Credits_Audit.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Norlend/2025-02-24_Norlend.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Nunchi/2025-11-22_Nunchi_SY_Genesis_Vaults.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Orderly/2023-10-25_Orderly.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Orderly/2024-07-01_Orderly_OFT.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Orderly/2024-07-01_Orderly_Omnichain.pdf
@@ -113,6 +114,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/UltimateFantoms_Aud
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Umami/2024-01-10_Umami.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Umami/2025-01-26_Umami_GMX_PositionManager.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Universal/Alongside%20Universal%20Vault%20Report.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Valantis/Valantis_Staking_Modules_report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/YugaLabs/2025-01-17_YugaLabs_NFT_Shadows.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/YugaLabs/2025-02-05_YugaLabs_NFT_Shadows_2.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Zap/2024-09-30_Zap_Token.pdf

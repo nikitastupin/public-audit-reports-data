@@ -93,6 +93,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/LayerZero/LayerZe
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Legion/Legion%20OTC_Zokyo_audit_report_June12th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Liberty%20Finance/Liberty%20Finance%20_Zokyo_audit_report_Oct29th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Limit%20Break/Limit%20Break_Zokyo_audit_report_June12th_2023.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/MAIV/MAIV_Zokyo_audit_report_Dec2_2025.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/MadeForGamers/Made%20For%20Gamers_Zokyo%20audit%20report%20_compressed.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Magic%20Yearn/Magic%20Yearn_Zokyo_audit%20report_Feb8_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Magic%20Yearn/Magic%20Yearn_Zokyo_audit_report_Aug17th_2022.pdf
