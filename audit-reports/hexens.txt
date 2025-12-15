@@ -42,6 +42,7 @@ https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/ma
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/Polygon_Technology__Aug23Public.pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/QuickSwap_28.06.23(perps_new_commit)(Public).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/QuickSwap_April23_Public_upd.pdf
+https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/RISC-Zero-Crypto-SCs-audit-may24(Public).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/Risc_Zero_Aug23_(Public).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/RociFi%20SMA_public.pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/RociFi_Aug23(Public)%20.pdf
@@ -76,6 +77,7 @@ https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/ma
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/glif-audit-july-2024(Public).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/holonym-zk-audit-may-2024(Public).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/infura-din-oct-25(Final).pdf
+https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/kyberswap-nov-25(Final).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/layerswap-audit-dec24(Public).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/layerzero-zro-claim-contract-june-2024(Public)%20(c1101c1).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/logarithm-labs-metavault-jul-25(Final).pdf
@@ -86,6 +88,7 @@ https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/ma
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/pancakeswap_infinity_combined_core.pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/pencils-audit-aug-2024(Public).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/persistence-stkbnb-audit-april-2024(Public)%20(1).pdf
+https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/risc0-dec-24(Final).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/risc0-povw-jul-25(Final).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/rush-trading-audit-sep-2024(Public)+diff.pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/rush-trading-jan-25(Public)_1002.pdf

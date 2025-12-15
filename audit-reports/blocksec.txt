@@ -141,6 +141,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/block
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_radiant_glp_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_radiant_v2.0.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_radpie_v1.0-signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_raincoin_wrain_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_ramdefi_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_revest_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_rhea_token_v1.0-signed.pdf

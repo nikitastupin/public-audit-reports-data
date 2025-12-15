@@ -27,6 +27,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/Dolomite/2024-01-11
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Ethena/2025-05-26_Ethena_TimelockController.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Ethereal/2025-02-10_Ethereal_Vault.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Ethereal/2025-05-20_Ethereal_OrderbookDex.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/FastLane%20Labs/FastLane%20Report%20with%20Comments.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Foil/2024-10-28_Foil.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Foil/2025-01-13_Foil_Updates.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Foil/2025-01-13_Foil_Vault.pdf
@@ -60,6 +61,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/IceBearSociety_Audi
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Impermax/2025-02-08_Impermax.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Impermax/Impermax_Consortium_Report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/InfinityLotto_Audit.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Jupiter/Jupiter_Jup-Stablecoin_report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/K33Loans/2025-02-24_K33_Loans.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/KeyFinance/Key_Finance_Audit.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/M0/2025-08-05_M0_M-Extensions.pdf
@@ -74,6 +76,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/MagnifyCash/2024-03
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/NFTR/NFTR_Audit.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/NFTR/NFTR_Market_Audit.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/NFTR/NFTR_Naming_Credits_Audit.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Nashpoint/Nashpoint_Contracts_Review_report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Norlend/2025-02-24_Norlend.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Nunchi/2025-11-22_Nunchi_SY_Genesis_Vaults.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Orderly/2023-10-25_Orderly.pdf
@@ -102,6 +105,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/Synthetix/2025-03-0
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Synthetix/2025-10-28_Synthetix_Migration.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Tenor/Tenor%20-%20Lending%20Protocol_report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Truemarkets/2025-03-18_Truemarkets_Report.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Truemarkets/Truemarkets_Uni_V4_Review_report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/USDT0/2025-02-14_USDT0_Multihop.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/USDT0/2025-03-21_USDT0_OneSig.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/USDT0/2025-05-09_USDT0_HyperEVM.pdf

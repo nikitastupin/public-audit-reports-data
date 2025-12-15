@@ -198,6 +198,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Mitosis%20Extensibl
 https://raw.githubusercontent.com/Zellic/publications/master/Mitosis%20Vault%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Molend%20Protocol%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Move%20and%20Sui%20Security%20Assessment%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Multisafe%20USPC%20Contracts%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Muni%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/N1%20Bridge%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Nebra%20Gnark%20Support%20in%20UPA%20circuits%20-%20Zellic%20Audit%20Report.pdf

@@ -129,6 +129,7 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/reya/ReyaLabs_Reya
 https://raw.githubusercontent.com/abdk-consulting/audits/main/reya/ReyaLabs_ReyaNetworkPartII_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/reya/ReyaLabs_ReyaNetworkPartI_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/rift/ABDK_Rift_RiftProtocol_v_1_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/ring_protocol/ABDK_RingProtocol_Hook_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/riskharbor/ABDK%20Audit%20Report%20for%20Risk%20Harbor.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/rosca/Rosca%20Token%20Contract_%20Review.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/semaphore_and_mixer/Audit%20Report%20Summary%20for%20Semaphore%20and%20MicroMix.pdf
@@ -141,6 +142,7 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/shping/Shping%20Sm
 https://raw.githubusercontent.com/abdk-consulting/audits/main/spectral/ABDK_SpectralFinance_SCPOC_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/spectral/ABDK_Spectral_SpecialStaking_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/spectral/ABDK_Spectral_Spectral_finance_v_1_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/stakewise/ABDK_Stakewise_v3_core_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/starkware/ABDK_StarkWare_OS_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/starkware/ABDK_StarkWare_Perpetual_V3_1_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/starkware/ABDK_StarkWare_Perpetual__V3_2_v_1_0.pdf

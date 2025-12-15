@@ -8,6 +8,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/1inch/FixedFeeSw
 https://raw.githubusercontent.com/mixbytes/audits_public/master/1inch/Limit%20Order%20Protocol/1Inch%20Limit%20Order%20Protocol%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/1inch/token/report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/AAVE/Aave%20v%203.1.0/Aave%20v.3.1.0%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/AAVE/Aave%20v3.6/Aave%20v3.6%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/AAVE/Governance%20Crosschain%20Bridges%20V1/Governance%20Crosschain%20Bridges%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/AAVE/Governance%20Crosschain%20Bridges%20V2/Aave%20Governance%20Crosschain%20Bridges%20V2%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/AAVE/Governance%20Crosschain%20Bridges%20V3/Governance%20Crosschain%20Bridges%20V3%20Security%20Audit%20Report.pdf
@@ -83,6 +84,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protoc
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Hanji/Liquidity%20Vault/Hanji%20Liquidity%20Vault%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Hanji/OnchainCLOB/Hanji%20Protocol%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Instadapp/Fluid%20DEX/Instadapp%20Fluid%20DEX%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Instadapp/Fluid%20Liquidity%20Layer/Instadapp%20Fluid%20Liquidity%20Layer%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Instadapp/Fluid/Instadapp%20Fluid%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Instadapp/Jupiter%20Lend%20Vaults/Jupiter%20Lend%20Vaults%20on%20Solana%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Iron%20Bank/IronBank%20Security%20Audit%20Report.pdf
@@ -169,6 +171,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Threshold%20Netw
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Threshold%20Network/Threshold%20USD/Threshold-USD%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Threshold%20Network/tBTC%20v2/Threshold%20Network%20tBTC%20v2%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/TosDis/TosDis%20Smart%20Contract%20Audit.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Tramplin/Megavalidator/Tramplin%20Megavalidator%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Urbit/Urbit%20Stardust%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Velodrome/CLGaugeFactory/Velodrome%20CLGaugeFactory%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Velodrome/Pool%20Launcher/Velodrome%20Pool%20Launcher%20Security%20Audit%20Report.pdf
