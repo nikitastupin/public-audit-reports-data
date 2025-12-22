@@ -22,6 +22,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Abyss%20Finance/
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Abyss%20Finance/Abyss%20LockUp/AbyssLockup%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Akropolis/Token/Akropolis%20Token%20Smart%20Contract%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Akropolis/Vesting/Akropolis%20Vesting%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Algebra%20Finance/Algebra%20ALM/Algebra%20ALM%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Algebra%20Finance/Core/Algebra%20Finance%20Core%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Algebra%20Finance/Farmings/Algebra%20Farmings%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Algebra%20Finance/Limit%20Order%20Plugin/Algebra%20Limit%20Order%20Plugin%20Security%20Audit%20Report.pdf
@@ -60,6 +61,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/DIA/Multi%20Scop
 https://raw.githubusercontent.com/mixbytes/audits_public/master/DeFi%20Money/Core/DeFi%20Money%20Core%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Defi%20Starter/DefiStarter%20Smart%20Contracts/report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Divergence%20Protocol/Divergence%20Protocol%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/EYWA/CDP/Eywa%20CDP%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/EYWA/CLP/Eywa%20CLP%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/EYWA/DAO/Eywa%20DAO%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Empower%20the%20DAO/Empower%20the%20DAO%20Security%20Audit%20Report.pdf
@@ -79,6 +81,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protoc
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protocol/Gearbox%20Protocol%20v.1/Gearbox%20Protocol%20v.1%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protocol/Gearbox%20Protocol%20v.3%20Bots%20&%20Integrations/Gearbox%20Protocol%20v.3%20Bots%20&%20Integrations%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protocol/Gearbox%20Protocol%20v.3.1%20Bots%20&%20Integrations/GearBox%20Protocol%20v.3.1%20Bots%20&%20Integrations%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protocol/Gearbox%20Upshift%20Integration/Gearbox%20Upshift%20Integration%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protocol/Kodiak%20&%20Mellow%20Adapters/Gearbox%20Kodiak%20&%20Mellow%20Adapters%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protocol/Mellow%20Adapters/Gearbox%20Protocol%20Mellow%20Adapters%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Hanji/Liquidity%20Vault/Hanji%20Liquidity%20Vault%20Security%20Audit%20Report.pdf
@@ -103,11 +106,13 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Deposit%20S
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Easy%20Track%20(2)/Lido%20EasyTrack%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Easy%20Track%20(3)/Lido%20Easy%20Track%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Easy%20Track/Lido%20Easy%20Track%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/EasyTrack%20stVaults/Lido%20EasyTrack%20stVaults%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/In-protocol%20Coverage/Lido%20In-protocol%20%20Coverage%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Lido%20EasyTrack%20CSM%20v2/Lido%20Easy%20Track%20CSM%20v2%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Lido%20KSM/LIDO%20KSM%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Lido%20Oracle/Lido%20Oracle%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Lido%20Protocol/Lido%20Protocol%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Lido%20v3/Lido%20v3%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/SanityChecker/Lido%20Sanity%20Checker%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Two-Phase%20Voting/Lido%20Two-Phase%20Voting%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Withdrawals%20Manager%20Stub/Lido%20Withdrawals%20Manager%20Stub%20Security%20Audit%20Report.pdf
