@@ -155,6 +155,7 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/term_structure/ABD
 https://raw.githubusercontent.com/abdk-consulting/audits/main/term_structure/ABDK_TermStructure_Circom_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/term_structure/ABDK_TermStructure_Solidity_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/term_structure/ABDK_TermStructure_TSUpdate_v_1_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/term_structure/ABDK_TermStructure_TermMaxV2_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/term_structure/ABDK_TermStructure_TermStructurePartII_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/the_arena/ABDK_TheArena_StarsarenaFractionalTickets_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/timelock/Timelock%20Smart%20Contract.%20Audit.pdf
@@ -182,6 +183,7 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/weiroll/ABDK_Weiro
 https://raw.githubusercontent.com/abdk-consulting/audits/main/wheelx/ABDK_WheelX_WheelXContracts_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/wizcoin/WIZCoin%20Token%20Contract_%20Review.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/wwh/WWH%20Smart%20Contract.%20Review.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/xo_market/ABDK_XO_Market_EVMContracts_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/xtoken/ABDK_xToken_Origination_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/xtoken/ABDK_xToken_Terminal_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/xtoken/ABDK_xToken_v_1_0.pdf

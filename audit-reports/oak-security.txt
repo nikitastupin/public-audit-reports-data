@@ -17,6 +17,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Apollo/2021-08
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Apollo/2022-03-17%20Audit%20Report%20-%20Apollo%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Apollo/2023-01-17%20Audit%20Report%20-%20Apollo%20DAO%203%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Apollo/2024-09-04%20Audit%20Report%20-%20Apollo%20Osmosis%20Fixed%20Width%20Range%20Vault%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Apriori/2025-10-03%20Audit%20Report%20-%20aPriori%20APR%20Token%20and%20Staked%20APR%20Token.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Archisinal/2024-08-21%20Audit%20Report%20-%20Archisinal%20Marketplace%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Archway/2023-06-05%20Audit%20Report%20-%20Archway%20Rewards%20Module%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Asteroid%20Bridge/2024-06-17%20Audit%20Report%20-%20Asteroid%20Bridge%20v1.0.pdf
@@ -248,6 +249,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Structured/202
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Structured/2025-10-20%20Audit%20Report%20-%20Structured%20Private%20Deposit%20Minter%20and%20Oracle%20Contracts%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Structured/2025-11-25%20Audit%20Report%20-%20Structured%20ERC20%20Converter%2C%20ETH%20Wrapper%2C%20MaxBTC%20ERC20%20for%20Eureka%20Bridge%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Structured/2025-12-04%20Audit%20Report%20-%20Structured%20Private%20Deposit%20Whitelist%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Structured/2025-12-24%20Audit%20Report%20-%20Structured%20CosmWasm%20and%20Solana%20Updates%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/StylusPort/2025-10-22%20Audit%20Report%20-%20StylusPort%20Internal%20Review%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Suberra/2022-03-17%20Audit%20Report%20-%20Suberra%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Syndicate/2025-09-09%20Audit%20Report%20-%20Syndicate%20Stage%201A.pdf
@@ -258,6 +260,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/TeFi/2022-01-1
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Terra%20Liquidity%20Bootstrapping%20Pool/2021-12-23%20Audit%20Report%20-%20Terra%20Liquidity%20Bootstrapping%20Pool%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/The%20Rig/2025-07-01%20Audit%20Report%20-%20The%20Rig%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/The%20Rig/2025-10-01%20Audit%20Report%20-%20The%20Rig%20Updates%20v1.1.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Thema/2025-12-27%20Audit%20Report%20-%20Thema%20Protocol.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Timewave/2024-04-10%20Audit%20Report%20-%20Timewave%20Computer%20Valence%20Services%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Timewave/2024-05-02%20Audit%20Report%20-%20Timewave%20Covenants%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Unipay/2025-04-04%20Audit%20Report%20-%20Unipay.pdf
