@@ -154,6 +154,7 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/term_structure/ABD
 https://raw.githubusercontent.com/abdk-consulting/audits/main/term_structure/ABDK_TermStructureLabs_TermMax_Phase3_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/term_structure/ABDK_TermStructure_Circom_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/term_structure/ABDK_TermStructure_Solidity_v_1_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/term_structure/ABDK_TermStructure_TMX_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/term_structure/ABDK_TermStructure_TSUpdate_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/term_structure/ABDK_TermStructure_TermMaxV2_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/term_structure/ABDK_TermStructure_TermStructurePartII_v_1_0.pdf

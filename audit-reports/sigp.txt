@@ -78,6 +78,7 @@ https://raw.githubusercontent.com/sigp/public-audits/master/reports/membrane-fin
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/near/Sigma_Prime_Burrow_Finance_Burrowland_Security_Assessment_Report_v2_0.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/near/Sigma_Prime_NEAR_Burrowland_Security_Assessment_Report_v2.0.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/near/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/obol/Sigma_Prime_Obol_Network_Charon_Security_Assessment_Report_v2_1.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/omni-network/Sigma%20Prime%20-%20Omni%20-%20AVS%20And%20Token%20-%20Security%20Assessment%20Report%20-%20v2.1.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/omni-network/Sigma%20Prime%20-%20Omni%20Network%20-%20Omni%20Portal%20-%20Security%20Assessment%20Report%20-%20v2.1.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/omni-network/Sigma_Prime_Omni_EVM_Redenom_Security_Assessment_Report_v2_0.pdf

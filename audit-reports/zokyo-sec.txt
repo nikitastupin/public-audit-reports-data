@@ -181,6 +181,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Umami/UmamiDAO_Zo
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/UniFarm/UniFarm_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Unimex/Unimex_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/UnityChain/Unity_Chain_Zokyo_audit_report_23Feb_2023.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Uniwire/Uniwire_Zokyo_audit_report_Dec23_2025.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/VaultCraft/VaultCraft_Zokyo_audit_report_Jan31_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Vaultka/Vaultka_Zokyo_audit_report_30th_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Vaultka/Vaultka_Zokyo_audit_report_Aug6th_2024.pdf
