@@ -26,6 +26,7 @@ https://raw.githubusercontent.com/sigp/public-audits/master/reports/chainsafe/fo
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/chainsafe/gossamer/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/chainway/Sigma_Prime_Chainway_Citrea_Security_Assessment_Report_v2_2.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/chainway/Sigma_Prime_Chainway_Labs_Clementine_Security_Assessment_Report_v2_0.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/commitboost/Sigma_Prime_CommitBoost_Multiplexer_Signer_Security_Assessment_Report_v2_1.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/commitboost/Sigma_Prime_Commit_Boost_Client_Security_Assessment_Report_v2_0.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/dapper-wallet/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/derive/atomic/review.pdf
@@ -68,6 +69,7 @@ https://raw.githubusercontent.com/sigp/public-audits/master/reports/interest-pro
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/kelp/lrt-updates/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/kelp/lrt-withdrawals/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/kelp/lrt/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/lido/Sigma_Prime_Lido_BLS_Library_Security_Assessment_Report_v2_0.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/lido/lido-dc4bc/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/lido/lido-easy-track/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/lido/lido/review.pdf

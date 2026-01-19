@@ -111,6 +111,7 @@ https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Sorella-Spearbi
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Sphinx-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Stackup-Spearbit-Security-Review-July-2025.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Steakhouse-App-Web2-Spearbit-Security-Review-September-2025.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Strong-DAO-Spearbit-Security-Review-December-2025.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Sudoswap-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/SudoswapLSSVM2-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Superform-v2-periphery-Spearbit-Security-Review-June-2025.pdf

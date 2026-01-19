@@ -28,6 +28,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Algebra%20Financ
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Algebra%20Finance/Limit%20Order%20Plugin/Algebra%20Limit%20Order%20Plugin%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Algebra%20Finance/Periphery/Algebra%20Periphery%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Algebra%20Finance/Plugins/Algebra%20Plugins%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Algebra%20Finance/Upgradeable%20Dynamic%20Fee%20Plugin/Algebra%20Upgradeable%20Plugins%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Aragon/Open%20Enterprise/Aragon%20Open%20Enterprise%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Aragon/Voting%20Connectors/Aragon%20Voting%20Connectors%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Aspida%20Network/Aspida%20Network%20Contracts%20Security%20Audit%20Report.pdf
@@ -78,6 +79,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Fantium/Fantium%
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Fantium/Fantium/Fantium%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/FireBTC/FBTC/FireBTC%20FBTC%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protocol/Gearbox%20InfiniFi%20Integration/Gearbox%20InfiniFi%20Integration%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protocol/Gearbox%20Kelp%20Integration/Gearbox%20Kelp%20Integration%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protocol/Gearbox%20Midas%20Integration/Gearbox%20Midas%20Integration%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protocol/Gearbox%20Protocol%20v.1/Gearbox%20Protocol%20v.1%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protocol/Gearbox%20Protocol%20v.3%20Bots%20&%20Integrations/Gearbox%20Protocol%20v.3%20Bots%20&%20Integrations%20Audit%20Report.pdf
@@ -116,6 +118,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Lido%20Prot
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Lido%20v3/Lido%20v3%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/SanityChecker/Lido%20Sanity%20Checker%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Two-Phase%20Voting/Lido%20Two-Phase%20Voting%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Utility%20contract%20for%20CSM%20Oracle%20report%20day%20offset/Lido%20Utility%20contract%20for%20CSM%20Oracle%20report%20day%20offset%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Withdrawals%20Manager%20Stub/Lido%20Withdrawals%20Manager%20Stub%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/WstETH%20Staker/Lido%20WstETH%20Staker%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/WstETH/Lido%20WstETH%20Security%20Audit%20Report.pdf
@@ -158,6 +161,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/PieDAO/VestedTok
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Prisma%20Finance/Core/Prisma%20Finance%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Prisma%20Finance/Zap/Prisma%20Finance%20Zap%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Reality%20Cards/RealityCards%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Resolv/ExternalRequestsCoordinator/Resolv%20ExternalRequestsCoordinator%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Resolv/PoR%20Oracles/Resolv%20PoR%20Oracles%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Resolv/Staking/Resolv%20Staking%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Resolv/Treasury%20Escrow/Resolv%20Treasury%20Escrow%20Security%20Audit%20Report.pdf
@@ -205,6 +209,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Yearn%20Finance/
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Yearn%20Finance/yETH-bootstrap/Yearn%20Finance%20yETH-bootstrap%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Yearn%20Finance/ySwaps/Yearn%20ySwaps%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Yearn%20Finance/yveCRV/yveCRV-vault%20Security%20Audit%20Report%20(merged).pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Yelay/ERC4626/Yelay%20ERC4626%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Yield%20Basis/DAO/Yield%20Basis%20DAO%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/dForce/Lending%20v2/dForce%20Lending%20V2%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/dForce/sUSX/dForce%20sUSX%20Security%20Audit%20Report.pdf

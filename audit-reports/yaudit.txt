@@ -115,5 +115,7 @@ https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2025-09-Goldilo
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2025-09-Resupply-curvelend.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2025-10-3Jane-Moneymarket-report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2025-11-Origin---ARM-report.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2025-11-Twyne-AAVE.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2025-11-Worm-proofofburn.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2025-11-goldilocks.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2025-12-Twyne-AAVE-Operators.pdf
