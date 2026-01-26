@@ -59,6 +59,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Curve%20Finance/
 https://raw.githubusercontent.com/mixbytes/audits_public/master/DIA/Genesis%20Staking/DIA%20Genesis%20Staking%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/DIA/Lumina%20Staking/DIA%20Lumina%20Staking%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/DIA/Multi%20Scope/DIA%20Multi%20Scope%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/DIA/Spectra/DIA%20Spectra%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/DeFi%20Money/Core/DeFi%20Money%20Core%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Defi%20Starter/DefiStarter%20Smart%20Contracts/report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Diffuse/Prime/Diffuse%20Prime%20Security%20Audit%20Report.pdf
@@ -181,7 +182,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Threshold%20Netw
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Threshold%20Network/Threshold%20USD/Threshold-USD%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Threshold%20Network/tBTC%20v2/Threshold%20Network%20tBTC%20v2%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/TosDis/TosDis%20Smart%20Contract%20Audit.pdf
-https://raw.githubusercontent.com/mixbytes/audits_public/master/Tramplin/Megavalidator/Tramplin%20Megavalidator%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Tramplin/Tramplin/Tramplin%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Urbit/Urbit%20Stardust%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Velodrome/CLGaugeFactory/Velodrome%20CLGaugeFactory%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Velodrome/Pool%20Launcher/Velodrome%20Pool%20Launcher%20Security%20Audit%20Report.pdf

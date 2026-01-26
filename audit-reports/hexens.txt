@@ -82,6 +82,7 @@ https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/ma
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/glif-plus-nov-25(Final).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/holonym-zk-audit-may-2024(Public).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/infura-din-oct-25(Final).pdf
+https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/kyberswap-dec-25(Final).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/kyberswap-nov-25(Final).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/layerswap-audit-dec24(Public).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/layerzero-zro-claim-contract-june-2024(Public)%20(c1101c1).pdf

@@ -48,6 +48,7 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/edgeswap/ABDK_Edge
 https://raw.githubusercontent.com/abdk-consulting/audits/main/edgeswap/ABDK_EdgeSwap_Solidity_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/elephantslab/ABDK_ElephantsLab_OctoGamexNFTBridge_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/enso/ABDK_Enso_ShortcutRouter_v_1_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/enso/ABDK_Enso_ShortcutsClientContracts_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/equation/ABDK_Equation_EquationDAOV2_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/equation/ABDK_Equation_EquationDAOV3_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/equation/ABDK_Equation_EquationDAO_v_1_0.pdf
@@ -117,6 +118,7 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/railgun/ABDK_Railg
 https://raw.githubusercontent.com/abdk-consulting/audits/main/realt/ABDK_RealT_RMMV3v_3_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/realt/ABDK_RealT_RealTokenWrapper_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/realt/ABDK_RealT_RegCcipCore_v_1_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/redstone/ABDK_RedStone_MultiFeedAdapter_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/redstone/ABDK_RedStone_OraclePhaseII_v_2_0__1_.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/redstone/ABDK_RedStone_Oracle_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/redstone/ABDK_RedStone_OraclesMonorepo_v_1_0.pdf

@@ -17,6 +17,9 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/BaselineMarkets/202
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/BaselineMarkets/2025-02-03_Baseline_MM_Looping_2.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/BaselineMarkets/2025-02-27_Baseline_Fixed_Supply.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/BeefyFinance/BeefyFinance_StrategyGeistEth_Audit.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Bounce/Bounce_Automation_Layer_%26_Contract_Updates_report.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Bounce/Bounce_Leveraged_Token_Protocol_Review_report.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Bounce/Bounce_USDC_Updates_Review_report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Bracket/Bracket%20-%20KYC%20Whitelist_report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Bracket/Bracket%20Rd.2%20-%20LST%20Vault_report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Bridges/Bridges_Exchange_Audit_1.pdf
