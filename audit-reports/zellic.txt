@@ -10,6 +10,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Anza%20BPF%20Stake%
 https://raw.githubusercontent.com/Zellic/publications/master/Anza%20P%20Token%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Anza%20Solana%20BPF%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Anza%20Token%20Wrap%20-Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Anza%20Token2022%20PR%20Review%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Anzen%20Finance%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Anzen%20and%20protocol-v2%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Aori%200.3.1%20Upgrade%20-%20Zellic%20Audit%20Report.pdf
@@ -53,6 +54,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Biconomy%20Smart%20
 https://raw.githubusercontent.com/Zellic/publications/master/Biconomy%20Smart%20Account%20Patch%20Review%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Biconomy%20SponsorshipPaymaster%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Biconomy%20Token%20Paymaster%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Blackhaven%20(Core%20Contracts)%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Blackwing%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Blobstream%20X%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Bloom%20Trading%20-%20Zellic%20Audit%20Report.pdf
@@ -159,9 +161,11 @@ https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20OApp%20
 https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20OFT%20Wrapper%20Audit%20(January%2019th%202023)%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20Router%20%26%20FeeLibraryV5.1%20Audit%20(December%2014th%202022)%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20Solana%20Endpoint%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20Solana%20Examples%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20Solidity%20Examples%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20Solidity%20Examples%20ONFT%20Audit%20(January%2019th%202023)%20-%20Zellic.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20Stargate%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20Starknet%20Endpoint%20V2%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20TON%20OFT%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20USDT%20OFT%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20USDT%20TON%20-%20Zellic%20Audit%20Report.pdf

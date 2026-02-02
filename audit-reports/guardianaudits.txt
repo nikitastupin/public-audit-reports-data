@@ -107,8 +107,8 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/Synthetix/2025-03-0
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Synthetix/2025-03-03_Synthetix_BFP_2.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Synthetix/2025-10-28_Synthetix_Migration.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Tenor/Tenor%20-%20Lending%20Protocol_report.pdf
-https://raw.githubusercontent.com/GuardianAudits/Audits/main/Truemarkets/2025-03-18_Truemarkets_Report.pdf
-https://raw.githubusercontent.com/GuardianAudits/Audits/main/Truemarkets/Truemarkets_Uni_V4_Review_report.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Trueo/Trueo_Final_Report_Updated.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Trueo/Trueo_Uni_V4_Review_report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/USDT0/2025-02-14_USDT0_Multihop.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/USDT0/2025-03-21_USDT0_OneSig.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/USDT0/2025-05-09_USDT0_HyperEVM.pdf
