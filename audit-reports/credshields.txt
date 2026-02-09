@@ -1,4 +1,5 @@
 https://raw.githubusercontent.com/Credshields/audit-reports/master/9mm_audit_report.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/Akita_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/AllInGames_Andar_Bahar_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/AllInGames_Baccarat_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/AllInGames_Bank_Final_Audit_Report.pdf
@@ -16,6 +17,7 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/Arcana_Sendit
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Arcana_Staking_Contract_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Arcana_Wallet_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Archethic_Bridge_Contracts_SC_Final_Report.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/Ardentis_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Artu_Rust_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Artu_Solidity_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/AssetMantleWEB.pdf
@@ -23,6 +25,7 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/Asset_Chain_F
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Avail_Vault_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Avail_XARMigration_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/BRLA_Final_Audit_Report.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/Blockwill_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/BuscemiBeats-NFT.docx.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Caliburland-SmartContractAudit.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Capital_Rock_Final_Audit_report.pdf

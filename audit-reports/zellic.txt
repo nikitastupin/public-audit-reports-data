@@ -148,6 +148,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/InfiniCard%20Vault%
 https://raw.githubusercontent.com/Zellic/publications/master/Initia%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Ionic%20Protocol%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Jarvis%20Network%20Synthereum%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Jovay%20Relayer%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LPTxLPT%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LZ%20OApp%20OFT%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Laminar%20-%20Zellic%20Audit%20Report.pdf
@@ -166,6 +167,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20Solidit
 https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20Solidity%20Examples%20ONFT%20Audit%20(January%2019th%202023)%20-%20Zellic.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20Stargate%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20Starknet%20Endpoint%20V2%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20TON%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20TON%20OFT%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20USDT%20OFT%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20USDT%20TON%20-%20Zellic%20Audit%20Report.pdf

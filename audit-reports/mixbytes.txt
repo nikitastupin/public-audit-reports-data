@@ -143,6 +143,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Napier%20Finance
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Napier%20Finance/Napier%20v1/Napier%20v1%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Notional%20Finance/Notional%20v4/Notional%20v4%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/NuCypher/NuCypher%20PoolingStakingContractV2%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/OKX/xAsset/OKX%20xAsset%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Opium%20Protocol/Opium%20Network%20Protocol%20v1%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Ozean%20Finance/Ozean%20Finance%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/P2P.org/ETH%20Allocation%20Share/P2P%20ETH%20Allocation%20Share%20Security%20Audit%20Report.pdf
