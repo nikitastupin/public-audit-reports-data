@@ -15,6 +15,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Anzen%20Finance%20-
 https://raw.githubusercontent.com/Zellic/publications/master/Anzen%20and%20protocol-v2%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Aori%200.3.1%20Upgrade%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Aqua%20Pool%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Arkhai%20Alkahest%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Arpeggi_Labs_-_Zellic_Audit_Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Astria%20Bridge%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Astria%20Geth%20-%20Zellic%20Audit%20Report.pdf

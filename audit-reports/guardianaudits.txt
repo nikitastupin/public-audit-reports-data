@@ -7,6 +7,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/Animecoin/2025-01-1
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Animecoin/2025-01-18_Anime_Claimer_2.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Animecoin/2025-01-18_Anime_Claimer_3.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Aria/Aria%20IPRWA%20Report.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/BTCX/BTCX_Token_Review_report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/BaselineMarkets/2024-06-17_BaselineV2.1.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/BaselineMarkets/2024-06-17_BaselineV2.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/BaselineMarkets/2024-06-18_Baseline_Updates.pdf
@@ -82,6 +83,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/NFTR/NFTR_Naming_Cr
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Nashpoint/Nashpoint_Contracts_Review_report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Norlend/2025-02-24_Norlend.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Nunchi/2025-11-22_Nunchi_SY_Genesis_Vaults.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Olympus/Olympus_Migration_Review_report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Orderly/2023-10-25_Orderly.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Orderly/2024-07-01_Orderly_OFT.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Orderly/2024-07-01_Orderly_Omnichain.pdf
