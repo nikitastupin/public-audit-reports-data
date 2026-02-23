@@ -246,6 +246,8 @@ https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2025_09_23_Final_Vesu_Starknet_Vault_Kit_Collaborative_Audit_Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2026.01.21%20-%20Final%20-%20Atleta%20Network%20Collaborative%20Audit%20Report%201768993820.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2026.02.03%20-%20Final%20-%20YieldFi%20Collaborative%20Audit%20Report%201770139561.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2026.02.05%20-%20Final%20-%20Aave%20Labs%20Collaborative%20Audit%20Report%201770295450.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2026.02.10%20-%20Final%20-%20Tori%20Finance%20Collaborative%20Audit%20Report%201770734349.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2026.02.18%20-%20Final%20-%20Fluent%20Collaborative%20Audit%20Report%201771428647.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/Cascade%20-%20Final%20Blackthorn%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/Final%20Report%20-%20Nuva%20Labs.pdf

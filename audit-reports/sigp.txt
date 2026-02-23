@@ -62,6 +62,7 @@ https://raw.githubusercontent.com/sigp/public-audits/master/reports/gearbox/revi
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/gods-unchained-packs/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/havven/havven-2/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/havven/havven-issuancecontroller/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/igra/Sigma_Prime_Igra_Core_Smart_Contracts_Security_Assessment_Report_v2_1.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/infinigold/infinigold-changes/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/infinigold/infinigold-offchain/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/infinigold/infinigold/review.pdf
@@ -91,6 +92,7 @@ https://raw.githubusercontent.com/sigp/public-audits/master/reports/omni-network
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/omni-network/Sigma_Prime_Omni_Token_Upgrade_Frontend_Security_Assessment_Report_v2_0.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/omni-network/Sigma_Prime_Omni_rlUSD_Brdige_Security_Assessment_Report_v2_0.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/open-grants/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/opsek/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/optimism/optimism-bedrock/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/polygon/Sigma%20Prime%20-%20Polygon%20-%20PolToken%20-%20Security%20Assessment%20Report%20-%20v2.0.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/polygon/Sigma_Prime_Polygon_LXLY_Bridge_Security_Assessment_Report_v2_1.pdf

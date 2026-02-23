@@ -6,6 +6,8 @@ https://raw.githubusercontent.com/runtimeverification/publications/main/reports/
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/consensus-protocols/Ethereum-Gasper.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/consensus-protocols/MultiversX-Async-Calls-V2.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/consensus-protocols/PlatON-Giskard.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/infrastructure/Kora_audit_report.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/infrastructure/Monad_audit_report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/infrastructure/Stellar_Soroban_Environment_Audit.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/infrastructure/Wasmi_-_WebAssembly_(Wasm)_Interpreter.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Alchemix_v2.pdf
@@ -28,6 +30,8 @@ https://raw.githubusercontent.com/runtimeverification/publications/main/reports/
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/EigenLayer_Design_Review.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/ElementFinance.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Element_Finance_Governance_Security_Audit_Report.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/EquitX_audit_report.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Espresso_Systems_audit_report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Ethereum-Deposit.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Euroe%20Stablecoin%20Audit.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Folks-Finance-Code-Audit.pdf
@@ -43,8 +47,10 @@ https://raw.githubusercontent.com/runtimeverification/publications/main/reports/
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/HydraDX-Omnipool-AMM-Audit-Report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/HydraDX-Omnipool-Withdrawal-Fee.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Jpg.Store-audit-report.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Levery_FV_audit_report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Lido_Dual_Governance_Design_Review.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Morpho-Audit-Report.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Octant_v2_report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Ojo.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Optimism-Formal-Verification-Report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Pact_Fi.pdf
@@ -60,6 +66,7 @@ https://raw.githubusercontent.com/runtimeverification/publications/main/reports/
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/StakeWise.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Stakefish-BatchDeposit.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/StakerDAO.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/StellarBroker_report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/SundaeSwap.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Synonym-audit-report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/TCA_Oveit_7.10.pdf
@@ -77,11 +84,13 @@ https://raw.githubusercontent.com/runtimeverification/publications/main/reports/
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/TokenOps.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Token_Wrap.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Tracer-Perpetual-Pools-V2.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/TrustLess_Work_audit_report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Uniswap-V1.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/WorldMobileGroup.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/XET-script.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Zivoe_Core_Contracts.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Zivoe_Locker_Contracts.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Zivoe_Vault_FV_audit_report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/algofi-v2-audit-report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/atlendis-audit-report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/hone-report.pdf
@@ -91,3 +100,4 @@ https://raw.githubusercontent.com/runtimeverification/publications/main/reports/
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/xBacked-audit-report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/yieldly-multi-pool-audit-report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/zkvm/Zorp%20zkvm%20audit%20report.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/zkvm/zkEVM_Formal_Verification_report.pdf

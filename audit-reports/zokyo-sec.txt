@@ -42,18 +42,23 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Defactor/Defactor
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Defactor/Defactor_Zokyo_audit_report_March28th_2025.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Defactor/Zokyo_Defactor(Buyback)_audit_report_NoV15th_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Devve/Devve_Zokyo_audit_report_May30th_2024.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Dogelon/Dogelon_Mars_Elon_Zokyo_audit_report_Dec7_2021.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Eclipse%20Fi/Eclipse_Fi_Zokyo_audit_report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Elektrik/Elektrik_Zokyo_audit_report_July9th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Ember%20Labs/Ember_Labs_Zokyo_audit_report_Oct20_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Ethlas/Ethlas_Zokyo_audit_report_26th_April_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Evoq%20Finance/Evoq%20Finance_Zokyo_audit_report_Jan9th_2025.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/FNDZ/FNDZ_Zokyo%20audit%20report.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/FNDZ/FNDZ_Zokyo_audit_report_Aug25_2021.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Filament/Filament_Zokyo_audit_report_Aug15th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/FlowZed/FlowZed_Zokyo_audit_report_April11th_2025.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Fluxfire/Fluxfire_Zokyo_audit_report_June5_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/FoxYieldy/FOX%20Yieldy%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Fractal/Fractal_Zokyo%20audit%20report.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/GAIN/GainDao_Zokyo_audit_report_Jan19_2022.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/GAIN/Gain_Ai_Zokyo_audit_report_May29th_2023.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/GAIN/Gain_DAO_Zokyo_audit_report_Dec15_2021.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/GAIN/Gain_DAO_Zokyo_audit_report_May5_2021.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/GAIN/Gain_Zokyo_audit_report_6thFeb_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/GAIN/Gain_Zokyo_audit_report_Jan22_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/GPT360/GPT360_Zokyo_audit_report_July12th_2024.pdf
@@ -90,6 +95,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Lab/Lab_Zokyo_aud
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/LayerK_folder_Audit/LayerK_Zokyo_audit_report_June13th_2025.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/LayerK_folder_Audit/LayerK_Zokyo_audit_report_Nov8th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/LayerZero/LayerZero%20audit%20report.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/LayerZero/LayerZero_Zokyo_audit_report_Oct22_2021.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Legion/Legion%20OTC_Zokyo_audit_report_June12th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Liberty%20Finance/Liberty%20Finance%20_Zokyo_audit_report_Oct29th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Limit%20Break/Limit%20Break_Zokyo_audit_report_June12th_2023.pdf
@@ -133,6 +139,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/RAILGUN/Railgun_Z
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/RAILGUN/Railgun_Zokyo_audit_report_Feb3_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Radiant/Radiant%20Capital%20audit%20report_06_March.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Raiinmaker/Raiinmaker_Zokyo_audit_report_May13th_2024.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Raiinmaker/Raiinmaker_Zokyo_audit_report_Oct5_2021.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Realize/Realize_Zokyo_audit_report_Nov13_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Rho%20Labs/Rho_Labs_Zokyo_audit_report_Sep23rd_2025.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Rollie/Rollie_Zokyo_audit_report_April16th_2024.pdf
@@ -169,6 +176,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/TokensFarm/Tokens
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/TokensFarm/TokensFarm_Zokyo%20audit%20report_sept_29.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/TokensFarm/TokensFarm_Zokyo_audit_report_oct_28.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/TokensFarm/Tokens_Farm_Zokyo_audit%20report_january_11.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Torekko/Torekko_Zokyo_audit_report_Dec30_2021.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Tradable/Tradable_Zokyo_audit_report_Sep4th_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Tren%20Finance/Tren%20Finance_Zokyo_audit_report_Nov19th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Trustswap/TrustSwap_Zokyo%20audit%20report.pdf

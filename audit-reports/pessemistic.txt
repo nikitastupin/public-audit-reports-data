@@ -32,6 +32,7 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/Blockchain%20Testam
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Brydge%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/CPOOL%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/CYBRO%20LPManager%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/CYBRO%20Liquidity%20manager%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/CYBRO%20One%20Click%20Lending%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/CYBRO%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/CYBRO%20Staking%20Security%20Analysis%20by%20Pessimistic.pdf
