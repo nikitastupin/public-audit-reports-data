@@ -116,6 +116,7 @@ https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Strong-DAO-Spea
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Sudoswap-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/SudoswapLSSVM2-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Superform-v2-periphery-Spearbit-Security-Review-June-2025.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Tenbin-Spearbit-Security-Review-January-2026.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Tezos-Spearbit-Security-Review-June-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Tezos-Spearbit-Security-Review-September-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Thala-Spearbit-vCISO-December-2024.pdf

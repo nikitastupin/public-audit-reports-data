@@ -61,6 +61,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Celer/2022-05-
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Celer/2024-09-20%20-%20Celer%20Flow%20Contracts.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/ChronoLibrary/2025-09-22%20Audit%20Report%20-%20ChronoLibrary%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/CoinList/2026-01-16%20Audit%20Report%20-%20CoinList%20Token%20Sale%20Fund%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/CoinList/2026-02-27%20Audit%20Report%20-%20CoinList%20Token%20Sale%20Fund%20Updates%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Coinhall/2023-09-26%20Audit%20Report%20-%20Coinhall%20Genie%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Comdex/2022-10-28%20Audit%20Report%20-%20Comdex%20Locking%20and%20Vesting%20Contracts%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Comdex/2022-11-23%20Audit%20Report%20-%20Comdex%20Lend%20and%20Liquidation%20Modules%20v1.0.pdf

@@ -117,6 +117,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Metapro/Metapro_Z
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Metropolis/Metropolis_Zokyoaudit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Minterest/Minterest_Zokyo_audit_report_14thMarch_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Minterest/Minterest_Zokyo_audit_report_24Feb_2023.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Minterest/Minterest_Zokyo_audit_report_Oct18th_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Nerd%20Labs/Nerd_Labs_Zokyo_audit_report_Oct17th_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/OT/OT_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Onemind/Onemind_Zokyo_audit%20report_October18_2022.pdf
@@ -145,6 +146,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Rho%20Labs/Rho_La
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Rollie/Rollie_Zokyo_audit_report_April16th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/SIVIRA/SIVIRA_Zokyo%20audit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/STFIL/STFIL_Zokyo_audit_report_28th_Aug_2023.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Seedify/Seedify_Zokyo_audit_report_Oct10th_2025.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/SharkSwap/SharkSwap_Zokyoaudit%20report.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Sheedify/Seedify_Zokyo_audit_report_Oct10th_2025.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Shido/Shido%20Blockchain%20Protocol%20Audit_Zokyo_July30th_2024.pdf
@@ -194,6 +196,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/VaultCraft/VaultC
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Vaultka/Vaultka_Zokyo_audit_report_30th_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Vaultka/Vaultka_Zokyo_audit_report_Aug6th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Vaultka/Vaultka_Zokyo_audit_report_July25th_2023.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Vaultka/Vaultka_Zokyo_audit_report_Nov9_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Velocore/Velocore_Zokyo_audit_report_Aug14_2023.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/WELF/WELF_Zokyo_audit_report_Dec4th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/WINS/WINS_Zokyo_audit_report_Nov10_2025.pdf

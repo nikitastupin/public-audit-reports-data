@@ -123,3 +123,4 @@ https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2025-11-goldilo
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2025-12-Twyne-AAVE-Operators.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2025-12-Twyne-liquidation-incentive.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-01-Centrifuge-v3-1-Fix-Review-report.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-02-HAI-CurveStableSwapNG-Oracle.pdf

@@ -22,6 +22,7 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/Artu_Rust_Fin
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Artu_Solidity_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/AssetMantleWEB.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Asset_Chain_Final_Audit_Report.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/Asterizm_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Avail_Vault_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Avail_XARMigration_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/BRLA_Final_Audit_Report.pdf
@@ -87,7 +88,6 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/Octos_Final_A
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Okidori_Booster_Pack_Final_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Okidori_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/PePay_SmartContract_Audit.pdf
-https://raw.githubusercontent.com/Credshields/audit-reports/master/Ploutos_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Plutope_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Polytrade_TradeStaking_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Presale_Contracts_Final_Audit_Report.pdf
@@ -132,5 +132,6 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/Zodor_Staking
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Zoth_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/aUSD_SC_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/ePound_Final_Audit_Report.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/iVault_Token_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/mew.gg_Contracts_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/pStake%20Bridge%20Audit.docx.pdf
