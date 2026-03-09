@@ -43,6 +43,8 @@ https://raw.githubusercontent.com/Zellic/publications/master/Beefy%20Wrapper%20-
 https://raw.githubusercontent.com/Zellic/publications/master/Benqi%20Oracle%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Berachain%20Airdrop%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Berachain%20BEND%20v2%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Berachain%20Honey%20(EIP-3009)%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Berachain%20PoL%20(PR%2090)%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Biconomy%20Account%20Recovery%20Module%20-%20Zellic%20Audit%20Report-II.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Biconomy%20Account%20Recovery%20Module%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Biconomy%20Batched%20Session%20Router%20Module%20-%20Zellic%20Audit%20Report.pdf
@@ -55,6 +57,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Biconomy%20Smart%20
 https://raw.githubusercontent.com/Zellic/publications/master/Biconomy%20Smart%20Account%20Patch%20Review%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Biconomy%20SponsorshipPaymaster%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Biconomy%20Token%20Paymaster%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/BitVM%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Blackhaven%20(Core%20Contracts)%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Blackwing%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Blobstream%20X%20-%20Zellic%20Audit%20Report.pdf
@@ -114,10 +117,12 @@ https://raw.githubusercontent.com/Zellic/publications/master/Falcon%20Finance%20
 https://raw.githubusercontent.com/Zellic/publications/master/Falcon%20Finance%20FF%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Family%20Wallet%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Filecoin%20Services%20Payments%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Flare%20FAsset%20Diffs%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Flare%20FAsset%20Review%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Flare%20FAssets%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Fractal%20Protocol%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Fractal%20Protocol%20v2-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Frax%20(USD%20Stablecoin)%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Frax%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Frax0%20Mesh%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Fuelet%20-%20Zellic%20Audit%20Report.pdf
@@ -224,6 +229,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Odos%20Router%20V3%
 https://raw.githubusercontent.com/Zellic/publications/master/Omni%20AVS%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Omni%20Network%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Omron%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Ondo%20Global%20Markets%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Ooga%20Booga%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/OpenZeppelin%20Cairo%20Contracts%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Orderly%20Network%20-%20Zellic%20Audit%20Report.pdf
@@ -255,6 +261,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Pyth%20Lazer%20Sola
 https://raw.githubusercontent.com/Zellic/publications/master/Pyth%20Network%20CosmWasm%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Pyth%20Oracle%20Client%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Pyth2Wormhole%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/RFQ%20Protocol%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/RabbitX%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/RabbitX%20December%202024%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Radix%20-%20Zellic%20Audit%20Report.pdf
@@ -329,6 +336,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Valorem%20Options%2
 https://raw.githubusercontent.com/Zellic/publications/master/Valts%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Vendor%20Finance%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Volt%20Protocol%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Volta%20Wallet%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Voyage%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/WOOFI%20Stake%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/WOOFi%20Swap%20-%20Zellic%20Audit%20Report.pdf
