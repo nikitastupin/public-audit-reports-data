@@ -79,6 +79,7 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/Lync%20Final%
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Manadotwin_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Mandala_Presale_2_Final_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/MercuriFinance-MercuriProtocolContracts_Audit_Report.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/MetaWinToken_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Moby_Smart_Contract_Final_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Mushi_V2_0_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Noft%20Game%20Audit%20Report.pdf

@@ -43,6 +43,7 @@ https://raw.githubusercontent.com/sigp/public-audits/master/reports/eigenlayer/S
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/eigenlayer/Sigma_Prime_Eigen_Labs_EigenLayer_Checkpoint_Proofs_Security_Assessment_Report_v2.0.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/eigenlayer/Sigma_Prime_Eigen_Labs_EigenLayer_Rewards_Coordinator_Security_Assessment_Report_v1.1.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/eigenlayer/Sigma_Prime_Layr_Labs_EigenLayer_Slashing_Security_Assessment_Report_v2_0.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/eigenlayer/Sigma_Prime_Layr_Labs_Sidecar_Rewards_v2_2_Round_2_Security_Assessment.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/eigenlayer/Sigma_Prime_RewardsV2_Security_Assessment_Report_v2_0.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/eigenlayer/eigenlayer-2.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/eigenlayer/eigenlayer-3.pdf
