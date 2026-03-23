@@ -252,5 +252,6 @@ https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2026.02.27%20-%20Final%20-%20EasyA%20Kickstart%20Collaborative%20Audit%20Report%201772158857.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2026.03.06%20-%20Final%20-%20Notional%20Collaborative%20Audit%20Report%201772819509.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2026.03.10%20-%20Final%20-%20veil.cash%20Collaborative%20Audit%20Report%201773152467.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2026.03.18%20-%20Final%20-%20Vesu%20Collaborative%20Audit%20Report%201773874144.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/Cascade%20-%20Final%20Blackthorn%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/Final%20Report%20-%20Nuva%20Labs.pdf

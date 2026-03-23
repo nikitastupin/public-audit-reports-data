@@ -95,6 +95,7 @@ https://raw.githubusercontent.com/sigp/public-audits/master/reports/omni-network
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/open-grants/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/opsek/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/optimism/optimism-bedrock/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/origin/Sigma_Prime_Origin_Protocol_Validator_Consolidations_Security_Assessment_Report_v2_0.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/polygon/Sigma%20Prime%20-%20Polygon%20-%20PolToken%20-%20Security%20Assessment%20Report%20-%20v2.0.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/polygon/Sigma_Prime_Polygon_LXLY_Bridge_Security_Assessment_Report_v2_1.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/protocol-guild/Sigma_Prime_Protocol_Guild_Agora_Token_Security_Assessment_Report_v2_1.pdf

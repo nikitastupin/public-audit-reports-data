@@ -45,6 +45,7 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/EcoYield_Toke
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Factiiv_Token_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Fanbase_Token_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Final%20Report%20pStake%20Smart%20Contract%20Audit.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/Fission_RM_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Fomodotbiz_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/FoundersLabFinalReport.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Fun_Token_Final_Audit_Report.pdf

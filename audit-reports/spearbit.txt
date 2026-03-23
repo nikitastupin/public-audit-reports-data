@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Aragon-Generic-Money-Spearbit-Security-Review-November-2025.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Aragon-Spearbit-Security-Review-July-2025.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/ArtGobblers-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Astaria-Spearbit-Security-Review-July.pdf
