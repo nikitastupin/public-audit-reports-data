@@ -195,6 +195,7 @@ https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Raiinmaker/Raiinm
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Raiinmaker/Raiinmaker_Zokyo_audit_report_Oct5_2021.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Realize/Realize_Zokyo_audit_report_Nov13_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Rho%20Labs/Rho_Labs_Zokyo_audit_report_Sep23rd_2025.pdf
+https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Rock'n'Block/Rock'n'Block_Zokyo_audit_report_March20_2026.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Rocket%20Tokens/Rocket_Tokens_Zokyo_audit_report_Oct20_2020.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/Rollie/Rollie_Zokyo_audit_report_April16th_2024.pdf
 https://raw.githubusercontent.com/zokyo-sec/audit-reports/main/SIVIRA/SIVIRA_Zokyo%20audit%20report.pdf
