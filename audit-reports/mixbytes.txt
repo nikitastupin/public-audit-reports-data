@@ -217,5 +217,6 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Yearn%20Finance/
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Yearn%20Finance/yveCRV/yveCRV-vault%20Security%20Audit%20Report%20(merged).pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Yelay/ERC4626/Yelay%20ERC4626%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Yield%20Basis/DAO/Yield%20Basis%20DAO%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Yield%20Basis/Hybrid%20Vault/Yield%20Basis%20Hybrid%20Vault%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/dForce/Lending%20v2/dForce%20Lending%20V2%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/dForce/sUSX/dForce%20sUSX%20Security%20Audit%20Report.pdf

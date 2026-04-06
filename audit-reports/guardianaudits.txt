@@ -27,6 +27,8 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/Bridges/Bridges_Exc
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Bridges/Bridges_Exchange_Audit_2.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Cyfrin/Guardian%20-%20Cyfrin's%20Attester%20%26%20Resolver.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/DN404/2024-05-13_DN404.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Degen%20Safe/Degen_Safe_Contract_Updates_Report.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Degen%20Safe/Degensafe_Protocol_Review_report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Dolomite/2024-01-11_Dolomite.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Ethena/2025-05-26_Ethena_TimelockController.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Ethereal/2025-02-10_Ethereal_Vault.pdf
@@ -68,8 +70,10 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/Impermax/2025-02-08
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Impermax/Impermax_Consortium_Report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/InfinityLotto_Audit.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Jupiter/Jupiter_Jup-Stablecoin_report.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Jupiter/Jupiter_JupUSD_Updates_Report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/K33Loans/2025-02-24_K33_Loans.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/KeyFinance/Key_Finance_Audit.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/LayerZero/LayerZero_Console_Report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/M0/2025-08-05_M0_M-Extensions.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/M0/2025-08-15_M0_M-Extensions.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/M0/M0_M0_M-Portal-Lite_report.pdf
@@ -127,6 +131,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/Umami/2024-01-10_Um
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Umami/2025-01-26_Umami_GMX_PositionManager.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Universal/Alongside%20Universal%20Vault%20Report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Universal/Universal_Hook_Contracts_Review_report.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Valantis/Valantis_Overseer_Review_report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Valantis/Valantis_Staking_Modules_report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Yellow%20Network/Nitewatch_Report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Yellow%20Network/Yellow%20Report.pdf

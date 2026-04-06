@@ -79,6 +79,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/block
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_arken_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_astherus_202502-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_astherus_ApxExchange_202506-signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_bitget_bgw7702_signed_20260403.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_bitget_bgw_new_staking_evm_signed_20250925.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_bitget_onchain_evm_signed_20250627.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_bitget_swap_aggregator_v1.0-signed.pdf
@@ -87,11 +88,13 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/block
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_cakepie_v1.1-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_cellula_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_cobo_cobotokenization_signed_20260317.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_cobo_cobotokenization_signed_20260401.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_coordinape_v1.1_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_crossearn_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_cruise_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_dapdap_monad_game_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_dappos_ia_v1.0-signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_dcs_protocol_commerce_payments_signed_20260402.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_delorean_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_dstock_core_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_dstock_oft_v1.0-signed.pdf

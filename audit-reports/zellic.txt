@@ -254,6 +254,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Polyhedra%20zk%20li
 https://raw.githubusercontent.com/Zellic/publications/master/Pontem%20Liquidswap%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Pontem%20wallet%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Prisma%20Finance%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Private%20Transfer%20With%20USX%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Privy_Shamir_Secret_Sharing_-_Zellic_Audit_Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Proof%20of%20Data%20Possession%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Prosper%20Omnichain%20Fungible%20Token%20-%20Zellic%20Audit%20Report.pdf

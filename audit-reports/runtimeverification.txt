@@ -51,6 +51,7 @@ https://raw.githubusercontent.com/runtimeverification/publications/main/reports/
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Lido_Dual_Governance_Design_Review.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Morpho-Audit-Report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Octant_v2_report.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/OctoLend.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Ojo.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Optimism-Formal-Verification-Report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Pact_Fi.pdf
