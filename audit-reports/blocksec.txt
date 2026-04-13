@@ -35,6 +35,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_easycoin_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_halotrade_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_linear_v1.0_signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_mantle_ur_topup_contract_solana_signed_20260409.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_memefarming_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_metapool_v1.1_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_nearx_v2.0_signed.pdf
@@ -44,6 +45,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_octopus_network_restaking_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_oinfinance_v1.0.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_okx_smart-wallet-recovery-solana_v1.0-signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_pacifica_bridge_contract_signed_20260401.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_paras-token_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_paras_Market_signed_v1.0.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_paras_NFT_signed_v1.0.pdf

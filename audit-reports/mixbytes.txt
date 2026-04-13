@@ -9,6 +9,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/1inch/Limit%20Or
 https://raw.githubusercontent.com/mixbytes/audits_public/master/1inch/token/report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/AAVE/Aave%20v%203.1.0/Aave%20v.3.1.0%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/AAVE/Aave%20v3.6/Aave%20v3.6%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/AAVE/Aave%20v3.7/Aave%20v3.7%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/AAVE/Governance%20Crosschain%20Bridges%20V1/Governance%20Crosschain%20Bridges%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/AAVE/Governance%20Crosschain%20Bridges%20V2/Aave%20Governance%20Crosschain%20Bridges%20V2%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/AAVE/Governance%20Crosschain%20Bridges%20V3/Governance%20Crosschain%20Bridges%20V3%20Security%20Audit%20Report.pdf
@@ -56,6 +57,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Curve%20Finance/
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Curve%20Finance/DAO%20Voting%20Forwarder/Curve%20Finance%20DAO%20Voting%20Forwarder%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Curve%20Finance/DAO%20Voting/Curve%20Finance%20DAO%20Voting%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Curve%20Finance/StableSwapNG/Curve%20Finance%20StableSwapNG%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/DIA/DIA%20Oracle%20V3/DIA%20Oracle%20V3%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/DIA/Genesis%20Staking/DIA%20Genesis%20Staking%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/DIA/Lumina%20Staking/DIA%20Lumina%20Staking%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/DIA/Multi%20Scope/DIA%20Multi%20Scope%20Security%20Audit%20Report.pdf

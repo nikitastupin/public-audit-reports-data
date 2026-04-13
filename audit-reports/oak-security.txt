@@ -181,6 +181,9 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Neptune/2024-0
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Neptune/2024-12-23%20Audit%20Report%20-%20Neptune%20Updates%202%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Neutron/2022-12-07%20Audit%20Report%20-%20Neutron%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Neutron/2025-03-25%20Audit%20Report%20-%20Neutron%20Independent%20Chain%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Neutron/2026-04-09 Audit Report – Neutron Auction and Undelegations Contract, Chain Upgrade (Phase 1).pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Neutron/2026-04-09 Audit Report – Neutron Auction and Undelegations Contract, Chain Upgrade (Phase 2 _ Report 1) .pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Neutron/2026-04-09 Audit Report – Neutron Auction and Undelegations Contract, Chain Upgrade (Phase 2 _ Report 2).pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Ninja%20Blaze/2024-05-06%20Audit%20Report%20-%20Ninja%20Blaze%20Double%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Noble/2023-03-13%20Audit%20Report%20-%20Noble%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Noble/2023-07-08%20Audit%20Report%20-%20Noble%20Tariff%20Module%20v1.0.pdf

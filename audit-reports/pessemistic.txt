@@ -29,6 +29,7 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/Beam%20Swaps%20Secu
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Beam%20Upgradeable%20DAO%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Bebop%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Blockchain%20Testament%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Bloquo%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Brydge%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/CPOOL%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/CYBRO%20LPManager%20Security%20Analysis%20by%20Pessimistic.pdf
