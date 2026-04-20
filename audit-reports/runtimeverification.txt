@@ -100,5 +100,9 @@ https://raw.githubusercontent.com/runtimeverification/publications/main/reports/
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/swaap-audit-report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/xBacked-audit-report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/yieldly-multi-pool-audit-report.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/zkvm/Discovery_report_for_Milestone_2_—_Implementation_and_Verification.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/zkvm/Discovery_report_for_Milestone_3_—_Implementation_and_Verification.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/zkvm/Part_1_-_Milestone_1_-_Rust_Verification_Through_Lean_4_Tooling_Investigation.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/zkvm/Part_2_-_Milestone_1_-_Rust_Verification_Through_Lean_4_Tooling_Investigation.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/zkvm/Zorp%20zkvm%20audit%20report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/zkvm/zkEVM_Formal_Verification_report.pdf

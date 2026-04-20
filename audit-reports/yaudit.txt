@@ -124,5 +124,6 @@ https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2025-12-Twyne-A
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2025-12-Twyne-liquidation-incentive.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-01-Centrifuge-v3-1-Fix-Review-report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-02-HAI-CurveStableSwapNG-Oracle.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-02-Twyne-2026-Q1-update-report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-02-vFat-router.pdf.pdf
-https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-03-cow-euler-integration.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-03-RISEx-RLP-Strategies.pdf

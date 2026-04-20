@@ -6,10 +6,14 @@ https://raw.githubusercontent.com/statemindio/public-audits/main/Arrakis%20Finan
 https://raw.githubusercontent.com/statemindio/public-audits/main/Buttonwood/2023-08-11_Buttonwood_Buttonswap-core.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Curve/2023-10-30_Curve_Stablecoin.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Curve/2024-02-02_Curve_Lending.pdf
+https://raw.githubusercontent.com/statemindio/public-audits/main/Curve/2025-11-06_Сurve_stablecoin_AI_report.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Dega/2024-01-17_Dega_ISPO.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Instadapp/2023-08-28_Instadapp_Avocado_v3.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Instadapp/2023-12-29_Instadapp_Fluid.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Instadapp/2024-04-10_Instadapp_Avocado_Chain_Agnostic_feature.pdf
+https://raw.githubusercontent.com/statemindio/public-audits/main/Instadapp/2025-10-14_Instadapp_Liquidity_Layer_Updated.pdf
+https://raw.githubusercontent.com/statemindio/public-audits/main/Instadapp/2026-03-02_Instadapp_Fluid_PR_validation.pdf
+https://raw.githubusercontent.com/statemindio/public-audits/main/Instadapp/2026-03-04_Instadapp_Avocado_EIP-7702_PR_validation.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Keep3r%20Network/2023-02-03_Keep3r_Sidechain_oracles.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2022-08-15_Lido_Insurance_Fund.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2022-09-09_Lido_MEV-Boost_relay_allowlist.pdf
@@ -36,6 +40,7 @@ https://raw.githubusercontent.com/statemindio/public-audits/main/Myso%20Finance/
 https://raw.githubusercontent.com/statemindio/public-audits/main/Symbiotic/2024-05-01_Symbiotic_Default_Collateral.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Symbiotic/2024-12-20_Symbiotic_Core_final_report.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Symbiotic/2024-12-27_Symbiotic_Hooks_Final_report.pdf
+https://raw.githubusercontent.com/statemindio/public-audits/main/Symbiotic/2025-05-30_Symbiotic_RelayContracts_AI_report.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Valantis%20Labs/2024-03-19_Valantis_Core.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Valantis%20Labs/2024-04-23_Valantis_HOT.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Vyper/2024-03-08_Vyper_Storage_layout.pdf
