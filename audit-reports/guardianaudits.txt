@@ -117,6 +117,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/Synthetix/2025-03-0
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Synthetix/2025-10-28_Synthetix_Migration.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Tenor/Tenor%20-%20Lending%20Protocol_report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Trueo/Trueo_Final_Report_Updated.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Trueo/Trueo_Protocol_Review_Report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Trueo/Trueo_Uni_V4_Review_report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/USDT0/2025-02-14_USDT0_Multihop.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/USDT0/2025-03-21_USDT0_OneSig.pdf

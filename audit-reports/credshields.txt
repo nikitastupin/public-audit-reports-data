@@ -23,6 +23,7 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/Artu_Solidity
 https://raw.githubusercontent.com/Credshields/audit-reports/master/AssetMantleWEB.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Asset_Chain_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Asterizm_Final_Audit_Report.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/Audit_Report_Hearth.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Audit_Report_HeyElsa_Staking_v2.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Avail_Vault_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Avail_XARMigration_Final_Audit_Report.pdf

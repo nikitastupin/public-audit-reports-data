@@ -115,12 +115,14 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Deposit%20S
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Easy%20Track%20(2)/Lido%20EasyTrack%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Easy%20Track%20(3)/Lido%20Easy%20Track%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Easy%20Track/Lido%20Easy%20Track%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/EasyTrack%20stVaults%20v3.0.2%20/Lido%20EasyTrack%20stVaults%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/EasyTrack%20stVaults/Lido%20EasyTrack%20stVaults%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/In-protocol%20Coverage/Lido%20In-protocol%20%20Coverage%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Lido%20EasyTrack%20CSM%20v2/Lido%20Easy%20Track%20CSM%20v2%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Lido%20KSM/LIDO%20KSM%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Lido%20Oracle/Lido%20Oracle%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Lido%20Protocol/Lido%20Protocol%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Lido%20v3.0.2/Lido%20v3%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Lido%20v3/Lido%20v3%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/SanityChecker/Lido%20Sanity%20Checker%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Two-Phase%20Voting/Lido%20Two-Phase%20Voting%20Security%20Audit%20Report.pdf
