@@ -121,6 +121,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Filecoin%20Services
 https://raw.githubusercontent.com/Zellic/publications/master/Flare%20FAsset%20Diffs%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Flare%20FAsset%20Review%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Flare%20FAssets%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Flare%20Smart%20Accounts%20Diff%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Fractal%20Protocol%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Fractal%20Protocol%20v2-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Frax%20(USD%20Stablecoin)%20-%20Zellic%20Audit%20Report.pdf
@@ -327,6 +328,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Symbiotic%20-%20Zel
 https://raw.githubusercontent.com/Zellic/publications/master/SyncSwap%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/THORChain%20Bifrost%20UTXO%20Client%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Takara%20Lend%20Contracts%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/ThUSD%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Thala%20Labs%20Move%20Dollar%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Tortuga%20Liquid%20Staking%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Tradoor%20-%20Zellic%20Audit%20Report.pdf

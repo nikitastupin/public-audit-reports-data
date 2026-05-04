@@ -31,6 +31,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/Degen%20Safe/Degen_
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Degen%20Safe/Degensafe_Protocol_Review_report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Dolomite/2024-01-11_Dolomite.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Ethena/2025-05-26_Ethena_TimelockController.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Ethena/2025-12-02_Ethena_Onchain_Minter_report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Ethereal/2025-02-10_Ethereal_Vault.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Ethereal/2025-05-20_Ethereal_OrderbookDex.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/FastLane%20Labs/FastLane%20Report%20with%20Comments.pdf
