@@ -113,6 +113,7 @@ https://raw.githubusercontent.com/sigp/public-audits/master/reports/rocket-pool/
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/rocket-pool/rocket-pool-mainnet-vuln-review/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/rocket-pool/rocket-pool/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/satori-sports/satori-sports-token-royalties/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/serenita-vero/Sigma_Prime_Serenita_Vero_Security_Assessment_Report_v2_0.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/skrilla/reference-material/Token%20Sale%20Particulars.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/sofa/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/stader/review.pdf

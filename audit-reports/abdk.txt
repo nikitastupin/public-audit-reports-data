@@ -49,6 +49,7 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/edgeswap/ABDK_Edge
 https://raw.githubusercontent.com/abdk-consulting/audits/main/elephantslab/ABDK_ElephantsLab_OctoGamexNFTBridge_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/enso/ABDK_Enso_ShortcutRouter_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/enso/ABDK_Enso_ShortcutsClientContracts_v_1_0.pdf
+https://raw.githubusercontent.com/abdk-consulting/audits/main/enso/ABDK_Enso_TGE_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/equation/ABDK_Equation_EquationDAOV2_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/equation/ABDK_Equation_EquationDAOV3_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/equation/ABDK_Equation_EquationDAO_v_1_0.pdf

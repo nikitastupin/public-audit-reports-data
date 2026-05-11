@@ -109,6 +109,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Anchor%20Co
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Anchor%20Collateral/Lido%20Anchor%20Collateral%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Aragon%20Voting/LIDO%20Aragon%20Voting%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/CSM/Lido%20CSM%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/CircuitBreaker/Lido%20CircuitBreaker%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/DeFi%20Wrapper%20Mellow%20Strategy/Lido%20DeFi%20Wrapper%20Mellow%20Strategy%20Adapter%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/DeFi%20Wrapper/Lido%20DeFi%20Wrapper%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Deposit%20Security%20Module/Lido%20Deposit%20Security%20Module%20Security%20Audit%20Report.pdf

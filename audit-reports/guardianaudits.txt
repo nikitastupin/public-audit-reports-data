@@ -84,6 +84,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/MIMSwap/2024-03-21_
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/MUX/2025-02-06_MUX_Perps.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Magna/Magna_Magna_Staking_report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/MagnifyCash/2024-03-14_MagnifyCash.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Manifest/Manifest_Protocol_Review_report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/NFTR/NFTR_Audit.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/NFTR/NFTR_Market_Audit.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/NFTR/NFTR_Naming_Credits_Audit.pdf
