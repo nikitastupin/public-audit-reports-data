@@ -129,6 +129,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Hippo%20Protoc
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Hydration/2025-05-29%20Audit%20Report%20-%20Hydration%20Peg%20Drift%20Stableswap%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Hydro/2024-07-30%20Audit%20Report%20-%20Hydro%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Hyperlane/2024-02-13%20Audit%20Report%20-%20cw-hyperlane%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Hyvechain%20precompiles/2026-05-15%20Audit%20Report%20-%20Hyvechain%20precompiles%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/IBCX/2023-04-29%20Audit%20Report%20-%20IBCX%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/ICN/2025-03-11%20Audit%20Report%20-%20ICN%20Token.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/ICN/2025-05-02%20Audit%20Report%20-%20ICN%20Protocol.pdf
@@ -276,6 +277,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Syndicate/2025
 https://raw.githubusercontent.com/oak-security/audit-reports/main/THORChain/2024-12-16%20Audit%20Report%20-%20Validator-scheduled%20Standard%20Cosmos%20Hard%20Fork%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/TeFi/2022-01-14%20Audit%20Report%20-%20TeFi%20Oracle%20Contracts%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Terra%20Liquidity%20Bootstrapping%20Pool/2021-12-23%20Audit%20Report%20-%20Terra%20Liquidity%20Bootstrapping%20Pool%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Tezoro/2026-05-15%20Audit%20Report%20-%20Tezoro%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/The%20Rig/2025-07-01%20Audit%20Report%20-%20The%20Rig%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/The%20Rig/2025-10-01%20Audit%20Report%20-%20The%20Rig%20Updates%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Thema/2025-12-27%20Audit%20Report%20-%20Thema%20Protocol.pdf
@@ -293,7 +295,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Yieldmos/2024-
 https://raw.githubusercontent.com/oak-security/audit-reports/main/ZIGChain/2025-08-25%20Audit%20Report%20-%20ZIGChain.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/ZIGChain/2025-11-11%20Audit%20Report%20-%20ZIGChain%20Reward%20Contract.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/ZIGChain/2025-12-19%20Audit%20Report%20-%20ZIGChain%20Update.pdf
-https://raw.githubusercontent.com/oak-security/audit-reports/main/ZIGChain/Security%20Audit%20Report%20ZIGChain%20v4%20v1.2.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/ZIGChain/2026-05-15 Audit Report – ZIGChain.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Zeitgeist/2025-01-02%20Audit%20Report%20-%20Zeitgeist%20Combinatorial%20Betting%20and%20Futarchy%20Security%20Audit%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Zephyrus/2025-11-24%20Audit%20Report%20-%20Zephyrus%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Zodiac%20Protocol/2024-01-02%20Audit%20Report%20-%20Zodiac%20Protocol%20Core%20v1.0.pdf

@@ -66,7 +66,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/DeFi%20Money/Cor
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Defi%20Starter/DefiStarter%20Smart%20Contracts/report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Diffuse/Prime/Diffuse%20Prime%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Divergence%20Protocol/Divergence%20Protocol%20Security%20Audit%20Report.pdf
-https://raw.githubusercontent.com/mixbytes/audits_public/master/EYWA/CDP/Eywa%20CDP%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/EYWA/CDP/CrossCurve%20CDP%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/EYWA/CLP/Eywa%20CLP%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/EYWA/DAO/Eywa%20DAO%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Empower%20the%20DAO/Empower%20the%20DAO%20Security%20Audit%20Report.pdf
@@ -184,6 +184,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Resolv/Utils/Res
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Resolv/stUSR/Resolv%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Roobee/Roobee%20Token%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Rubic/Rubic%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Shift/DeFi%20Platform/Shift%20DeFi%20Platform%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Solidex/Solidex/Solidex-Security-Audit-Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/SpiritSwap/SpiritSwap-Core%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Stader%20Labs/ETHx/Stader%20Labs%20ETHx%20Security%20Audit%20Report.pdf
