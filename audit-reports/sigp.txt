@@ -19,6 +19,9 @@ https://raw.githubusercontent.com/sigp/public-audits/master/reports/botanix/Sigm
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/brava/module-integrations/report.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/brava/report.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/bullet/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/catalysis/Sigma_Prime_Catalysis_Core_And_Coverage_Smart_Contracts_Security_Assessment_Report_v2_0.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/catalysis/Sigma_Prime_Catalysis_Core_Smart_Contracts_Security_Assessment_Report_v2_0.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/catalysis/Sigma_Prime_Catalysis_Coverage_Contracts_Security_Assessment_Report_v2_0.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/chainlink/chainlink-1/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/chainlink/chainlink-2/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/chainlink/lockbox/Sigma_Prime_CL_Lockbox_Security_Assessment_Report_v2_1.pdf

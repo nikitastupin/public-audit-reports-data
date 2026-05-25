@@ -20,6 +20,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/mixed/blocksec
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/mixed/blocksec_side_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/Blocksec_bgw-swap-aggregator-solana_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec-octopus-vesting-v1.0_signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_bitgetwallet_bgw_swap_aggregator_solana_signed_20260518.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_bitway_frost_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_bitway_shutter_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_blcokchainbg_onchain_solana_signed_20250923.pdf
@@ -92,6 +93,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/block
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_bitget_rwa_evm_contracts_signed_20260415.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_bitget_rwadividenddistributor_contract_signed_20260508.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_bitget_swap_aggregator_v1.0-signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_bitgetwallet_bgw_swap_aggregator_evm_signed_20260518.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_cakepie_2nd_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_cakepie_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_cakepie_v1.1-signed.pdf
