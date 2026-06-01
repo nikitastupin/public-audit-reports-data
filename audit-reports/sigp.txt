@@ -135,6 +135,7 @@ https://raw.githubusercontent.com/sigp/public-audits/master/reports/synthetix/et
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/synthetix/multicurrency/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/synthetix/unipool/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/taiko/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/term-finance/term-v2/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/term-finance/term1/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/term-finance/term2/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/term-finance/term3/review.pdf

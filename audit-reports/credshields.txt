@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/Audit_Report_
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Audit_Report_HeyElsa_Staking_v2.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Audit_Report_ManhattanToken.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Audit_Report_Octos_Betting.pdf
-https://raw.githubusercontent.com/Credshields/audit-reports/master/Audit_Report_PreDex.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/Audit_Report_SeerDEX.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Avail_Vault_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Avail_XARMigration_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/BRLA_Final_Audit_Report.pdf
