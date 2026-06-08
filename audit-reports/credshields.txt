@@ -23,6 +23,7 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/Artu_Solidity
 https://raw.githubusercontent.com/Credshields/audit-reports/master/AssetMantleWEB.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Asset_Chain_Final_Audit_Report.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Asterizm_Final_Audit_Report.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/Audit_Report_Avenia.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Audit_Report_Bitcoin%20Limited%20Edition.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Audit_Report_Gruntle%20Token.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Audit_Report_Hearth.pdf

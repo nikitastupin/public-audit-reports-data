@@ -95,6 +95,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/block
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_bitget_rwadividenddistributor_contract_signed_20260508.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_bitget_swap_aggregator_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_bitgetwallet_bgw_swap_aggregator_evm_signed_20260518.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_bitgetwallet_deficard_contracts_signed_20260603.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_cakepie_2nd_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_cakepie_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_cakepie_v1.1-signed.pdf
