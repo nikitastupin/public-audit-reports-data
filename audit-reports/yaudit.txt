@@ -129,6 +129,7 @@ https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-02-vFat-ro
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-03-Flex-report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-03-RISEx-RLP-Strategies.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-03-cow-euler-integration.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-04-Den-MLS-Wallet-report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-04-Liquity-V2-Lender-Borrower-Strategy-report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-05-Yearn-stYFI---YBC-report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-05-stYFI-Teams-PR-report.pdf

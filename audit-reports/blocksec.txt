@@ -42,6 +42,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_metapool_v1.1_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_nearx_v2.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_nearx_v3.0_signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_noirwallet_zcash_wallet_wasm_signed_20260609.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_oct-convertor_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_oct_anchor_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_octopus_network_restaking_v1.0_signed.pdf
@@ -149,7 +150,9 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/block
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_magpie_penpieautomkt_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_mancake_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_mancake_v1.1-signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_mantle_fiat24_contracts_signed_20260608.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_mantle_fiat24_v1.0-signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_megaeth_normal_account_contracts_signed_20260610.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_megaeth_staking_contracts_signed_20260407.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_megaeth_staking_contracts_signed_20260417.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_mellow_vaults_v1.3-signed.pdf
@@ -194,4 +197,5 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/block
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_wencore_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_whale_loan_v1.4.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_windranger_v1.2_signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_xaue_lab_xaue_lending_signed_20260611.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_xyfinance_v1.0_signed.pdf
