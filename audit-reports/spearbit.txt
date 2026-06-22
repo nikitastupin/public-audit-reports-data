@@ -4,6 +4,9 @@ https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/ArtGobblers-Spe
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Astaria-Spearbit-Security-Review-July.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Astaria-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Astera-Spearbit-Security-Review-December-2024.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Avara-Aptos-V3.0.2-Core-Spearbit-Security-Review.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Avara-Aptos-V3.0.2-Periphery-Spearbit-Security-Review.pdf
+https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Avara-Aptos-V3.1-V3.3-Core-Spearbit-Security-Review.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Axiom-contracts-Spearbit-Security-Review-December-2023.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Axiom-contracts-Spearbit-Security-Review-January-2024.pdf
 https://raw.githubusercontent.com/spearbit/portfolio/master/pdfs/Axiom-contracts-Spearbit-Security-Review-October-2023.pdf

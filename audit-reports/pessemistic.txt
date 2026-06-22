@@ -90,6 +90,7 @@ https://raw.githubusercontent.com/pessimistic-io/audits/main/Kinto%20SealedBidTo
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Kinto%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Kinto%20SuperBridge%20Hooks%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Kinto%20Token%26Vesting%20Security%20Analysis%20by%20Pessimistic.pdf
+https://raw.githubusercontent.com/pessimistic-io/audits/main/Kommodo%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Krystal%20Security%20Analysis%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/KyberPool%20Security%20Audit%20by%20Pessimistic.pdf
 https://raw.githubusercontent.com/pessimistic-io/audits/main/Leea%20Labs%20Security%20Analysis%20by%20Pessimistic.pdf
