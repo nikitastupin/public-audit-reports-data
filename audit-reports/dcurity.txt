@@ -1,5 +1,7 @@
 https://raw.githubusercontent.com/Decurity/audits/master/1inch/1inch-aggregation-router-v6-audit-report-2023-1.1.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/1inch/1inch-aggregation-router-v6-limit-order-v4-audit-report-2023-1.1.pdf
+https://raw.githubusercontent.com/Decurity/audits/master/1inch/1inch-aqua-swapvm-audit-report-2025-1.0.pdf
+https://raw.githubusercontent.com/Decurity/audits/master/1inch/1inch-aqua-swapvm-audit-update-report-2026-1.1.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/1inch/1inch-calldata-compressor-audit-report-2023-1.0.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/1inch/1inch-cross-chain-swaps-audit-report-2024-1.1.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/1inch/1inch-cross-chain-swaps-v2-audit-report-2024-1.1.pdf
@@ -28,6 +30,7 @@ https://raw.githubusercontent.com/Decurity/audits/master/Gearbox/gearbox-governo
 https://raw.githubusercontent.com/Decurity/audits/master/Gearbox/gearbox-infinifi-uniswap-v4-audit-report-1.1.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/Gearbox/gearbox-integrations-misc-audit-report-1.1.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/Gearbox/gearbox-kelp-lrt-integration-audit-report-1.1.pdf
+https://raw.githubusercontent.com/Decurity/audits/master/Gearbox/gearbox-midas-integration-audit-report-1.1.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/Gearbox/gearbox-pendle-mellow-integrations-audit-report-1.1.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/Gearbox/gearbox-securitize-integration-audit-report-1.1.pdf
 https://raw.githubusercontent.com/Decurity/audits/master/Gearbox/gearbox-sky-pyth-integrations-audit-report-1.1.pdf

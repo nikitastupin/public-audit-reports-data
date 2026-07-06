@@ -133,4 +133,6 @@ https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-04-Den-MLS
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-04-Liquity-V2-Lender-Borrower-Strategy-report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-05-Yearn-stYFI---YBC-report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-05-stYFI-Teams-PR-report.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-06-AllowlistedSwapAdapter-Review-report.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-06-Convex-Onchain-Voting-report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-06-Twyne-1.0.6-Update-report.pdf

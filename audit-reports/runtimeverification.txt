@@ -49,6 +49,7 @@ https://raw.githubusercontent.com/runtimeverification/publications/main/reports/
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Jpg.Store-audit-report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Levery_FV_audit_report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Lido_Dual_Governance_Design_Review.pdf
+https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Matrixdock%20RWA%20Audit.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Morpho-Audit-Report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/Octant_v2_report.pdf
 https://raw.githubusercontent.com/runtimeverification/publications/main/reports/smart-contracts/OctoLend.pdf
