@@ -190,6 +190,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/LayerZero%20VeDistr
 https://raw.githubusercontent.com/Zellic/publications/master/Level%20Points%20Farm%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Lido%20Fixed%20Income%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LightWallet%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Lighter%20EVM%20Migration%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Locus%20Smart%20Contracts%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/LootRush%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Lorenzo%20Protocol%20-%20Zellic%20Audit%20Report.pdf

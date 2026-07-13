@@ -89,16 +89,12 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/makerdao/ABDK_Make
 https://raw.githubusercontent.com/abdk-consulting/audits/main/manta/ABDK_Manta_MantaNetwork_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/marble/Marble%20Smart%20Contracts.%20Audit%20Part%20I.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/marble/Marble%20Smart%20Contracts.%20Audit.%20Part%20II.pdf
-https://raw.githubusercontent.com/abdk-consulting/audits/main/matterlabs/ABDK-ZKSync-Audit-v2-part2.pdf
-https://raw.githubusercontent.com/abdk-consulting/audits/main/matterlabs/ABDK_MatterLabs_ZkSync_V9_Solidity_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/maverick/ABDK_Maverick_MaverickPhase2_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/maverick/ABDK_Maverick_MaverickProtocol_v_3_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/morpho/ABDK_Morpho_pre_liquidation_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/morphose/ABDK_Morphose.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/muffin/ABDK_Muffin_Core_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/muffin/ABDK_Muffin_Periphery_v_1_0.pdf
-https://raw.githubusercontent.com/abdk-consulting/audits/main/mystiko/ABDK_Mystiko_Solidity_ZoKrates_v_2_0.pdf
-https://raw.githubusercontent.com/abdk-consulting/audits/main/mystiko/ABDK_Mystiko_mystikonetwork_v_3_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/nebra/ABDK_Nebra_Saturn_CircuitsUpdate_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/nebra/ABDK_Nebra_Saturn_Circuits_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/nebra/ABDK_Nebra_SpecAudit_PartI_v_1_0.pdf
@@ -164,10 +160,6 @@ https://raw.githubusercontent.com/abdk-consulting/audits/main/term_structure/ABD
 https://raw.githubusercontent.com/abdk-consulting/audits/main/term_structure/ABDK_TermStructure_TermStructurePartII_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/the_arena/ABDK_TheArena_StarsarenaFractionalTickets_v_1_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/timelock/Timelock%20Smart%20Contract.%20Audit.pdf
-https://raw.githubusercontent.com/abdk-consulting/audits/main/tornado/TornadoCash_anonymity_mining_first_audit_ABDK.pdf
-https://raw.githubusercontent.com/abdk-consulting/audits/main/tornado/Tornado_circuit_audit.pdf
-https://raw.githubusercontent.com/abdk-consulting/audits/main/tornado/Tornado_cryptographic_review.pdf
-https://raw.githubusercontent.com/abdk-consulting/audits/main/tornado/Tornado_solidity_audit.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/traderjoe/ABDK_TraderJoe_TraderJoe_v_2_0.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/transcodium/Transcodium%20Smart%20Contract.%20Review.pdf
 https://raw.githubusercontent.com/abdk-consulting/audits/main/truefi/ABDK_TrueFi_V2_v_1_0.pdf
