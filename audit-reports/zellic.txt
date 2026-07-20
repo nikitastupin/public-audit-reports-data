@@ -113,6 +113,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Euler%20Fee%20Flow%
 https://raw.githubusercontent.com/Zellic/publications/master/ExampleString%20Passing%20Solana%20OApp%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Extended%20ERC20%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/FAsset%20Redeem%20Composer%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/FSP%20V1%20and%20V2%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Facet%20Bridge%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Facet%20Geth%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Facet%20Migrations%20-%20Zellic%20Audit%20Report.pdf
@@ -124,7 +125,9 @@ https://raw.githubusercontent.com/Zellic/publications/master/Family%20Wallet%20-
 https://raw.githubusercontent.com/Zellic/publications/master/Filecoin%20Services%20Payments%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Flare%20FAsset%20Diffs%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Flare%20FAsset%20Review%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Flare%20FAsset%20and%20Smart%20Account%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Flare%20FAssets%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Flare%20FAssets%20V1.3%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Flare%20Smart%20Accounts%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Flare%20Smart%20Accounts%20Diff%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Fractal%20Protocol%20-%20Zellic%20Audit%20Report.pdf
@@ -324,6 +327,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Stable%20Predeposit
 https://raw.githubusercontent.com/Zellic/publications/master/StakeKit%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/StakeKit%20FeeWrapper%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Steer%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Stork%20Oracle%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Sturdy%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Succinct%20SP1%20-%20Zellic%20Design%20Review.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Succinct%20Telepathy%20-%20Zellic%20Audit%20Report.pdf

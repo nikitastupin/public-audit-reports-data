@@ -32,6 +32,8 @@ https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/
 https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2025-05-27_Dual_Governance_Script_Review_2025.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2025-08-19_Lido_Dual_Governance_Upgrade_deployment.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2025-09-19_Lido_TW_and_CSM_V2_final_report_upd.pdf
+https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2026-06-30_Statemind_Lido_CSM_V3_and_CM_V2_final_report.pdf
+https://raw.githubusercontent.com/statemindio/public-audits/main/Lido%20Finance/2026-07-01_Statemind_Lido_Staking_Router_V3_final_report.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Mellow/2024-05-27_Mellow_LRT.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Mellow/2024-05-30_Mellow_LRT_Obol.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Mellow/2024-09-20_Mellow_Simple_LRT_Final_report.pdf
@@ -42,6 +44,8 @@ https://raw.githubusercontent.com/statemindio/public-audits/main/Symbiotic/2024-
 https://raw.githubusercontent.com/statemindio/public-audits/main/Symbiotic/2024-12-20_Symbiotic_Core_final_report.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Symbiotic/2024-12-27_Symbiotic_Hooks_Final_report.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Symbiotic/2025-05-30_Symbiotic_RelayContracts_AI_report.pdf
+https://raw.githubusercontent.com/statemindio/public-audits/main/Symbiotic/2026-06-26_Statemind_Symbiotic_Core_V2_final_report.pdf
+https://raw.githubusercontent.com/statemindio/public-audits/main/Symbiotic/2026-07-09_Statemind_Symbiotic_Core_V2_ThreeF_adapter_report.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Valantis%20Labs/2024-03-19_Valantis_Core.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Valantis%20Labs/2024-04-23_Valantis_HOT.pdf
 https://raw.githubusercontent.com/statemindio/public-audits/main/Vyper/2024-03-08_Vyper_Storage_layout.pdf

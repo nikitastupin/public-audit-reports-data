@@ -131,8 +131,14 @@ https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-03-RISEx-R
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-03-cow-euler-integration.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-04-Den-MLS-Wallet-report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-04-Liquity-V2-Lender-Borrower-Strategy-report.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-04-Sickle-Bridge-Strategies-report.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-05-3Jane-PYTLocker-report.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-05-3Jane-USD3-sUSD3-Update-report.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-05-Sickle-Bridge-Strategies-Update-2-report.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-05-Sickle-Bridge-Strategies-Update-report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-05-Yearn-stYFI---YBC-report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-05-stYFI-Teams-PR-report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-06-AllowlistedSwapAdapter-Review-report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-06-Convex-Onchain-Voting-report.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-06-Paxos-Labs-Transit-Station-report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-06-Twyne-1.0.6-Update-report.pdf
