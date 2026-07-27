@@ -82,9 +82,11 @@ https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/ma
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/glif-audit-july-2024(Public).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/glif-plus-aug-25(Final).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/glif-plus-nov-25(Final).pdf
+https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/hexens-auto-finance-tokemak-jun-26(Final).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/hexens-crosscurve-mar-26(Final).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/hexens-cybro-mar-26(Final).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/hexens-elfomofi-apr-26(Final).pdf
+https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/hexens-iris-jul-26(Final).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/hexens-katana-jan-26(Final).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/hexens-layercover-may-26(Final).pdf
 https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/main/hexens-layerswap-mar-26(Final).pdf

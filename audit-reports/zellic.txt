@@ -377,6 +377,9 @@ https://raw.githubusercontent.com/Zellic/publications/master/YPIR%20-%20Zellic%2
 https://raw.githubusercontent.com/Zellic/publications/master/Yeet%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Yeet%20October%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Yei%20Finance%20Oracle%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Zcash%20Ironwood%20Upgrade%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Zcash%20Zakura%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Zcash%20librustzcash%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/ZetaChain%20-%2011.14.23%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/ZetaChain%20-%206.30.23%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/ZetaChain%20-%207.12.23%20Zellic%20Audit%20Report.pdf
@@ -389,3 +392,4 @@ https://raw.githubusercontent.com/Zellic/publications/master/iUSD%20Vault%20-%20
 https://raw.githubusercontent.com/Zellic/publications/master/uutils%20coreutils%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/warpdotgreen-cli%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/yoSOL%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/zecd%20-%20Zellic%20Audit%20Report.pdf

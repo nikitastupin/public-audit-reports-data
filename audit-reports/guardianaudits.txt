@@ -75,10 +75,13 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/Jupiter/Jupiter_Jup
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Jupiter/Jupiter_JupUSD_Updates_Report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/K33Loans/2025-02-24_K33_Loans.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/KeyFinance/Key_Finance_Audit.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/LayerZero/LayerZero-Solana-Console-Guardian-Report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/LayerZero/LayerZero_Console_Report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/LayerZero/OneSig_Stellar_Review_Report.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/LayerZero/Solana-OApp-Guardian-Report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/M0/2025-08-05_M0_M-Extensions.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/M0/2025-08-15_M0_M-Extensions.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/M0/M0_Liquidity_Delivery_Review_report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/M0/M0_M0_M-Portal-Lite_report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/M0/M0_M0_mUSD_report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/M0/M0_PYUSDX_Review_Report.pdf
