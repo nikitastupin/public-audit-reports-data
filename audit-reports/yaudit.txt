@@ -142,3 +142,4 @@ https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-06-Allowli
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-06-Convex-Onchain-Voting-report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-06-Paxos-Labs-Transit-Station-report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-06-Twyne-1.0.6-Update-report.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-07-Promis-Smart-Contracts-report.pdf
