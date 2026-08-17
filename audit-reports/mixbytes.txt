@@ -90,6 +90,8 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protoc
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protocol/Gearbox%20Protocol%20v.3.1%20Bots%20&%20Integrations/GearBox%20Protocol%20v.3.1%20Bots%20&%20Integrations%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protocol/Gearbox%20Upshift%20Integration/Gearbox%20Upshift%20Integration%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protocol/Gearbox%20core%20v3%20Account%20Factory%20Diff/Gearbox%20core-v3%20Account%20Factory%20Diff%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protocol/Integrations-v3%20(Midas%20RWA)/Gearbox%20Protocol%20integrations-v3%20(Midas%20RWA)%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protocol/Integrations-v3%20(Securitize%20RWA)/Gearbox%20Protocol%20integrations-v3%20(Securitize%20RWA)%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protocol/Kodiak%20&%20Mellow%20Adapters/Gearbox%20Kodiak%20&%20Mellow%20Adapters%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protocol/Mellow%20Adapters/Gearbox%20Protocol%20Mellow%20Adapters%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Hanji/Liquidity%20Vault/Hanji%20Liquidity%20Vault%20Security%20Audit%20Report.pdf
