@@ -68,6 +68,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Bond%20Protocol%20-
 https://raw.githubusercontent.com/Zellic/publications/master/Bracket%20Fi%20Escrow%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/BrahmaFi%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Brevis%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Bulk%20Trade%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Carina%20Smart%20Contracts%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Cega%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Cega%20Vault%20Smart%20Contract%20Patch%20Review.pdf
@@ -259,6 +260,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/PancakeSwap%20Aptos
 https://raw.githubusercontent.com/Zellic/publications/master/Penumbra%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Perennial%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Pinocchio%20and%20p-token%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Plasma%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Plaza%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Plaza%20Core%20Protocol%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Polygon%20Staking%20-%20Zellic%20Audit%20Report.pdf
@@ -277,6 +279,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Pyth%20Lazer%20EVM%
 https://raw.githubusercontent.com/Zellic/publications/master/Pyth%20Lazer%20Solana%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Pyth%20Network%20CosmWasm%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Pyth%20Oracle%20Client%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Pyth%20Pro%20Stellar%20Contracts%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Pyth2Wormhole%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/RFQ%20Protocol%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/RabbitX%20-%20Zellic%20Audit%20Report.pdf

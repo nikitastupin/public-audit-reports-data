@@ -80,7 +80,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_ref_token-locker-v2.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_refve_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_rhea_finance_agg_oracle_signed_20260710.pdf
-https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_rhea_finance_agg_oracle_signed_20260813.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_rhea_finance_agg_oracle_signed_20260818.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_rhea_finance_rhea_lsd_signed_20260324.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_rhea_finance_xrhea_token_signed_20260731.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_rhea_multichain-account_v1.0-signed.pdf
@@ -131,6 +131,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/block
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_dcs_protocol_merchant_factory_contracts_signed_20260728.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_deagentai_multisig_timelock_contracts_signed_20260811.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_delorean_v1.0-signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_dgridai_dgaistaking_signed_20260625.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_dstock_core_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_dstock_oft_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_duboisgold_kbar_signed_20260408.pdf
