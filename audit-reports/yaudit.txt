@@ -137,6 +137,7 @@ https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-05-Sickle-
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-05-Yearn-stYFI-YBC-report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-05-stYFI-Teams-PR-report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-06-AllowlistedSwapAdapter-Review-report.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-06-Centrifuge-v3.3-report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-06-Convex-Onchain-Voting-report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-06-Paxos-Labs-Transit-Station-report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-06-Twyne-1.0.6-Update-report.pdf

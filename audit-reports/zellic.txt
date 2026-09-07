@@ -102,6 +102,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/DexFi%20-%20Zellic%
 https://raw.githubusercontent.com/Zellic/publications/master/DexFi%20Factory%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/DojoSwap%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Drift%20Protocol%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/EVM%20DepositWithdraw%20Bridge%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Echelon%20-%20Zellic%20Audit%20Report%20(January).pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Echelon%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Econia%20-%20Zellic%20Audit%20Report.pdf
@@ -358,6 +359,8 @@ https://raw.githubusercontent.com/Zellic/publications/master/Trillion%20EVM%20cr
 https://raw.githubusercontent.com/Zellic/publications/master/Tristero%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/TruFin%20Injective%20Staker%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/TrustToken%20Contracts-Tequila%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Tydro%20Multiply%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Tydro%20PayloadEconomic%20Review%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/VM%20Rewrite%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Valorem%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Valorem%20Options%20-%20Zellic%20Audit%20Report.pdf

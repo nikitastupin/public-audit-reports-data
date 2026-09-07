@@ -39,6 +39,7 @@ https://raw.githubusercontent.com/sigp/public-audits/master/reports/derive/revie
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/derive/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/derive/v2-matching/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/dimo/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/dohrnii/Sigma_Prime_Dohrnii_Token_Project_Security_Assessment_Report_v2.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/dxdao/carrot-kpi/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/dxdao/erc20-guild/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/eigenlayer/Sigma_Prime_EigenLabs_EigenLayer_EIGEN_Rewards_Security_Assessment_Report_v2.0.pdf
@@ -136,6 +137,7 @@ https://raw.githubusercontent.com/sigp/public-audits/master/reports/synthetix/et
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/synthetix/multicurrency/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/synthetix/unipool/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/taiko/review.pdf
+https://raw.githubusercontent.com/sigp/public-audits/master/reports/term-finance/term-v2/Sigma_Prime_Term_Finance_Updates_Security_Assessment_Report_v2_0.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/term-finance/term-v2/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/term-finance/term1/review.pdf
 https://raw.githubusercontent.com/sigp/public-audits/master/reports/term-finance/term2/review.pdf

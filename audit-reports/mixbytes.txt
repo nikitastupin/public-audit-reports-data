@@ -122,6 +122,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Deposit%20S
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Easy%20Track%20(2)/Lido%20EasyTrack%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Easy%20Track%20(3)/Lido%20Easy%20Track%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Easy%20Track%20Factories%20(SRv3:CMv2)/Lido%20Easy%20Track%20Factories%20SRv3%20CSMv3%20CMv2%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Easy%20Track%20factory%20for%20Deposit%20Reserve%20Target/Lido%20Easy%20Track%20factory%20for%20Deposit%20Reserve%20Target%20management%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Easy%20Track/Lido%20Easy%20Track%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/EasyTrack%20stVaults%20v3.0.2%20/Lido%20EasyTrack%20stVaults%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/EasyTrack%20stVaults/Lido%20EasyTrack%20stVaults%20Security%20Audit%20Report.pdf
@@ -137,6 +138,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Lido%20Prot
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Lido%20v3.0.2/Lido%20v3%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Lido%20v3/Lido%20v3%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Mellow%20SyncRedeemQueue/Mellow%20Finance%20SyncRedeemQueue%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Oracle%20v8.0.6/Lido%20Oracle%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/Oracle/Lido%20Oracle%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/SRv3%20CMv2%20Voting%20script/Lido%20SRv3%20CMv2%20Voting%20script%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Lido/SanityChecker/Lido%20Sanity%20Checker%20Security%20Audit%20Report.pdf
