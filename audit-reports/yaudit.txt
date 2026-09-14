@@ -143,4 +143,5 @@ https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-06-Paxos-L
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-06-Twyne-1.0.6-Update-report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-07-LYNX-Token-Contracts-report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-07-Promis-Smart-Contracts-report.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-08-Twyne-Morpho-Vault.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-08-stYFI-Governance.pdf

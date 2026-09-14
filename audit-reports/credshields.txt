@@ -29,6 +29,7 @@ https://raw.githubusercontent.com/Credshields/audit-reports/master/Audit_Report_
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Audit_Report_Bitcoin%20Limited%20Edition.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Audit_Report_CarbonFi_Labs.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Audit_Report_Cluster%20Protocol.pdf
+https://raw.githubusercontent.com/Credshields/audit-reports/master/Audit_Report_Dust.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Audit_Report_Gruntle%20Token.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Audit_Report_Hearth.pdf
 https://raw.githubusercontent.com/Credshields/audit-reports/master/Audit_Report_HeyElsa_Staking_v2.pdf

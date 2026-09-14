@@ -203,11 +203,13 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/block
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_pause_guardian_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_penpie_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_permaswap_v1.0_signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_pharos_labs_prosper_contracts_signed_20260908.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_polynetwork_v2.0.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_popcorn_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_popdex_dex_topup_signed_20260824.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_puffer_pufETH_v1.1-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_puffer_puffer_institutional_signed_20260806.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_puffer_puffer_protocol_v2_signed_20260909.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_puffer_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_pumpbtc_v1.1-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_r25_asyncvault_contracts_signed_20260428.pdf
