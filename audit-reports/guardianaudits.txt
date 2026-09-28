@@ -62,6 +62,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/Ethereal/2025-02-10
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Ethereal/2025-05-20_Ethereal_OrderbookDex.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Ethereal/2025-07-07_Ethereal_Round_2.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Ethereal/2025-10-23_Ethereal_Contract_Updates.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Ethos%20Network/2026-09-25_Ethos_Network_WHUF_Transfer_Lock.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Ethos/Ethos-Network-Guardian-Report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/FastLane%20Labs/FastLane%20Report%20with%20Comments.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Foil/2024-10-28_Foil.pdf

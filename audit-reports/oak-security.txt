@@ -66,6 +66,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/ChronoLibrary/
 https://raw.githubusercontent.com/oak-security/audit-reports/main/CoinList/2026-01-16%20Audit%20Report%20-%20CoinList%20Token%20Sale%20Fund%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/CoinList/2026-02-27%20Audit%20Report%20-%20CoinList%20Token%20Sale%20Fund%20Updates%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/CoinList/2026-07-01%20Audit%20Report%20-%20CoinList%20TokenSwap%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/CoinList/2026-09-21%20Audit%20Report%20-%20CoinList%20Pull%2012%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Coinhall/2023-09-26%20Audit%20Report%20-%20Coinhall%20Genie%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Comdex/2022-10-28%20Audit%20Report%20-%20Comdex%20Locking%20and%20Vesting%20Contracts%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Comdex/2022-11-23%20Audit%20Report%20-%20Comdex%20Lend%20and%20Liquidation%20Modules%20v1.0.pdf
@@ -224,6 +225,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Prism/2022-11-
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Public%20Awesome/2023-01-27%20Audit%20Report%20-%20ICS721%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Push/2024-11-29%20Audit%20Report%20-%20Push%20Protocol%20-%20Comm%20Cairo.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Push/2024-12-06%20Audit%20Report%20-%20Push%20Protocol%20-%20Comm%20Rust.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Quip/2026-09-24%20Audit%20Report%20-%20Quip%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Random%20Earth/2021-12-10%20Audit%20Report%20-%20Random%20Earth%20v1.1.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Reserve/2026-03-12%20Audit%20Report%20-%20Reserve%20Updates.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Risk%20Harbor/2022-03-22%20Audit%20Report%20-%20Risk%20Harbor%20v1.0.pdf
@@ -292,6 +294,7 @@ https://raw.githubusercontent.com/oak-security/audit-reports/main/Unipay/2025-04
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Valdora/2025-09-28%20Audit%20Report%20-%20Valdora.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Valdora/2026-04-17%20Audit%20Report%20-%20Valdora%20Vault%20Contract.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Valdora/2026-07-27%20Audit%20Report%20-%20Valdora%20Eth%20Vault%20v1.0.pdf
+https://raw.githubusercontent.com/oak-security/audit-reports/main/Valdora/2026-09-21%20Audit%20Report%20-%20Valdora%2018%20Decimals%20Update%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Vectis/2024-03-14%20Audit%20Report%20-%20Vectis%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Volta/2024-09-18%20Audit%20Report%20-%20Volta%20CosmWasm%20v1.0.pdf
 https://raw.githubusercontent.com/oak-security/audit-reports/main/Volta/2025-11-19%20Audit%20Report%20-%20Volta%20Soroban.pdf
