@@ -113,6 +113,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/GMX/2025-12-22_GMX_
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/GMX/2025-12-29_GMX_LayerZeroProvider_Routing.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/GMX/2025-12-29_GMX_OpenInterest_Updates.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/GMX/2026-04-14_GMX_Timelock_Updates.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/GMX/2026-10-01_GMX_Donation_Contracts.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/GammaStrategies/2024-09-23_Gamma_GMX_Vault.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/GammaStrategies/2025-04-14_Gamma_UniswapV4_LimitOrders.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/GammaStrategies/2025-05-16_Gamma_PerpetualVault_mitigation_review.pdf
@@ -171,7 +172,6 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/Magna/2026-04-22_Ma
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Magna/Magna_Magna_Staking_report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/MagnifyCash/2024-03-14_MagnifyCash.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Manifest/Manifest_Protocol_Review_report.pdf
-https://raw.githubusercontent.com/GuardianAudits/Audits/main/MegaETH/2026-07-13_MegaETH_EVM_Audit.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Mysten%20Labs/2025-12-29_MystenLabs_suiUSDe_Review.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/NFTR/NFTR_Audit.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/NFTR/NFTR_Market_Audit.pdf
@@ -273,6 +273,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/YugaLabs/2026-02-03
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Zap/2024-09-30_Zap_Token.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Zap/2024-10-17_Zap_node_sale.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/eGMX/2025-01-22_eGMX.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/iris.credit/2026-09-23_iris.credit_Iris_Protocol.pdf
 https://raw.githubusercontent.com/GuardianAudits/DefenderAudits/main/raisin/Raisin_Audit_Team1.pdf
 https://raw.githubusercontent.com/GuardianAudits/DefenderAudits/main/raisin/Raisin_Audit_Team2.pdf
 https://raw.githubusercontent.com/GuardianAudits/DefenderAudits/main/raisin/Raisin_Audit_Team3.pdf

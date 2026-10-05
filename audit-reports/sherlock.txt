@@ -258,5 +258,7 @@ https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2026.06.16%20-%20Final%20-%20ODEI%20Collaborative%20Audit%20Report%201781625249.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2026.07.01%20-%20Final%20-%20Delpho%20Collaborative%20Audit%20Report%201782919020.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2026.07.21%20-%20Final%20-%20Noon%20Capital%20Collaborative%20Audit%20Report%201784634533.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2026.09.08%20-%20Final%20-%20Mezzanine%20Collaborative%20Audit%20Report%201788868057.pdf
+https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/2026.09.08%20-%20Final%20-%20Mezzanine%20Collaborative%20Audit%20Report%201788868086.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/Cascade%20-%20Final%20Blackthorn%20Report.pdf
 https://raw.githubusercontent.com/sherlock-protocol/sherlock-reports/main/audits/Final%20Report%20-%20Nuva%20Labs.pdf
