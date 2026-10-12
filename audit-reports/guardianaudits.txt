@@ -113,6 +113,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/GMX/2025-12-22_GMX_
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/GMX/2025-12-29_GMX_LayerZeroProvider_Routing.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/GMX/2025-12-29_GMX_OpenInterest_Updates.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/GMX/2026-04-14_GMX_Timelock_Updates.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/GMX/2026-09-28_GMX_Incentives_Contracts.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/GMX/2026-10-01_GMX_Donation_Contracts.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/GammaStrategies/2024-09-23_Gamma_GMX_Vault.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/GammaStrategies/2025-04-14_Gamma_UniswapV4_LimitOrders.pdf
@@ -148,6 +149,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/LayerZero/OneSig_St
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/LayerZero/Solana-OApp-Guardian-Report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/LimitBreak/2025-11-19_LimitBreak_AMM_Review.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/LimitBreak/2026-05-01_LimitBreak_Round_Two.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Loan%20Meme/2026-09-30_Loan_Meme_Loan_Protocol_Vault.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Longshot/2026-07-03_Longshot_Protocol_Audit.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/M0/2025-08-05_M0_M-Extensions.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/M0/2025-08-15_M0_M-Extensions.pdf

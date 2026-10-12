@@ -9,7 +9,9 @@ https://raw.githubusercontent.com/Zellic/publications/master/All%20in%20Bits%20-
 https://raw.githubusercontent.com/Zellic/publications/master/Ante%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Anza%20BPF%20Stake%20Program%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Anza%20P%20Token%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Anza%20Program%20Metadata%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Anza%20Solana%20BPF%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Anza%20Token%202022%20Changes%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Anza%20Token%20Wrap%20-Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Anza%20Token2022%20PR%20Review%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Anzen%20Finance%20-%20Zellic%20Audit%20Report.pdf
@@ -130,8 +132,11 @@ https://raw.githubusercontent.com/Zellic/publications/master/Flare%20FAsset%20Re
 https://raw.githubusercontent.com/Zellic/publications/master/Flare%20FAsset%20and%20Smart%20Account%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Flare%20FAssets%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Flare%20FAssets%20V1.3%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Flare%20FSP%20Diff%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Flare%20Relay%20Network%20Diff%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Flare%20Smart%20Accounts%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Flare%20Smart%20Accounts%20Diff%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Flare%20Solana%20OFT%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Fractal%20Protocol%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Fractal%20Protocol%20v2-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Frax%20(USD%20Stablecoin)%20-%20Zellic%20Audit%20Report.pdf
@@ -163,6 +168,8 @@ https://raw.githubusercontent.com/Zellic/publications/master/Hyperlane%20Starkne
 https://raw.githubusercontent.com/Zellic/publications/master/Hyperliquid%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Hyperliquid%20November%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/IBC%20Eureka%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/IBC%20Solidity%20Contracts%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/IBC-Go%20GMP%20Module%20and%20Attestations%20Light%20Client%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/InfiniCard%20Vault%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Initia%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Ionic%20Protocol%20-%20Zellic%20Audit%20Report.pdf
@@ -352,6 +359,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Symbiotic%20-%20Zel
 https://raw.githubusercontent.com/Zellic/publications/master/SyncSwap%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/THORChain%20Bifrost%20UTXO%20Client%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Takara%20Lend%20Contracts%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Tenbin%20Labs%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/ThUSD%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Thala%20Labs%20Move%20Dollar%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Tortuga%20Liquid%20Staking%20-%20Zellic%20Audit%20Report.pdf

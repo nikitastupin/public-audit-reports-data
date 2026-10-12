@@ -102,6 +102,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/block
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_atoshi_atoshi_privacy_contracts_signed_20260731.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_ax_coin_bahrain_b_s_c_c_axcoin_evm_contracts_signed_20260727.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_baelor_agent_router_signed_20260527.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_bigshort_launchpad_contracts_signed_20261008.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_bitget_bgw7702_signed_20260403.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_bitget_bgw_new_staking_evm_signed_20250925.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_bitget_dispatcher_contracts_signed_20260717.pdf
@@ -110,6 +111,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/block
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_bitget_rwa_evm_contracts_signed_20260415.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_bitget_rwa_evm_signed_20260731.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_bitget_rwadividenddistributor_contract_signed_20260508.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_bitget_rwatoken_contracts_signed_20261009.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_bitget_share_card_contracts_signed_20260710.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_bitget_swap_aggregator_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_bitgetwallet_bgw_swap_aggregator_evm_signed_20260518.pdf
