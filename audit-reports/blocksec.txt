@@ -54,6 +54,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_octopus_network_restaking_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_oinfinance_v1.0.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_okx_smart-wallet-recovery-solana_v1.0-signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_oraichain_chain_upgrades_signed_20261016.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_pacifica_bridge_contract_signed_20260401.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_pacifica_fi_perp_contracts_signed_20250424.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_paras-token_v1.0_signed.pdf
@@ -81,6 +82,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_refve_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_rhea_finance_agg_oracle_signed_20260710.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_rhea_finance_agg_oracle_signed_20260818.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_rhea_finance_ref_dcl_signed_20261021.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_rhea_finance_rhea_lsd_signed_20260324.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_rhea_finance_xrhea_token_signed_20260731.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_rhea_multichain-account_v1.0-signed.pdf
@@ -102,6 +104,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/block
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_atoshi_atoshi_privacy_contracts_signed_20260731.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_ax_coin_bahrain_b_s_c_c_axcoin_evm_contracts_signed_20260727.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_baelor_agent_router_signed_20260527.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_bigshort_hook_contracts_signed_20261023.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_bigshort_launchpad_contracts_signed_20261008.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_bitget_bgw7702_signed_20260403.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_bitget_bgw_new_staking_evm_signed_20250925.pdf
