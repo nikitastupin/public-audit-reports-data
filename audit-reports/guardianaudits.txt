@@ -65,6 +65,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/Cyfrin/Guardian%20-
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/DN404/2024-05-13_DN404.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Degen%20Safe/Degen_Safe_Contract_Updates_Report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Degen%20Safe/Degensafe_Protocol_Review_report.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/DollarStore/2026-10-27_DollarStore_Review.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Dolomite/2024-01-11_Dolomite.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Ethena/2025-05-26_Ethena_TimelockController.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Ethena/2025-12-02_Ethena_Onchain_Minter_report.pdf
@@ -263,6 +264,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/Synthetix/2025-10-2
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Synthetix/2025-10-28_Synthetix_Migration.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Synthetix/2025-12-01_Synthetix_Update_PR_Reviews.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Synthetix/2025-12-15_Synthetix_Withdrawal_Flow.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Templar/2026-10-21_Templar_Blend_Contracts_V2.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Tenor/2026-05-29_Tenor_Morpho_Integration_Review.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Tenor/Tenor%20-%20Lending%20Protocol_report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Trueo/Trueo_Final_Report_Updated.pdf
@@ -299,6 +301,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/USDT0/2026-05-04_US
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/USDT0/2026-05-12_USDT0_Canary_Chain_Configs_Tx_Verifications.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/USDT0/2026-05-27_USDT0_Corn_Network_Delisting_Txns.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/USDT0/2026-08-10_USDT0_Stellar_Deployment_Review.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/USDT0/2026-08-11_USDT0_Stellar_Contracts.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/USDT0/2026-08-31_USDT0_USAT_Reconfiguration.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/USDT0/USDT0_OFT.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/USDT0/USDT0_XAUT0_SOL_Deployment_and_Peer_Verification_report.pdf
@@ -314,6 +317,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/Valantis/Valantis_O
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Valantis/Valantis_Staking_Modules_report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Vanir/2025-02-27_Vanir_Review.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/VectorSkyTree/2026-04-09_VectorSkyTree_Escrow_Review.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/Veranta/2026-10-26_Veranta_V2_Review.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Yellow%20Network/Nitewatch_Report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Yellow%20Network/Yellow%20Report.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Yellow%20Network/Yellow_Token.Sol_Review_report.pdf
@@ -325,6 +329,7 @@ https://raw.githubusercontent.com/GuardianAudits/Audits/main/Zap/2024-10-17_Zap_
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/Zap/2024-12-09_Zap_Seasons.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/eGMX/2025-01-22_eGMX.pdf
 https://raw.githubusercontent.com/GuardianAudits/Audits/main/iris.credit/2026-09-23_iris.credit_Iris_Protocol.pdf
+https://raw.githubusercontent.com/GuardianAudits/Audits/main/raac.io/2026-10-28_raac.io_RAAC_Core_Contracts.pdf
 https://raw.githubusercontent.com/GuardianAudits/DefenderAudits/main/raisin/Raisin_Audit_Team1.pdf
 https://raw.githubusercontent.com/GuardianAudits/DefenderAudits/main/raisin/Raisin_Audit_Team2.pdf
 https://raw.githubusercontent.com/GuardianAudits/DefenderAudits/main/raisin/Raisin_Audit_Team3.pdf

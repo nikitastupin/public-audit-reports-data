@@ -42,6 +42,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_easycoin_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_halotrade_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_linear_v1.0_signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_mantle_reth_signed_20261008.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_mantle_ur_topup_contract_solana_signed_20260409.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_memefarming_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_metapool_v1.1_signed.pdf
@@ -82,7 +83,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_refve_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_rhea_finance_agg_oracle_signed_20260710.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_rhea_finance_agg_oracle_signed_20260818.pdf
-https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_rhea_finance_ref_dcl_signed_20261021.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_rhea_finance_ref_dcl_signed_20261026.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_rhea_finance_rhea_lsd_signed_20260324.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_rhea_finance_xrhea_token_signed_20260731.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/rust/blocksec_rhea_multichain-account_v1.0-signed.pdf
@@ -185,6 +186,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/block
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_mantle_fiat24_contracts_signed_20260608.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_mantle_fiat24_contracts_signed_20260716.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_mantle_fiat24_v1.0-signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_mantle_mantle_v2_signed_20261026.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_mantle_mstocks_protocol_signed_20260720.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_megaeth_normal_account_contracts_signed_20260610.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_megaeth_staking_contracts_signed_20260407.pdf
