@@ -148,5 +148,7 @@ https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-07-Promis-
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-08-Sickle-Automation-report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-08-Twyne-Morpho-Vault.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-08-stYFI-Governance.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-09-Tenka-Smart-Contract-Security-Audit-report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-09-blueberry-curvance-lender.pdf
+https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-10-LYNX-LP-Range-Manager-report.pdf
 https://raw.githubusercontent.com/yAudit/reports/main/public/pdf/2026-10-UFG-Factory-and-Treasuries-report.pdf

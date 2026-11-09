@@ -118,6 +118,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/block
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_bitget_rwatoken_contracts_signed_20261009.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_bitget_share_card_contracts_signed_20260710.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_bitget_swap_aggregator_v1.0-signed.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_bitgetwallet_bgw7702_signed_20261030.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_bitgetwallet_bgw_swap_aggregator_evm_signed_20260518.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_bitgetwallet_deficard_contracts_signed_20260603.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_bitgetwallet_reward_distribute_platform_signed_20260720.pdf
@@ -158,6 +159,7 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/block
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_hertzflow_perp_contracts_signed_20260518.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_hertzflow_perp_contracts_signed_20260715.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_impossible_finance_swap_v1.2.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_inverter_network_composer_contracts_signed_20261103.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_inverter_network_emusd_contracts_signed_20260805.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_inverter_network_router_contracts_signed_20260721.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_inverter_network_wcmadapter_contract_signed_20260703.pdf
