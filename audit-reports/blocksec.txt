@@ -205,6 +205,8 @@ https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/block
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_okx_smart_wallet_recovery_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_okx_smart_wallet_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_olaxbt_agent_contract_signed_20260807.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_oripa_oripa_contract_signed_20261113.pdf
+https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_p2p_infra_keeper_contract_signed_20260211.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_pancake_aggregator_v1.0-signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_pancake_v1.0_signed.pdf
 https://raw.githubusercontent.com/blocksecteam/audit-reports/main/solidity/blocksec_pancake_vecake_v1.0-signed.pdf
