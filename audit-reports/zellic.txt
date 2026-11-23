@@ -125,6 +125,7 @@ https://raw.githubusercontent.com/Zellic/publications/master/Facet%20Node%20-%20
 https://raw.githubusercontent.com/Zellic/publications/master/Fairyring%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Falcon%20Finance%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Falcon%20Finance%20FF%20-%20Zellic%20Audit%20Report.pdf
+https://raw.githubusercontent.com/Zellic/publications/master/Falcon%20Staking%20Rewards%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Family%20Wallet%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Filecoin%20Services%20Payments%20-%20Zellic%20Audit%20Report.pdf
 https://raw.githubusercontent.com/Zellic/publications/master/Flare%20FAsset%20Diffs%20-%20Zellic%20Audit%20Report.pdf

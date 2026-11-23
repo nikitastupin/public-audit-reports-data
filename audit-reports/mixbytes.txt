@@ -96,6 +96,7 @@ https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protoc
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protocol/Integrations-v3%20(Securitize%20RWA)/Gearbox%20Protocol%20integrations-v3%20(Securitize%20RWA)%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protocol/Kodiak%20&%20Mellow%20Adapters/Gearbox%20Kodiak%20&%20Mellow%20Adapters%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protocol/Mellow%20Adapters/Gearbox%20Protocol%20Mellow%20Adapters%20Security%20Audit%20Report.pdf
+https://raw.githubusercontent.com/mixbytes/audits_public/master/Gearbox%20Protocol/Price%20Feeds%20and%20Signature%20Degen%20NFT/Gearbox%20Price%20Feeds%20and%20Signature%20Degen%20NFT.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Hanji/Liquidity%20Vault/Hanji%20Liquidity%20Vault%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Hanji/OnchainCLOB/Hanji%20Protocol%20Security%20Audit%20Report.pdf
 https://raw.githubusercontent.com/mixbytes/audits_public/master/Instadapp/Fluid%20DEX/Instadapp%20Fluid%20DEX%20Security%20Audit%20Report.pdf
